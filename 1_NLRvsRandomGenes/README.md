@@ -1,13 +1,5 @@
 # NLRvsRandomGenes - A pipeline to compare NLRs from randomly selected genes in the *Podospora anserina* species complex
 
-**Last update: 2025-09-23**
-
-TODO:
-
-- Add the alignment files
-- Clean the config file
-- Remove the local paths in the Rscripts
-
 I manually produced alignments of a set of NLRs in *P. anserina* and related species, as well as randomly selected genes. In this pipeline I try to get some numbers to compare their dynamics, under the expectation that NLRs evolve faster and under a birth-death dynamic.
 
 The pipeline is not computationally demanding, so I ran it locally on a MacOS.
