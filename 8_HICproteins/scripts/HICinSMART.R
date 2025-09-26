@@ -68,8 +68,18 @@ treks <- treks %>%
 treks <- treks %>%
   mutate(ATPase_class = ifelse(ATPase == "None", "None", "With ATPase"))
 
-# Exclude proteins with an extra repeat domain, since those might be false positives for their respective main repeats
-treks <- treks %>% filter(ExtraRepeats == "None")
+# Exclude proteins with an extra repeat domain, since those might be false
+# positives for their respective main repeats Some proteins have repeated
+# entries but the second repeat was not properly annotated, so it looks as if
+# it had a single repeat type.
+noextras <- treks %>% filter(ExtraRepeats == "None") %>% .$SeqID %>% unique()
+extras <- treks %>% filter(ExtraRepeats != "None") %>% .$SeqID %>% unique() 
+trickyones <- intersect(noextras,extras)
+
+length(extras) + length(trickyones) # 815
+length(unique(treks$SeqID)) # 160477
+
+treks <- treks %>% filter(!SeqID %in% c(extras, trickyones))
 
 # ============================
 # ---- How many HIC proteins are there per taxonomic group? ----
@@ -240,8 +250,8 @@ HICprots <- ggplot(hic_atpase_summary %>% filter(ATPase != "None"),
                                 nrow=2, 
                                 rel_heights = c(1,2),
                                 labels=c('a', 'b'), 
-                                align = "v", 
-                                axis = "r") )
+                                align = "hv", 
+                                axis = "lr") )
 
 ggsave(plot = allvshic, 
        filename = snakemake@output$allvshic,
