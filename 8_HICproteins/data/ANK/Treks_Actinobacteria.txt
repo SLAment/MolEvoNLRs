@@ -1,0 +1,2170 @@
+>uniprot|Q6AFL2|Y958_LEIXX Putative ankyrin-containing lipoprotein Lxx09580 [Leifsonia xyli subsp. xyli str. CTCB07]
+Length: 5 residues - nb: 4  from  30 to 50 - Psim:0.6666666666666666 region Length:21 
+TPVRSA
+TPSAAA
+TP--TA
+TPV-VP
+**********************
+
+Length: 6 residues - nb: 3  from  30 to 47 - Psim:0.6666666666666666 region Length:18 
+TPVRSA
+TPSAAA
+TPTATP
+**********************
+
+Length: 7 residues - nb: 3  from  30 to 48 - Psim:0.6666666666666666 region Length:19 
+TPVRS-A
+TPSAA-A
+TPTATPV
+**********************
+
+Length: 7 residues - nb: 2  from  95 to 109 - Psim:0.75 region Length:15 
+VEAAKGNH
+VEAARAL-
+**********************
+
+>uniprot|S5DVL1|S5DVL1_9ACTN MedDCM-OCT-S30-C42-cds12 [Candidatus Actinomarina minuta]
+Length: 9 residues - nb: 2  from  94 to 111 - Psim:0.7222222222222222 region Length:18 
+LVNAGADLN
+LVNADNFTP
+**********************
+
+>uniprot|A0A1H6F2P1|A0A1H6F2P1_9ACTN Ankyrin repeat-containing protein [Nonomuraea solani]
+Length: 7 residues - nb: 2  from  314 to 328 - Psim:0.75 region Length:15 
+DADGGLRP
+DA-ARARP
+**********************
+
+>uniprot|A0A2E4C8Z2|A0A2E4C8Z2_9ACTN Uncharacterized protein (Fragment) [Acidimicrobiaceae bacterium]
+Length: 29 residues - nb: 7  from  21 to 245 - Psim:0.6944444444444444 region Length:225 
+LIEAGADIDEAGPE-EDGFTALMLSCQEGHEQCARV
+LIEAGAAVDHA-LD-D-GRTALMAACNFGHEQCARA
+LIEAKAVLDTQ-NN-G-GVTALMLACNNNHEQCARA
+LIKAGAAVDY--VD-PKGWTALMTACQGGHEQCARA
+LIEAGSAVDMQ-TN-K-GFTSLMYSCQNGHELCARA
+LIEAGADVNKE-GP-R-GFSYLTVACQKGHEHCARA
+LIEAKADL-HT-LNNE-GVSALLMAC----EN----
+**********************
+
+Length: 29 residues - nb: 5  from  62 to 218 - Psim:0.6894736842105263 region Length:157 
+-AV-DHALD-D-G-RTALMAACNFGHEQCARALIEA-K
+-AVLDT-QN-NGG-VTALMLACNNNHEQCARALIKAGA
+-AV-DY-VD-PKG-WTALMTACQGGHEQCARALIEAGS
+-AV-DM-QT-NKG-FTSLMYSCQNGHELCARALI----
+EAGAD-VNKEGPRGFSYLTVACQKGHEHCA--------
+**********************
+
+Length: 29 residues - nb: 4  from  115 to 242 - Psim:0.6893939393939394 region Length:128 
+HEQCARALIKAGAAVDYVDPKGWTALMTACQGG
+HEQCARALIEAGSAVDMQTNKGFTSLMYSCQNG
+HELCARALIEAGADVNKEGPRGFSYLTVACQKG
+HEHCARALIEAKADLHTLNNEGVSALLMA----
+**********************
+
+Length: 29 residues - nb: 3  from  153 to 245 - Psim:0.6666666666666666 region Length:93 
+RALIEAGSAVDMQTNKGFTSLMYSCQNGHELCA
+RALIEAGADVNKEGPRGFSYLTVACQKGHEHCA
+RALIEAKADLHTLNNEGVSALLMAC----EN--
+**********************
+
+Length: 31 residues - nb: 7  from  21 to 245 - Psim:0.6944444444444444 region Length:225 
+LIEAGADIDEAGPE-EDGFTALMLSCQEGHEQCARV
+LIEAGAAVDHA-LD-D-GRTALMAACNFGHEQCARA
+LIEAKAVLDTQ-NN-G-GVTALMLACNNNHEQCARA
+LIKAGAAVDY--VD-PKGWTALMTACQGGHEQCARA
+LIEAGSAVDMQ-TN-K-GFTSLMYSCQNGHELCARA
+LIEAGADVNKE-GP-R-GFSYLTVACQKGHEHCARA
+LIEAKADL-HT-LNNE-GVSALLMAC----EN----
+**********************
+
+Length: 31 residues - nb: 4  from  62 to 191 - Psim:0.7642857142857142 region Length:130 
+AV-DHALDD-GRTALMAACNFGHEQCARALIEA-K
+AVLDT-QNNGGVTALMLACNNNHEQCARALIKAGA
+AV-DY-VDPKGWTALMTACQGGHEQCARALIEAGS
+AV-DM-QTNKGFTSLMYSCQNGHELCARALIEA--
+**********************
+
+Length: 31 residues - nb: 4  from  115 to 244 - Psim:0.696969696969697 region Length:130 
+HEQCARALIKAGAAVDYVDPKGWTALMTACQGG
+HEQCARALIEAGSAVDMQTNKGFTSLMYSCQNG
+HELCARALIEAGADVNKEGPRGFSYLTVACQKG
+HEHCARALIEAKADLHTLNNEGVSALLMACE--
+**********************
+
+Length: 32 residues - nb: 7  from  21 to 245 - Psim:0.6944444444444444 region Length:225 
+LIEAGADIDEAGPE-EDGFTALMLSCQEGHEQCARV
+LIEAGAAVDHA-LD-D-GRTALMAACNFGHEQCARA
+LIEAKAVLDTQ-NN-G-GVTALMLACNNNHEQCARA
+LIKAGAAVDY--VD-PKGWTALMTACQGGHEQCARA
+LIEAGSAVDMQ-TN-K-GFTSLMYSCQNGHELCARA
+LIEAGADVNKE-GP-R-GFSYLTVACQKGHEHCARA
+LIEAKADL-HT-LNNE-GVSALLMAC----EN----
+**********************
+
+Length: 32 residues - nb: 3  from  125 to 222 - Psim:0.7575757575757576 region Length:98 
+AGAAVDYVDPKGWTALMTACQGGHEQCARALIE
+AGSAVDMQTNKGFTSLMYSCQNGHELCARALIE
+AGADVNKEGPRGFSYLTVACQKGHEHCARALI-
+**********************
+
+Length: 33 residues - nb: 7  from  21 to 245 - Psim:0.6944444444444444 region Length:225 
+LIEAGADIDEAGPE-EDGFTALMLSCQEGHEQCARV
+LIEAGAAVDHA-LD-D-GRTALMAACNFGHEQCARA
+LIEAKAVLDTQ-NN-G-GVTALMLACNNNHEQCARA
+LIKAGAAVDY--VD-PKGWTALMTACQGGHEQCARA
+LIEAGSAVDMQ-TN-K-GFTSLMYSCQNGHELCARA
+LIEAGADVNKE-GP-R-GFSYLTVACQKGHEHCARA
+LIEAKADL-HT-LNNE-GVSALLMAC----EN----
+**********************
+
+Length: 33 residues - nb: 5  from  59 to 223 - Psim:0.7411764705882353 region Length:165 
+AGAAVDHALDD-GRTALMAACNFGHEQCARALIE
+AKAVLDT-QNNGGVTALMLACNNNHEQCARALIK
+AGAAVDY-VDPKGWTALMTACQGGHEQCARALIE
+AGSAVDM-QTNKGFTSLMYSCQNGHELCARALIE
+AGADVNK-EGPRGFSYLTVACQKGHEHCARALIE
+**********************
+
+Length: 36 residues - nb: 5  from  55 to 231 - Psim:0.676 region Length:177 
+VLIEAGAAVD-HA--LDDG-RTALMAACNFGHEQCARALIEA--KA-----
+V-------LD-TQNNGGVT-AL-ML-ACNNNHEQCARALIKAGAAVD----
+Y-------VD-PK--GWTA-L-MT-AC-QGGHEQCARALIEAGSAVDMQT-
+---------N--K--GFTS-L-MY-SC-QNGHELCARALIEAG-A-DV---
+N-------KEGPR--GFSY-L-TV-AC-QKGHEHCARALIEA-KA-DLHTL
+**********************
+
+>uniprot|A0A2E4CCV6|A0A2E4CCV6_9ACTN Uncharacterized protein [Acidimicrobiaceae bacterium]
+Length: 4 residues - nb: 5  from  10 to 27 - Psim:0.68 region Length:18 
+NRR-R
+RGG-A
+-GG-P
+-GG-A
+-GGES
+**********************
+
+Length: 35 residues - nb: 15  from  88 to 613 - Psim:0.78 region Length:526 
+TEIVEQLLARPDIDVNKAT-TD-DGTTALI-KASQKGH--
+TEIVSQLLAHPDIDVNKAT-TD-DGTTALI-MASKEFH--
+TEIAGQLLARPDIDVNKAN-TD-DGCTALI-WASRRSV--
+VEIVDRLLARPDIDVNKAT-TN-DGSTALI-WASRNGH--
+TEIVGRLLARPDIDFNKGR-TS-DGCTALI-MASQKGH--
+TEIVGRLLARPDIDVNKAM-TE-DGSTALF-MASWNGH--
+IEIVGQLLARPDIDVNKAM-TI-DGSTALI-LASQKGH--
+TEIADRLLARPDLDVNKAT-TS-DGTTALI-EASQIGH--
+TEIADRLLARPDIDVNKAM-TS-DGFTALI-LASQIGQ--
+TEIVGRLLAHPDIDVNKAE-TD-YGFTALF-MASWNGH--
+AEIVGRLQARPDIDVNKA--TY-DGITALF-MASENGQT-
+-EIVGRLLVHPDIDVNKAR-TS-DGSTALI-GASYCGRA-
+-EIVGRLVAHPDIDVNKAR-TTIDGSTALI-GASQNGH-T
+-EIVDRLLAHPDIDVNKAT-TI-DGFTPLI-IASENGHT-
+-EIVAMITAHEKKARKKRRCVR-CKKVSKEYLKVCE--L-
+**********************
+
+Length: 35 residues - nb: 13  from  129 to 582 - Psim:0.8178137651821862 region Length:454 
+-LLAHPDIDVNKA-TTDDGTTALIMASKEFHTEIAGQ-
+-LLARPDIDVNKA-NTDDGCTALIWASRRSVVEIVDR-
+-LLARPDIDVNKA-TTNDGSTALIWASRNGHTEIVGR-
+-LLARPDIDFNKG-RTSDGCTALIMASQKGHTEIVGR-
+-LLARPDIDVNKA-MTEDGSTALFMASWNGHIEIVGQ-
+-LLARPDIDVNKA-MTIDGSTALILASQKGHTEIADR-
+-LLARPDLDVNKA-TTSDGTTALIEASQIGHTEIADR-
+-LLARPDIDVNKA-MTSDGFTALILASQIGQTEIVGR-
+-LLAHPDIDVNKA-ETDYGFTALFMASWNGHAEIVGR-
+-LQARPDIDVNKA-TY-DGITALFMASENGQTEIVGRL
+-LV-HPDIDVNKA-RTSDGSTALIGASYCGRAEIVGR-
+-LVAHPDIDVNKARTTIDGSTALIGASQNGHTEIVD--
+RLLAHPDIDVNKA-TTIDGFTPLIIASENGHTEIVA--
+**********************
+
+Length: 35 residues - nb: 10  from  97 to 446 - Psim:0.82 region Length:350 
+RPDIDVNKATTDDGTTALIKASQKGHTEIVSQLLA
+HPDIDVNKATTDDGTTALIMASKEFHTEIAGQLLA
+RPDIDVNKANTDDGCTALIWASRRSVVEIVDRLLA
+RPDIDVNKATTNDGSTALIWASRNGHTEIVGRLLA
+RPDIDFNKGRTSDGCTALIMASQKGHTEIVGRLLA
+RPDIDVNKAMTEDGSTALFMASWNGHIEIVGQLLA
+RPDIDVNKAMTIDGSTALILASQKGHTEIADRLLA
+RPDLDVNKATTSDGTTALIEASQIGHTEIADRLLA
+RPDIDVNKAMTSDGFTALILASQIGQTEIVGRLLA
+HPDIDVNKAETDYGFTALFMASWNGHAEIVGRLQA
+**********************
+
+Length: 35 residues - nb: 11  from  205 to 588 - Psim:0.8157248157248157 region Length:384 
+-IDVNKA-TTNDGSTALIWASRNGHTEIVGRLLARPD
+-IDFNKG-RTSDGCTALIMASQKGHTEIVGRLLARPD
+-IDVNKA-MTEDGSTALFMASWNGHIEIVGQLLARPD
+-IDVNKA-MTIDGSTALILASQKGHTEIADRLLARPD
+-LDVNKA-TTSDGTTALIEASQIGHTEIADRLLARPD
+-IDVNKA-MTSDGFTALILASQIGQTEIVGRLLAHPD
+-IDVNKA-ETDYGFTALFMASWNGHAEIVGRLQARPD
+-IDVNKA-TY-DGITALFMASENGQTEIVGRLLVHPD
+-IDVNKA-RTSDGSTALIGASYCGRAEIVGRLVAHPD
+-IDVNKARTTIDGSTALIGASQNGHTEIVDRLLAHP-
+DIDVNKA-TTIDGFTPLIIASENGHTEIVAMITAH-E
+**********************
+
+Length: 35 residues - nb: 12  from  252 to 666 - Psim:0.7182539682539683 region Length:415 
+TALIMASQKGHTEIVGRLLARPDI-DVN-KAMT-E-D-GS---
+TALFMASWNGHIEIVGQLLARPDI-DVN-KAMT-I-D-GS---
+TALILASQKGHTEIADRLLARPDL-DVN-KATT-S-D-GT---
+TALIEASQIGHTEIADRLLARPDI-DVN-KAMT-S-D-GF---
+TALILASQIGQTEIVGRLLAHPDI-DVN-KAET-D-Y-GF---
+TALFMASWNGHAEIVGRLQARPDI-DVN-KA-T-Y-D-GI---
+TALFMASENGQTEIVGRLLVHPDI-DVN-KART-S-D-GS---
+TALIGASYCGRAEIVGRLVAHPDI-DVN-KART-TID-GS---
+TALIGASQNGHTEIVDRLLAHPDI-DVN-KATT-I-D-GF---
+TPLIIASENGHTEIVAMITAH-EK-KAR-KKR--R-C-VR---
+CKKV--S-KEYLKVC-ELCRRPCCCDACHIGHL-V-ND-----
+CKH-M-NEETY-KAVARMLFKRNK-MLS-CAV--E-DLGVADA
+**********************
+
+Length: 35 residues - nb: 4  from  296 to 435 - Psim:0.8428571428571429 region Length:140 
+GHIEIVGQLLARPDIDVNKAMTIDGSTALILASQK
+GHTEIADRLLARPDLDVNKATTSDGTTALIEASQI
+GHTEIADRLLARPDIDVNKAMTSDGFTALILASQI
+GQTEIVGRLLAHPDIDVNKAETDYGFTALFMASWN
+**********************
+
+Length: 35 residues - nb: 8  from  334 to 613 - Psim:0.7222222222222222 region Length:280 
+EIADRLLARPDLDVNKA-TTSDGTTALIEASQIGHT
+EIADRLLARPDIDVNKAMTS-DGFTALILASQIGQT
+EIVGRLLAHPDIDVNKAETDY-GFTALFMASWNGHA
+EIVGRLQARPDIDVNKA-T-YDGITALFMASENGQT
+EIVGRLLVHPDIDVNKARTS-DGSTALIGASYCGRA
+EIVGRLVAHPDIDVNKARTTIDGSTALIGASQNGHT
+EIVDRLLAHPDIDVNKA-TTIDGFTPLIIASENGHT
+EIVAMITAH-EKKARKKRRCVRCKKVSKEYLKVCEL
+**********************
+
+Length: 35 residues - nb: 6  from  378 to 587 - Psim:0.8009259259259259 region Length:210 
+PDIDVNKAMTS-DGFTALILASQIGQTEIVGRLLAH
+PDIDVNKAETDY-GFTALFMASWNGHAEIVGRLQAR
+PDIDVNKA-T-YDGITALFMASENGQTEIVGRLLVH
+PDIDVNKARTS-DGSTALIGASYCGRAEIVGRLVAH
+PDIDVNKARTTIDGSTALIGASQNGHTEIVDRLLAH
+PDIDVNKA-TTIDGFTPLIIASENGHTEIVAMITAH
+**********************
+
+Length: 35 residues - nb: 5  from  416 to 590 - Psim:0.7833333333333333 region Length:175 
+DVNKAETDY-GFTALFMASWNGHAEIVGRLQARPDI
+DVNKA-T-YDGITALFMASENGQTEIVGRLLVHPDI
+DVNKARTS-DGSTALIGASYCGRAEIVGRLVAHPDI
+DVNKARTTIDGSTALIGASQNGHTEIVDRLLAHPDI
+DVNKA-TTIDGFTPLIIASENGHTEIVAMITAHEKK
+**********************
+
+Length: 35 residues - nb: 5  from  454 to 624 - Psim:0.6736842105263158 region Length:171 
+KA-T-YDGITALFMASENGQTEIVGRLLVHPDI-DVN-
+KARTS-DGSTALIGASYCGRAEIVGRLVAHPDI-DVN-
+KARTTIDGSTALIGASQNGHTEIVDRLLAHPDI-DVN-
+KA-TTIDGFTPLIIASENGHTEIVAMITAH-E----K-
+KARKK-RRCVRCKKVSKE-YLKVCE-LCRRPCCCDACH
+**********************
+
+Length: 35 residues - nb: 3  from  493 to 598 - Psim:0.7685185185185185 region Length:106 
+DGSTALIGASYCGRAEIVGRLVAHPDIDVNKARTTI
+DGSTALIGASQNGHTEIVDRLLAHPDIDVNKA-TTI
+DGFTPLIIASENGHTEIVAMITAHEKKARKKR-RCV
+**********************
+
+>uniprot|A0A263D1T5|A0A263D1T5_9PSEU Uncharacterized protein [Amycolatopsis sp. AU-G6]
+Length: 3 residues - nb: 5  from  5 to 19 - Psim:0.68 region Length:15 
+--PGD
+--PGD
+--PA-
+AEP-D
+--AEL
+**********************
+
+>uniprot|A0A2D9X4G7|A0A2D9X4G7_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 33 residues - nb: 3  from  128 to 231 - Psim:0.6590909090909091 region Length:104 
+VNAGADINAKGR-YG-M-TAL-HWAADNGSEDIVKALVRAG-AD
+VNV-TDR-----F-GF-T-ALH-WAADKGCEDIVKALVIAGA-D
+L---TDN-----V-GW-RIAIK-WAKKYGHYDKVKNAIKEGK-Q
+**********************
+
+>uniprot|A0A2D9X4G1|A0A2D9X4G1_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 4 residues - nb: 3  from  22 to 35 - Psim:0.8 region Length:14 
+QLRNK
+QLRNK
+QLL-E
+**********************
+
+Length: 5 residues - nb: 4  from  15 to 34 - Psim:0.65 region Length:20 
+XAXVR
+GQQLR
+NKQLR
+NKQLL
+**********************
+
+Length: 6 residues - nb: 3  from  22 to 37 - Psim:0.7777777777777778 region Length:16 
+QLRNK-
+QLRNK-
+QLLEAA
+**********************
+
+Length: 33 residues - nb: 3  from  64 to 166 - Psim:0.7008547008547008 region Length:103 
+TALYLATKY-NHVKTVQLLLNSEADVNAR-NN-NGS---
+TALHRAV-YENNVKIVQLLLDNEADVNAR-NK-YGS---
+TALFRAA-LRD-VKIVKALVQAGADIKAKITLKITSNEI
+**********************
+
+>uniprot|A0A2E3JRS5|A0A2E3JRS5_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 4 residues - nb: 3  from  197 to 210 - Psim:0.8666666666666667 region Length:14 
+ATTDS
+ATTDS
+ATCD-
+**********************
+
+Length: 5 residues - nb: 3  from  197 to 211 - Psim:0.8666666666666667 region Length:15 
+ATTDS
+ATTDS
+ATCDP
+**********************
+
+Length: 6 residues - nb: 3  from  194 to 211 - Psim:0.8333333333333334 region Length:18 
+SAEATTD-
+SA--TTD-
+SA--TCDP
+**********************
+
+>uniprot|A0A2D9X1T0|A0A2D9X1T0_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 9 residues - nb: 3  from  258 to 284 - Psim:0.8148148148148148 region Length:27 
+DSVAKSINR
+DSVVKTINR
+DSVAKAITD
+**********************
+
+Length: 33 residues - nb: 2  from  49 to 117 - Psim:0.8472222222222222 region Length:69 
+GYARLEQHIKFALNNGADINATDSKGRTVLHFAVYG
+GYVDL---VKLVLNNGADINATDSKGRTALHLAVYD
+**********************
+
+Length: 33 residues - nb: 3  from  369 to 467 - Psim:0.7575757575757576 region Length:99 
+GNTALIVAAYNGFAEIVKLLVKAEADVNVTNKY
+GNTPLHEAVYKNKPEIVKLLVKARADVNVTNEY
+GNTPLHVAAYKGLEEIAKLLLDNGANVDTADAK
+**********************
+
+>uniprot|A0A1G9FKS6|A0A1G9FKS6_9ACTN Uncharacterized protein [Glycomyces sambucus]
+Length: 7 residues - nb: 2  from  37 to 50 - Psim:0.7142857142857143 region Length:14 
+PRLGADG
+PRPGMVE
+**********************
+
+>uniprot|A0A1L7CUA0|A0A1L7CUA0_9CORY Ankyrin [Corynebacterium frankenforstense DSM 45800]
+Length: 5 residues - nb: 3  from  52 to 67 - Psim:0.7222222222222222 region Length:16 
+AAYAGR
+AALV-R
+A-LVER
+**********************
+
+>uniprot|A0A1Q5I2C7|A0A1Q5I2C7_9ACTN Ankyrin [Streptomyces sp. CB02009]
+Length: 5 residues - nb: 4  from  347 to 369 - Psim:0.75 region Length:23 
+PGPSSA
+PGSSPV
+PGPSPM
+PGASP-
+**********************
+
+Length: 5 residues - nb: 4  from  411 to 429 - Psim:0.7083333333333334 region Length:19 
+A-GAL-
+A-GIVP
+A-GHLE
+ALGVL-
+**********************
+
+Length: 6 residues - nb: 5  from  347 to 376 - Psim:0.7333333333333333 region Length:30 
+PGPSSA
+PGSSPV
+PGPSPM
+PGASPV
+PAREPV
+**********************
+
+Length: 7 residues - nb: 3  from  342 to 362 - Psim:0.7037037037037037 region Length:21 
+PSAREPG--
+PSSA-PG-S
+-SPV-PGPS
+**********************
+
+>uniprot|A0A1G9DYE3|A0A1G9DYE3_9ACTN Ankyrin repeat-containing protein [Streptomyces indicus]
+Length: 5 residues - nb: 3  from  386 to 401 - Psim:0.7083333333333334 region Length:16 
+AAAF-R--
+AA--DELI
+AA-FGE--
+**********************
+
+Length: 7 residues - nb: 2  from  32 to 45 - Psim:0.7857142857142857 region Length:14 
+RYAPPVD
+RYAPAFV
+**********************
+
+>uniprot|A0A0B5EY73|A0A0B5EY73_STRA4 Ankyrin [Streptomyces albus subsp. albus DSM 41398]
+Length: 3 residues - nb: 5  from  107 to 122 - Psim:0.68 region Length:16 
+ALD--
+A-L-L
+--DVG
+A-DIE
+A-D-G
+**********************
+
+>uniprot|H0QPZ7|H0QPZ7_ARTGO Uncharacterized protein [Arthrobacter globiformis NBRC 12137]
+Length: 5 residues - nb: 3  from  114 to 129 - Psim:0.6666666666666666 region Length:16 
+DAGADP
+DAGS-P
+SA-RDA
+**********************
+
+>uniprot|Q82A53|Q82A53_STRAW Uncharacterized protein [Streptomyces avermitilis MA-4680 = NBRC 14893]
+Length: 8 residues - nb: 4  from  145 to 178 - Psim:0.6666666666666666 region Length:34 
+ARRGSPG--C--
+VRAL-LAHGAG-
+ARS--PA--LDE
+ARRW-PA--LD-
+**********************
+
+Length: 9 residues - nb: 2  from  163 to 179 - Psim:0.8333333333333334 region Length:17 
+ARS-PALDE
+ARRWPALDV
+**********************
+
+>uniprot|A0A1L7F3W4|A0A1L7F3W4_9PSEU Ankyrin repeats (3 copies) [Actinoalloteichus sp. GBA129-24]
+Length: 8 residues - nb: 5  from  173 to 211 - Psim:0.6666666666666666 region Length:39 
+-ADQ--R--A-V---
+-ADQPLM--A-A---
+-VVA--G--D-VD--
+-EVR--RLLA-A-GA
+EVDA--R--HP-V--
+**********************
+
+>uniprot|A0A1H1YF50|A0A1H1YF50_9ACTN Uncharacterized protein [Microlunatus soli]
+Length: 4 residues - nb: 5  from  41 to 62 - Psim:0.8 region Length:22 
+SS-PA
+SSTPP
+SSTPA
+SSTP-
+SSS-A
+**********************
+
+Length: 5 residues - nb: 6  from  41 to 69 - Psim:0.7777777777777778 region Length:29 
+SS-PA-
+SSTPP-
+SSTPA-
+SSTP--
+SSSAAA
+SSAPS-
+**********************
+
+Length: 5 residues - nb: 4  from  50 to 69 - Psim:0.75 region Length:20 
+SSTPA-
+SSTP--
+SSSAAA
+SSAPS-
+**********************
+
+Length: 6 residues - nb: 4  from  45 to 66 - Psim:0.7083333333333334 region Length:22 
+SSTPP-
+SSTPA-
+SSTPSS
+SAAASS
+**********************
+
+Length: 9 residues - nb: 6  from  38 to 93 - Psim:0.6547619047619048 region Length:56 
+PS-SSSPA-S-STP
+PS-ST-PA-S-ST-
+PS-SS-AAAS-SA-
+PSTSR-P--D-GV-
+-S-RT-EA-GRALL
+-R-AT--R-D-GD-
+**********************
+
+>uniprot|A0A238WH08|A0A238WH08_9ACTN Ankyrin repeat-containing protein [Blastococcus sp. DSM 44272]
+Length: 7 residues - nb: 2  from  155 to 168 - Psim:0.6875 region Length:14 
+GA-DADG-
+GALHAAAG
+**********************
+
+>uniprot|A0A1C4I022|A0A1C4I022_9ACTN Uncharacterized protein [Streptomyces sp. TverLS-915]
+Length: 6 residues - nb: 2  from  48 to 61 - Psim:0.7142857142857143 region Length:14 
+AAQGDHV
+AAARVLV
+**********************
+
+Length: 6 residues - nb: 3  from  208 to 225 - Psim:1.0 region Length:18 
+GTGGPA
+GTGGPA
+GTGGPA
+**********************
+
+Length: 7 residues - nb: 2  from  48 to 61 - Psim:0.7142857142857143 region Length:14 
+AAQGDHV
+AAARVLV
+**********************
+
+Length: 7 residues - nb: 5  from  207 to 236 - Psim:0.78 region Length:30 
+AG-TGG-P--
+AG-TGG-P--
+AG-TGG-PAE
+AGRTGDG--A
+AG--------
+**********************
+
+Length: 8 residues - nb: 4  from  206 to 231 - Psim:0.875 region Length:26 
+PAGTG--G
+PAGTG--G
+PAGTG--G
+PAEAGRTG
+**********************
+
+Length: 8 residues - nb: 3  from  215 to 236 - Psim:0.8333333333333334 region Length:22 
+TG-GPA--G-
+TG-GPAEAGR
+TGDGAA--G-
+**********************
+
+>uniprot|D3FBE7|D3FBE7_CONWI Ankyrin [Conexibacter woesei DSM 14684]
+Length: 11 residues - nb: 2  from  41 to 63 - Psim:0.7916666666666666 region Length:23 
+DRGAPPRPAALG
+DRGASSGPAA-P
+**********************
+
+Length: 10 residues - nb: 2  from  41 to 62 - Psim:0.7916666666666666 region Length:22 
+DRGAPPRPAALG
+DRGASSGPAA--
+**********************
+
+>uniprot|A0A1X1N909|A0A1X1N909_9ACTN Uncharacterized protein [Streptomyces sp. CB03238]
+Length: 4 residues - nb: 4  from  166 to 181 - Psim:0.7 region Length:16 
+AAVQ-
+AA-D-
+AAGAR
+AALA-
+**********************
+
+Length: 6 residues - nb: 3  from  29 to 46 - Psim:0.7083333333333334 region Length:18 
+RP-V-HL-
+RPPVLPR-
+RP--LPAD
+**********************
+
+Length: 7 residues - nb: 3  from  108 to 126 - Psim:0.6666666666666666 region Length:19 
+HHPPRL-
+HHPSRLH
+D-VLRAH
+**********************
+
+Length: 8 residues - nb: 2  from  108 to 121 - Psim:0.8125 region Length:14 
+HHPPRL--
+HHPSRLHD
+**********************
+
+>uniprot|A0A164PMT9|A0A164PMT9_9NOCA Uncharacterized protein [Rhodococcus sp. EPR-157]
+Length: 6 residues - nb: 3  from  91 to 108 - Psim:0.7222222222222222 region Length:18 
+GALLAA
+GADPAA
+GARSAD
+**********************
+
+>uniprot|A0A1Q4DSP7|A0A1Q4DSP7_9PSEU Uncharacterized protein [Pseudonocardia sp. 73-21]
+Length: 7 residues - nb: 2  from  50 to 63 - Psim:0.7857142857142857 region Length:14 
+LARAQRV
+LARAFGF
+**********************
+
+Length: 12 residues - nb: 2  from  357 to 382 - Psim:0.8 region Length:26 
+GPADRLLSAALAAD-
+GPAVR---AQLAADP
+**********************
+
+>uniprot|A0A1F2VTR4|A0A1F2VTR4_9ACTN Uncharacterized protein [Actinobacteria bacterium RBG_13_35_12]
+Length: 32 residues - nb: 3  from  34 to 135 - Psim:0.8034188034188035 region Length:102 
+-TTLMWAAYLGHTEIAEMLINNGADVNAKDNKGGTALML
+-TT-QF---GYTD-IAEMLIDNGADVNAKGNKGGTALM-
+LAT-AF---SYTE-IVEMLIDNGADVNAKDYKGTTAL--
+**********************
+
+Length: 32 residues - nb: 2  from  84 to 148 - Psim:0.8484848484848485 region Length:65 
+LIDNGADVNAKGNKGGTALMLATAFSYTEIVEM
+LIDNGADVNAKDYKGTTALMVASDFGLTEIVD-
+**********************
+
+Length: 33 residues - nb: 3  from  34 to 137 - Psim:0.8157894736842105 region Length:104 
+TTLMWAAYLGHTEIAEMLINNGADVNAKDNKGGTALML
+TT-QF---GYTD-IAEMLIDNGADVNAKGNKGGTALML
+AT-AF---SYTE-IVEMLIDNGADVNAKDYKGTTALMV
+**********************
+
+Length: 33 residues - nb: 2  from  84 to 149 - Psim:0.8484848484848485 region Length:66 
+LIDNGADVNAKGNKGGTALMLATAFSYTEIVEM
+LIDNGADVNAKDYKGTTALMVASDFGLTEIVDL
+**********************
+
+Length: 38 residues - nb: 3  from  34 to 147 - Psim:0.75 region Length:114 
+TTLMWAAYLGHTEIAEMLINNGADVNAKDNKGGTALML----------
+TT-QF---GYTD-IAEMLIDNGADVNAKGNKGGTALMLATAF--S---
+---------YTE-IVEMLIDNGADVNAKDYKGTTALMVASDFGLTEIV
+**********************
+
+>uniprot|A0A1U5V580|A0A1U5V580_9MYCO Putative ankyrin-like protein [Mycobacterium abscessus subsp. abscessus]
+Length: 5 residues - nb: 3  from  8 to 23 - Psim:0.6666666666666666 region Length:16 
+SVAGAC
+SVSTD-
+SVAPS-
+**********************
+
+>uniprot|A0A1E7KM38|A0A1E7KM38_9ACTN Uncharacterized protein [Streptomyces oceani]
+Length: 6 residues - nb: 3  from  243 to 260 - Psim:0.7222222222222222 region Length:18 
+LGVAIR
+LGVAES
+LPVMAS
+**********************
+
+>uniprot|A0A1Y3LYP3|A0A1Y3LYP3_9MICC Uncharacterized protein [Arthrobacter agilis]
+Length: 6 residues - nb: 5  from  14 to 43 - Psim:0.8333333333333334 region Length:30 
+DAGTTS
+DAGTTS
+DAGLTS
+DAGLTS
+DAGSGV
+**********************
+
+Length: 6 residues - nb: 3  from  25 to 42 - Psim:0.8888888888888888 region Length:18 
+SDAGLT
+SDAGLT
+SDAGSG
+**********************
+
+>uniprot|A0A0Q8P2N3|A0A0Q8P2N3_9ACTN Uncharacterized protein [Kitasatospora sp. Root187]
+Length: 9 residues - nb: 2  from  364 to 383 - Psim:0.7727272727272727 region Length:20 
+DGHTPLHVAAR
+DGHTDI-VVA-
+**********************
+
+>uniprot|A0A1H2FWF6|A0A1H2FWF6_9PSEU Ankyrin repeat-containing protein [Amycolatopsis keratiniphila]
+Length: 5 residues - nb: 3  from  35 to 50 - Psim:0.6666666666666666 region Length:16 
+GREH-G
+GRDQCT
+GRSQ-A
+**********************
+
+>uniprot|A0A1I5FHR4|A0A1I5FHR4_9PSEU Uncharacterized protein [Saccharopolyspora antimicrobica]
+Length: 5 residues - nb: 6  from  28 to 57 - Psim:0.6904761904761905 region Length:30 
+PP-AA--
+PP-APP-
+HP-AE--
+QPQAAQ-
+QP-APPQ
+QP-NPE-
+**********************
+
+Length: 6 residues - nb: 5  from  27 to 58 - Psim:0.72 region Length:32 
+Q-P-PA-AP-
+PAP-PHPA-E
+Q-P-QA-AQ-
+Q-P--A-PPQ
+Q-PNPE-A--
+**********************
+
+Length: 7 residues - nb: 3  from  41 to 59 - Psim:0.7142857142857143 region Length:19 
+QPQA-AQ
+QPAP-PQ
+QPNPEAD
+**********************
+
+Length: 8 residues - nb: 2  from  38 to 55 - Psim:0.7 region Length:18 
+PAEQPQAAQQ
+PAP-PQQPN-
+**********************
+
+>uniprot|A0A1T5L4G7|A0A1T5L4G7_9MICO Uncharacterized protein [Plantibacter cousiniae]
+Length: 3 residues - nb: 6  from  39 to 58 - Psim:0.75 region Length:20 
+TPS-
+PTS-
+TPSS
+TPS-
+TPQP
+TPE-
+**********************
+
+Length: 4 residues - nb: 4  from  44 to 58 - Psim:0.75 region Length:15 
+STPS
+STP-
+STPQ
+PTPE
+**********************
+
+Length: 6 residues - nb: 3  from  36 to 53 - Psim:0.8095238095238095 region Length:18 
+PT-TTPS
+PT-STPS
+STPSTP-
+**********************
+
+>uniprot|A0A1C6SG58|A0A1C6SG58_9ACTN Ankyrin repeat-containing protein [Micromonospora pallida]
+Length: 5 residues - nb: 4  from  205 to 223 - Psim:0.6785714285714286 region Length:19 
+AA-L--L
+AA-RQPV
+AA-Y--D
+AAGV--A
+**********************
+
+>uniprot|A0A161LMT7|A0A161LMT7_9ACTN Ankyrin repeat-domain-containing protein [Planomonospora sphaerica]
+Length: 3 residues - nb: 5  from  446 to 460 - Psim:0.7 region Length:15 
+AR-G-L
+AR-R--
+-GDP--
+-R-A--
+-R-AG-
+**********************
+
+>uniprot|A0A1G6X0B9|A0A1G6X0B9_9PSEU Ankyrin repeat-containing protein [Alloactinosynnema iranicum]
+Length: 12 residues - nb: 2  from  162 to 187 - Psim:0.7666666666666667 region Length:26 
+PLLYLAYSRL-DGGD
+PLA-TA-SRLLDAG-
+**********************
+
+>uniprot|A0A1C4Q2P4|A0A1C4Q2P4_9ACTN Ankyrin repeat-containing protein [Streptomyces sp. DvalAA-14]
+Length: 5 residues - nb: 3  from  185 to 198 - Psim:0.6666666666666666 region Length:14 
+AAIDV
+AALR-
+AASRR
+**********************
+
+>uniprot|A0A0Q6G8E9|A0A0Q6G8E9_9MICO Uncharacterized protein [Sanguibacter sp. Leaf3]
+Length: 3 residues - nb: 4  from  54 to 67 - Psim:0.65 region Length:14 
+L-VRW
+L-VD-
+QGAD-
+--VDA
+**********************
+
+>uniprot|A0A259SWA5|A0A259SWA5_9MICO Uncharacterized protein [Microbacterium sp. 14-71-5]
+Length: 5 residues - nb: 3  from  74 to 89 - Psim:0.6666666666666666 region Length:16 
+AATAGD
+AA-AVR
+AAIA-E
+**********************
+
+>uniprot|A0A098Y2Q7|A0A098Y2Q7_9ACTN Ankyrin [Modestobacter caceresii]
+Length: 13 residues - nb: 2  from  155 to 180 - Psim:0.6785714285714286 region Length:26 
+GAAPGRALHAAAAG
+GA-PA-VVQALLAA
+**********************
+
+>uniprot|A0A222X9P4|A0A222X9P4_9CELL Uncharacterized protein [Cellulomonas sp. PSBB021]
+Length: 5 residues - nb: 3  from  118 to 131 - Psim:0.6666666666666666 region Length:14 
+-DTTR-
+-DTWRD
+VPGTA-
+**********************
+
+>uniprot|A0A1M6TNQ8|A0A1M6TNQ8_PSETH Ankyrin repeat-containing protein [Pseudonocardia thermophila]
+Length: 9 residues - nb: 2  from  15 to 33 - Psim:0.8181818181818182 region Length:19 
+DV-GTLAGLLR
+DVPG-LAGA-R
+**********************
+
+>uniprot|A0A1Q5M5S4|A0A1Q5M5S4_9ACTN Ankyrin [Streptomyces sp. CB02400]
+Length: 6 residues - nb: 2  from  44 to 57 - Psim:0.7142857142857143 region Length:14 
+AALHDHV
+AAARVLV
+**********************
+
+Length: 7 residues - nb: 2  from  44 to 57 - Psim:0.7142857142857143 region Length:14 
+AALHDHV
+AAARVLV
+**********************
+
+>uniprot|F5XJT6|F5XJT6_MICPN Uncharacterized protein [Microlunatus phosphovorus NM-1]
+Length: 7 residues - nb: 2  from  48 to 61 - Psim:0.7857142857142857 region Length:14 
+LARAQRV
+LARAYGF
+**********************
+
+>uniprot|A0A1M5NQB2|A0A1M5NQB2_9ACTN Ankyrin repeat-containing protein [Geodermatophilus nigrescens]
+Length: 4 residues - nb: 4  from  203 to 218 - Psim:0.75 region Length:16 
+AGTP-
+AGAP-
+AG-PG
+TG-PE
+**********************
+
+>uniprot|A0A0Q7MSD7|A0A0Q7MSD7_9CELL Uncharacterized protein [Cellulomonas sp. Root485]
+Length: 8 residues - nb: 3  from  375 to 399 - Psim:0.6666666666666666 region Length:25 
+AAMLGDQDRL
+AA-LGDA--V
+AAQARDE-R-
+**********************
+
+>uniprot|A0A1A8ZSU3|A0A1A8ZSU3_9ACTN Ankyrin repeat [Micromonospora auratinigra]
+Length: 5 residues - nb: 3  from  108 to 121 - Psim:0.6666666666666666 region Length:14 
+LDA-L-
+LDAGA-
+-DIEAP
+**********************
+
+>uniprot|A0A1T4YQG5|A0A1T4YQG5_9ACTN Uncharacterized protein [Aeromicrobium choanae]
+Length: 4 residues - nb: 4  from  34 to 50 - Psim:0.6666666666666666 region Length:17 
+A-TAST
+A-TPS-
+T-APP-
+SSTP--
+**********************
+
+Length: 5 residues - nb: 5  from  34 to 57 - Psim:0.7333333333333333 region Length:24 
+ATAS-T
+ATPS-T
+APPS-S
+-TPS-S
+-TPTPT
+**********************
+
+Length: 6 residues - nb: 3  from  37 to 53 - Psim:0.7619047619047619 region Length:17 
+STATP--
+STAPPS-
+ST-PSST
+**********************
+
+>uniprot|A0A100Y771|A0A100Y771_9ACTN Uncharacterized protein [Streptomyces kanasensis]
+Length: 4 residues - nb: 3  from  405 to 418 - Psim:0.8 region Length:14 
+AVRAA
+AVRAL
+AV-AP
+**********************
+
+Length: 5 residues - nb: 3  from  404 to 417 - Psim:0.8 region Length:14 
+AA-VR
+AAAVR
+ALAVA
+**********************
+
+Length: 6 residues - nb: 3  from  405 to 420 - Psim:0.7222222222222222 region Length:16 
+AVRAA-
+AVRAL-
+AVAPDD
+**********************
+
+>uniprot|A0A0M4DJN9|A0A0M4DJN9_STRPR Uncharacterized protein [Streptomyces pristinaespiralis]
+Length: 8 residues - nb: 2  from  303 to 319 - Psim:0.6666666666666666 region Length:17 
+DVLQQTFAA
+DVLGR-LGF
+**********************
+
+Length: 9 residues - nb: 2  from  303 to 320 - Psim:0.75 region Length:18 
+DVLQQT-FAA
+DVLGRLGFA-
+**********************
+
+>uniprot|A0A1C6VZC2|A0A1C6VZC2_9ACTN Ankyrin repeat-containing protein [Micromonospora citrea]
+Length: 3 residues - nb: 5  from  205 to 221 - Psim:0.68 region Length:17 
+AA-LL
+AA-R-
+QP-V-
+AAYE-
+AA-G-
+**********************
+
+Length: 7 residues - nb: 2  from  237 to 250 - Psim:0.7857142857142857 region Length:14 
+APALVAH
+APALSVL
+**********************
+
+>uniprot|A0A1H4XCH9|A0A1H4XCH9_9ACTN Ankyrin repeat [Streptomyces misionensis]
+Length: 5 residues - nb: 4  from  186 to 206 - Psim:0.7142857142857143 region Length:21 
+AA-LRL-
+AA-LSGD
+AAGVR--
+AA-LAA-
+**********************
+
+>uniprot|W5WLW7|W5WLW7_9PSEU Uncharacterized protein [Kutzneria albida DSM 43870]
+Length: 5 residues - nb: 3  from  181 to 194 - Psim:0.6666666666666666 region Length:14 
+-LAA-L
+-LAADP
+SLSP-E
+**********************
+
+>uniprot|A0A1I2CH43|A0A1I2CH43_9ACTN Ankyrin repeat-containing protein [Blastococcus sp. DSM 46838]
+Length: 6 residues - nb: 3  from  120 to 138 - Psim:0.7142857142857143 region Length:19 
+LDD-GAT
+LDDAGSG
+LDL-LSW
+**********************
+
+>uniprot|A0A0M4E016|A0A0M4E016_9ACTN Ankyrin [Streptomyces sp. CFMR 7]
+Length: 3 residues - nb: 6  from  253 to 270 - Psim:0.7777777777777778 region Length:18 
+TTE
+TTG
+APG
+TPG
+TPG
+TPG
+**********************
+
+Length: 3 residues - nb: 5  from  263 to 278 - Psim:0.7 region Length:16 
+PGT-
+PGT-
+PGT-
+TDTA
+DAS-
+**********************
+
+Length: 4 residues - nb: 7  from  260 to 283 - Psim:0.7142857142857143 region Length:24 
+P-G-T-
+P-G-T-
+P-G-T-
+P-G-TT
+DTA-D-
+A-S-D-
+A-SDA-
+**********************
+
+Length: 4 residues - nb: 5  from  302 to 320 - Psim:0.7 region Length:19 
+P--DA-
+P--DAP
+SASDA-
+P---GP
+P--GAM
+**********************
+
+Length: 5 residues - nb: 3  from  280 to 296 - Psim:0.7777777777777778 region Length:17 
+ASDAPS
+ASVTPS
+ASGAP-
+**********************
+
+Length: 6 residues - nb: 3  from  280 to 297 - Psim:0.7777777777777778 region Length:18 
+ASDAPS
+ASVTPS
+ASGAPG
+**********************
+
+Length: 8 residues - nb: 6  from  280 to 319 - Psim:0.65 region Length:40 
+-AS-DAPS--
+-AS-VTPS--
+-AS-GAPGIP
+-GTPDAP---
+-DA-PSAS--
+DAP-GPPG-A
+**********************
+
+>uniprot|W5WP94|W5WP94_9PSEU Uncharacterized protein [Kutzneria albida DSM 43870]
+Length: 4 residues - nb: 5  from  145 to 164 - Psim:0.68 region Length:20 
+AV-VQ
+AVEQR
+AV--P
+AV-LR
+VL-LR
+**********************
+
+Length: 5 residues - nb: 4  from  145 to 163 - Psim:0.6785714285714286 region Length:19 
+A-V-VQ-
+A-V-EQR
+A-VPAV-
+LRV-LL-
+**********************
+
+>uniprot|S3ZQT7|S3ZQT7_9ACTN Uncharacterized protein [Streptomyces aurantiacus JA 4570]
+Length: 10 residues - nb: 3  from  13 to 44 - Psim:0.6666666666666666 region Length:32 
+PPGERTALVRLA
+PPGE-DA-ARYA
+PPVDWFAPV-L-
+**********************
+
+>uniprot|A0A291GXA2|A0A291GXA2_9MICO Uncharacterized protein [Brachybacterium ginsengisoli]
+Length: 9 residues - nb: 2  from  411 to 430 - Psim:0.7272727272727273 region Length:20 
+ADLVRTLLDLG
+AD-PE-LLDTD
+**********************
+
+>uniprot|A0A1B6ABE6|A0A1B6ABE6_9ACTN Uncharacterized protein [Streptomyces sp. NBRC 110611]
+Length: 5 residues - nb: 3  from  6 to 20 - Psim:0.8 region Length:15 
+PEPQR
+PETQR
+PETIE
+**********************
+
+>uniprot|A0A1G8N1N9|A0A1G8N1N9_9MICC Uncharacterized protein [Arthrobacter cupressi]
+Length: 5 residues - nb: 3  from  39 to 53 - Psim:0.6666666666666666 region Length:15 
+AG-A-P
+AGISNP
+AGDSL-
+**********************
+
+>uniprot|S3AY11|S3AY11_9ACTN Uncharacterized protein [Streptomyces sp. HPH0547]
+Length: 3 residues - nb: 6  from  41 to 60 - Psim:0.7222222222222222 region Length:20 
+-SAAP-
+-SA-SS
+-SA-P-
+PTS-S-
+-S--P-
+-S--PG
+**********************
+
+>uniprot|A0A0A8EX68|A0A0A8EX68_9ACTN Uncharacterized protein [Streptomyces sp. 769]
+Length: 9 residues - nb: 2  from  14 to 33 - Psim:0.7727272727272727 region Length:20 
+VAAAALRGAAQ
+VAAL-LRAGA-
+**********************
+
+>uniprot|A0A1S6RCU4|A0A1S6RCU4_STRHY Uncharacterized protein [Streptomyces hygroscopicus]
+Length: 3 residues - nb: 4  from  149 to 162 - Psim:0.6875 region Length:14 
+GEGD
+GEGD
+GE-E
+GN-E
+**********************
+
+Length: 4 residues - nb: 3  from  78 to 91 - Psim:0.7333333333333333 region Length:14 
+DEESE
+DEEFE
+DEDG-
+**********************
+
+Length: 4 residues - nb: 7  from  135 to 162 - Psim:0.6666666666666666 region Length:28 
+FGAEV-
+FG-AA-
+AE-D--
+EG--G-
+EG-DG-
+EG-DGE
+EG-NE-
+**********************
+
+Length: 5 residues - nb: 4  from  62 to 82 - Psim:0.6666666666666666 region Length:21 
+-AVEDP
+-AVEDA
+DAIEDT
+-DEESE
+**********************
+
+Length: 5 residues - nb: 4  from  145 to 163 - Psim:0.7083333333333334 region Length:19 
+EDEGG-
+EGDG--
+EGDGE-
+EGN-EW
+**********************
+
+>uniprot|A0A1Q5PVV1|A0A1Q5PVV1_9ACTO Uncharacterized protein [Actinomyces nasicola]
+Length: 3 residues - nb: 5  from  11 to 24 - Psim:0.65 region Length:14 
+RSA-
+APRR
+RG--
+RG--
+RGA-
+**********************
+
+>uniprot|A0A1K2B922|A0A1K2B922_STRAR Ankyrin repeat-containing protein [Streptomyces atratus]
+Length: 5 residues - nb: 3  from  32 to 46 - Psim:0.8095238095238095 region Length:15 
+GA-DP--
+GARDP-D
+GA-TPL-
+**********************
+
+>uniprot|K6VKW2|K6VKW2_9MICO Uncharacterized protein [Kineosphaera limosa NBRC 100340]
+Length: 5 residues - nb: 3  from  197 to 211 - Psim:0.7777777777777778 region Length:15 
+-QPQSR
+-QPQSE
+AQVQS-
+**********************
+
+Length: 6 residues - nb: 3  from  197 to 213 - Psim:0.8333333333333334 region Length:17 
+QPQSR-
+QPQSEA
+QVQSEA
+**********************
+
+Length: 8 residues - nb: 2  from  204 to 217 - Psim:0.875 region Length:14 
+QSEAQV--
+QSEAQVPP
+**********************
+
+>uniprot|A0A1C4RZM4|A0A1C4RZM4_9ACTN Ankyrin repeat-containing protein (Fragment) [Streptomyces sp. SolWspMP-5a-2]
+Length: 7 residues - nb: 2  from  124 to 138 - Psim:0.75 region Length:15 
+PHGGDRSA
+PHGGG-TG
+**********************
+
+>uniprot|A0A260G3A1|A0A260G3A1_9NOCA Uncharacterized protein [Rhodococcus sp. 06-1477-1B]
+Length: 6 residues - nb: 3  from  24 to 41 - Psim:0.7083333333333334 region Length:18 
+VLVDD-GD
+VL-DD-D-
+VL-AVFR-
+**********************
+
+>uniprot|A0A1Y4A963|A0A1Y4A963_9ACTN Uncharacterized protein [Collinsella sp. An307]
+Length: 3 residues - nb: 6  from  9 to 29 - Psim:0.7222222222222222 region Length:21 
+L-LSA-
+L-L-A-
+VGA-A-
+F-L-AI
+F-L-G-
+A-L-G-
+**********************
+
+>uniprot|A0A1H4QAZ5|A0A1H4QAZ5_9ACTN Uncharacterized protein [Streptomyces sp. TLI_105]
+Length: 3 residues - nb: 5  from  10 to 24 - Psim:0.65 region Length:15 
+AA--
+AA-D
+GD-T
+AAVR
+AA-L
+**********************
+
+Length: 5 residues - nb: 3  from  12 to 26 - Psim:0.6666666666666666 region Length:15 
+AADGDT
+AAV--R
+AAL-DA
+**********************
+
+>uniprot|A0A1I2WQ68|A0A1I2WQ68_9ACTN Ankyrin repeat-containing protein [Actinopolymorpha cephalotaxi]
+Length: 5 residues - nb: 3  from  164 to 179 - Psim:0.7222222222222222 region Length:16 
+GAAADA
+GAS-MY
+GAE-DA
+**********************
+
+>uniprot|A0A1H1HWZ8|A0A1H1HWZ8_9ACTN Ankyrin repeat-containing protein [Thermostaphylospora chromogena]
+Length: 3 residues - nb: 5  from  67 to 81 - Psim:0.75 region Length:15 
+APGP
+APG-
+EEG-
+A-G-
+AGG-
+**********************
+
+Length: 4 residues - nb: 3  from  198 to 211 - Psim:0.7333333333333333 region Length:14 
+LETAL
+LEHAE
+LE-AP
+**********************
+
+Length: 5 residues - nb: 3  from  198 to 212 - Psim:0.7333333333333333 region Length:15 
+LETAL
+LEHAE
+LEAPE
+**********************
+
+>uniprot|A0A1V3ZZ47|A0A1V3ZZ47_9ACTN Uncharacterized protein [Streptomyces tsukubensis]
+Length: 8 residues - nb: 2  from  68 to 83 - Psim:0.75 region Length:16 
+GAD-PERLSC
+GADLP--LC-
+**********************
+
+Length: 9 residues - nb: 2  from  68 to 83 - Psim:0.8 region Length:16 
+GAD-PERLSC
+GADLP--L-C
+**********************
+
+>uniprot|A0A1H1DXZ5|A0A1H1DXZ5_9MICC Uncharacterized protein [Arthrobacter crystallopoietes]
+Length: 6 residues - nb: 3  from  95 to 114 - Psim:0.6666666666666666 region Length:20 
+AELLDRG-
+AELEHRN-
+AE--GRTP
+**********************
+
+Length: 7 residues - nb: 2  from  95 to 108 - Psim:0.7857142857142857 region Length:14 
+AELLDRG
+AELEHRN
+**********************
+
+>uniprot|A0A1V4EK29|A0A1V4EK29_9ACTN Uncharacterized protein [Microbispora sp. GKU 823]
+Length: 6 residues - nb: 3  from  296 to 313 - Psim:0.7222222222222222 region Length:18 
+GLGKKT
+GLGKEA
+GAGQGA
+**********************
+
+>uniprot|A0A2E5EX16|A0A2E5EX16_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 8 residues - nb: 4  from  309 to 343 - Psim:0.6666666666666666 region Length:35 
+DIANQKRRA
+DIANQQRLT
+DIVSQQRRA
+DIVHLIV-T
+**********************
+
+Length: 9 residues - nb: 4  from  309 to 344 - Psim:0.6666666666666666 region Length:36 
+DIANQKRRA
+DIANQQRLT
+DIVSQQRRA
+DIVHLIVTI
+**********************
+
+>uniprot|A0A2E5EUB4|A0A2E5EUB4_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 29 residues - nb: 3  from  232 to 330 - Psim:0.7254901960784313 region Length:99 
+TALHWAV-EKGHGDVVRVLCEHGAKVQAKIREEN
+TALHVAA-EKGHVAVVRVLCDHGAEVEAKNKYND
+TALHFAAFYK-RIDVIGVLCEYGADVNATNQGGR
+**********************
+
+Length: 33 residues - nb: 4  from  232 to 363 - Psim:0.6527777777777778 region Length:132 
+TALHWAV-EKGH-GDVVRVLCEHGAKVQAKIREEN-
+TALHVAA-EKGH-VAVVRVLCDHGAEVEAKNKYND-
+TALHFAAFYK-R-IDVIGVLCEYGADVNATNQGGR-
+TALYWAA-KRGHFGSAI-ALIRVDA-VLSSLSDDRR
+**********************
+
+>uniprot|A0A2E5EWS9|A0A2E5EWS9_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 33 residues - nb: 2  from  128 to 193 - Psim:0.7352941176470589 region Length:66 
+VNAQDEDGSTPLHWAVSK-GDKEMAVLLIRSGVD
+VNARDKHGWTAL-MNTDRAGGTEMALLLFRNGAD
+**********************
+
+>uniprot|A0A2E5EUT0|A0A2E5EUT0_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 32 residues - nb: 3  from  101 to 200 - Psim:0.8703703703703703 region Length:100 
+SESPTTVVAVNNVDERSFGKDTQALVVYRSSDKQCT
+SELPDD----RSVDEQSFGKDTQALVVYRPSDEQCI
+SALPDD----RSVDEQSFGKDTQALVVYRSSDKQCI
+**********************
+
+Length: 32 residues - nb: 4  from  141 to 268 - Psim:0.803030303030303 region Length:128 
+DDRSVDEQSFGKDTQALVVYRPSDEQCISALP-
+DDRSVDEQSFGKDTQALVVYRSSDKQCISALP-
+DDCSVDERSFGKDTQALVVYRSSDEQCISELP-
+DDCSVKERPFGKDTP-IEKMGPVKPDASSSLQL
+**********************
+
+Length: 32 residues - nb: 2  from  178 to 241 - Psim:0.953125 region Length:64 
+DEQSFGKDTQALVVYRSSDKQCISALPDDCSV
+DERSFGKDTQALVVYRSSDEQCISELPDDCSV
+**********************
+
+>uniprot|UPI000237B0F3|UPI000237B0F3 ankyrin repeat domain-containing protein [Saccharopolyspora spinosa]
+Length: 5 residues - nb: 3  from  49 to 63 - Psim:0.6666666666666666 region Length:15 
+AVDNG
+AVDVA
+AVLLD
+**********************
+
+>uniprot|UPI0002D73615|UPI0002D73615 ankyrin repeat domain-containing protein [Nocardia thailandica]
+Length: 5 residues - nb: 4  from  70 to 91 - Psim:0.6666666666666666 region Length:22 
+AAVAED
+AA-AVR
+AALADG
+AAV-DV
+**********************
+
+Length: 6 residues - nb: 3  from  39 to 58 - Psim:0.7083333333333334 region Length:20 
+TATTGPA-
+TAAN-DAR
+TAAP-PT-
+**********************
+
+Length: 8 residues - nb: 3  from  62 to 83 - Psim:0.6666666666666666 region Length:22 
+AAD-RELLR
+AA-V-AED-
+AAAVRAAL-
+**********************
+
+>uniprot|UPI00030F5552|UPI00030F5552 hypothetical protein [Nocardia testacea]
+Length: 9 residues - nb: 2  from  25 to 40 - Psim:0.6666666666666666 region Length:16 
+TATK-A-GR
+TALLVAIEA
+**********************
+
+>uniprot|UPI00034D981D|UPI00034D981D ankyrin repeat domain-containing protein [Nocardiopsis potens]
+Length: 4 residues - nb: 6  from  16 to 40 - Psim:0.75 region Length:25 
+AAPE--
+ERPEEE
+AA-Q--
+AAPE--
+AAPS--
+ASPA--
+**********************
+
+>uniprot|UPI00036247DA|UPI00036247DA ankyrin repeat domain-containing protein [Streptomyces scabrisporus]
+Length: 3 residues - nb: 13  from  4 to 42 - Psim:0.75 region Length:39 
+QQ--
+QQPG
+QQD-
+ERD-
+ERD-
+ERD-
+ERD-
+EQA-
+EQA-
+EQD-
+EQD-
+EQA-
+EQD-
+**********************
+
+Length: 3 residues - nb: 5  from  14 to 28 - Psim:0.8666666666666667 region Length:15 
+RDE
+RDE
+RDE
+RDE
+QAE
+**********************
+
+Length: 3 residues - nb: 6  from  25 to 42 - Psim:0.8333333333333334 region Length:18 
+EQA
+EQA
+EQD
+EQD
+EQA
+EQD
+**********************
+
+Length: 4 residues - nb: 8  from  12 to 38 - Psim:0.7708333333333334 region Length:27 
+-DE-R-
+-DE-R-
+-DE-R-
+-DE-R-
+-DE-QA
+-EQAE-
+-QD-E-
+QDE-Q-
+**********************
+
+Length: 4 residues - nb: 6  from  18 to 38 - Psim:0.6666666666666666 region Length:21 
+-DER-
+-DER-
+-DEQA
+EQAE-
+QDE--
+QDEQ-
+**********************
+
+Length: 4 residues - nb: 5  from  28 to 43 - Psim:0.85 region Length:16 
+EQA-
+EQD-
+EQD-
+EQA-
+EQDE
+**********************
+
+>uniprot|UPI00036F7602|UPI00036F7602 ankyrin repeat domain-containing protein [Streptomyces sp. CNT372]
+Length: 7 residues - nb: 2  from  108 to 121 - Psim:0.7857142857142857 region Length:14 
+AAGADIE
+AAGAVVG
+**********************
+
+>uniprot|UPI0003825B69|UPI0003825B69 hypothetical protein [Streptomyces purpureus]
+Length: 4 residues - nb: 3  from  3 to 16 - Psim:0.8 region Length:14 
+TDKVG
+TDGVG
+TDGL-
+**********************
+
+Length: 5 residues - nb: 3  from  3 to 17 - Psim:0.8 region Length:15 
+TDKVG
+TDGVG
+TDGLF
+**********************
+
+Length: 6 residues - nb: 3  from  3 to 18 - Psim:0.7777777777777778 region Length:16 
+TDKV-G
+TDGV-G
+TDGLFE
+**********************
+
+>uniprot|UPI000419C1AE|UPI000419C1AE hypothetical protein [Pseudonocardia spinosispora]
+Length: 5 residues - nb: 3  from  149 to 164 - Psim:0.6666666666666666 region Length:16 
+AREL-L
+ARNPDL
+ARAPG-
+**********************
+
+Length: 6 residues - nb: 3  from  149 to 165 - Psim:0.6666666666666666 region Length:17 
+AREL-L
+ARNPDL
+ARAPGG
+**********************
+
+>uniprot|UPI0004894CF2|UPI0004894CF2 ankyrin repeat domain-containing protein [Solirubrobacterales bacterium URHD0059]
+Length: 11 residues - nb: 3  from  337 to 372 - Psim:0.6666666666666666 region Length:36 
+EALSW-AARA-DRV
+EAIELLVARG-ARV
+EA-D--VYRGTALI
+**********************
+
+>uniprot|UPI0004941C81|UPI0004941C81 ankyrin repeat domain-containing protein [Geodermatophilaceae bacterium URHB0048]
+Length: 3 residues - nb: 5  from  9 to 22 - Psim:0.68 region Length:14 
+-RLA-
+-R-LI
+AD-G-
+-D-A-
+-D-AV
+**********************
+
+>uniprot|UPI0004C39D06|UPI0004C39D06 hypothetical protein [Lechevalieria aerocolonigenes]
+Length: 5 residues - nb: 3  from  105 to 119 - Psim:0.7142857142857143 region Length:15 
+DAL-L--
+DA-GADI
+DADGA--
+**********************
+
+>uniprot|UPI0004C65B4D|UPI0004C65B4D ankyrin repeat domain-containing protein [Streptomyces sp. NRRL F-5053]
+Length: 5 residues - nb: 3  from  16 to 30 - Psim:0.6666666666666666 region Length:15 
+AVLAGD
+AALV--
+AALLR-
+**********************
+
+>uniprot|UPI0004C77836|UPI0004C77836 ankyrin repeat domain-containing protein [Streptomyces sp. NRRL S-118]
+Length: 7 residues - nb: 2  from  55 to 69 - Psim:0.6875 region Length:15 
+AAVARVLL
+AAGAPAD-
+**********************
+
+>uniprot|UPI0004C983F4|UPI0004C983F4 ankyrin repeat domain-containing protein [Streptomyces sp. NRRL S-646]
+Length: 5 residues - nb: 3  from  128 to 142 - Psim:0.7333333333333333 region Length:15 
+TAALL
+TAAGA
+TARLR
+**********************
+
+>uniprot|UPI0004C9EB74|UPI0004C9EB74 ankyrin repeat domain-containing protein [Streptomyces sp. NRRL F-2747]
+Length: 5 residues - nb: 3  from  11 to 26 - Psim:0.6666666666666666 region Length:16 
+AARAGD
+AA-AVR
+AAVEG-
+**********************
+
+>uniprot|UPI0004CB135A|UPI0004CB135A ankyrin repeat domain-containing protein [Streptomyces sp. NRRL B-1347]
+Length: 5 residues - nb: 3  from  301 to 317 - Psim:0.7142857142857143 region Length:17 
+GAA-EAV
+GALLEH-
+GA--EAD
+**********************
+
+>uniprot|UPI0004CD1455|UPI0004CD1455 ankyrin repeat domain-containing protein [Streptomyces seoulensis]
+Length: 5 residues - nb: 3  from  376 to 391 - Psim:0.7222222222222222 region Length:16 
+LPGAEE
+LP-AEE
+VA-ALR
+**********************
+
+>uniprot|UPI0004E12985|UPI0004E12985 ankyrin repeat domain-containing protein [Streptomyces sp. NRRL F-5123]
+Length: 4 residues - nb: 3  from  313 to 326 - Psim:0.6666666666666666 region Length:14 
+AAERG
+AAEAV
+AALL-
+**********************
+
+Length: 6 residues - nb: 4  from  313 to 335 - Psim:0.71875 region Length:23 
+AA-E-RG-
+AA-E-AV-
+AA-LLAHG
+AAAD-AR-
+**********************
+
+Length: 9 residues - nb: 3  from  109 to 138 - Psim:0.6666666666666666 region Length:30 
+RVGLLLA--DGR
+RVTSLDGTVMR-
+RVTYTDA--QG-
+**********************
+
+>uniprot|UPI0005630744|UPI0005630744 hypothetical protein [Streptomyces atratus]
+Length: 14 residues - nb: 2  from  419 to 446 - Psim:0.75 region Length:28 
+LAA-LD-ADTPVLRAA
+LAERLDDAD-PDT-VA
+**********************
+
+>uniprot|UPI000624F512|UPI000624F512 hypothetical protein [Streptomyces odonnellii]
+Length: 9 residues - nb: 3  from  323 to 350 - Psim:0.717948717948718 region Length:28 
+RAV-PLLREL-SR
+RAVEP---EL-V-
+RAVVV---GLGQ-
+**********************
+
+Length: 10 residues - nb: 2  from  198 to 221 - Psim:0.75 region Length:24 
+DGYETVVRRIEE
+DGSETVVVELLR
+**********************
+
+Length: 11 residues - nb: 2  from  198 to 221 - Psim:0.75 region Length:24 
+DGYETVVRRIEE
+DGSETVVVELLR
+**********************
+
+>uniprot|UPI000687B54B|UPI000687B54B hypothetical protein [Intrasporangiaceae bacterium URHB0013]
+Length: 4 residues - nb: 4  from  85 to 102 - Psim:0.75 region Length:18 
+DPAAL
+DPTAH
+DPLA-
+-PTAL
+**********************
+
+Length: 4 residues - nb: 4  from  105 to 122 - Psim:0.6666666666666666 region Length:18 
+T-ALD-
+ATPVD-
+A-PLDP
+A-P-GP
+**********************
+
+Length: 5 residues - nb: 4  from  85 to 104 - Psim:0.7 region Length:20 
+DPAAL
+DPTAH
+DPLAP
+TALAP
+**********************
+
+Length: 5 residues - nb: 4  from  99 to 118 - Psim:0.6666666666666666 region Length:20 
+PTALA-
+PTALD-
+ATPVD-
+-APLDP
+**********************
+
+>uniprot|UPI000688F3DF|UPI000688F3DF ankyrin repeat domain-containing protein [Promicromonospora kroppenstedtii]
+Length: 5 residues - nb: 3  from  3 to 17 - Psim:0.7222222222222222 region Length:15 
+EQSTG-
+EQG-AN
+EQG-GT
+**********************
+
+>uniprot|UPI00068BD7A4|UPI00068BD7A4 hypothetical protein [Rhodococcus fascians]
+Length: 7 residues - nb: 2  from  148 to 162 - Psim:0.75 region Length:15 
+LESEVERL
+LESELTT-
+**********************
+
+>uniprot|UPI00068C2D40|UPI00068C2D40 ankyrin repeat domain-containing protein [Streptacidiphilus jeojiense]
+Length: 10 residues - nb: 2  from  29 to 48 - Psim:0.7916666666666666 region Length:20 
+AAR--AGDAPAL
+AAYVDAG-APA-
+**********************
+
+Length: 11 residues - nb: 2  from  29 to 49 - Psim:0.7916666666666666 region Length:21 
+AAR--AGDAPAL
+AAYVDAG-APAD
+**********************
+
+>uniprot|UPI0006909BE2|UPI0006909BE2 ankyrin repeat domain-containing protein [Streptomyces sp. NRRL F-5917]
+Length: 3 residues - nb: 8  from  216 to 241 - Psim:0.6666666666666666 region Length:26 
+-D-ED-
+-D-ED-
+-DADD-
+-E-E--
+-E-EG-
+GD-GG-
+-V-GNW
+-V-GV-
+**********************
+
+Length: 3 residues - nb: 5  from  230 to 245 - Psim:0.65 region Length:16 
+GG-D
+GG-V
+GNWV
+GV-S
+GV-E
+**********************
+
+>uniprot|UPI0006909F6B|UPI0006909F6B hypothetical protein [Nocardia rhamnosiphila]
+Length: 4 residues - nb: 4  from  6 to 21 - Psim:0.7916666666666666 region Length:16 
+AA--LC
+AA--L-
+AAVFL-
+AA--TA
+**********************
+
+Length: 5 residues - nb: 3  from  6 to 19 - Psim:0.7333333333333333 region Length:14 
+AALC-
+AALAA
+VFLAA
+**********************
+
+>uniprot|UPI0006935D77|UPI0006935D77 ankyrin repeat domain-containing protein [Dactylosporangium aurantiacum]
+Length: 5 residues - nb: 3  from  403 to 416 - Psim:0.8 region Length:14 
+LD-AG
+LDPAL
+LDPMG
+**********************
+
+>uniprot|UPI000696673C|UPI000696673C hypothetical protein [Actinosporangium sp. NRRL B-3428]
+Length: 9 residues - nb: 2  from  167 to 186 - Psim:0.65 region Length:20 
+ARPTQDALAE
+ARRWLATDVE
+**********************
+
+>uniprot|UPI0006999BD0|UPI0006999BD0 hypothetical protein [Streptomyces avicenniae]
+Length: 13 residues - nb: 2  from  4 to 29 - Psim:0.6785714285714286 region Length:26 
+PAGALLAAIDDD-D
+PA-ALSGLLAQGAD
+**********************
+
+>uniprot|UPI0006A000EE|UPI0006A000EE ankyrin repeat domain-containing protein [Solirubrobacter soli]
+Length: 5 residues - nb: 3  from  123 to 139 - Psim:0.8095238095238095 region Length:17 
+GAVAGG-
+GA-AGGD
+GA-AR-D
+**********************
+
+Length: 6 residues - nb: 4  from  113 to 137 - Psim:0.875 region Length:25 
+GGRGPA-A
+GGRG-AVA
+GG-G-A-A
+GGDG-A-A
+**********************
+
+Length: 7 residues - nb: 4  from  113 to 141 - Psim:0.675 region Length:29 
+-GGR-GPAA-
+-GGR-GAVA-
+-GG--GAAGG
+DGAARDPD--
+**********************
+
+Length: 9 residues - nb: 3  from  113 to 135 - Psim:0.6666666666666666 region Length:23 
+GG-RG-PAA
+GG-RG-AVA
+GGGAAGGDG
+**********************
+
+>uniprot|UPI0006AE29FE|UPI0006AE29FE ankyrin repeat domain-containing protein [Actinomyces sp. oral taxon 414]
+Length: 9 residues - nb: 2  from  167 to 184 - Psim:0.8333333333333334 region Length:18 
+AAPIRLHDG
+AAPIEVPDG
+**********************
+
+>uniprot|UPI0006B25809|UPI0006B25809 hypothetical protein [Arthrobacter sp. LS16]
+Length: 3 residues - nb: 6  from  49 to 65 - Psim:0.6666666666666666 region Length:17 
+AEK
+PAS
+PAS
+SAS
+PA-
+PAT
+**********************
+
+Length: 4 residues - nb: 4  from  87 to 101 - Psim:0.75 region Length:15 
+APKTT
+AP-V-
+AP--A
+AP-TA
+**********************
+
+>uniprot|UPI0006E1D8C5|UPI0006E1D8C5 ankyrin repeat domain-containing protein [Streptomyces atriruber]
+Length: 7 residues - nb: 2  from  379 to 393 - Psim:0.7222222222222222 region Length:15 
+AVVAGLPG-
+AV-AL-PDE
+**********************
+
+>uniprot|UPI0006E37F1D|UPI0006E37F1D ankyrin repeat domain-containing protein [Streptomyces sp. TP-A0356]
+Length: 5 residues - nb: 3  from  181 to 195 - Psim:0.7222222222222222 region Length:15 
+DATALR
+DAAA--
+DAVAV-
+**********************
+
+>uniprot|UPI0006F452C7|UPI0006F452C7 hypothetical protein [Arthrobacter sp. Leaf141]
+Length: 3 residues - nb: 5  from  45 to 60 - Psim:0.68 region Length:16 
+-TAEP
+-TAT-
+RP-V-
+-PAV-
+-PAP-
+**********************
+
+>uniprot|UPI0007A73A78|UPI0007A73A78 hypothetical protein [Nocardia fusca]
+Length: 5 residues - nb: 3  from  9 to 22 - Psim:0.6666666666666666 region Length:14 
+AARDC
+AAA-I
+AAHDS
+**********************
+
+>uniprot|UPI0007B50271|UPI0007B50271 ankyrin repeat domain-containing protein [Mycobacterium kansasii]
+Length: 5 residues - nb: 3  from  39 to 54 - Psim:0.6666666666666666 region Length:16 
+AN-LRK
+ANEYRI
+ANTTR-
+**********************
+
+>uniprot|UPI0007C7C768|UPI0007C7C768 ankyrin repeat domain-containing protein [Streptomyces sp. NRRL S-623]
+Length: 5 residues - nb: 3  from  386 to 401 - Psim:0.6666666666666666 region Length:16 
+AA-ALR
+AADTLI
+AA-FSE
+**********************
+
+>uniprot|UPI000832BCC4|UPI000832BCC4 ankyrin repeat domain-containing protein [Actinomadura kijaniata]
+Length: 9 residues - nb: 2  from  168 to 185 - Psim:0.8181818181818182 region Length:18 
+LE-SGLGTGP-
+LERSGL-T-PL
+**********************
+
+>uniprot|UPI000835269B|UPI000835269B ankyrin repeat domain-containing protein [Actinomadura kijaniata]
+Length: 7 residues - nb: 2  from  65 to 78 - Psim:0.7777777777777778 region Length:14 
+DL-R-HLAP
+DLLRWH-A-
+**********************
+
+>uniprot|UPI000932F715|UPI000932F715 ankyrin repeat domain-containing protein [Rhodococcus zopfii]
+Length: 5 residues - nb: 3  from  20 to 34 - Psim:0.6666666666666666 region Length:15 
+AARAG-
+AADTL-
+AA-YLD
+**********************
+
+>uniprot|UPI00099733B9|UPI00099733B9 ankyrin repeat domain-containing protein [Streptomyces sp. CNH287]
+Length: 4 residues - nb: 6  from  312 to 332 - Psim:0.7222222222222222 region Length:21 
+-APD--
+-APE--
+-APDA-
+-A-DAE
+--PAA-
+PAP-L-
+**********************
+
+>uniprot|UPI00099C58E2|UPI00099C58E2 ankyrin repeat domain-containing protein [Streptomyces griseus]
+Length: 7 residues - nb: 3  from  3 to 24 - Psim:0.6666666666666666 region Length:22 
+AAPHRRLL
+AAA-RRGD
+AAG-VRAA
+**********************
+
+>uniprot|UPI00099D9D36|UPI00099D9D36 ankyrin repeat domain-containing protein [Streptomyces flavochromogenes]
+Length: 7 residues - nb: 2  from  31 to 44 - Psim:0.75 region Length:14 
+GLLAG-HP
+GL-AGARV
+**********************
+
+>uniprot|UPI00099DDEFB|UPI00099DDEFB hypothetical protein [Streptomyces sp. IGB124]
+Length: 4 residues - nb: 5  from  32 to 51 - Psim:0.6666666666666666 region Length:20 
+V--EA-
+V--EAL
+L--EAG
+ADPES-
+A-DED-
+**********************
+
+>uniprot|UPI0009A12ACB|UPI0009A12ACB ankyrin repeat domain-containing protein [Streptomyces sp. CB02400]
+Length: 12 residues - nb: 3  from  36 to 73 - Psim:0.7333333333333333 region Length:38 
+LTA-LMIAAGQADA-
+LTVRVLIAAG-ADV-
+LTA-DR-RAG-ATAL
+**********************
+
+Length: 13 residues - nb: 3  from  32 to 71 - Psim:0.7058823529411765 region Length:40 
+DASGLTA-LMIAAGQ-A
+DA--LTVRVLIAAGA--
+DV--LTAD-R-RAGAT-
+**********************
+
+>uniprot|UPI0009A4BAED|UPI0009A4BAED ankyrin repeat domain-containing protein [Streptomyces sp. 3211]
+Length: 5 residues - nb: 3  from  4 to 18 - Psim:0.7333333333333333 region Length:15 
+DRPET
+DRPDG
+GRSDG
+**********************
+
+>uniprot|UPI0009DD8265|UPI0009DD8265 ankyrin repeat domain-containing protein [Rhodococcus sp. UNC363MFTsu5.1]
+Length: 6 residues - nb: 3  from  10 to 27 - Psim:0.6666666666666666 region Length:18 
+AA-VV-L
+AAAVAVC
+AA-CAGQ
+**********************
+
+Length: 7 residues - nb: 2  from  25 to 39 - Psim:0.8125 region Length:15 
+AGQDPAVD
+AGP-PAVQ
+**********************
+
+>uniprot|UPI0009E07994|UPI0009E07994 hypothetical protein [Herbiconiux sp. YR403]
+Length: 18 residues - nb: 2  from  206 to 237 - Psim:0.6666666666666666 region Length:32 
+LL---GAD-DAAHRETVS
+LLLAAGANPNLADAEGAT
+**********************
+
+>uniprot|UPI0009E2A5B8|UPI0009E2A5B8 ankyrin repeat domain-containing protein [Lysinimicrobium luteum]
+Length: 5 residues - nb: 3  from  62 to 75 - Psim:0.7333333333333333 region Length:14 
+GAIAE
+GASA-
+GAIMG
+**********************
+
+Length: 9 residues - nb: 3  from  58 to 85 - Psim:0.696969696969697 region Length:28 
+ASAQGAIAEG-
+ASA-GAIM-GW
+ASPLHAAAH--
+**********************
+
+>uniprot|UPI0009E4DDB6|UPI0009E4DDB6 ankyrin repeat domain-containing protein [Lysinimicrobium aestuarii]
+Length: 5 residues - nb: 3  from  170 to 185 - Psim:0.7142857142857143 region Length:16 
+A-PRRRG
+A-PRG-G
+GGP-D-G
+**********************
+
+Length: 7 residues - nb: 3  from  70 to 91 - Psim:0.6666666666666666 region Length:22 
+RGR--PVRP
+RGADDP-RR
+RGR--AACA
+**********************
+
+Length: 7 residues - nb: 3  from  188 to 209 - Psim:0.7037037037037037 region Length:22 
+RRRPARG-A
+RR-PG-GHA
+RR-DRRR-H
+**********************
+
+Length: 8 residues - nb: 2  from  160 to 176 - Psim:0.85 region Length:17 
+RA-RRRGACG
+RAPRRRGA--
+**********************
+
+Length: 8 residues - nb: 3  from  188 to 210 - Psim:0.6666666666666666 region Length:23 
+RRRPARG-A
+RR-PG-GHA
+RRDRRRH-Q
+**********************
+
+Length: 10 residues - nb: 2  from  154 to 174 - Psim:0.7916666666666666 region Length:21 
+GA-GRVERARRR
+GACGRAPR-RR-
+**********************
+
+>uniprot|UPI0009E63061|UPI0009E63061 hypothetical protein [Lysinimicrobium flavum]
+Length: 3 residues - nb: 5  from  132 to 146 - Psim:0.65 region Length:15 
+ASEG
+AS-A
+AS-S
+I--A
+AV-D
+**********************
+
+Length: 4 residues - nb: 4  from  61 to 74 - Psim:0.75 region Length:14 
+RP-R-
+RP-G-
+RP-AA
+RSGR-
+**********************
+
+>uniprot|UPI0009E635CA|UPI0009E635CA hypothetical protein [Corynebacterium halotolerans]
+Length: 5 residues - nb: 3  from  46 to 61 - Psim:0.7777777777777778 region Length:16 
+TVSRGG
+TVG-GG
+TRG-GE
+**********************
+
+>uniprot|UPI0009E66273|UPI0009E66273 hypothetical protein [Arthrobacter sp. EpRS66]
+Length: 3 residues - nb: 6  from  114 to 132 - Psim:0.6666666666666666 region Length:19 
+ASGA
+AS-G
+AS-L
+KA-V
+AP-A
+AP-A
+**********************
+
+Length: 4 residues - nb: 4  from  124 to 137 - Psim:0.6875 region Length:14 
+KAVA
+PAA-
+PAL-
+PAAS
+**********************
+
+Length: 5 residues - nb: 3  from  77 to 92 - Psim:0.7777777777777778 region Length:16 
+SSAPV-
+SSSPVQ
+SSTPA-
+**********************
+
+Length: 5 residues - nb: 3  from  96 to 109 - Psim:0.6666666666666666 region Length:14 
+TPS-N
+TPSAT
+TSAST
+**********************
+
+Length: 5 residues - nb: 3  from  115 to 128 - Psim:0.6666666666666666 region Length:14 
+SGAA--
+SGASL-
+KAVA-P
+**********************
+
+Length: 6 residues - nb: 4  from  77 to 99 - Psim:0.6666666666666666 region Length:23 
+SSAPV-
+SSSPVQ
+SSTPAT
+RSTPSN
+**********************
+
+Length: 7 residues - nb: 2  from  53 to 67 - Psim:0.6875 region Length:15 
+KASASATQ
+KAPATQA-
+**********************
+
+>uniprot|UPI0009E672BD|UPI0009E672BD ankyrin repeat domain-containing protein [Gordonia phthalatica]
+Length: 7 residues - nb: 2  from  52 to 66 - Psim:0.6875 region Length:15 
+SSVSQPAT
+SSAAA-TT
+**********************
+
+>uniprot|UPI0009E72DD7|UPI0009E72DD7 hypothetical protein [Aeromicrobium sp. Root344]
+Length: 5 residues - nb: 3  from  53 to 68 - Psim:0.7222222222222222 region Length:16 
+TPS-TA
+TPTVTA
+TPN-PY
+**********************
+
+Length: 6 residues - nb: 3  from  53 to 69 - Psim:0.7222222222222222 region Length:17 
+TPS-TA
+TPTVTA
+TPNPYA
+**********************
+
+>uniprot|A0A0Q7QPL6|A0A0Q7QPL6_9ACTN Uncharacterized protein [Nocardioides sp. Root140]
+Length: 7 residues - nb: 3  from  6 to 26 - Psim:0.6666666666666666 region Length:21 
+ATALLAR
+ATADGDL
+ATVKEAL
+**********************
+
+>uniprot|UPI0009F5CCB2|UPI0009F5CCB2 ankyrin repeat domain-containing protein [Curtobacterium sp. MCBA15_001]
+Length: 6 residues - nb: 3  from  82 to 99 - Psim:0.6666666666666666 region Length:18 
+VLH-AE-
+VLVRNDE
+VLDTAD-
+**********************
+
+Length: 7 residues - nb: 2  from  55 to 68 - Psim:0.7142857142857143 region Length:14 
+AEPVSRH
+AEPSDDD
+**********************
+
+>uniprot|UPI0009F5E953|UPI0009F5E953 ankyrin repeat domain-containing protein [Curtobacterium sp. MCBA15_005]
+Length: 7 residues - nb: 2  from  54 to 67 - Psim:0.75 region Length:14 
+VVE-SADA
+VVDPDAD-
+**********************
+
+Length: 9 residues - nb: 2  from  311 to 330 - Psim:0.7272727272727273 region Length:20 
+IVRAAWGGHAA
+IVRAL-AA-AG
+**********************
+
+>uniprot|UPI0009F7269F|UPI0009F7269F glutaminase A [Mycobacterium parafortuitum]
+Length: 3 residues - nb: 4  from  120 to 133 - Psim:0.65 region Length:14 
+R-EL-
+R-ET-
+Y-DLV
+RGDT-
+**********************
+
+>uniprot|UPI0009FA3359|UPI0009FA3359 ankyrin repeat domain-containing protein [Pseudonocardia sp. CNS-004]
+Length: 8 residues - nb: 3  from  50 to 73 - Psim:0.6944444444444444 region Length:24 
+LL--GQC----A
+LL--GRVDVVRA
+LLDAGMD----V
+**********************
+
+>uniprot|UPI0009FF648D|UPI0009FF648D ankyrin repeat domain-containing protein [Nocardia vermiculata]
+Length: 4 residues - nb: 3  from  6 to 19 - Psim:0.6666666666666666 region Length:14 
+-ALAVL
+-ALGV-
+VACQT-
+**********************
+
+Length: 7 residues - nb: 3  from  42 to 63 - Psim:0.6666666666666666 region Length:22 
+AAPAPTT-
+AAPDPTLD
+AALVAAA-
+**********************
+
+>uniprot|UPI0009FF80E8|UPI0009FF80E8 hypothetical protein [Actinomadura oligospora]
+Length: 7 residues - nb: 2  from  349 to 363 - Psim:0.75 region Length:15 
+EAGADPNL
+EAG-DGTP
+**********************
+
+>uniprot|UPI000A00EAA2|UPI000A00EAA2 hypothetical protein [Nocardioides dokdonensis]
+Length: 3 residues - nb: 5  from  405 to 418 - Psim:0.72 region Length:14 
+DAG-A
+D-AS-
+I-P--
+D-G--
+D-GV-
+**********************
+
+Length: 14 residues - nb: 2  from  235 to 266 - Psim:0.6944444444444444 region Length:32 
+LRAALTAER-VAAPDAAL
+LRAAESGDADLAA--RA-
+**********************
+
+>uniprot|UPI000A079EBC|UPI000A079EBC ankyrin repeat domain-containing protein [Actinomadura formosensis]
+Length: 7 residues - nb: 2  from  421 to 435 - Psim:0.75 region Length:15 
+ATAVWTLE
+ATAV-PAR
+**********************
+
+>uniprot|UPI000B3514C3|UPI000B3514C3 ankyrin repeat domain-containing protein [Brachybacterium nesterenkovii]
+Length: 5 residues - nb: 3  from  16 to 30 - Psim:0.8 region Length:15 
+PVSDG
+PVPDG
+LVADG
+**********************
+
+Length: 13 residues - nb: 2  from  47 to 72 - Psim:0.7 region Length:26 
+DAAPA-VGSPAADGP
+DAETLHVAAPAA---
+**********************
+
+>uniprot|A0A239DPR2|A0A239DPR2_9ACTN Ankyrin repeat-containing protein [Actinoplanes regularis]
+Length: 3 residues - nb: 5  from  480 to 496 - Psim:0.68 region Length:17 
+AA-QS
+AA-E-
+EV-M-
+AALV-
+AA-G-
+**********************
+
+Length: 5 residues - nb: 4  from  480 to 498 - Psim:0.7142857142857143 region Length:19 
+AA-QS--
+AA-EEVM
+AA-LV--
+AAGAS--
+**********************
+
+Length: 7 residues - nb: 2  from  100 to 113 - Psim:0.7857142857142857 region Length:14 
+PGRVFRW
+PGRLVRP
+**********************
+
+>uniprot|UPI000B78BCE1|UPI000B78BCE1 hypothetical protein [Micromonospora sp. NBS 11-29]
+Length: 9 residues - nb: 2  from  57 to 76 - Psim:0.75 region Length:20 
+AGADVFTADSK-
+AGA---TALHKA
+**********************
+
+Length: 13 residues - nb: 2  from  38 to 65 - Psim:0.8333333333333334 region Length:28 
+ALMLAAGQADVATVE
+AL-LAAG-ADVFTAD
+**********************
+
+>uniprot|UPI000BE34D1B|UPI000BE34D1B hypothetical protein [Actinoplanes atraurantiacus]
+Length: 4 residues - nb: 5  from  7 to 26 - Psim:0.6666666666666666 region Length:20 
+G-PG-T
+G-PG-P
+G--GRT
+R-RQ-P
+RRPG--
+**********************
+
+Length: 5 residues - nb: 3  from  19 to 33 - Psim:0.7619047619047619 region Length:15 
+RRQP---
+RR-PGRA
+RRRP--A
+**********************
+
+Length: 7 residues - nb: 3  from  23 to 43 - Psim:0.7037037037037037 region Length:21 
+RR-PGR-A-
+RRRPAF-WT
+RR-GSRRA-
+**********************
+
+>uniprot|UPI000BE38B9E|UPI000BE38B9E hypothetical protein [Streptomyces microflavus]
+Length: 9 residues - nb: 2  from  24 to 41 - Psim:0.7777777777777778 region Length:18 
+GLRRIRGPG
+GLRREPGLQ
+**********************
+
+>uniprot|UPI000C23B1FB|UPI000C23B1FB ankyrin repeat domain-containing protein [Mumia flava]
+Length: 3 residues - nb: 5  from  53 to 69 - Psim:0.65 region Length:17 
+SPTP
+SPS-
+ADA-
+SPTV
+SPQ-
+**********************
+
+Length: 4 residues - nb: 5  from  52 to 70 - Psim:0.7333333333333333 region Length:19 
+PSP-T-
+PSP-S-
+-AD-A-
+-SP-TV
+-SPQT-
+**********************
+
+>uniprot|UPI000C26E220|UPI000C26E220 ankyrin repeat domain-containing protein [Streptomyces sp. CB01635]
+Length: 7 residues - nb: 4  from  100 to 127 - Psim:0.65625 region Length:28 
+AASND-DV
+AA-VDSLV
+AAGAD-IE
+APGAV-IG
+**********************
+
+>uniprot|UPI000C27C9D9|UPI000C27C9D9 ankyrin repeat domain-containing protein [Streptomyces sp. CB01635]
+Length: 5 residues - nb: 3  from  11 to 26 - Psim:0.6666666666666666 region Length:16 
+AAR-RGD
+AAEVR--
+AALDA--
+**********************
+
+>uniprot|UPI000C6F0D01|UPI000C6F0D01 ankyrin repeat domain-containing protein [Plantactinospora sp. CNZ320]
+Length: 7 residues - nb: 2  from  4 to 18 - Psim:0.8125 region Length:15 
+RRRTLPGA
+RR-TKPGT
+**********************
+
+Length: 7 residues - nb: 2  from  29 to 42 - Psim:0.8125 region Length:14 
+RK-LGARR
+RKKLG-KR
+**********************
+
+Length: 8 residues - nb: 2  from  28 to 41 - Psim:0.8125 region Length:14 
+RR-K-LGA
+RRRKKLGK
+**********************
+
+>uniprot|UPI000C708E69|UPI000C708E69 ankyrin repeat domain-containing protein [Streptomyces sp. CMB-StM0423]
+Length: 7 residues - nb: 2  from  14 to 27 - Psim:0.7857142857142857 region Length:14 
+FELATKA
+FELARRG
+**********************
+
+>uniprot|UPI000C87F65E|UPI000C87F65E ankyrin repeat domain-containing protein [Streptomyces sp. SMS_SU21]
+Length: 5 residues - nb: 4  from  186 to 205 - Psim:0.6785714285714286 region Length:20 
+RA-ED--
+RA-RVL-
+RAVEA-A
+RA-GGR-
+**********************
+
+>uniprot|UPI000C9BAEB9|UPI000C9BAEB9 ankyrin repeat domain-containing protein [Streptomyces noursei]
+Length: 4 residues - nb: 8  from  424 to 454 - Psim:0.671875 region Length:31 
+GADP----
+GA-P-G--
+---PYG-F
+DA-H----
+DA-E-E--
+SH-R-RV-
+GV-T----
+GV-P-G--
+**********************
+
+Length: 5 residues - nb: 3  from  372 to 385 - Psim:0.6666666666666666 region Length:14 
+AAQ-R
+AADEQ
+AAVFR
+**********************
+
+>uniprot|UPI000C9C5C91|UPI000C9C5C91 ankyrin repeat domain-containing protein [Streptomyces diastaticus]
+Length: 8 residues - nb: 2  from  41 to 56 - Psim:0.6875 region Length:16 
+LDDDARTA
+LDLAAQEN
+**********************
+
+>uniprot|UPI000CD000D5|UPI000CD000D5 ankyrin repeat domain-containing protein [Pseudonocardia dioxanivorans]
+Length: 5 residues - nb: 3  from  89 to 104 - Psim:0.6666666666666666 region Length:16 
+PADSAD
+PA-AAS
+PADEF-
+**********************
+
+>uniprot|UPI000CDE4C77|UPI000CDE4C77 ankyrin repeat domain-containing protein [Streptomyces sp. Ru72]
+Length: 8 residues - nb: 2  from  163 to 178 - Psim:0.7777777777777778 region Length:16 
+ARRE-ALAE
+ARRWLAL-D
+**********************
+
+Length: 9 residues - nb: 2  from  55 to 74 - Psim:0.7727272727272727 region Length:20 
+RLLLAAGADPD
+RL--SAGADAP
+**********************
+
+Length: 9 residues - nb: 2  from  163 to 179 - Psim:0.7777777777777778 region Length:17 
+ARRE-ALAE
+ARRWLALDV
+**********************
+

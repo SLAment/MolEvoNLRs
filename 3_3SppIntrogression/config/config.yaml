@@ -1,0 +1,25 @@
+### 3SppIntrogression: A pipeline to compare pair-wise identity of P. anserina/pauciseta/comata
+# ===========================================================================
+# Sandra Lorena Ament Velasquez
+# 2025/09/23
+# ++++++++++++++++++++++++++++++++++++++++++++++
+
+# File with a list of samples to analyze
+SampleIDs_file: "../2_GenomeIdentity2024/data/IndividualsIDsSpp_dummy.txt"
+# SampleIDs_file: "../2_GenomeIdentity2024/data/IndividualsIDsSpp.txt"
+
+# VCF file before filtering for missing data
+VCFfile: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/vcfs/PodoPop-vs-Podan2-snps-NoTEs-gatkPASS.vcf.gz"
+PathToCovBED: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/genomecov"
+TEsites: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/data/cov/TEsites.bed"
+
+# Output name
+OUTPUTbasename: "PodoPop-vs-Podan2-snps-NoTEs-gatkPASS"
+
+# Variables
+WINSIZE: 2000 # Size of non-overlapping windows to calculate dxy
+
+# Scripts
+PopGenome_WinMissingness: "../2_GenomeIdentity2024/scripts/PopGenome_WinMissingness.R"
+PopGenome_PairwiseDivergence: "../2_GenomeIdentity2024/scripts/PopGenome_PairwiseDivergence.R"
+PaDivergenceCorr2kb: "scripts/PaDivergenceCorr2kb.R"

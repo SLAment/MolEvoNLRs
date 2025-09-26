@@ -1,0 +1,27 @@
+### NLRvsRandomGenes: A pipeline to compare NLRs from randomly selected genes in the Podospora anserina species complex
+# ===========================================================================
+# Sandra Lorena Ament Velasquez
+# 2025/09/23
+# ++++++++++++++++++++++++++++++++++++++++++++++
+
+randomfile: "data/RandomGenesList.txt"
+HICfile: "data/HICGenesList.txt"
+NLRfile: "data/LICGenesList.txt"
+geneevo: "data/EvolutionAllGenes.csv"
+
+path2alignments: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/data"
+
+# Tajima calculated in 10Kb windows with less than 50% missing data
+FULLTajima: "../IntroRegions/data/WageningenTajimaMin5Kb.bed"
+
+ANNOTATION: "../IntroRegions/data/Podan2.nice-3.02.gff3"
+refgenome: "/Users/lorena/Library/CloudStorage/Dropbox/PhD_UU/Data/ReferenceGenome/JGI/Podan2/Podan2_AssemblyScaffoldsmt.fa"
+TEs: "/Users/lorena/Library/CloudStorage/Dropbox/PhD_UU/Analyses/Assemblies/BestAssemblies/FinalGenomes/Annotation_nice3/Podan2.repeatmasker.gff3"
+
+winsize: 2000
+
+PlotBalancingSelection: "scripts/PlotBalancingSelection.R"
+PiDistNLRvsRandom: "scripts/PiDistNLRvsRandom.R"
+NLRdynamics: "scripts/NLRdynamics.R"
+
+

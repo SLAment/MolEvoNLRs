@@ -1,0 +1,5167 @@
+PHYLUM:PLANCTOMYCETES
+
+>uniprot|A0A2E5G8G5|A0A2E5G8G5_9BACT Uncharacterized protein [Phycisphaeraceae bacterium]
+Length: 9 residues - nb: 2  from  611 to 628 - Psim:0.7777777777777778 region Length:18 
+ALQHLEQLT
+ALQHLTVRS
+**********************
+
+>uniprot|A0A2E7KGS6|A0A2E7KGS6_9PLAN Uncharacterized protein [Gimesia sp.]
+Length: 3 residues - nb: 5  from  1297 to 1310 - Psim:0.65 region Length:14 
+-LAH
+-LAG
+-LT-
+KLK-
+KLF-
+**********************
+
+Length: 9 residues - nb: 2  from  991 to 1010 - Psim:0.7727272727272727 region Length:20 
+SHISGIDDAGL
+SHISGLT-R-L
+**********************
+
+>uniprot|A0A2E2BY21|A0A2E2BY21_9PLAN Uncharacterized protein [Gimesia sp.]
+Length: 5 residues - nb: 3  from  177 to 192 - Psim:0.6666666666666666 region Length:16 
+NLGRLP
+NLLQL-
+NLNNT-
+**********************
+
+Length: 5 residues - nb: 3  from  273 to 288 - Psim:0.6666666666666666 region Length:16 
+NLGRLP
+NLLQL-
+NLNDT-
+**********************
+
+Length: 24 residues - nb: 4  from  111 to 206 - Psim:0.7395833333333334 region Length:96 
+NLRSLDLNKTQISDEGIKHLSSLT
+NLTHLHLNNTQVGDEGIKHLSSLP
+NLQFLNIVNTQVSDEGMKNLGRLP
+NLLQLNLNNTQISDGGLKHLGGVT
+**********************
+
+>uniprot|A0A2E7KDV7|A0A2E7KDV7_9PLAN Uncharacterized protein [Gimesia sp.]
+Length: 6 residues - nb: 3  from  54 to 72 - Psim:0.6666666666666666 region Length:19 
+LKAAES-
+LKAAGAK
+LKLDKD-
+**********************
+
+Length: 7 residues - nb: 2  from  51 to 64 - Psim:0.875 region Length:14 
+ESELKAA-
+ES-LKAAG
+**********************
+
+Length: 8 residues - nb: 5  from  51 to 91 - Psim:0.6571428571428571 region Length:41 
+--E-SEL-KAA---
+--E-S-L-KAAGA-
+--K-LKLDKDG--Y
+VIE-VNL-RGT---
+--VIDDA-KTL---
+**********************
+
+>uniprot|A0A2E2C732|A0A2E2C732_9PLAN Uncharacterized protein [Gimesia sp.]
+Length: 24 residues - nb: 10  from  81 to 324 - Psim:0.8285714285714286 region Length:244 
+SDAGL----VHLKGLTNLTTLNLEFTNV
+SDAGL----VHLKELTRLTTLNLAFTKV
+TNAGL----VHLKGLTNLMTLDLKDTNV
+SDAGLLYLIVYLKGLTSLTTLNLEGTKV
+SDLLL----VHLKGLTNLTTLNLKDTNV
+SDAGL----VHLEELPNLTTLNLEKTKV
+SDAGL----VHLKGLTNLTALNLYGTNI
+SDAGL----IHLKERTNLTALNLDFTKV
+SDAGL----VHLKGLTNLTMLNLKDTKV
+SDAGF----VYLKGLTKLTTLDISRTKI
+**********************
+
+Length: 24 residues - nb: 9  from  104 to 323 - Psim:0.8314176245210728 region Length:220 
+VSDAGL----VHLKELTRLTTLNLAF-TK
+VTNAGL----VHLKGLTNLMTLDLKD-TN
+VSDAGLLYLIVYLKGLTSLTTLNLEG-TK
+VSDLLL----VHLKGLTNLTTLNLKD-TN
+VSDAGL----VHLEELPNLTTLNLEK-TK
+VSDAGL----VHLKGLTNLTALNLYG-TN
+ISDAGL----IHLKERTNLTALNL-DFTK
+VSDAGL----VHLKGLTNLTMLNLKD-TK
+VSDAGF----VYLKGLTKLTTLDISR-TK
+**********************
+
+Length: 24 residues - nb: 6  from  134 to 281 - Psim:0.8275862068965517 region Length:148 
+----VHLKGLTNLMTLDLKD-TNVSDAGL
+LYLIVYLKGLTSLTTLNLEG-TKVSDLLL
+----VHLKGLTNLTTLNLKD-TNVSDAGL
+----VHLEELPNLTTLNLEK-TKVSDAGL
+----VHLKGLTNLTALNLYG-TNISDAGL
+----IHLKERTNLTALNL-DFTKVSDAGL
+**********************
+
+Length: 24 residues - nb: 4  from  235 to 330 - Psim:0.8 region Length:96 
+HLKGLTNLTALNLYG-TNISDAGLI
+HLKERTNLTALNL-DFTKVSDAGLV
+HLKGLTNLTMLNLKD-TKVSDAGFV
+YLKGLTKLTTLDISR-TKISNAGLV
+**********************
+
+>uniprot|A0A2E2C1I1|A0A2E2C1I1_9PLAN Uncharacterized protein [Gimesia sp.]
+Length: 7 residues - nb: 2  from  38 to 52 - Psim:0.875 region Length:15 
+QQAPAAEK
+QQ-PAAEP
+**********************
+
+Length: 8 residues - nb: 2  from  38 to 53 - Psim:0.8333333333333334 region Length:16 
+QQAPAAEK-
+QQ-PAAEPD
+**********************
+
+Length: 9 residues - nb: 2  from  38 to 54 - Psim:0.8 region Length:17 
+QQAPAAE--K
+QQ-PAAEPDS
+**********************
+
+>uniprot|Q5EUG6|Q5EUG6_9BACT GTP-binding protein [Gemmata sp. Wa1-1]
+Length: 20 residues - nb: 4  from  120 to 208 - Psim:0.8152173913043478 region Length:89 
+LPEWLGQLTQLQRLDLANNSLTE
+LPEWLGQLTRLQRLDLANNSLTE
+LPEWLGQLTQLQKLIIDNNLLNE
+LPESLGRLTQLQTLRL-NKN-P-
+**********************
+
+Length: 20 residues - nb: 3  from  153 to 218 - Psim:0.6811594202898551 region Length:66 
+LQRLDLANNSLTELPEWLGQLTQ
+LQKLIIDNNLLNELPESLGRLTQ
+LQTLRLNKNPLN--PELMVAYA-
+**********************
+
+Length: 19 residues - nb: 3  from  94 to 154 - Psim:0.7654320987654321 region Length:61 
+----LTELPEWLGQFTGLRVLQLESNH
+----LTRLPEWLGQLTQLQRLDL----
+ANNSLTELPEWLGQLTRLQ--------
+**********************
+
+Length: 19 residues - nb: 3  from  122 to 186 - Psim:0.8695652173913043 region Length:65 
+EWLGQLTQLQRLDLANNSLTELP
+EWLGQLTRLQRLDLANNSLTELP
+EWLGQLTQLQKLIIDNN-L--L-
+**********************
+
+Length: 19 residues - nb: 3  from  153 to 217 - Psim:0.6956521739130435 region Length:65 
+LQRLDLANNSLTELPEWLGQLTQ
+LQKLIIDNNLLNELPESLGRLTQ
+LQTLRLNKNPLN--PE-L-MVAY
+**********************
+
+Length: 23 residues - nb: 5  from  120 to 233 - Psim:0.712 region Length:114 
+-LPE-WLGQLTQLQRLDLANNSLTE
+-LPE-WLGQLTRLQRLDLANNSLTE
+-LPE-WLGQLTQLQKLIIDNNLLNE
+-LPE-SLGRLTQLQTLRLNKNPLNP
+ELMVAYAEGLTSVVRY-M-Q-AKAE
+**********************
+
+>uniprot|Q5EUH2|Q5EUH2_9BACT Putative regulatory subunit (Fragment) [Gemmata sp. Wa1-1]
+Length: 3 residues - nb: 5  from  65 to 80 - Psim:0.65 region Length:16 
+LT-N
+LT-S
+LNLG
+VT-Q
+VT-G
+**********************
+
+Length: 21 residues - nb: 8  from  38 to 223 - Psim:0.7685185185185185 region Length:186 
+LK---ELTNLTALDLFSTGVTDTGLQE
+LK---GLTNLTSLNLGVTQVTGAGLQE
+LK---GLTNLTSLNLGSTGVTDAGLQD
+LK---GLNKLASLDLRGTEVTDVGLQE
+LK---GLNSLTELRLRATEVTNVGLQE
+LK---GLNNLASLDLRDTRVTDVGLQE
+LK---GLNNLASLDLRDTKVTDTG---
+LKELKGLTNLTALDLFSTQVT------
+**********************
+
+Length: 21 residues - nb: 14  from  66 to 380 - Psim:0.6770186335403726 region Length:315 
+-------T-NLTSLN--L-GVT----QVTGAGL--Q---E-L-KGL
+-------T-NLTSLN--L-GST----GVTD-AG-L--Q---DL---
+----KGLN-KL-ASL-DLRG-T----EVTD-VG-L-----------
+----QELK-GL-NSLTELRL---RATE-VT-N--V---G--L----
+-------Q-ELKGLN-NLASLDLRDTRVT-DV-G--L---------
+-------Q-ELKGLN-NLASL-----DLRD-TK-V--T---D----
+-------T----GLK-ELKGLT----NLTA-LD-L-FS---TQ---
+------VT-DV-GLK-ELNGLT----KLAS-LD-L--SRTG-----
+------VT-GT-GLI-ELKSFT----KLAL-LD-L--SGTR-----
+------VT-DA-GLH-QLKGLT----SLTS-LH-LGGT---R----
+------VT-DV-GLK-ELKGLT----SLTS-LH-L--S--------
+-----GTRTTDAG-LQELNG----LTNL-TS-L-------------
+HLSDTRVT-DV-GLK-ELKSFT----KLTS-L--------------
+-----HLG-GT-GVT-DT-GLK----ELKG-LTN--L---------
+**********************
+
+Length: 21 residues - nb: 12  from  102 to 380 - Psim:0.6635802469135802 region Length:279 
+-VT-DA-GLQDLKGLNKLASLDLRGTE
+-VT-DV-GLQELKGLNSLTELRLRATE
+-VT-NV-GLQELKGLNNLASLDLRDTR
+-VT-DV-GLQELKGLNNLASLDLRDTK
+-VT-DT-GLKELKGLTNLTALDLFSTQ
+-VT-DV-GLKELNGLTKLASLDLSRTG
+-VT-GT-GLIELKSFTKLALLDLSGTR
+-VT-DA-GLHQLKGLTSLTSLHLGGTR
+-VT-DV-GLKELKGLTSLTSLHL--S-
+GTRTTDAGLQELNGLTNLTSL------
+HLS-DT-RVTDV-GLKELKSFTKLTSL
+HLG-GT-GVTDT-GLKELKGLT--NL-
+**********************
+
+Length: 21 residues - nb: 11  from  132 to 380 - Psim:0.6753246753246753 region Length:249 
+----QELK-GL-NSLTELRL---RATEVT-N--V---G--L--
+-------Q-ELKGLN-NLASLDLRDTRVTDV-G--L-------
+-------Q-ELKGLN-NLASL-----DLRDTK-V--T---D--
+-------T----GLK-ELKGLT----NLTALD-L-FS---TQ-
+------VT-DV-GLK-ELNGLT----KLASLD-L--SRTG---
+------VT-GT-GLI-ELKSFT----KLALLD-L--SGTR---
+------VT-DA-GLH-QLKGLT----SLTSLH-LGGT---R--
+------VT-DV-GLK-ELKGLT----SLTSLH-L--S------
+-----GTRTTDAG-LQELNG----LTNLTS-L-----------
+HLSDTRVT-DV-GLK-ELKSFT----KLTSL------------
+-----HLG-GT-GVT-DT-GLK----ELKGLTN--L-------
+**********************
+
+Length: 21 residues - nb: 3  from  159 to 227 - Psim:0.8333333333333334 region Length:69 
+KGLNNLASLDLRDTRVTDVGLQEL
+KGLNNLASLDLRDTKVTDTGLKEL
+KGLTNLTALDLFSTQVTDVGL---
+**********************
+
+Length: 21 residues - nb: 5  from  191 to 304 - Psim:0.7111111111111111 region Length:114 
+L-DLRD-TK-VTDTGLKELKGLTNLTA
+L-DLFS-TQ-VTDVGLKELNGLTKLAS
+L-DLSR-TG-VTGTGLIELKSFTKLAL
+L-DLSG-TR-VTDAGLHQLKGLTS---
+LTSLHLGGTRVTDVGLKELKG------
+**********************
+
+Length: 21 residues - nb: 12  from  229 to 507 - Psim:0.7413793103448276 region Length:279 
+ELNGLTKLASL-DLSRTGVTGT-GLI---
+------ELKSFTKLALLDLSGT-R-VTDA
+---GLHQLKGLTSLTSLHLGGT-R-V---
+TDVGLKELKGLTSLTSLHLSGT-R-T---
+TDAGLQELNGLTNLTSLHLSDT-R-V---
+TDVGLKELKSFTKLTSLHLGGT-G-V---
+TDTGLKELKGLTNLTALDLFST-Q-V---
+TDVGLQELNGLTKLTSLYLSAA-A-I---
+TDTGLKELKELTQLALLDLSGT-R-V---
+TDAGLQELSGLTKLAFLRLGGT-R-V---
+TDAGLKELKGLTSLTSLHLSGT-R-V---
+TDAGLQELSGLTNLTT---TGPPR-----
+**********************
+
+Length: 21 residues - nb: 4  from  268 to 360 - Psim:0.8333333333333334 region Length:93 
+TRVTDAGLHQLKGLTSLTSLHLGG
+TRVTDVGLKELKGLTSLTSLHLSG
+TRTTDAGLQELNGLTNLTSLHLSD
+TRVTDVGLKELKSFTKLTSLH---
+**********************
+
+Length: 21 residues - nb: 3  from  308 to 370 - Psim:0.7530864197530864 region Length:63 
+L---T---SLHLSGTRTTDAGLQELNG
+L---TNLTSLHLSDTRVTDVGLKE---
+LKSFTKLTSLHLGGTGVTDTG------
+**********************
+
+Length: 21 residues - nb: 2  from  334 to 378 - Psim:0.7692307692307693 region Length:45 
+SLHLS-DTRV-TDVGLKELKSFTKLT
+SLHLGGT--GVTDTGLKELK-G--LT
+**********************
+
+Length: 21 residues - nb: 4  from  415 to 507 - Psim:0.76 region Length:93 
+TDTGLKELKELTQLALLDLSGT-RV
+TDAGLQELSGLTKLAFLRLGGT-RV
+TDAGLKELKGLTSLTSLHLSGT-RV
+TDAGLQELSGLTNLTT---TGPPR-
+**********************
+
+Length: 21 residues - nb: 3  from  445 to 513 - Psim:0.7083333333333334 region Length:69 
+ELSGLTKLAFLRLGGTRVTDAGLK
+ELKGLTSLTSLHLSGTRVTDAGLQ
+ELSGLTNLT-TT-GPPRY-EGDER
+**********************
+
+Length: 24 residues - nb: 9  from  38 to 250 - Psim:0.757201646090535 region Length:213 
+LK---ELTNLTALDLFSTGVTDTGLQE
+LK---GLTNLTSLNLGVTQVTGAGLQE
+LK---GLTNLTSLNLGSTGVTDAGLQD
+LK---GLNKLASLDLRGTEVTDVGLQE
+LK---GLNSLTELRLRATEVTNVGLQE
+LK---GLNNLASLDLRDTRVTDVGLQE
+LK---GLNNLASLDLRDTKVTDTG---
+LKELKGLTNLTALDLFSTQVTDVG---
+LKELNGLTKLASLDLSRTGVTGTG---
+**********************
+
+Length: 24 residues - nb: 7  from  68 to 232 - Psim:0.7678571428571429 region Length:165 
+LTSL-NLGV--TQVTGAGLQELKG
+LTNLTSLNLGSTGVTDAGLQDLKG
+LNKLASLDLRGTEVTDVGLQELKG
+LNSLTELRLRATEVTNVGLQELKG
+LNNLASLDLRDTRVTDVGLQELKG
+LNNLASLDLRDTKVTDTGLKELKG
+LTNLTALDLFSTQVTDVGLKELNG
+**********************
+
+Length: 24 residues - nb: 4  from  139 to 237 - Psim:0.8055555555555556 region Length:99 
+SLTELRLRATEVTNVGLQELKGLNNLA
+SL-DLRD-TR-VTDVGLQELKGLNNLA
+SL-DLRD-TK-VTDTGLKELKGLTNLT
+AL-DLFS-TQ-VTDVGLKELNGLTKLA
+**********************
+
+Length: 24 residues - nb: 5  from  227 to 346 - Psim:0.7555555555555555 region Length:120 
+LKELNGLTKLASLDLSRTGVTGTGLIE
+LKSF---TKLALLDLSGTRVTDAGLHQ
+LK---GLTSLTSLHLGGTRVTDVG---
+LKELKGLTSLTSLHLSGTRTTDAG---
+LQELNGLTNLTSLHLSDTRVTDVG---
+**********************
+
+Length: 24 residues - nb: 3  from  269 to 340 - Psim:0.875 region Length:72 
+RVTDAGLHQLKGLTSLTSLHLGGT
+RVTDVGLKELKGLTSLTSLHLSGT
+RTTDAGLQELNGLTNLTSLHLSDT
+**********************
+
+Length: 24 residues - nb: 8  from  325 to 516 - Psim:0.7239583333333334 region Length:192 
+ELNGLTNLTSLHLSDTRVTDVGLK
+ELKSFTKLTSLHLGGTGVTDTGLK
+ELKGLTNLTALDLFSTQVTDVGLQ
+ELNGLTKLTSLYLSAAAITDTGLK
+ELKELTQLALLDLSGTRVTDAGLQ
+ELSGLTKLAFLRLGGTRVTDAGLK
+ELKGLTSLTSLHLSGTRVTDAGLQ
+ELSGLTNLTTTGPPRYEGDERGTS
+**********************
+
+>uniprot|A0A2E7RI16|A0A2E7RI16_9BACT Uncharacterized protein [Planctomycetes bacterium]
+Length: 7 residues - nb: 2  from  58 to 71 - Psim:0.8571428571428571 region Length:14 
+LSLFANK
+LSLRGNK
+**********************
+
+>uniprot|A0A2D7HG10|A0A2D7HG10_9PLAN Internalin [Rhodopirellula sp.]
+Length: 5 residues - nb: 7  from  61 to 95 - Psim:0.9714285714285714 region Length:35 
+EKKAA
+EKKAA
+EKKAA
+EKKAA
+EKKAA
+EKKAA
+EMKAA
+**********************
+
+Length: 5 residues - nb: 6  from  69 to 98 - Psim:0.9333333333333333 region Length:30 
+AAEKK
+AAEKK
+AAEKK
+AAEKK
+AAEMK
+AAEMK
+**********************
+
+Length: 5 residues - nb: 4  from  77 to 96 - Psim:0.95 region Length:20 
+KKAAE
+KKAAE
+KKAAE
+MKAAE
+**********************
+
+Length: 5 residues - nb: 3  from  85 to 99 - Psim:0.8666666666666667 region Length:15 
+AEKKA
+AEMKA
+AEMKE
+**********************
+
+Length: 6 residues - nb: 8  from  58 to 100 - Psim:0.8928571428571429 region Length:43 
+AELEKKA
+AE--KKA
+AE--KKA
+AE--KKA
+AE--KKA
+AE--KKA
+AE--MKA
+AE-MKEK
+**********************
+
+Length: 6 residues - nb: 6  from  68 to 98 - Psim:0.9444444444444444 region Length:31 
+KAAE-K
+KAAE-K
+KAAE-K
+KAAE-K
+KAAE-M
+KAAEMK
+**********************
+
+Length: 6 residues - nb: 4  from  76 to 97 - Psim:0.8214285714285714 region Length:22 
+EKKAA--
+EKKAA--
+EKKAAE-
+-MKAAEM
+**********************
+
+Length: 6 residues - nb: 3  from  84 to 99 - Psim:0.8888888888888888 region Length:16 
+AAEKK-
+AAEMK-
+AAEMKE
+**********************
+
+>uniprot|A0A2D7HIC4|A0A2D7HIC4_9PLAN Uncharacterized protein [Rhodopirellula sp.]
+Length: 4 residues - nb: 4  from  366 to 380 - Psim:0.8333333333333334 region Length:15 
+NL-K--
+NL-P--
+NL-KSL
+NLTK--
+**********************
+
+>uniprot|A0A2D7HKS0|A0A2D7HKS0_9PLAN Uncharacterized protein [Rhodopirellula sp.]
+Length: 23 residues - nb: 3  from  177 to 245 - Psim:0.8695652173913043 region Length:69 
+LSMLPPEIGQLTNLTHLRLWDNQ
+LSTLPAEIGQLTNLTNLSLWDNQ
+LPTLPREIGQLTNLTALSLHGNQ
+**********************
+
+Length: 23 residues - nb: 4  from  206 to 297 - Psim:0.78125 region Length:92 
+EIGQLTNLTNLSLWD-NQLPTLPR
+EIGQLTNLTALSLHG-NQFATLPP
+EIGKLTKLTHLGL-GENXFTTLPP
+EVGQLTNLTWLHLES-NQLTTLPS
+**********************
+
+Length: 24 residues - nb: 9  from  177 to 386 - Psim:0.7407407407407407 region Length:210 
+-LSMLPPEIGQLTNLTHLRLWDNQ---
+LSTL-PAEIGQLTNLTNLSLWDNQL--
+-PTL-PREIGQLTNLTALSLHGNQFA-
+--TL-PPEIGKLTKLTHLGLGENXFT-
+--TL-PPEVGQLTNLTWLHLESNQLT-
+--TL-PSEXGQLTNLAGLSLHGKHFT-
+--TL-PSEIGKLTKLVYLGLGENQIT-
+--TL-PAEIGQLANLTWLYLEGNQLT-
+--TL-PPEIGKLTKLTELQIEXNSVTD
+**********************
+
+Length: 24 residues - nb: 4  from  206 to 299 - Psim:0.7685185185185185 region Length:94 
+EIGQLTNLTNLSLWD-NQLPTLPR---
+EIGQLTNLTALSLHG-NQFATLPP---
+EIGKLTKLTHLGL-GENXFTTLPP--E
+-VGQLTNLTWLHLES-NQLTTLPSEX-
+**********************
+
+Length: 25 residues - nb: 5  from  177 to 297 - Psim:0.7225806451612903 region Length:121 
+-LSMLPPEIGQLTNLTHLRLW-DNQ------
+LSTL-PAEIGQLTNLTNLSLWD-NQLP----
+--TL-PREIGQLTNLTALSLHG-NQFATL--
+--P--P-EIGKLTKLTHLGL-GENXFTTL--
+--P--P-EVGQLTNLTWLHLES-NQLTTLPS
+**********************
+
+Length: 25 residues - nb: 7  from  206 to 375 - Psim:0.6741071428571429 region Length:170 
+EIGQLTNLTNLSLWDNQLPTLP----R-----
+EIGQLTNLTALSLHGNQFATLPP---------
+EIGKLTKLTHLGLGENXFTTLPPEV-------
+--GQLTNLTWLHLESNQLTTLPSEXGQ-----
+----LTNLAGLSLHGKHFTTLPSEIGK-----
+----LTKLVYLGLGENQITTLPAEIGQ--LAN
+----LT---WLYLEGNQLTTLPPEIGKLTKLT
+**********************
+
+>uniprot|A0A2E4M854|A0A2E4M854_9PLAN Uncharacterized protein [Rhodopirellula sp.]
+Length: 9 residues - nb: 2  from  483 to 498 - Psim:0.7272727272727273 region Length:16 
+TL----TTPFV
+TLKGGATTP--
+**********************
+
+>uniprot|A0A2E8F1W9|A0A2E8F1W9_9PLAN Uncharacterized protein [Planctomyces sp.]
+Length: 24 residues - nb: 3  from  365 to 437 - Psim:0.8333333333333334 region Length:73 
+-LSHNKKITDAGLVHLKELTKLQTLD
+-LSYSTNFTDAGLVHLKELTALQTL-
+KLG-NTKITDAGLGHLKGLTNLQTL-
+**********************
+
+>uniprot|A0A2E8FLH5|A0A2E8FLH5_9PLAN Uncharacterized protein (Fragment) [Planctomycetaceae bacterium]
+Length: 4 residues - nb: 5  from  1407 to 1425 - Psim:0.6666666666666666 region Length:19 
+-SL-VS
+-SL-P-
+-SL-DA
+--L-GE
+LSFLD-
+**********************
+
+Length: 9 residues - nb: 2  from  3185 to 3200 - Psim:0.7 region Length:16 
+ID-G--DTIL
+IDLGAGDDT-
+**********************
+
+Length: 9 residues - nb: 11  from  3354 to 3451 - Psim:0.6503496503496503 region Length:98 
+IA-G-G---LL-R
+-G-GPG-DDRL-T
+-G-GVN-DDII-H
+-G-GNG-DDFI-N
+-A-RNG-DDVL-Y
+-G-GTG-NDNM-N
+-G-GTG-ADYL-D
+-G-GIG-NDFV-K
+-GQGSTGDT--VT
+-G-GLG-NDII-D
+-G-GDG-TDVL-Y
+**********************
+
+Length: 9 residues - nb: 4  from  3374 to 3409 - Psim:0.6666666666666666 region Length:36 
+DDIIHGGNG
+DDFINARNG
+DDVLYGGTG
+NDNMNGGTG
+**********************
+
+Length: 9 residues - nb: 2  from  3702 to 3719 - Psim:0.8888888888888888 region Length:18 
+NDVIDGGAG
+NDVIAGGEG
+**********************
+
+Length: 9 residues - nb: 3  from  3879 to 3903 - Psim:0.7037037037037037 region Length:25 
+GGDDQMVGQ
+GGDDVLNGQ
+GGTDRMA--
+**********************
+
+>uniprot|A0A2E8FMW1|A0A2E8FMW1_9PLAN Sec-independent protein translocase protein TatC [Planctomycetaceae bacterium]
+Length: 3 residues - nb: 5  from  278 to 292 - Psim:0.65 region Length:15 
+DQL-
+DQL-
+KQLR
+S-L-
+SLS-
+**********************
+
+>uniprot|A0A2E7EQX2|A0A2E7EQX2_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 24 residues - nb: 4  from  114 to 217 - Psim:0.7580645161290323 region Length:104 
+FQGLGNLQTLDL-F---R--NEV-TSIESGA
+FQGLSNLQTLDLSF---NGRPGERTRIESGA
+FQGLDNLKTLHL-SGSTR--FNAVTKIENGT
+FQGLDNLETLH--F---S-INGV-TSIEIGA
+**********************
+
+Length: 24 residues - nb: 8  from  143 to 342 - Psim:0.7109375 region Length:200 
+NLQTLDLS---FNGRPGER-TRIESGAFQGLD
+NLKTLHLSGSTRF----NAVTKIENGTFQGLD
+NLETLHFS---IN----GV-TSIEIGAFDGLD
+NLKNLHLE---GN----QI-TGLDRVAFEELD
+NLETLHLE---RN----QI-ASLGRGDFDGLD
+NLKTLHLE---HN----QI-TGLDRGSFEGLD
+NLQELNLA---SN----EI-ENIEVGAFNGLD
+NLLELSLW---RN----SINTPLKSDTFQGL-
+**********************
+
+>uniprot|A0A2E8ATU2|A0A2E8ATU2_9PLAN F-box protein [Planctomycetaceae bacterium]
+Length: 22 residues - nb: 3  from  57 to 124 - Psim:0.8205128205128205 region Length:68 
+YLS-FT-KITDAGLVHLAGLTNLTEL
+YLS-GT-QITGAGLVHLAGLTNL-K-
+QLGLMYTQITDAGLVHLAGLTN----
+**********************
+
+Length: 22 residues - nb: 7  from  87 to 245 - Psim:0.7901785714285714 region Length:159 
+--------ITGAGLVHLAGLTNLKQLGLMYTQ
+--------ITDAGLVHLAGLTNLQELSL-PNQ
+--------ITDAGLVHLAGLTNLKTLYL--FN
+----T--QVTDAGLVHLAGLTNLQVLGL----
+----SDNQITDAGLAHLAGLTNLQALGL----
+----SDNQVADAGLVHLAGMTNLQEL------
+HLNST--KITDAGLVHLAGLTKLE--------
+**********************
+
+Length: 22 residues - nb: 5  from  122 to 236 - Psim:0.7857142857142857 region Length:115 
+--LTNLQELSLP-N-QI-TDAGLVHLAG
+--LTNLKTLYLF-NTQV-TDAGLVHLAG
+--LTNLQVLGLSDN-QI-TDAGLAHLAG
+--LTNLQALGLSDN-QV-ADAGLVHL--
+AGMTNLQELHLN-S-TKITDAGLV----
+**********************
+
+Length: 22 residues - nb: 3  from  159 to 226 - Psim:0.8333333333333334 region Length:68 
+-TD-AGLVHLAGLTNLQVLGLSDNQI
+-TD-AGLAHLAGLTNLQALGLSDN--
+QVADAGLVHLAGMTNLQELHL--N--
+**********************
+
+Length: 23 residues - nb: 3  from  57 to 126 - Psim:0.8533333333333334 region Length:70 
+Y-LSFTKITDAGLVHLAGLTNLTEL
+Y-LSGTQITGAGLVHLAGLTNLKQ-
+LGLMYTQITDAGLVHLAGLTNL-Q-
+**********************
+
+Length: 23 residues - nb: 7  from  87 to 249 - Psim:0.7936507936507936 region Length:163 
+---ITGAGLVHLAGLTNLKQLGLMYTQ
+---ITDAGLVHLAGLTNLQELSLP-NQ
+---ITDAGLVHLAGLTNLKTLYLF-NT
+--QVTDAGLVHLAGLTNLQVLGL--SD
+-NQITDAGLAHLAGLTNLQALGL--SD
+-NQVADAGLVHLAGMTNLQELHL--N-
+STKITDAGLVHLAGLTKL-EI-L--NL
+**********************
+
+Length: 23 residues - nb: 5  from  122 to 238 - Psim:0.8148148148148148 region Length:117 
+-LTNLQELSLP-N-Q-ITDAGLVHLAG
+-LTNLKTLYLF-NTQ-VTDAGLVHLAG
+-LTNLQVLGLSDN-Q-ITDAGLAHLAG
+-LTNLQALGLSDN-Q-VADAGLVHLA-
+GMTNLQELHLN-S-TKITDAGLVHL--
+**********************
+
+Length: 23 residues - nb: 3  from  159 to 228 - Psim:0.84 region Length:70 
+T-DAGLVHLAGLTNLQVLGLSDNQI
+T-DAGLAHLAGLTNLQALGLSDNQ-
+VADAGLVHLAGMTNLQELHL--NST
+**********************
+
+Length: 24 residues - nb: 7  from  75 to 241 - Psim:0.8228571428571428 region Length:167 
+TNLTELYLS-GTQITGAGLVHLAGL
+TNLKQLGLMYT-QITDAGLVHLAGL
+TNLQELSLP-N-QITDAGLVHLAGL
+TNLKTLYLF-NTQVTDAGLVHLAGL
+TNLQVLGLSDN-QITDAGLAHLAGL
+TNLQALGLSDN-QVADAGLVHLAGM
+TNLQELHLN-STKITDAGLVHLAGL
+**********************
+
+Length: 24 residues - nb: 5  from  159 to 274 - Psim:0.72 region Length:116 
+TDAGLVHLA-GLTNLQVLGLSDNQI
+TDAGLAHLA-GLTNLQALGLSDNQV
+ADAGLVHLA-GMTNLQELHLNSTKI
+TDAGLVHLA-GLTKLEILNLFDTQV
+TDGGVAELKKALPKCNIVGL-----
+**********************
+
+>uniprot|A0A2E7NTE6|A0A2E7NTE6_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 5 residues - nb: 5  from  29 to 52 - Psim:0.675 region Length:24 
+-AEQ-Q--
+-AEQTK--
+-REQ-EAV
+-DAI-K--
+DAGG-R--
+**********************
+
+>uniprot|A0A2E7NPF4|A0A2E7NPF4_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 9 residues - nb: 2  from  15 to 34 - Psim:0.8181818181818182 region Length:20 
+VRVDRSGRVVS
+VRMD-GGRVV-
+**********************
+
+>uniprot|A0A2E7L0D2|A0A2E7L0D2_9PLAN Uncharacterized protein (Fragment) [Planctomycetaceae bacterium]
+Length: 19 residues - nb: 3  from  151 to 210 - Psim:0.7638888888888888 region Length:60 
+NLQ--F---TYITDAGLVHLKGLT
+NLQHLYL--TQITDAGLVHLKGLT
+NLKILPLAGSKITDAGLVH-----
+**********************
+
+Length: 24 residues - nb: 6  from  114 to 255 - Psim:0.7847222222222222 region Length:142 
+LVHLKGLTGLQTLGLAGSKITDAG
+LVHLKGMTKLETLNLQFTYITDAG
+LVHLKGLTNLQHLYL--TQITDAG
+LVHLKGLTNLKILPLAGSKITDAG
+LVHLKGMTELQKLNLSRSNITDAG
+LMHLKGLPNLQNLSLFGTKVTDAG
+**********************
+
+Length: 24 residues - nb: 6  from  151 to 287 - Psim:0.7333333333333333 region Length:137 
+NLQ--F---TYITDAGLVHLKG-LT-----
+NLQHLYL--TQITDAGLVHLKG-LT-----
+NLKILPLAGSKITDAGLVHLKG-MTELQKL
+NLSR-----SNITDAGLMHLKG-LP-----
+NLQNLSLFGTKVTDAGLVHLKA-LT-----
+ELQELNLRDAKVTDTGVADLQKAL------
+**********************
+
+>uniprot|A0A2E8AU05|A0A2E8AU05_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 21 residues - nb: 6  from  168 to 305 - Psim:0.6728395061728395 region Length:138 
+TDAGLAHLSQLQHLQ-SLDI-YRTPI-
+TDAGLAHLKASTSLE-TLIL-YETLI-
+TDAGLAHLKGLNNLH-KLDL-YRTQV-
+TDAGLVHLKGLNRLQ-QLDLRY-TQV-
+TDSGLKHLQGLSNLE-TLDL---TG--
+--AQVTKA-GVSDLHGKLS---NAQIL
+**********************
+
+Length: 21 residues - nb: 2  from  210 to 254 - Psim:0.8125 region Length:45 
+LYETLITDAGLAHLKGLNNLHKLD
+LYRTQVTDAGLVHLKGLN---RLQ
+**********************
+
+Length: 21 residues - nb: 3  from  239 to 306 - Psim:0.68 region Length:68 
+VTDAGLVHLKG-LNRLQQLDLRYTQ
+VTDSGLKHLQG-LSNLETLDLTGAQ
+VTKAGVSDLHGKLSNAQ-I-L-H--
+**********************
+
+Length: 24 residues - nb: 3  from  216 to 287 - Psim:0.8 region Length:72 
+TDAGLAHLKGLNNLHKLDL-YRTQV
+TDAGLVHLKGLNRLQQLDLRY-TQV
+TDSGLKHLQGLSNLETLDL-TGAQV
+**********************
+
+>uniprot|A0A2E7NQE8|A0A2E7NQE8_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 5 residues - nb: 3  from  319 to 333 - Psim:0.7222222222222222 region Length:15 
+LTKLQD
+LTHL-D
+LS-L-T
+**********************
+
+Length: 6 residues - nb: 3  from  319 to 337 - Psim:0.6666666666666666 region Length:19 
+LTKLQ-D
+LTHLDLS
+LTGLG-N
+**********************
+
+>uniprot|A0A2E7S5C6|A0A2E7S5C6_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 15 residues - nb: 2  from  449 to 481 - Psim:0.7222222222222222 region Length:33 
+GLPNLRRLTLVRTRITGS
+GLETLRRLT--RLVLLD-
+**********************
+
+>uniprot|A0A2E3MPS8|A0A2E3MPS8_9PLAN Uncharacterized protein (Fragment) [Planctomycetaceae bacterium]
+Length: 24 residues - nb: 7  from  142 to 297 - Psim:0.7032967032967034 region Length:156 
+GLVHLKRLANLEWIVL-KDTQ-ITDA
+GLVHLRGLTKLEWLYL-DGTQ-ITDA
+GLIHLKGLTQLESLTLCD-TK-VTDA
+GLAHLKDLTDLQTLNL-RFTQ-VTDA
+GLVHLKEMANLKNLHL-DGCRNITDT
+GLVRLKQLTELEVLTL-SQTQ-ITDA
+GLVHLKGLTNL---------------
+**********************
+
+>uniprot|A0A2E7RSX0|A0A2E7RSX0_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 5 residues - nb: 3  from  93 to 108 - Psim:0.6666666666666666 region Length:16 
+ALDLTE
+ALKAS-
+ALRAR-
+**********************
+
+>uniprot|A0A2E8FJW0|A0A2E8FJW0_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 4 residues - nb: 4  from  433 to 447 - Psim:0.7 region Length:15 
+SLA--
+SLS--
+SLRQL
+SLV-R
+**********************
+
+Length: 5 residues - nb: 3  from  1024 to 1040 - Psim:0.7222222222222222 region Length:17 
+GLSYLS
+GLKKLS
+GLN-LN
+**********************
+
+Length: 6 residues - nb: 3  from  1024 to 1041 - Psim:0.7142857142857143 region Length:18 
+GLSYLS-
+GLKKLS-
+GLN-LNH
+**********************
+
+>uniprot|A0A2E3MSU7|A0A2E3MSU7_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 21 residues - nb: 5  from  54 to 170 - Psim:0.6916666666666667 region Length:117 
+TDADLIHLTGLTHLEELWLQKTRI
+TDDGLAHLALLTNLKELWLQETRI
+TDAGATHLAGLTALEEVWLQRTNI
+TDGGLAQLQGLTQMRALGLAGTRI
+TDNGLKHLAGMDKL--IKL-ELNS
+**********************
+
+Length: 24 residues - nb: 7  from  64 to 231 - Psim:0.656084656084656 region Length:168 
+LTHL-EE--LWLQKTRITDDGLAHLAL
+LTNL-KE--LWLQETRITDAGATHLAG
+LTAL-EE--VWLQRTNITDGGLAQLQG
+LTQM-RA--LGLAGTRITDNGLKHLAG
+MDKL-IK--LELNSTAISGAGLAHLQD
+LTGL-ET--LLLHNTKLSNAAMVH---
+LTRLVSLRKLELNSTQISSAGLVHLKK
+**********************
+
+>uniprot|A0A2E7NMQ8|A0A2E7NMQ8_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 6 residues - nb: 4  from  89 to 113 - Psim:0.6875 region Length:25 
+EAARV-VQ
+EAADL-S-
+EALQA-V-
+-ALRAQV-
+**********************
+
+>uniprot|A0A2E7DBA6|A0A2E7DBA6_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 5 residues - nb: 3  from  135 to 150 - Psim:0.7222222222222222 region Length:16 
+LENFQG
+LENLS-
+VLNLS-
+**********************
+
+Length: 6 residues - nb: 3  from  134 to 151 - Psim:0.7619047619047619 region Length:18 
+GLENFQ-
+GLENLS-
+VL-NLSD
+**********************
+
+>uniprot|A0A2E7NUF0|A0A2E7NUF0_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 3 residues - nb: 5  from  922 to 935 - Psim:0.6666666666666666 region Length:14 
+LEG
+LEK
+LES
+LD-
+LAG
+**********************
+
+Length: 9 residues - nb: 4  from  42 to 77 - Psim:0.9722222222222222 region Length:36 
+EPGPPPVVD
+EPGPPPVVD
+EPGPPPVVD
+EPGPPPVVE
+**********************
+
+Length: 9 residues - nb: 5  from  54 to 99 - Psim:0.6727272727272727 region Length:46 
+PPPVVDEP-G-
+PPPVVDEP-G-
+PPPVVESP-SR
+PPDD-SKPIR-
+PPPP-EKAFE-
+**********************
+
+>uniprot|A0A2E7S140|A0A2E7S140_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 7 residues - nb: 3  from  49 to 70 - Psim:0.7083333333333334 region Length:22 
+RLDLEG-S
+RLDDAGLS
+RLATIT-S
+**********************
+
+Length: 8 residues - nb: 3  from  49 to 71 - Psim:0.6666666666666666 region Length:23 
+RLDL-EG-S
+RLDD-AGLS
+RLATITSL-
+**********************
+
+Length: 8 residues - nb: 3  from  99 to 120 - Psim:0.7 region Length:22 
+GLAGTRIGDA
+GLA--HLA--
+GLV--RLE--
+**********************
+
+Length: 9 residues - nb: 3  from  49 to 72 - Psim:0.6666666666666666 region Length:24 
+RLDL-EG-S
+RLDD-AGLS
+RLATITSLE
+**********************
+
+>uniprot|A0A2E7LFH5|A0A2E7LFH5_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 5 residues - nb: 3  from  749 to 764 - Psim:0.7222222222222222 region Length:16 
+DLAEMS
+DL-ERL
+DL-AHL
+**********************
+
+>uniprot|A0A2E7CZR1|A0A2E7CZR1_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 8 residues - nb: 2  from  165 to 178 - Psim:0.8125 region Length:14 
+GLSKLT--
+GLSKLRDL
+**********************
+
+>uniprot|A0A2E7L9X9|A0A2E7L9X9_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 21 residues - nb: 2  from  80 to 124 - Psim:0.8125 region Length:45 
+LWLQKTRITDDGLAHLAQLTSLKE
+LWIQETRITDNGAAQLAGLTS---
+**********************
+
+Length: 22 residues - nb: 2  from  80 to 125 - Psim:0.8333333333333334 region Length:46 
+LWLQKTRITDDGLAHLAQLTSLKE
+LWIQETRITDNGAAQLAGLTSL--
+**********************
+
+Length: 24 residues - nb: 4  from  73 to 174 - Psim:0.6875 region Length:102 
+SLPHLEVLWLQKTRITDDGLA--HLA---QLT
+SLK--E-LWIQETRITDNGAA--QLA---GLT
+SL-E-ELL-LQKTNISDDGLAQLHAL--TEMK
+SLG-L-A-G---TRITDAGLE--HLAGMDKLI
+**********************
+
+>uniprot|A0A2E7RVA1|A0A2E7RVA1_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 23 residues - nb: 7  from  91 to 254 - Psim:0.7346938775510204 region Length:164 
+-T---DAGLVHLKGLVKLEKLNLRFTKI
+-T---DAGLVHLKGLTNLQTLNL-MACT
+--RITGAGLVHLRGMTNLEELVL--SG-
+-TKITDAGLVHLKGLTNLQKLKL--GE-
+-TKITDAGLVHLKGMSKLETLNL--AI-
+-TKITDAGLVHLAGLSRLRELNL---V-
+YTQIADSGLMHLKGLTDLRTLSL-----
+**********************
+
+Length: 23 residues - nb: 13  from  142 to 452 - Psim:0.6897435897435897 region Length:311 
+--AGLVH-LRGMTNLEEL-VLSG--TKITD
+--AGLVH-LKGLTNLQKL-KLGE--TKITD
+--AGLVH-LKGMSKLETL-NLAI--TKITD
+--AGLVH-LAGLSRLREL-NLVY--TQI-A
+-DSGLMH-LKGLTDLRTL-SLGS--TKI--
+TDAGLVH-LKRLANLETL-RLYG--DQI--
+TDSGLIH-LKRLTKLRSL-GLGS--TKI--
+TDAGLMH-LKGLTELHDL-TLAG--YQI--
+TDAGLVH-LKGLAKLETL-NFQQ--TKI--
+TDSGLVH-LKGL-RLNSL-SIPD-GAK---
+TDLGLKHYLAAL-ETHTALDLR--SWR--I
+TDSGLVH-LEGLTNLQSL-GIGGFGTKI--
+TDSGLVH-LKGMTKLRHL-GFGA--FG---
+**********************
+
+Length: 23 residues - nb: 12  from  170 to 456 - Psim:0.6935483870967742 region Length:287 
+--H-LKGLTNLQKL-KL-GETK--ITDAGLV
+--H-LKGMSKLETL-NL-AITK--ITDAGLV
+--H-LAGLSRLREL-NL-VYTQ--IADSGLM
+--H-LKGLTDLRTL-SL-GSTK--ITDAGLV
+--H-LKRLANLETL-RLYGD-Q--ITDSGLI
+--H-LKRLTKLRSL-GL-GSTK--ITDAGLM
+--H-LKGLTELHDL-TL-AGYQ--ITDAGLV
+--H-LKGLAKLETL-NF-QQTK--ITDSGLV
+--H-LKGLR-LNSL-SIPDGAK---TDLGLK
+--HYLAAL-ETHTALD-LRSW--RITDSG--
+LVH-LEGLTNLQSL-GI-GGFGTKITDSG--
+LVH-LKGMTKLRHL-GF-GA----F-GRGSI
+**********************
+
+Length: 23 residues - nb: 2  from  403 to 451 - Psim:0.8076923076923077 region Length:49 
+ITDSGLVHLEGLTNLQSLGIGGFGTK
+ITDSGLVHLKGMTKLRHLGFGAF---
+**********************
+
+Length: 24 residues - nb: 5  from  142 to 261 - Psim:0.7583333333333333 region Length:120 
+AGLVHLRGMTNLEELVLSGTKITD
+AGLVHLKGLTNLQKLKLGETKITD
+AGLVHLKGMSKLETLNLAITKITD
+AGLVHLAGLSRLRELNLVYTQIAD
+SGLMHLKGLTDLRTLSLGSTKITD
+**********************
+
+Length: 24 residues - nb: 15  from  170 to 525 - Psim:0.7066666666666667 region Length:356 
+-----HLKGLTNLQK-LK-L-GE--TKITDAGLV-
+-----HLKGMSKLET-LN-L-AI--TKITDAGLV-
+-----HLAGLSRLRE-LN-L-VY--TQIADSGLM-
+-----HLKGLTDLRT-LS-L-GS--TKITDAGLV-
+-----HLKRLANLET-LR-LYGD---QITDSGLI-
+-----HLKRLTKLRS-LG-L-GS--TKITDAGLM-
+-----HLKGLTELHD-LT-L-AG--YQITDAGLV-
+-----HLKGLAKLET-LN-F-QQ--TKITDSGLV-
+-----HLKGLR-LNS-LS-IPDG--AK-TDLGLKH
+-----YLAAL-ETHTALD-L-RS--WRITDSGLV-
+-----HLEGLTNLQS-LG-I-GGFGTKITDSGLV-
+-----HLKGMTKLRH-LG-F-GA--FGRGSINIT-
+DAGLVHLKGLTKLET-LD-L-NG--TKIT------
+-----DA-GLEHLRA-LTEL-QM--LQLMFTEIT-
+-----DA-GITDLKK--A-L-PN--CRVRK-----
+**********************
+
+Length: 24 residues - nb: 7  from  355 to 525 - Psim:0.6722689075630253 region Length:171 
+ITDSGLVH-LKGL-RLNSL-SIPD--G--AK---
+-TDLGLKHYLAAL-ETHTALD-L--R--SW--R-
+ITDSGLVH-LEGLTNLQSL-GI-G--GFGTK---
+ITDSGLVH-LKGMTKLRHL-GF-GAFG--RGSIN
+ITDAGLVH-LKGLTKLETL-DL-N--G--TK---
+ITDAGLEH-LRALTELQML-QL-M--F--TE---
+ITDAGITD-LKK-A-LPNC-RV-R------K---
+**********************
+
+>uniprot|A0A2E3MV69|A0A2E3MV69_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 24 residues - nb: 3  from  946 to 1014 - Psim:0.6666666666666666 region Length:69 
+ITDAGLAHLKTL-PSLARLHLYNCAK
+ITDAGLKHLQEL-PGLARLSL-QFSK
+ITDEGVVAFQAASPHV-RLT-----R
+**********************
+
+>uniprot|A0A2E8FIV3|A0A2E8FIV3_9PLAN Leucine Rich Repeat (LRR)-containing protein [Planctomycetaceae bacterium]
+Length: 2 residues - nb: 10  from  327 to 346 - Psim:0.9 region Length:20 
+KA
+KP
+KA
+KA
+KA
+KA
+KA
+KA
+KA
+KP
+**********************
+
+Length: 4 residues - nb: 4  from  321 to 336 - Psim:0.9375 region Length:16 
+KPKA
+KPKA
+KPKA
+KAKA
+**********************
+
+Length: 5 residues - nb: 4  from  322 to 339 - Psim:0.875 region Length:18 
+P-KAK-
+P-KAK-
+P-KAKA
+KAKAK-
+**********************
+
+>uniprot|A0A2E7LG63|A0A2E7LG63_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 3 residues - nb: 5  from  193 to 206 - Psim:0.65 region Length:14 
+-LAQ
+-LAG
+-LT-
+ELR-
+ELY-
+**********************
+
+Length: 5 residues - nb: 3  from  322 to 337 - Psim:0.6666666666666666 region Length:16 
+LQI-LR
+LQI-AD
+LPPEAI
+**********************
+
+Length: 8 residues - nb: 5  from  144 to 185 - Psim:0.6833333333333333 region Length:42 
+GLEPLRS-LT--
+GLQRL-S-LT--
+GRQVT-G-IG--
+-LQQI-AQLT-Q
+-LQRL-Y-LIK-
+**********************
+
+Length: 9 residues - nb: 2  from  144 to 161 - Psim:0.8 region Length:18 
+GLEPLRSLT-
+GLQRL-SLTG
+**********************
+
+>uniprot|A0A2E7NRL7|A0A2E7NRL7_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 4 residues - nb: 5  from  186 to 205 - Psim:0.6571428571428571 region Length:20 
+--EL-K-
+--EL-KQ
+LQEL-Y-
+--LAGT-
+--LAGD-
+**********************
+
+Length: 5 residues - nb: 3  from  199 to 212 - Psim:0.6666666666666666 region Length:14 
+AGTL-
+AGDEA
+AGVLK
+**********************
+
+>uniprot|A0A2E7NUE4|A0A2E7NUE4_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 3 residues - nb: 5  from  42 to 60 - Psim:0.95 region Length:19 
+DPGP
+DPGP
+DPGP
+DPGP
+DPG-
+**********************
+
+Length: 4 residues - nb: 5  from  42 to 61 - Psim:1.0 region Length:20 
+DPGP
+DPGP
+DPGP
+DPGP
+DPGP
+**********************
+
+Length: 4 residues - nb: 4  from  613 to 626 - Psim:0.75 region Length:14 
+LKR-
+LKG-
+LKRI
+LARN
+**********************
+
+Length: 5 residues - nb: 5  from  42 to 62 - Psim:0.96 region Length:21 
+DPGP-
+DPGP-
+DPGP-
+DPGP-
+DPGPT
+**********************
+
+>uniprot|A0A2E2Y2K2|A0A2E2Y2K2_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 3 residues - nb: 5  from  284 to 297 - Psim:0.72 region Length:14 
+A-L--
+A-LM-
+TDL-A
+K-L--
+K-LR-
+**********************
+
+>uniprot|A0A2K3REM6|A0A2K3REM6_RHOBT Adenylate cyclase [Rhodopirellula baltica]
+Length: 5 residues - nb: 3  from  85 to 100 - Psim:0.7222222222222222 region Length:16 
+PEAAVA
+PEKA-A
+PEPDV-
+**********************
+
+Length: 6 residues - nb: 3  from  85 to 101 - Psim:0.7777777777777778 region Length:17 
+PEAAVA
+PEKA-A
+PEPDVA
+**********************
+
+Length: 9 residues - nb: 3  from  78 to 102 - Psim:0.6666666666666666 region Length:25 
+AA-PPAEKPE
+AAVAP-EK--
+AA-PEPDVAE
+**********************
+
+>uniprot|A0A142XIE8|A0A142XIE8_9BACT Internalin-A [Gemmata sp. SH-PL17]
+Length: 3 residues - nb: 5  from  79 to 94 - Psim:0.65 region Length:16 
+GA-L
+GA-W
+LA-G
+VAGR
+VA-R
+**********************
+
+Length: 3 residues - nb: 5  from  496 to 509 - Psim:0.65 region Length:14 
+LTN-
+LTA-
+LNL-
+-TR-
+-TRV
+**********************
+
+Length: 9 residues - nb: 2  from  171 to 190 - Psim:0.7727272727272727 region Length:20 
+LRRRLERAKSV
+LRLRLER-RG-
+**********************
+
+>uniprot|A0A142XHJ3|A0A142XHJ3_9BACT Leucine Rich repeats (2 copies) [Gemmata sp. SH-PL17]
+Length: 8 residues - nb: 2  from  293 to 308 - Psim:0.75 region Length:16 
+TAGAAALA
+TAPALAAC
+**********************
+
+>uniprot|A0A142XF66|A0A142XF66_9BACT Internalin-A [Gemmata sp. SH-PL17]
+Length: 10 residues - nb: 2  from  46 to 66 - Psim:0.7727272727272727 region Length:21 
+VVEKPEVAEKP
+VVE-PEVQPVA
+**********************
+
+Length: 11 residues - nb: 2  from  46 to 67 - Psim:0.75 region Length:22 
+VVEKPEVAE-KP
+VVE-PEVQPVAD
+**********************
+
+>uniprot|A0A142XKI3|A0A142XKI3_9BACT Internalin-A [Gemmata sp. SH-PL17]
+Length: 21 residues - nb: 8  from  61 to 246 - Psim:0.8148148148148148 region Length:186 
+---VTDAGLKEFTALKNLTTLQLGYTP
+---VTDAGLKELAALKKLTSLDLSRTK
+---VTDAGLKELAALKSLTTLQLGGTQ
+---VTDTGLKELAALKSLTTLQLSATQ
+---VTDAGLKELTALKNLTTLQLGGTS
+---VTDAGLKELTALKNLTTLQLGGTS
+---VTDAGLKEINGLTKLTTLHLG---
+TTKITDAGLKELATLKSLTTL------
+**********************
+
+Length: 21 residues - nb: 3  from  88 to 153 - Psim:0.7901234567901234 region Length:66 
+A---GLKELAALKKLTSLDLSRTKVTD
+A---GLKELAALKSLTTLQLGGTQ---
+VTDTGLKELAALKSLTTLQL--S----
+**********************
+
+Length: 21 residues - nb: 12  from  116 to 392 - Psim:0.6801075268817204 region Length:277 
+------ELAALK-SLTTLQLGGTQVTDTGLK
+ELAALKSLTTLQLSATQVTDAGLK-------
+------ELTALK-NLTTLQLGGTSVTDAGLK
+------ELTALK-NLTTLQLGGTSV---TDA
+---GLKEINGLT-KLTTLHLGTTKI------
+TDAGLKELATLK-SLTTLQLNVTSV------
+TDAGLKEIAALN-NLTTLYLNSTKV------
+TDAGLKEIAALK-NLTTLHLGGTKV------
+TDARLKELKGLT-KLTVLTLNHTQV------
+TDEGLKEIAALE-SLTALDLSRTQV------
+TDAGFKEIAALK-SLATLYLFGTKV------
+TDEGLKEIKSA---LPKCSI--SK-------
+**********************
+
+Length: 21 residues - nb: 9  from  147 to 344 - Psim:0.7 region Length:198 
+---LTTL-QLSATQ-VTD---AGLK-E---
+------L---TALKNLTTLQLGGTSVTDAG
+------LKELTALKNLTTLQLGGTSVT---
+---DAGLKEINGLTKLTTLHLGTTKIT---
+---DAGLKELATLKSLTTLQLNVTSVT---
+---DAGLKEIAALNNLTTLYLNSTKVT---
+---DAGLKEIAALKNLTTLHLGGTKVT---
+---DARLKELKGLTKLTVLTLN--H-T---
+QVTDEGLKEIAALESLTALDL---------
+**********************
+
+Length: 21 residues - nb: 3  from  168 to 227 - Psim:0.7407407407407407 region Length:60 
+---LK------NLTTLQLGGTSVTDAG
+---LKELTALKNLTTLQLGGTSVT---
+DAGLKEINGLTKLTTLHLG-T--T---
+**********************
+
+Length: 21 residues - nb: 5  from  195 to 302 - Psim:0.6518518518518519 region Length:108 
+LTTLQ-LGG-TSVTDAGLKEIN-G---
+LTK---L---TTLHLGTTKITDAGLKE
+L---ATLKSLTTLQLNVTSVTDAG---
+LKEIAALNNLTTLYLNSTKVTDAG---
+LKEIAALKNLTTLHLGGTKVT------
+**********************
+
+Length: 21 residues - nb: 7  from  230 to 392 - Psim:0.7261904761904762 region Length:163 
+TDAGLKELATLKSLTTLQLNVTSV
+TDAGLKEIAALNNLTTLYLNSTKV
+TDAGLKEIAALKNLTTLHLGGTKV
+TDARLKELKGLTKLTVLTLNHTQV
+TDEGLKEIAALESLTALDLSRTQV
+TDAGFKEIAALKSLATLYLFGTKV
+TDEGLKEIKSA--LPKCSI-S-K-
+**********************
+
+Length: 21 residues - nb: 5  from  257 to 367 - Psim:0.6838709677419355 region Length:111 
+------GLKEIAALNNLTTLYL-NSTKVTDA
+------GLKEIAALKNLTTLHLGGTK-V---
+T---DARLKELKGLTKLTVLTL--NH-----
+TQVTDEGLKEIAALESLTALDL--SR-----
+TQVTDAGFKEIAALKSL-AT-L--Y------
+**********************
+
+Length: 21 residues - nb: 3  from  318 to 380 - Psim:0.7160493827160493 region Length:63 
+L-T--LN---HTQVTDEGLKEIAALES
+L-TA-LD-LSRTQVTDAGFKEIAA---
+LKSLATLYLFGTKVTDEGLKE------
+**********************
+
+Length: 23 residues - nb: 7  from  71 to 236 - Psim:0.8342857142857143 region Length:166 
+-ALKNLTTLQLGYTPVTDAGLKELA
+-ALKKLTSLDLSRTKVTDAGLKELA
+-ALKSLTTLQLGGTQVTDTGLKELA
+-ALKSLTTLQLSATQVTDAGLKELT
+-ALKNLTTLQLGGTSVTDAGLKELT
+-ALKNLTTLQLGGTSVTDAGLKEI-
+NGLTKLTTLHLGTTKITDAGLKE--
+**********************
+
+Length: 23 residues - nb: 7  from  101 to 256 - Psim:0.6883116883116883 region Length:156 
+--S--L----DL--S-RT-KVTDAGLKELAALK
+--S--LTT-LQL--G-GT-QVTDTGLKELAALK
+--S--LTT-LQL--S-AT-QVTDAGLKELTA-L
+-KN--LTT-LQL--G-GT-SVTDAGLKELTA--
+LKN--LTT-LQL--G-GT-SVTDAG--------
+LKEINGLTKLT-TLHLGTTKITDAG--------
+LKE--LAT-LK---S-LT-TL-QLNVTSVTD-A
+**********************
+
+Length: 23 residues - nb: 7  from  125 to 284 - Psim:0.6650246305418719 region Length:160 
+TLQLGG-TQVTDTGLKELA-A-L-K-SLT
+TLQLSA-TQVTDAGLKELT-A-L-K-NLT
+TLQLGG-TSVTDAGLKELT-A-L-K-NLT
+TLQLGG-TSVTDAGLKEIN-G-L-T-KLT
+TLHLGT-TKITDAGLKEL--A--------
+TLK-SL-TTL-QLNVTSVTDA-GL-KEI-
+AA-LNNLTTLYLNSTK-VT-DA-GLKE--
+**********************
+
+Length: 23 residues - nb: 4  from  157 to 250 - Psim:0.83 region Length:94 
+-VTDAGLKELTALKNLTTLQLGGTS
+-VTDAGLKELTALKNLTTLQLGGTS
+-VTDAGLKEINGLTKLTTLHLG-TT
+KITDAGLKELATLKSLTTLQLN-V-
+**********************
+
+Length: 23 residues - nb: 9  from  184 to 392 - Psim:0.7023809523809523 region Length:209 
+--A--GLKELTALKNLTTLQLGGTSVTD
+--A--GLKEINGLTKLTTLHLGTTKITD
+--A--GLKELATLKSLTTLQLNVTSVTD
+--A--GLKEIAALNNLTTLYLNSTKVTD
+--A--GLKEIAALKNLTTLHLGGTKVT-
+-DA--RLKELKGLTKLTVLTLNHTQV--
+--TDEGLKEIAALESLTALDLSRTQV--
+TDA--GFKEIAALKSLATLYLFGTKV--
+--TDEGLKEIKSA--LPKCSI--SK---
+**********************
+
+Length: 23 residues - nb: 7  from  230 to 392 - Psim:0.7261904761904762 region Length:163 
+TDAGLKELATLKSLTTLQLNVTSV
+TDAGLKEIAALNNLTTLYLNSTKV
+TDAGLKEIAALKNLTTLHLGGTKV
+TDARLKELKGLTKLTVLTLNHTQV
+TDEGLKEIAALESLTALDLSRTQV
+TDAGFKEIAALKSLATLYLFGTKV
+TDEGLKEIKSA--LPKCSI-S-K-
+**********************
+
+Length: 23 residues - nb: 2  from  257 to 303 - Psim:0.8958333333333334 region Length:47 
+GLKEIAALNNLTTLYLNSTKVTDA
+GLKEIAALKNLTTLHLGGTKVTD-
+**********************
+
+Length: 24 residues - nb: 9  from  31 to 238 - Psim:0.7377777777777778 region Length:208 
+ALVKKLGGKVTRDESAPDKPVIAV-
+----DLS--R---TKVTDAGLKEFT
+AL-KNLTTLQLGYTPVTDAGLKELA
+AL-KKLTSLDLSRTKVTDAGLKELA
+AL-KSLTTLQLGGTQVTDTGLKELA
+AL-KSLTTLQLSATQVTDAGLKELT
+AL-KNLTTLQLGGTSVTDAGLKELT
+AL-KNLTTLQLGGTSVTDAGLKEIN
+GL-TKLTTLHLGTTKITDAGLKELA
+**********************
+
+Length: 24 residues - nb: 12  from  109 to 392 - Psim:0.7569444444444444 region Length:284 
+VTDAGLKELAALKSLTTLQLGGTQ
+VTDTGLKELAALKSLTTLQLSATQ
+VTDAGLKELTALKNLTTLQLGGTS
+VTDAGLKELTALKNLTTLQLGGTS
+VTDAGLKEINGLTKLTTLHLGTTK
+ITDAGLKELATLKSLTTLQLNVTS
+VTDAGLKEIAALNNLTTLYLNSTK
+VTDAGLKEIAALKNLTTLHLGGTK
+VTDARLKELKGLTKLTVLTLNHTQ
+VTDEGLKEIAALESLTALDLSRTQ
+VTDAGFKEIAALKSLATLYLFGTK
+VTDEGLKEIKS--ALPKCSI--SK
+**********************
+
+Length: 24 residues - nb: 11  from  139 to 392 - Psim:0.7272727272727273 region Length:254 
+KELAALKSLTTLQLSATQVTDAGL
+KELTALKNLTTLQLGGTSVTDAGL
+KELTALKNLTTLQLGGTSVTDAGL
+KEINGLTKLTTLHLGTTKITDAGL
+KELATLKSLTTLQLNVTSVTDAGL
+KEIAALNNLTTLYLNSTKVTDAGL
+KEIAALKNLTTLHLGGTKVTDARL
+KELKGLTKLTVLTLNHTQVTDEGL
+KEIAALESLTALDLSRTQVTDAGF
+KEIAALKSLATLYLFGTKVTDEGL
+KEI---KS-A-LPK--CSISK---
+**********************
+
+Length: 24 residues - nb: 3  from  167 to 238 - Psim:0.8611111111111112 region Length:72 
+ALKNLTTLQLGGTSVTDAGLKELT
+ALKNLTTLQLGGTSVTDAGLKEIN
+GLTKLTTLHLGTTKITDAGLKELA
+**********************
+
+Length: 24 residues - nb: 5  from  243 to 359 - Psim:0.7172413793103448 region Length:117 
+LT--TLQ-LNV-TS-VTDAGLKEIAALNN
+LT--TLY-LNS-TK-VTDAGLKEIAALKN
+LT--TLH-LGG-TK-VTDARLKE---LKG
+LTKLTVLTL-NH-TQVTDEGLKEIAA---
+LE--SLTALDLSRTQVTDAGFKEIAA---
+**********************
+
+>uniprot|M5RPF7|M5RPF7_9PLAN Internalin C2 [Rhodopirellula maiorica SM1]
+Length: 5 residues - nb: 4  from  34 to 53 - Psim:0.7 region Length:20 
+AKEAP
+AKKAA
+AKEDA
+AKPVP
+**********************
+
+>uniprot|A0A257U5H1|A0A257U5H1_9BACT Uncharacterized protein [Planctomycetia bacterium 21-64-5]
+Length: 21 residues - nb: 2  from  436 to 480 - Psim:0.74 region Length:45 
+GLATI-GKLSSLKTLSLLGTRITDE
+GLAQLKG-LKKLEALSLQGTGI---
+**********************
+
+Length: 23 residues - nb: 2  from  436 to 482 - Psim:0.78 region Length:47 
+GLATI-GKLSSLKTLSLLGTRITDE
+GLAQLKG-LKKLEALSLQGTGITD-
+**********************
+
+>uniprot|A0A2E9VIP7|A0A2E9VIP7_9PLAN Uncharacterized protein [Rubinisphaera sp.]
+Length: 10 residues - nb: 2  from  29 to 50 - Psim:0.8333333333333334 region Length:22 
+PATSEQSQPEKA
+PASSEQTQP-K-
+**********************
+
+>uniprot|A0A1U9NLP3|A0A1U9NLP3_9BACT Internalin-A [Phycisphaerae bacterium ST-NAGAB-D1]
+Length: 5 residues - nb: 3  from  113 to 128 - Psim:0.6666666666666666 region Length:16 
+NL-WYL
+NLSKNH
+NL-KTS
+**********************
+
+>uniprot|A0A1G2ZD25|A0A1G2ZD25_9BACT Uncharacterized protein [Planctomycetes bacterium RBG_13_62_9]
+Length: 7 residues - nb: 2  from  447 to 461 - Psim:0.75 region Length:15 
+VLDDSEIT
+VLD-SIFW
+**********************
+
+>uniprot|A0A1Z8SQ94|A0A1Z8SQ94_9BACT Uncharacterized protein (Fragment) [Planctomycetia bacterium TMED53]
+Length: 5 residues - nb: 3  from  113 to 128 - Psim:0.6666666666666666 region Length:16 
+-LSDNS
+-LSDAS
+PLTNLT
+**********************
+
+>uniprot|A0A1G2YYV7|A0A1G2YYV7_9BACT Uncharacterized protein [Planctomycetes bacterium RBG_13_50_24]
+Length: 7 residues - nb: 2  from  458 to 472 - Psim:0.7777777777777778 region Length:15 
+FSTVLLPV-
+FST-L-PAT
+**********************
+
+Length: 18 residues - nb: 5  from  124 to 229 - Psim:0.6727272727272727 region Length:106 
+GLGNPNCFR-GNNHISDLGPLA
+GLPNLWSLDLFCNNISDLSPLA
+GLTNLRSLHLGANNISDISPLA
+GLTNLRILEVGNNNIGRIPPLP
+GLTSLQILYLWDCNLTDIS---
+**********************
+
+Length: 18 residues - nb: 3  from  157 to 217 - Psim:0.7681159420289855 region Length:61 
+NN-ISDLSPLAGLTNLRSLHLGA
+NN-ISDISPLAGLTNLRILEVG-
+NNNIGRIPPLPGLTSLQI-----
+**********************
+
+Length: 18 residues - nb: 5  from  232 to 337 - Psim:0.7391304347826086 region Length:106 
+AGLTNLGNLDLAY-NNISDISPL
+AGLRNLWYLNL-YSNNISDVSPL
+AGLWNLRGLTCSY-NNISDVSPL
+AGLTNLSSMDLSD-NNISDISPL
+AGLTKLWSLNLL--RN-P-LN-C
+**********************
+
+Length: 18 residues - nb: 3  from  263 to 319 - Psim:0.7272727272727273 region Length:57 
+NL--Y--S-NNISDVSPLAGLW
+NLRGLTCSYNNISDVSPLAGLT
+NLSSMDLSDNNISDISPL----
+**********************
+
+Length: 18 residues - nb: 2  from  289 to 328 - Psim:0.8409090909090909 region Length:40 
+NNISDVSPLAGLTNLSSMDLSD
+NNISDISPLAGLTKLWS--L--
+**********************
+
+Length: 22 residues - nb: 4  from  122 to 213 - Psim:0.7307692307692307 region Length:92 
+NLGLGNPNCFRGNNHISDLGPLAGLP
+NLW--SLDLF-CN-NISDLSPLAGLT
+NLR--SLHLG-AN-NISDISPLAGLT
+NLR--ILEVG-NN-NIGRIPPLPGLT
+**********************
+
+Length: 22 residues - nb: 10  from  107 to 333 - Psim:0.7866666666666666 region Length:227 
+N-------ISDISPLAGLTNLQNLGLG-NP
+NCFRGNNHISDLGPLAGLPNLWSLDLFCN-
+N-------ISDLSPLAGLTNLRSLHLGAN-
+N-------ISDISPLAGLTNLRILEVGNN-
+N-------IGRIPPLPGLTSLQILYLWDC-
+N-------LTDISGLAGLTNLGNLDLAYN-
+N-------ISDISPLAGLRNLWYLNLYSN-
+N-------ISDVSPLAGLWNLRGLTCSYN-
+N-------ISDVSPLAGLTNLSSMDLSDN-
+N-------ISDISPLAGLTKLWSLNLLRN-
+**********************
+
+Length: 22 residues - nb: 7  from  188 to 341 - Psim:0.7142857142857143 region Length:154 
+AGLTNLRILEVGN-N-NIG-RIPPL
+PGLTSLQILYL-W-DCNLT-DISGL
+AGLTNLGNLDLAY-N-NIS-DISPL
+AGLRNLWYLNL-YSN-NIS-DVSPL
+AGLWNLRGLTCSY-N-NIS-DVSPL
+AGLTNLSSMDLSD-N-NIS-DISPL
+AGLTKLWSLNLLR-N-PLNCD-AYL
+**********************
+
+Length: 22 residues - nb: 3  from  259 to 321 - Psim:0.7878787878787878 region Length:63 
+LWYLN-LY-S-NNISDVSPLAG
+LWNLRGLTCSYNNISDVSPLAG
+LTNLSSMDLSDNNISDISPLAG
+**********************
+
+Length: 97 residues - nb: 2  from  353 to 548 - Psim:0.7619047619047619 region Length:196 
+WG-QLLYNP-MPPGCKVVVSTLPATNITKSS-ATLNGILTDDGGEACQYRFRYME-AEGSYIYTPWS--GSLTAGESFSETVIDLEHSKTYYFNAQAKNSTDESE
+WGDEQSFSTVLLP---VFSTL-PATNVTKSSATL-NGILTDDGGEACQYRFRYMEAGGRYIY-TPWSGSV--TTGQTFSQIISDLRHNMTYYFNAQTKNSAGESA
+**********************
+
+>uniprot|L0DBW0|L0DBW0_SINAD Uncharacterized protein [Singulisphaera acidiphila DSM 18658]
+Length: 4 residues - nb: 4  from  203 to 218 - Psim:0.7 region Length:16 
+RLTNL
+RL-L-
+RL-NG
+GG-NG
+**********************
+
+>uniprot|A0A177Q1W9|A0A177Q1W9_9PLAN Leucine Rich Repeat (LRR)-containing protein [Planctomycetaceae bacterium SCGC AG-212-D15]
+Length: 7 residues - nb: 3  from  88 to 108 - Psim:0.6666666666666666 region Length:21 
+DLTPLK--
+DLTNLQSL
+DLSHNK-I
+**********************
+
+>uniprot|A0A1G3A2I6|A0A1G3A2I6_9BACT Uncharacterized protein [Planctomycetes bacterium RBG_16_64_10]
+Length: 21 residues - nb: 2  from  343 to 387 - Psim:0.7916666666666666 region Length:45 
+ITDDGLAHLAGLKRLEILVLDGNG
+ITDAGLAHLQGLERLKSLSLV---
+**********************
+
+Length: 24 residues - nb: 3  from  349 to 420 - Psim:0.7361111111111112 region Length:72 
+AHLAGLKRLEILVLDGNGITDAGL
+AHLQGLERLKSLSLVQTEVTDAGL
+AHLNGLQSLRQLMLRLTGVTDVGL
+**********************
+
+>uniprot|A0A1G2ZW39|A0A1G2ZW39_9BACT Uncharacterized protein [Planctomycetes bacterium RBG_16_64_10]
+Length: 24 residues - nb: 8  from  94 to 285 - Psim:0.71875 region Length:192 
+NQISNIESGAFSGLTKLTGLRLYQ
+NQLSTIESGAFSELTKLASLYLDG
+NQLSTIESGIFSGLTNLTWLYLQN
+SQIASIESGAFSDLSNLRELNLWD
+NQLSTIGSRAFSGLTNLTRLDLDE
+NQIASIEPGAFNDLTNVTRLYLSH
+NQLSSIESDTFSGMTNLSSLGLSF
+NQLASIESGAFSDLSNLTGLLLVG
+**********************
+
+>uniprot|A0A1G2Y1D3|A0A1G2Y1D3_9BACT Uncharacterized protein [Planctomycetes bacterium GWF2_41_51]
+Length: 7 residues - nb: 2  from  735 to 748 - Psim:0.8571428571428571 region Length:14 
+IVKTHYM
+IVKTKDM
+**********************
+
+>uniprot|A0A1G2XWZ7|A0A1G2XWZ7_9BACT Uncharacterized protein [Planctomycetes bacterium GWF2_41_51]
+Length: 23 residues - nb: 3  from  181 to 249 - Psim:0.782608695652174 region Length:69 
+PAEIGELKNLTEIRLNENQLTSL
+PAEVGKLKNLKHLYLNYNQLISL
+PANIGELKNLTWLDLRNNKLTLL
+**********************
+
+>uniprot|A0A1N6KLY4|A0A1N6KLY4_9BACT Leucine Rich repeat-containing protein [Singulisphaera sp. GP187]
+Length: 7 residues - nb: 3  from  41 to 61 - Psim:0.6666666666666666 region Length:21 
+AVT-PVASA
+AVG-P-RS-
+AVAFG-FG-
+**********************
+
+>uniprot|A0A1N6IXB9|A0A1N6IXB9_9BACT Leucine-rich repeat (LRR) protein [Singulisphaera sp. GP187]
+Length: 6 residues - nb: 3  from  56 to 73 - Psim:0.6666666666666666 region Length:18 
+LKELSA
+LKNLST
+LKLWEM
+**********************
+
+Length: 9 residues - nb: 2  from  528 to 547 - Psim:0.8181818181818182 region Length:20 
+KELAALKDRGI
+KELVALKKR--
+**********************
+
+Length: 24 residues - nb: 4  from  67 to 162 - Psim:0.8333333333333334 region Length:96 
+TLKLWEMQVADAGMKELAALKNLT
+TLGLTNSTVADAGMQGLSALKNLT
+TLNLSGTEVTDAGMKELSALKNLT
+SLNLSGTEVTDAGMKELSALKNLT
+**********************
+
+Length: 24 residues - nb: 6  from  102 to 245 - Psim:0.84 region Length:144 
+AGMQGLSALKNLTTLNLSGT-EVTD
+AGMKELSALKNLTSLNLSGT-EVTD
+AGMKELSALKNLTTLGLLRT-RVTD
+AGMKELSALKNLTSLDLSGT-EVTD
+AGLKELSALKNLTTLGLPRT-RVTS
+AGLKELSALKNLTTLDYDGIGPYT-
+**********************
+
+Length: 24 residues - nb: 7  from  81 to 248 - Psim:0.8171428571428572 region Length:168 
+KELAALKNLTTLGLTNS-TVADAGM
+QGLSALKNLTTLNLSGT-EVTDAGM
+KELSALKNLTSLNLSGT-EVTDAGM
+KELSALKNLTTLGLLRT-RVTDAGM
+KELSALKNLTSLDLSGT-EVTDAGL
+KELSALKNLTTLGLPRT-RVTSAGL
+KELSALKNLTTLDYDGIGPYT-AVA
+**********************
+
+Length: 24 residues - nb: 3  from  156 to 227 - Psim:0.8888888888888888 region Length:72 
+SALKNLTTLGLLRTRVTDAGMKEL
+SALKNLTSLDLSGTEVTDAGLKEL
+SALKNLTTLGLPRTRVTSAGLKEL
+**********************
+
+Length: 24 residues - nb: 10  from  305 to 545 - Psim:0.78 region Length:241 
+VTDAGLKELSALENLTTLGL-SWTR
+VTDAGLKELAVLKNLTSLGL-SSTE
+VTDAGLKELSAHKSLTSLALYNNGK
+VTDAGLKELSALKNLTSLDI-SGTR
+VTDAGLKELSALKNLTTLGL-AMTE
+VTDAGLKELAVLKNLTTLDL-SFAS
+VTDAGLKELPALKNLTSLDL-TATG
+VTDAGLKELSALKNLTSLDL-SGAR
+VTDAGMKELSALKNLTILGP-IKPT
+VADAGMKELAALKDRGIKEL-VALK
+**********************
+
+Length: 24 residues - nb: 9  from  335 to 551 - Psim:0.7654320987654321 region Length:217 
+KELAVLKNLTSLG-L-SSTEVTDAGL-
+KELSAHKSLTSLA-LYNNGKVTDAGL-
+KELSALKNLTSLD-I-SGTRVTDAGL-
+KELSALKNLTTLG-L-AMTEVTDAGL-
+KELAVLKNLTTLD-L-SFASVTDAGL-
+KELPALKNLTSLD-L-TATGVTDAGL-
+KELSALKNLTSLD-L-SGARVTDAGM-
+KELSALKNLTILGPI-KPT-VADAGM-
+KELAALKDRGIKE-L-VALKKRTL-LD
+**********************
+
+Length: 24 residues - nb: 6  from  314 to 458 - Psim:0.8133333333333334 region Length:145 
+SALENLTTLGLSWT-RVTDAGLKEL
+AVLKNLTSLGLSST-EVTDAGLKEL
+SAHKSLTSLALYNNGKVTDAGLKEL
+SALKNLTSLDISGT-RVTDAGLKEL
+SALKNLTTLGLAMT-EVTDAGLKEL
+AVLKNLTTLDLSFA-SVTDAGLKEL
+**********************
+
+Length: 24 residues - nb: 6  from  402 to 545 - Psim:0.75 region Length:144 
+VTDAGLKELSALKNLTTLGLAMTE
+VTDAGLKELAVLKNLTTLDLSFAS
+VTDAGLKELPALKNLTSLDLTATG
+VTDAGLKELSALKNLTSLDLSGAR
+VTDAGMKELSALKNLTILGPIKPT
+VADAGMKELAALKDRGIKELVALK
+**********************
+
+Length: 24 residues - nb: 5  from  429 to 548 - Psim:0.725 region Length:120 
+AGLKELAVLKNLTTLDLSFASVTD
+AGLKELPALKNLTSLDLTATGVTD
+AGLKELSALKNLTSLDLSGARVTD
+AGMKELSALKNLTILGPIKPTVAD
+AGMKELAALKDRGIKELVALKKRT
+**********************
+
+Length: 24 residues - nb: 9  from  457 to 672 - Psim:0.7 region Length:216 
+-ELPALKNLTSLD-LTAT-GV-T-DAGLK-
+-ELSALKNLTSLD-LSGA-RV-T-DAGMK-
+-ELSALKNLTILGPIKPT--V-A-DAGM-K
+-ELAALKDRGIKE-LVAL-KKRT-LLDH--
+GGVG-LPIAVTPE-AAPKPSL-T-DAGV--
+KELAALKNLTTLN-LTMT-EV-T-DVGL--
+KELSALKNLTTLD-LSGT-EV-T-DAGM--
+KEVSALENLTTLG-LSGT-RV-T-DAGL--
+KELPALKNLTTLD-LRGP--I-DGELRL--
+**********************
+
+Length: 24 residues - nb: 8  from  485 to 676 - Psim:0.6774193548387096 region Length:192 
+-LK-N-LTSLD-LSGARVTDAGMK--ELSA-
+-LK-N-LTILGPIKPT-VADAGMK--ELA-A
+LKD-RGIKELVALKKRTLLDHG---G-V-G-
+-LPIA-VTPEA-APKPSLTDAGVK--ELA--
+ALK-N-LTTLN-LTMTEVTDVGLK--ELS--
+ALK-N-LTTLD-LSGTEVTDAGMK--EVS--
+ALE-N-LTTLG-LSGTRVTDAGLK--ELP--
+ALK-N-LTTLD-LRGP-I-DGELRLGEVG--
+**********************
+
+Length: 24 residues - nb: 4  from  572 to 667 - Psim:0.8333333333333334 region Length:96 
+TDAGVKELAALKNLTTLNLTMTEV
+TDVGLKELSALKNLTTLDLSGTEV
+TDAGMKEVSALENLTTLGLSGTRV
+TDAGLKELPALKNLTTLDLRGPID
+**********************
+
+Length: 24 residues - nb: 3  from  605 to 676 - Psim:0.782051282051282 region Length:72 
+ALKNLTTLDLSGTEVTDAGMK--EVS
+ALENLTTLGLSGTRVTDAGLK--ELP
+ALKNLTTLDLRGP-I-DGELRLGEVG
+**********************
+
+>uniprot|A0A1N6L122|A0A1N6L122_9BACT Leucine rich repeat-containing protein [Singulisphaera sp. GP187]
+Length: 7 residues - nb: 2  from  10 to 23 - Psim:0.8571428571428571 region Length:14 
+LLALFAG
+LLAPFAS
+**********************
+
+>uniprot|A0A177QLE2|A0A177QLE2_9PLAN Uncharacterized protein [Planctomycetaceae bacterium SCGC AG-212-F19]
+Length: 20 residues - nb: 3  from  110 to 177 - Psim:0.75 region Length:68 
+TDAGLKELVGLQNLQSLNLRETKI
+TDAGLKHLAPLKGLQALSLTETKI
+TDAGLKELAGIPSLQCLGL--S--
+**********************
+
+Length: 21 residues - nb: 3  from  110 to 178 - Psim:0.75 region Length:69 
+TDAGLKELVGLQNLQSLNLRETKI
+TDAGLKHLAPLKGLQALSLTETKI
+TDAGLKELAGIPSLQCLGL--SG-
+**********************
+
+Length: 22 residues - nb: 5  from  110 to 219 - Psim:0.6692307692307692 region Length:110 
+--TDAGLKELVGLQNLQSLNLRETKI
+--TDAGLKHLAPLKGLQALSLTETKI
+--TDAGLKELAGIPSLQCLGLSGT--
+AITNQGLKEVAGLKSLQMLDLS----
+---QTNVSD-KGLKEL-A-GLARL--
+**********************
+
+Length: 24 residues - nb: 5  from  125 to 241 - Psim:0.7241379310344828 region Length:117 
+SL---NLRETKITDAGLKHLAPLKGLQAL
+SL-----TETKITDAGLKELA---GIP--
+SLQCLGLSGTAITNQGLKEVA---GLK--
+SLQMLDLSQTNVSDKGLKELA---GLA--
+RLQTLILVDTKVTDAGIKQLA---GLK--
+**********************
+
+>uniprot|A0A2A2W9H5|A0A2A2W9H5_9PLAN Uncharacterized protein [Rhodopirellula sp. SM50]
+Length: 4 residues - nb: 3  from  429 to 442 - Psim:0.6666666666666666 region Length:14 
+LAGIT
+LATVP
+LAA-T
+**********************
+
+Length: 5 residues - nb: 3  from  1704 to 1717 - Psim:0.7333333333333333 region Length:14 
+ATSG-
+ATSGF
+ATRAA
+**********************
+
+Length: 9 residues - nb: 5  from  3033 to 3077 - Psim:0.6666666666666666 region Length:45 
+GGAGDDDLV
+GGPSADVLV
+GGTGNDWIR
+GGAGADIIL
+GNAGADELS
+**********************
+
+Length: 9 residues - nb: 5  from  3164 to 3208 - Psim:0.6727272727272727 region Length:45 
+GGRGNDVLYGA
+GG--NDAI--S
+GGIGLDSL--L
+GGTGNDVL--R
+GDSGNDTI--D
+**********************
+
+Length: 9 residues - nb: 2  from  3209 to 3227 - Psim:0.85 region Length:19 
+GEDGDDLLIG
+GE-GSELLIG
+**********************
+
+Length: 9 residues - nb: 4  from  3549 to 3584 - Psim:0.6818181818181818 region Length:36 
+GG-SSFDTIF-
+GGLGS-DTIRA
+GG-GE-DVID-
+GG-DQADVVY-
+**********************
+
+Length: 9 residues - nb: 5  from  3710 to 3754 - Psim:0.68 region Length:45 
+GG-GDRDLID
+GG-DGTDYID
+GG-GDNDSLR
+GA-GQDDVIR
+GGLGN-DVIR
+**********************
+
+Length: 9 residues - nb: 2  from  3742 to 3759 - Psim:0.8888888888888888 region Length:18 
+DVIRGGLGN
+DVIRGGAGI
+**********************
+
+Length: 1 residues - nb: 11  from  6887 to 6897 - Psim:1.0 region Length:11 
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+**********************
+
+Length: 3 residues - nb: 5  from  6823 to 6837 - Psim:0.8666666666666667 region Length:15 
+GSG
+GSG
+GRL
+GSG
+GSG
+**********************
+
+Length: 3 residues - nb: 14  from  7009 to 7049 - Psim:0.7142857142857143 region Length:41 
+G--T
+GT-Y
+PGFK
+GG-N
+GG-N
+GG-A
+GG-R
+GG-V
+GG-Q
+GG--
+GG-G
+AG-A
+GG-A
+GG-T
+**********************
+
+Length: 3 residues - nb: 10  from  7021 to 7049 - Psim:0.7333333333333333 region Length:29 
+GGN
+GGA
+GGR
+GGV
+GGQ
+GG-
+GGG
+AGA
+GGA
+GGT
+**********************
+
+Length: 3 residues - nb: 6  from  7033 to 7049 - Psim:0.7222222222222222 region Length:17 
+GGQ
+GG-
+GGG
+AGA
+GGA
+GGT
+**********************
+
+Length: 9 residues - nb: 3  from  6732 to 6759 - Psim:0.717948717948718 region Length:28 
+GVLG-G--SRP--
+GVIGTG--GLPGG
+GV-G-ATTSRG--
+**********************
+
+Length: 7 residues - nb: 2  from  7989 to 8003 - Psim:0.7777777777777778 region Length:15 
+VTLGNRSE-
+VTL-T-SER
+**********************
+
+>uniprot|A0A2A2W4W4|A0A2A2W4W4_9PLAN Uncharacterized protein [Rhodopirellula sp. SM50]
+Length: 3 residues - nb: 6  from  42 to 59 - Psim:0.7083333333333334 region Length:18 
+AD-S
+ADRA
+AD-I
+A--A
+AV-E
+AV-A
+**********************
+
+>uniprot|A0A177R4U7|A0A177R4U7_9PLAN Uncharacterized protein [Planctomycetaceae bacterium SCGC AG-212-F19]
+Length: 20 residues - nb: 3  from  146 to 213 - Psim:0.7361111111111112 region Length:68 
+DEGLKELAALQSLQTLHFDSNPVT
+DEGVKHIAKLKGLQTLTLDMNPVT
+DEGLKQIAKLKGLK-L-LSLRG--
+**********************
+
+Length: 24 residues - nb: 2  from  158 to 205 - Psim:0.8958333333333334 region Length:48 
+LQTLHFDSNPVTDEGVKHIAKLKG
+LQTLTLDMNPVTDEGLKQIAKLKG
+**********************
+
+>uniprot|A0A177R4W5|A0A177R4W5_9PLAN Uncharacterized protein [Planctomycetaceae bacterium SCGC AG-212-F19]
+Length: 5 residues - nb: 3  from  48 to 61 - Psim:0.6666666666666666 region Length:14 
+DKEK-
+DKEAF
+DKAVV
+**********************
+
+>uniprot|A0A177QM21|A0A177QM21_9PLAN Uncharacterized protein [Planctomycetaceae bacterium SCGC AG-212-F19]
+Length: 5 residues - nb: 3  from  346 to 360 - Psim:0.6666666666666666 region Length:15 
+GT-GIK
+GT-GLA
+NLKGL-
+**********************
+
+Length: 8 residues - nb: 2  from  350 to 365 - Psim:0.8 region Length:16 
+KGTGLANL--
+KG--LANLGD
+**********************
+
+>uniprot|A0A2A2WHC7|A0A2A2WHC7_9PLAN Internalin [Rhodopirellula sp. SM50]
+Length: 5 residues - nb: 17  from  21 to 107 - Psim:0.7941176470588235 region Length:87 
+A-V-SVRP
+A-V-S-DD
+KPE-A-AK
+A-E-K-VE
+A-E-K-QD
+A-EAK-KP
+A-E-A-KP
+E-D-A-KP
+A-E-K--P
+A-E-K-KP
+A-E-K-KP
+E-E-K-KP
+E-E-K-KP
+E-E-K-KP
+E-E-K-KP
+E-E-K-KP
+A-E-K-KP
+**********************
+
+Length: 5 residues - nb: 13  from  43 to 107 - Psim:0.8333333333333334 region Length:65 
+AE-KQD
+AEAKKP
+AE-AKP
+ED-AKP
+AE-K-P
+AE-KKP
+AE-KKP
+EE-KKP
+EE-KKP
+EE-KKP
+EE-KKP
+EE-KKP
+AE-KKP
+**********************
+
+Length: 5 residues - nb: 13  from  52 to 115 - Psim:0.8153846153846154 region Length:64 
+KPAEA
+KPEDA
+KPAE-
+KPAEK
+KPAEK
+KPEEK
+KPEEK
+KPEEK
+KPEEK
+KPEEK
+KPAEK
+KPEAK
+KEEKK
+**********************
+
+Length: 5 residues - nb: 11  from  54 to 107 - Psim:0.8363636363636363 region Length:54 
+AEAKP
+EDAKP
+AEK-P
+AEKKP
+AEKKP
+EEKKP
+EEKKP
+EEKKP
+EEKKP
+EEKKP
+AEKKP
+**********************
+
+Length: 5 residues - nb: 9  from  71 to 115 - Psim:0.8888888888888888 region Length:45 
+KPAEK
+KPEEK
+KPEEK
+KPEEK
+KPEEK
+KPEEK
+KPAEK
+KPEAK
+KEEKK
+**********************
+
+Length: 5 residues - nb: 9  from  79 to 123 - Psim:0.8148148148148148 region Length:45 
+EKKPE-
+EKKPE-
+EKKPE-
+EKKPE-
+EKKPA-
+EKKPE-
+AKKEE-
+-KKAEP
+KKEAP-
+**********************
+
+Length: 5 residues - nb: 4  from  87 to 106 - Psim:0.95 region Length:20 
+PEEKK
+PEEKK
+PEEKK
+PAEKK
+**********************
+
+Length: 5 residues - nb: 6  from  95 to 123 - Psim:0.7333333333333333 region Length:29 
+KKPEE
+KKPAE
+KKPEA
+KK-EE
+KKAEP
+KKEAP
+**********************
+
+Length: 5 residues - nb: 3  from  110 to 123 - Psim:0.8 region Length:14 
+KKEE-
+KKAEP
+KKEAP
+**********************
+
+Length: 6 residues - nb: 17  from  38 to 128 - Psim:0.7588235294117647 region Length:91 
+--AE-KV-E-
+--AE-KQ-D-
+--AE-AK-KP
+--AE-AKPE-
+DAKP-AE---
+--KP-AE-K-
+--KP-AE-K-
+--KP-EE-K-
+--KP-EE-K-
+--KP-EE-K-
+--KP-EE-K-
+--KP-EE-K-
+--KP-AE-K-
+--KPEAK-K-
+EEKK-AE---
+--PK-KE-A-
+-PKP-VA-S-
+**********************
+
+Length: 6 residues - nb: 4  from  50 to 72 - Psim:0.7777777777777778 region Length:23 
+AKKPAE---
+AK-P-ED--
+AK-PAEK--
+---PAEKKP
+**********************
+
+Length: 6 residues - nb: 8  from  67 to 109 - Psim:0.8472222222222222 region Length:43 
+--P-AEKK-
+PAE-KKP--
+--EEKKPE-
+--E-KKPE-
+--E-KKPE-
+--E-KKPE-
+--E-KKPA-
+--E-KKPEA
+**********************
+
+Length: 6 residues - nb: 10  from  76 to 128 - Psim:0.7875 region Length:53 
+-KPE-E-K
+-KPE-E-K
+-KPE-E-K
+-KPE-E-K
+-KPE-E-K
+-KPA-E-K
+-KPEAK-K
+-EEK-KAE
+-PKK-E-A
+PKPV-A-S
+**********************
+
+Length: 6 residues - nb: 5  from  84 to 109 - Psim:0.9333333333333333 region Length:26 
+EKKPE-
+EKKPE-
+EKKPE-
+EKKPA-
+EKKPEA
+**********************
+
+Length: 6 residues - nb: 3  from  92 to 108 - Psim:0.8095238095238095 region Length:17 
+PEEKK--
+PEEKKP-
+AE-KKPE
+**********************
+
+Length: 8 residues - nb: 3  from  48 to 71 - Psim:0.7 region Length:24 
+AEAK----KP
+AEAKPEDAKP
+AE-KPAEKK-
+**********************
+
+>uniprot|A0A177QKJ8|A0A177QKJ8_9PLAN Uncharacterized protein [Planctomycetaceae bacterium SCGC AG-212-F19]
+Length: 3 residues - nb: 5  from  335 to 348 - Psim:0.6666666666666666 region Length:14 
+GLK
+GLA
+GLK
+DLQ
+NL-
+**********************
+
+Length: 21 residues - nb: 10  from  147 to 383 - Psim:0.784 region Length:237 
+LAGLQGLQTLNLGG-TRVTDAGVKE
+LARLKTLQNLNLTE-ARITDAGLKE
+LAKLKGLQRLTLSS-TQITDAGLKE
+LAGLPDLQFLSLWA-TRVTDAGLKE
+LAALKGLQMLNL-RDTRITDAGLKE
+LAGLKGLQGLNLMS-TPVTDAGVKE
+LAGLKNLQTLNLCG-TQLTDAGLKE
+LAGLIGLQTLDLSF-TQGTDAGLKG
+LAGLKDLQNLNLIR-TEVTDAGLKE
+LAGLTGLQSLNLSG-TKVTDAG---
+**********************
+
+Length: 21 residues - nb: 4  from  182 to 263 - Psim:0.6551724137931034 region Length:82 
+LT--EA---RITDAGLKEL-AKLKG-LQR
+LT-LSS--TQITDAGLKEL-A---G-LPD
+LQFLSLWATRVTDAGLKE-L---A-A---
+LKGLQM--LNLRDTRITD--A---G----
+**********************
+
+Length: 21 residues - nb: 8  from  213 to 401 - Psim:0.7760416666666666 region Length:189 
+DAGLKELAGLPDLQFLSLWATRVT
+DAGLKELAALKGLQMLNLRDTRIT
+DAGLKELAGLKGLQGLNLMSTPVT
+DAGVKELAGLKNLQTLNLCGTQLT
+DAGLKELAGLIGLQTLDLSFTQGT
+DAGLKGLAGLKDLQNLNLIRTEVT
+DAGLKELAGLTGLQSLNLSGTKVT
+DAGLKELTGLKTLQSLDLRNT---
+**********************
+
+Length: 21 residues - nb: 7  from  242 to 400 - Psim:0.6666666666666666 region Length:159 
+--ELA-ALKGLQMLNLRDTR-ITDAGLK--
+--ELA-GLKGLQGLNLMSTP-VTDAGVK--
+--ELA-GLKNLQTLNLCGTQ-LTDAGLK--
+--ELA-GLIGLQTLDLSFTQ-GTDA-----
+GLKGLAGLKDLQNLNLI---R-TE---V--
+--TDA-GLKEL-A-GLTGLQSLNLSGTK-V
+--TDA-GLKEL-T-GL-KT--LQSLDLRN-
+**********************
+
+Length: 21 residues - nb: 6  from  270 to 401 - Psim:0.6568627450980392 region Length:132 
+---LKGLQGLNLMSTPVTDAGV-K---ELAG---
+---LKNLQTL-NL-CGTQ--LTD--A---G----
+------LKELAGL-IGLQ-TLDL--SFTQGTDAG
+------LKGLAGL-KDLQ-NLNLIRT---EVT--
+---DAGLKELAGL-TGLQ-SLNL--S---GT---
+KVTDAGLKELTGL-KTLQ-SLDL--R---NT---
+**********************
+
+Length: 21 residues - nb: 3  from  332 to 400 - Psim:0.8055555555555556 region Length:69 
+TDAGLKGLAGLKDLQNLNLIRTEV
+TDAGLKELAGLTGLQSLNLSGTKV
+TDAGLKELTGLKTLQSLDL-RN--
+**********************
+
+Length: 21 residues - nb: 2  from  361 to 405 - Psim:0.7916666666666666 region Length:45 
+KELAGLTGLQSLNLSGTKVTDAGL
+KELTGLKTLQSLDLRNTKVTE---
+**********************
+
+Length: 24 residues - nb: 11  from  153 to 416 - Psim:0.7563636363636363 region Length:264 
+LQTLNL-GGTRVTDAGVKELARLKT
+LQNLNL-TEARITDAGLKELAKLKG
+LQRLTL-SSTQITDAGLKELAGLPD
+LQFLSL-WATRVTDAGLKELAALKG
+LQMLNL-RDTRITDAGLKELAGLKG
+LQGLNL-MSTPVTDAGVKELAGLKN
+LQTLNL-CGTQLTDAGLKELAGLIG
+LQTLDL-SFTQGTDAGLKGLAGLKD
+LQNLNLIR-TEVTDAGLKELAGLTG
+LQSLNL-SGTKVTDAGLKELTGLKT
+LQSLDL-RNTKVTEQAAEELSRVIR
+**********************
+
+Length: 24 residues - nb: 3  from  345 to 416 - Psim:0.7222222222222222 region Length:72 
+LQNLNLIRTEVTDAGLKELAGLTG
+LQSLNLSGTKVTDAGLKELTGLKT
+LQSLDLRNTKVTEQAAEELSRVIR
+**********************
+
+>uniprot|A0A177QGH8|A0A177QGH8_9PLAN Uncharacterized protein [Planctomycetaceae bacterium SCGC AG-212-F19]
+Length: 5 residues - nb: 3  from  85 to 100 - Psim:0.7222222222222222 region Length:16 
+KELAGM
+KELRS-
+LHLRS-
+**********************
+
+Length: 7 residues - nb: 3  from  270 to 290 - Psim:0.7407407407407407 region Length:21 
+ELTDAGL-K
+ELL--GL-K
+ELR--SLFL
+**********************
+
+Length: 8 residues - nb: 2  from  179 to 192 - Psim:0.8125 region Length:14 
+GLKELA--
+GLKELRRL
+**********************
+
+Length: 8 residues - nb: 3  from  270 to 291 - Psim:0.7083333333333334 region Length:22 
+ELTDAGLK
+EL--LGLK
+ELRSLFLS
+**********************
+
+>uniprot|A0A177R2W7|A0A177R2W7_9PLAN Uncharacterized protein [Planctomycetaceae bacterium SCGC AG-212-F19]
+Length: 20 residues - nb: 3  from  77 to 144 - Psim:0.7638888888888888 region Length:68 
+NLQTLYLGESKVTDVGLKELKELK
+NLQTLFLDSTQVTGTGLKELKELK
+NLEVLSLMESKITDAGLKEL----
+**********************
+
+Length: 20 residues - nb: 6  from  137 to 276 - Psim:0.7777777777777778 region Length:140 
+TDAGLKELKELKSLQTLDLHQTQL
+TDTGLKELKGLKSLQTLHLDRTHI
+TDTGLKELKELKSLELLTLGNTKV
+TDVGLKELKELTSLQVLGLSGTQV
+TDTGLKELKELKSLKMLNLDRTQT
+TDAGLKELKELKSLA--NL-RI-A
+**********************
+
+Length: 20 residues - nb: 4  from  185 to 276 - Psim:0.7708333333333334 region Length:92 
+TDTGLKELKELKSLELLTLGNTKV
+TDVGLKELKELTSLQVLGLSGTQV
+TDTGLKELKELKSLKMLNLDRTQT
+TDAGLKELKELKSLA--NL-RI-A
+**********************
+
+Length: 22 residues - nb: 4  from  77 to 168 - Psim:0.7307692307692307 region Length:92 
+--NLQTLYLGESKVTDVGLKELKELK
+--NLQTLFLDSTQVTGTGLKELKELK
+--NLEVLSLMESKITDAGLKELKE--
+LKSLQTLDLHQTQLTDTGLKEL----
+**********************
+
+Length: 22 residues - nb: 6  from  137 to 278 - Psim:0.78 region Length:142 
+TDAGLKELKELKSLQTLDLHQ-TQL
+TDTGLKELKGLKSLQTLHLDR-THI
+TDTGLKELKELKSLELLTLGN-TKV
+TDVGLKELKELTSLQVLGLSG-TQV
+TDTGLKELKELKSLKMLNLDR-TQT
+TDAGLKELKELKSLA--NL-RIAYT
+**********************
+
+Length: 24 residues - nb: 3  from  140 to 211 - Psim:0.8055555555555556 region Length:72 
+GLKELKELKSLQTLDLHQTQLTDT
+GLKELKGLKSLQTLHLDRTHITDT
+GLKELKELKSLELLTLGNTKVTDV
+**********************
+
+>uniprot|A0A2G2JM40|A0A2G2JM40_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 5 residues - nb: 3  from  346 to 360 - Psim:0.6666666666666666 region Length:15 
+LTKII
+LTKNN
+LTSLP
+**********************
+
+Length: 6 residues - nb: 3  from  346 to 361 - Psim:0.6666666666666666 region Length:16 
+LTKII-
+LTKNN-
+LTSLPP
+**********************
+
+>uniprot|A0A2G2L268|A0A2G2L268_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 24 residues - nb: 5  from  195 to 314 - Psim:0.7916666666666666 region Length:120 
+LKGLTSLTHLSLNGTQVTDAGLEH
+LKDVTSLNILHLSDTQITDAGLEN
+LKGLTSLNRLHLRNTQITDAGLVH
+LKDLTGLRHLYLEDTQVTDAGLEH
+LKGMTSLKTLYLNDTQITDAGLSE
+**********************
+
+>uniprot|A0A2G2KDV7|A0A2G2KDV7_9PLAN Internalin [Blastopirellula sp.]
+Length: 4 residues - nb: 3  from  75 to 88 - Psim:0.8 region Length:14 
+AESKP
+AEPKP
+AEKK-
+**********************
+
+Length: 4 residues - nb: 4  from  105 to 123 - Psim:0.7 region Length:19 
+PKKVD
+PKNPV
+PKKPT
+PKKE-
+**********************
+
+Length: 5 residues - nb: 3  from  48 to 63 - Psim:0.6666666666666666 region Length:16 
+EKEDAV
+EKKEP-
+AKPEP-
+**********************
+
+Length: 5 residues - nb: 5  from  75 to 99 - Psim:0.6666666666666666 region Length:25 
+AESKP-
+AEPKP-
+AEKK-A
+-DPVK-
+AKPKPV
+**********************
+
+Length: 5 residues - nb: 8  from  101 to 141 - Psim:0.7321428571428571 region Length:41 
+KK-VEP-
+KK-VDP-
+KN-PVP-
+KK-PTP-
+KK-EAT-
+KK-PAEE
+KKKPA--
+PK-PVP-
+**********************
+
+Length: 5 residues - nb: 7  from  106 to 141 - Psim:0.7346938775510204 region Length:36 
+KK-VDP-
+KN-PVP-
+KK-PTP-
+KK-EAT-
+KK-PAEE
+KKKPA--
+PK-PVP-
+**********************
+
+Length: 6 residues - nb: 4  from  75 to 96 - Psim:0.7142857142857143 region Length:22 
+-AESKP-
+-AEPKP-
+-AEKKAD
+PVKAKP-
+**********************
+
+Length: 6 residues - nb: 3  from  126 to 143 - Psim:0.6666666666666666 region Length:18 
+KK-PAEE
+KKKPAP-
+KPVPKK-
+**********************
+
+>uniprot|A0A2G2JL01|A0A2G2JL01_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 3 residues - nb: 5  from  240 to 255 - Psim:0.65 region Length:16 
+Q-LS
+Q-LP
+DDLG
+N-LT
+N-LT
+**********************
+
+Length: 23 residues - nb: 4  from  175 to 266 - Psim:0.6630434782608695 region Length:92 
+LPESFGKLSSLRYLNLKSNRLNS
+LPEKFGKLASLKYLNLRSNRLSS
+LPESLSNCKELEYLILGGNQLSQ
+LPDDLGNLTNLTVLVLSKNQLED
+**********************
+
+>uniprot|A0A2G2KY34|A0A2G2KY34_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 24 residues - nb: 3  from  137 to 213 - Psim:0.7701149425287356 region Length:77 
+DTQITGAGLENLKGLTSLNRLYLSGTQIT
+DT---G--LDHLKDLTSLNLLALSGRNIT
+D-----AGLEHLKGLTSLEVLSLASPQIT
+**********************
+
+>uniprot|A0A2G2KXX1|A0A2G2KXX1_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 21 residues - nb: 8  from  157 to 335 - Psim:0.65 region Length:179 
+------GLTKLK--T-LK-LD-N-TQITDS
+------GLEHLKGMTSLTILILRGTQLTDA
+------GLEHLEEFTRLGQLNLSGTPVTDA
+------GLEHLKGLTSLTVLDLNGTQV---
+---TDAGLEHLKGLTSLNVLDL---QD---
+TQITSKGLMYLKGLTSLGSLCLNG------
+TQVTDTGLEHLKGMT-LWSFFLN--D----
+TQITDAGLEHLNGLTNLKVLKLNN------
+**********************
+
+Length: 21 residues - nb: 8  from  124 to 308 - Psim:0.6696428571428571 region Length:185 
+TD--AGL-EHLK-DLTSLNTLYLDNTQI
+TD--AGL-KHLK-GLTKLKTLKLDNTQI
+TD--SGL-EHLK-GMTSLTILILRGTQL
+TD--AGL-EHLE-EFTRLGQLNLSGTPV
+TD--AGL-EHLK-GLTSLTVLDLNGTQV
+TD--AGL-EHLK-GLTSLNVLDL---QD
+TQITSKGLMY-LKGLTSL------GSLC
+LN---GT-QVTDTGLEHLKGMTL-WSFF
+**********************
+
+Length: 21 residues - nb: 8  from  175 to 356 - Psim:0.694078947368421 region Length:182 
+--------GL-EHLKGMTSLTILILRGTQ-----LTDA
+--------GL-EHLEEFTRLGQLNL---SGTPVTDA--
+--------GL-EHLKGLTSLTVLDLNGTQ-----V---
+T---D--AGL-EHLKGLTSLNVLDL---Q-----D---
+T---QITSKGLMYLKGLTSLGSL---C-----LNG---
+TQVTD--TGL-EHLKGMTLWSFF-L---N-----D---
+TQITD--AGL-EHLNGLTNLKVLKL---N-----N---
+TQITD--AGL-SKLRAAIPFFVI-A-------------
+**********************
+
+Length: 21 residues - nb: 2  from  216 to 260 - Psim:0.8958333333333334 region Length:45 
+GTPVTDAGLEHLKGLTSLTVLDLN
+GTQVTDAGLEHLKGLTSLNVL---
+**********************
+
+Length: 21 residues - nb: 2  from  275 to 319 - Psim:0.7916666666666666 region Length:45 
+LKGLTSLGSLCLNGTQVTDTGLEH
+LKGMT-LWSFFLNDTQITDAGL--
+**********************
+
+Length: 24 residues - nb: 11  from  100 to 357 - Psim:0.7007575757575758 region Length:258 
+TDAGLEHLEALNSLTFLNLGDTQV
+TDAGLEHLKDLTSLNTLYLDNTQI
+TDAGLKHLKGLTKLKTLKLDNTQI
+TDSGLEHLKGMTSLTILILRGTQL
+TDAGLEHLEEFTRLGQLNLSGTPV
+TDAGLEHLKGLTSLTVLDLNGTQV
+TDAGLEHLKGLTSLNVLDLQDTQI
+TSKGLMYLKGLTSLGSLCLNGTQV
+TDTGLEHLKGMT-LWSFFLNDTQI
+TDAGLEHLNGLTNLKVLKLNNTQI
+TDAGLSKLRAAIPFFVI---A-K-
+**********************
+
+Length: 24 residues - nb: 6  from  127 to 270 - Psim:0.7638888888888888 region Length:144 
+GLEHLKDLTSLNTLYLDNTQITDA
+GLKHLKGLTKLKTLKLDNTQITDS
+GLEHLKGMTSLTILILRGTQLTDA
+GLEHLEEFTRLGQLNLSGTPVTDA
+GLEHLKGLTSLTVLDLNGTQVTDA
+GLEHLKGLTSLNVLDLQDTQITSK
+**********************
+
+Length: 24 residues - nb: 6  from  212 to 356 - Psim:0.7126436781609196 region Length:145 
+LN-LSG--TPVTDAGLEHLKGLTSLTVLD
+LN---G--TQVTDAGLEHLKGLTS-----
+LNVLDLQDTQITSKGLMYLKGLTSLGSLC
+LN---G--TQVTDTGLEHLKGMT-LWSFF
+LN--D---TQITDAGLEHLNGLTNLKVLK
+LN--N---TQITDAGLSKLRAAIPFFVIA
+**********************
+
+>uniprot|A0A2G2IM08|A0A2G2IM08_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 24 residues - nb: 3  from  62 to 133 - Psim:0.8888888888888888 region Length:72 
+LSNTKITDAGLEHLKGLTSLNQLV
+LSNTKITDAGLEHLKGLTSLNQLV
+LNGTQITNAGLENLKGLTSLTNLG
+**********************
+
+Length: 24 residues - nb: 5  from  118 to 231 - Psim:0.725 region Length:114 
+AGLENLKGLTSLTNLGLEVTQITD
+AGLEHLKGLTSLEFLDLWGTQITD
+AGLENLKGLTSLKRLYLDNTQITD
+AGLEYLKGLTSLNELNLTDTQITD
+AGLSELKA--ALPKC--DVYKF--
+**********************
+
+Length: 24 residues - nb: 3  from  150 to 221 - Psim:0.8055555555555556 region Length:72 
+LTSLEFLDLWGTQITDAGLENLKG
+LTSLKRLYLDNTQITDAGLEYLKG
+LTSLNELNLTDTQITDAGLSELKA
+**********************
+
+>uniprot|A0A2G2KY06|A0A2G2KY06_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 24 residues - nb: 10  from  99 to 335 - Psim:0.7142857142857143 region Length:237 
+L---KILTSLEG-LHLRGTKITDAGLEH
+L---KSLTSLNT-LVLGGTQITDVGLEH
+L---KGLTSLSR-LHLDDTQITDAGFQH
+L---KNLTSLTE-LNLNDAQITDAGLEH
+L---KGLTSLTL-LLLNDTQITDAG---
+LKHLKGMTSL-DFLFLSNTQITGAG---
+MKHLKGLTSLIY-LDLNGTQFTDAG---
+LVYLKGLTSLTD-LNLNGTQITDAG---
+LVHLKGLTSLNN-LMLSDTQITHAG---
+LKHLTGLTSLKF-LSLYRTGVA-AG--L
+**********************
+
+Length: 24 residues - nb: 7  from  162 to 329 - Psim:0.7916666666666666 region Length:168 
+QITDAGFQHLKNLTSLTELNLNDA
+QITDAGLEHLKGLTSLTLLLLNDT
+QITDAGLKHLKGMTSLDFLFLSNT
+QITGAGMKHLKGLTSLIYLDLNGT
+QFTDAGLVYLKGLTSLTDLNLNGT
+QITDAGLVHLKGLTSLNNLMLSDT
+QITHAGLKHLTGLTSLKFLSLYRT
+**********************
+
+Length: 24 residues - nb: 7  from  161 to 328 - Psim:0.7916666666666666 region Length:168 
+TQITDAGFQHLKNLTSLTELNLND
+AQITDAGLEHLKGLTSLTLLLLND
+TQITDAGLKHLKGMTSLDFLFLSN
+TQITGAGMKHLKGLTSLIYLDLNG
+TQFTDAGLVYLKGLTSLTDLNLNG
+TQITDAGLVHLKGLTSLNNLMLSD
+TQITHAGLKHLTGLTSLKFLSLYR
+**********************
+
+Length: 24 residues - nb: 3  from  244 to 315 - Psim:0.8333333333333334 region Length:72 
+KGLTSLIYLDLNGTQFTDAGLVYL
+KGLTSLTDLNLNGTQITDAGLVHL
+KGLTSLNNLMLSDTQITHAGLKHL
+**********************
+
+>uniprot|A0A2G2K2B9|A0A2G2K2B9_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 5 residues - nb: 3  from  148 to 163 - Psim:0.6666666666666666 region Length:16 
+LKELAS
+LKTLL-
+LKGTQ-
+**********************
+
+>uniprot|A0A2G2J8W3|A0A2G2J8W3_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 24 residues - nb: 3  from  62 to 128 - Psim:0.7638888888888888 region Length:67 
+LN----E-TKTTDAGLEHLKELTS
+LNALYLNNTQITDAGLEHLKGLTS
+LDNLQLVGTQVTDAGLKHLKGLTN
+**********************
+
+Length: 24 residues - nb: 6  from  189 to 332 - Psim:0.6851851851851852 region Length:144 
+TSE-PVDAIA--EIKKVGGSVLLDSQS
+NEVIAVYL-GLTKITDAGLEHL-NGL-
+TSLTHLDLHG-TKITHAGLEHM-KGV-
+TSLISLDLRG-TQITDAGLEHL-KGL-
+TSLNFLWLND-TQITDAGLEHL-KGM-
+TSLKTLYLND-TQITDAGLSEL-KTA-
+**********************
+
+Length: 24 residues - nb: 3  from  272 to 340 - Psim:0.7733333333333333 region Length:69 
+QITDAGLEHLKGLTSL-NFLWLNDT
+QITDAGLEHLKGMTSL-KTLYLNDT
+QITDAGLSELK--TALPHCKAFN--
+**********************
+
+>uniprot|A0A2G2KXV0|A0A2G2KXV0_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 24 residues - nb: 3  from  192 to 263 - Psim:0.7307692307692307 region Length:72 
+QITDAG-LEHLKGL-TSLTNLSLNGT
+QITDAG-LEHLKGL-TSLKTLHLYRT
+QITDAGVLE-IKAALPKCEVRKLQD-
+**********************
+
+Length: 24 residues - nb: 5  from  321 to 435 - Psim:0.7655172413793103 region Length:115 
+SL-C-----TQITDAGLKHLKGLTNLKHL
+SLD--N-T-SQITDAGLEHLKGLS-----
+SLTHLGLYGTQVTDDGLEHLKGLA-----
+SLKDLSLGGTQITDTGLEHLKGLT-----
+SLNVLNLNRTQITDAGLEHLKGLT-----
+**********************
+
+Length: 24 residues - nb: 7  from  393 to 555 - Psim:0.8035714285714286 region Length:163 
+SL---G-G-TQITDTGLEHLKGLT
+SLNVLNLNRTQITDAGLEHLKGLT
+SLKELSFSGTQVTDTGLEHLKGLT
+RLKDLSFETTQITDTGLEHLKGLT
+SLTHLGLGGTQITDAGLEHLKGLT
+SLKDLSLTHTQITDAGLEHLKGLA
+SLEELSLNGPKITDAGLEHLKGLT
+**********************
+
+Length: 24 residues - nb: 6  from  428 to 571 - Psim:0.8263888888888888 region Length:144 
+LEHLKGLTSLKELSFSGTQVTDTG
+LEHLKGLTRLKDLSFETTQITDTG
+LEHLKGLTSLTHLGLGGTQITDAG
+LEHLKGLTSLKDLSLTHTQITDAG
+LEHLKGLASLEELSLNGPKITDAG
+LEHLKGLTSLMVLWLSDTQITDAG
+**********************
+
+Length: 24 residues - nb: 4  from  469 to 564 - Psim:0.8229166666666666 region Length:96 
+TQITDTGLEHLKGLTSLTHLGLGG
+TQITDAGLEHLKGLTSLKDLSLTH
+TQITDAGLEHLKGLASLEELSLNG
+PKITDAGLEHLKGLTSLMVLWLSD
+**********************
+
+>uniprot|A0A2G2JSU7|A0A2G2JSU7_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 8 residues - nb: 2  from  57 to 72 - Psim:0.75 region Length:16 
+PA-TPK---T
+PAATAKESAT
+**********************
+
+Length: 9 residues - nb: 2  from  62 to 80 - Psim:0.8181818181818182 region Length:19 
+TPAATAKE-SA
+TPAI--KEPSA
+**********************
+
+Length: 24 residues - nb: 4  from  203 to 295 - Psim:0.7604166666666666 region Length:93 
+HL---TSLNVLVLNDTQITDTGLE
+HLRGMTSLEVLWLQDTQITDAGLE
+HLKSLTSLKVLLLEGTQITDAGLE
+HLEGMTSLEAVVLRGTQVTDTGSS
+**********************
+
+Length: 24 residues - nb: 3  from  233 to 306 - Psim:0.6923076923076923 region Length:74 
+VLWLQDTQITDAGLEHLKSLTSLK--
+VLLLEGTQITDAGLEHLEGMTSLEAV
+VL--RGTQVTDTGSSKLKAALPQCSV
+**********************
+
+>uniprot|A0A2G2L296|A0A2G2L296_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 7 residues - nb: 2  from  105 to 118 - Psim:0.75 region Length:14 
+ELLKDHQ-
+EL-KDVSF
+**********************
+
+>uniprot|A0A2G2L2G1|A0A2G2L2G1_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 5 residues - nb: 3  from  93 to 109 - Psim:0.7222222222222222 region Length:17 
+GLKHLK
+GLTSLN
+GLY-LN
+**********************
+
+Length: 5 residues - nb: 3  from  189 to 205 - Psim:0.7777777777777778 region Length:17 
+GLEHLK
+GLTSLK
+GL-SLN
+**********************
+
+Length: 6 residues - nb: 6  from  189 to 224 - Psim:0.7083333333333334 region Length:36 
+G-LEHLK-
+G-LTSLK-
+G-L-SLNG
+TQITGI--
+G-LEYLK-
+G-LTSLI-
+**********************
+
+Length: 11 residues - nb: 4  from  217 to 263 - Psim:0.6785714285714286 region Length:47 
+LKGLTSLI-A-L-D
+LKG-TQLTDAGLED
+LKGMTSL-EF-LF-
+LNG-TQITDAGLK-
+**********************
+
+Length: 24 residues - nb: 4  from  62 to 157 - Psim:0.7844827586206896 region Length:96 
+DTQITDAGLEHLKGLTSLKDLLLNGTKIT
+DT-----GLKHLKGLTSL-NGLY--LN--
+DTQITDAGLKHLKSLTSL-NILG--LS--
+NTQITHAGLVHLKGLTSL-KNLG--LS--
+**********************
+
+Length: 24 residues - nb: 10  from  63 to 302 - Psim:0.748 region Length:240 
+TQITDAGLEHL-KGLTSLKDLLLNG
+TKITDTGLKHL-KGLTSLNGLYLND
+TQITDAGLKHL-KSLTSLNILGLSN
+TQITHAGLVHL-KGLTSLKNLGLSD
+TQVTDAGLKYL-KGMTSLEKLVLKG
+TQITDAGLEHL-KGLTSLKGLSLNG
+TQITGIGLEYL-KGLTSLIALDLKG
+TQLTDAGLEDL-KGMTSLEFLFLNG
+TQITDAGLKHL-KGLSSLNELHLND
+TQITNAGLSKLIAALSNCRVIK-EL
+**********************
+
+Length: 24 residues - nb: 7  from  338 to 505 - Psim:0.7678571428571429 region Length:168 
+TQITDAGLKYLQALTSLEYLNLSG
+TQITDAGLEHLKGLTSLTTLVLDN
+TQITDAGLEHLKGLTSLEAVVLKD
+TQITDAGLKHLKSLTSLKGLMLED
+TPITDAGLEHLKGLTSLEAVFLKD
+TQITDAGLKHLKSLTSLEYLMLEG
+TQVTDTGLKHLLALESLKNLDISG
+**********************
+
+Length: 24 residues - nb: 12  from  365 to 663 - Psim:0.657608695652174 region Length:299 
+T--DAG-----LEHL-KG-LT-SL-TTL---VL-D-N-TQ--I---
+T--DAG-----LEHL-KG-LT-SL-EAV---VL-K-D-TQ--I---
+T--DAG-----LKHL-KS-LT-SL-KGL---ML-E-D-TP--I---
+T--DAG-----LEHL-KG-LT-SL-EAV---FL-K-D-TQ--I---
+T--DAG-----LKHL-KS-LT-SL-EYL---ML-E-G-TQ--V---
+T--DTG-----LKHL-LA-LE-SL-KNL---DI-S-G-TF--I---
+S-RD-G-----VAQL-KRAL-PS-CRI---SV---E-NVKT-SK-E
+T--LSP-----SQQV-DA-IT-EI-KKLGGLVV-L-N--K-SGE-V
+T--LVM-----LDD--KQ-ITDAGLEH---LK-GL-TS--L-NI-L
+T--LGG-----TQ-V-TG--E-GL-VHL---K--G-M-TK--LH--
+T---LG-----L-HN-TQ-ITDAGLEH---LK-GL-TS--LNN-L-
+TLNDTKITGAGLE-HL-KG-LT-RLT-----------H-----L--
+**********************
+
+Length: 24 residues - nb: 4  from  702 to 786 - Psim:0.71875 region Length:85 
+LKGLTSLTHLVLDNTQITDAGIEH
+LKGLTSLSKLYLSGTQITDAGLEH
+LKGLTSLTHLDLSNTQITDAGLSE
+LK--TALPKCNV-NKQ--------
+**********************
+
+>uniprot|A0A2G2KUB2|A0A2G2KUB2_9PLAN Uncharacterized protein [Blastopirellula sp.]
+Length: 5 residues - nb: 3  from  44 to 58 - Psim:0.6666666666666666 region Length:15 
+LLIIVT
+LLC-V-
+LLVPL-
+**********************
+
+Length: 24 residues - nb: 5  from  133 to 249 - Psim:0.7916666666666666 region Length:117 
+LEHLKGLTSLTNLNLSGTQITGTG
+LEHLK---SLTNLYLTGTQITDAG
+LEHLKGLTSLNYLNLRDTQIMGTG
+LEHLKGLTSLKSLSLYDTQITDEG
+LMHLKGLTSLNSLWLNGTQITDAG
+**********************
+
+Length: 24 residues - nb: 7  from  162 to 334 - Psim:0.7235023041474654 region Length:173 
+SLTNLYLTGTQITDAGLEHLKG-LT------
+SLNYLNLRDTQIMGTGLEHLKG-LT------
+SLKSLSLYDTQITDEGLMHLKG-LT------
+SLNSLWLNGTQITDAGLQHLKG-MT------
+NLKTLYLNDTQITDAGLEHLKD-LTSLKSL-
+---NLH-R-TQITDAGLEHLKG-LTSLNFL-
+---NL--TGTQVTDAGVSKFKAALP--KCNV
+**********************
+
+Length: 24 residues - nb: 4  from  228 to 323 - Psim:0.8229166666666666 region Length:96 
+HLKGLTSLNSLWLNGTQITDAGLQ
+HLKGMTNLKTLYLNDTQITDAGLE
+HLKDLTSLKSLNLHRTQITDAGLE
+HLKGLTSLNFLNLTGTQVTDAGVS
+**********************
+
+Length: 24 residues - nb: 3  from  267 to 337 - Psim:0.72 region Length:71 
+TQITDAGLEHLKDLTSLKSLNLHR-
+TQITDAGLEHLKGLTSLNFLNLTG-
+TQVTDAGVSKFK--AALPKCNVGKH
+**********************
+
+>uniprot|A0A1P8WDE2|A0A1P8WDE2_9PLAN Ran GTPase-activating protein (RanGAP) involved in mRNA processing and transport [Fuerstia marisgermanicae]
+Length: 5 residues - nb: 3  from  130 to 144 - Psim:0.6666666666666666 region Length:15 
+LTSIA
+LTSLP
+LTDKG
+**********************
+
+>uniprot|A0A1P8WJR1|A0A1P8WJR1_9PLAN Internalin-A [Fuerstia marisgermanicae]
+Length: 23 residues - nb: 11  from  106 to 355 - Psim:0.75 region Length:250 
+LPPDFGNLQKLKHLDLDGNQLSS-
+LPAGFGKLQQLEDLDLGGNDLSS-
+LPPDFGNLQQLQALLLNGNQLSS-
+LPPGFGDLQKLQTLFLNGNQLSS-
+LPPDFGKLQKLEDLDLDGNQLSS-
+LPAGFGNLQKLKHLDLDGNQLSS-
+LPPDFGNLQELQNLNLNGNQLSA-
+LPTDFGNLQKLELLGLKGNQLSA-
+LPTDFGNLQQLQTLYLDGNRLSA-
+LPPDFGNLQKLELLGLKGNQ----
+LPDSWTEAYE-QGLKPFFAFLGSL
+**********************
+
+Length: 23 residues - nb: 8  from  149 to 332 - Psim:0.8097826086956522 region Length:184 
+LSSLPPDFGNLQQLQALLLNGNQ
+LSSLPPGFGDLQKLQTLFLNGNQ
+LSSLPPDFGKLQKLEDLDLDGNQ
+LSSLPAGFGNLQKLKHLDLDGNQ
+LSSLPPDFGNLQELQNLNLNGNQ
+LSALPTDFGNLQKLELLGLKGNQ
+LSALPTDFGNLQQLQTLYLDGNR
+LSALPPDFGNLQKLELLGLKGNQ
+**********************
+
+Length: 23 residues - nb: 8  from  175 to 355 - Psim:0.7451923076923077 region Length:181 
+LPPGFGDLQKLQTLFLNGN-QL-SS-
+LPPDFGKLQKLEDLDLDGN-QL-SS-
+LPAGFGNLQKLKHLDLDGN-QL-SS-
+LPPDFGNLQELQNLNLNGN-QL-SA-
+LPTDFGNLQKLELLGLKGN-QL-SA-
+LPTDFGNLQQLQTLYLDGN-RL-SA-
+LPPDFGNLQKLELLGLKGN-Q-----
+LP-DSWT-EAYEQ-GLKPFFAFLGSL
+**********************
+
+Length: 23 residues - nb: 3  from  206 to 274 - Psim:0.8405797101449275 region Length:69 
+QKLEDLDLDGNQLSSLPAGFGNL
+QKLKHLDLDGNQLSSLPPDFGNL
+QELQNLNLNGNQLSALPTDFGNL
+**********************
+
+Length: 23 residues - nb: 5  from  244 to 355 - Psim:0.7307692307692307 region Length:112 
+LPPDFGNLQELQNLNLNGN-QL-SA-
+LPTDFGNLQKLELLGLKGN-QL-SA-
+LPTDFGNLQQLQTLYLDGN-RL-SA-
+LPPDFGNLQKLELLGLKGN-Q-----
+LP-DSWT-EAYEQ-GLKPFFAFLGSL
+**********************
+
+>uniprot|A0A1U7CSU0|A0A1U7CSU0_9BACT Uncharacterized protein [Paludisphaera borealis]
+Length: 24 residues - nb: 6  from  209 to 350 - Psim:0.7126436781609196 region Length:142 
+L--S-GT-AVTDAGLENLQGMSGLAKLY-
+L--S-KT-AVTDAGLVNLRGMSGLALLW-
+L--W-KT-AVTDAGLVNLRGMNKLKELV-
+L--S-GT-AIAGPGLVHLQQLP--AL-WI
+L--SLSSTPVTDAGLVNLKGMDKLKD---
+LNLS-GT-PVTDAGMVHLAGLPSLGQ---
+**********************
+
+Length: 24 residues - nb: 5  from  237 to 356 - Psim:0.7 region Length:120 
+AVTDAGLVNLRGMSGLALLWLWKT
+AVTDAGLVNLRGMNKLKELVLSGT
+AIAGPGLVHLQQLPALWILSLSST
+PVTDAGLVNLKGMDKLKDLNLSGT
+PVTDAGMVHLAGLPSLGQLELKGT
+**********************
+
+>uniprot|Q7UTG5|Q7UTG5_RHOBA Internalin [Rhodopirellula baltica SH 1]
+Length: 4 residues - nb: 8  from  89 to 123 - Psim:0.65 region Length:35 
+KKPEA
+KKEE-
+KKPEA
+KKPEP
+KKAD-
+KKAD-
+KA-EM
+KE-EK
+**********************
+
+Length: 4 residues - nb: 4  from  109 to 123 - Psim:0.6875 region Length:15 
+KADK
+KAD-
+KAEM
+KEEK
+**********************
+
+Length: 6 residues - nb: 3  from  98 to 113 - Psim:0.7222222222222222 region Length:16 
+KKPEA-
+KKPEP-
+KKADKK
+**********************
+
+Length: 9 residues - nb: 2  from  90 to 107 - Psim:0.8888888888888888 region Length:18 
+KPEAKKEEK
+KPEAKKPEP
+**********************
+
+Length: 11 residues - nb: 6  from  246 to 312 - Psim:0.6875 region Length:67 
+-LT---SLDPLAKMS-
+NLR---TLY-VADNK-
+-LT---SLDPLA--G-
+-LTKIWSLDA-AGNE-
+-LT---SLDPVAKLGW
+-LT---TLE-ISDNKI
+**********************
+
+>uniprot|A0A2E0SNJ2|A0A2E0SNJ2_9PLAN Uncharacterized protein [Planctomyces sp.]
+Length: 4 residues - nb: 3  from  547 to 560 - Psim:0.7333333333333333 region Length:14 
+LQMTS
+LQQVS
+LQET-
+**********************
+
+Length: 5 residues - nb: 3  from  545 to 560 - Psim:0.7777777777777778 region Length:16 
+SLLQMT
+SL-QQV
+SL-QET
+**********************
+
+Length: 6 residues - nb: 3  from  545 to 561 - Psim:0.7619047619047619 region Length:17 
+SLLQMT-
+SL-QQV-
+SL-QETE
+**********************
+
+>uniprot|A0A1Z9QXL6|A0A1Z9QXL6_9PLAN Uncharacterized protein [Planctomycetaceae bacterium TMED240]
+Length: 5 residues - nb: 3  from  65 to 80 - Psim:0.6666666666666666 region Length:16 
+LTSLD-
+LTGCGN
+LTDSG-
+**********************
+
+Length: 5 residues - nb: 3  from  132 to 147 - Psim:0.7222222222222222 region Length:16 
+LAELPL
+LASLS-
+LARNS-
+**********************
+
+>uniprot|A0A2D5YZH0|A0A2D5YZH0_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 21 residues - nb: 2  from  6 to 50 - Psim:0.7708333333333334 region Length:45 
+LKELAGLVRLQTLILWDTDVTDAG
+LKELAALENLHALYLGGTDVT---
+**********************
+
+Length: 21 residues - nb: 4  from  121 to 208 - Psim:0.6770833333333334 region Length:88 
+VTDKGLEELAGLKNLRRLHLGFTQ
+VTDTGLKALAGLKNLQELDLGSTN
+VTDTGLRELSGLTNLRMLD-----
+VTYTQVTD-EGLKELAGLT-G-LR
+**********************
+
+Length: 21 residues - nb: 3  from  170 to 233 - Psim:0.7241379310344828 region Length:64 
+TD-TG----LRELSGLTNLRMLDVTYTQV
+TD-EG----LKELAGLTGLRWLDL-----
+TDTQVTDRGVKELAGSTNLCW--------
+**********************
+
+Length: 21 residues - nb: 4  from  201 to 293 - Psim:0.7291666666666666 region Length:93 
+LAGLTGLRWLDLTDTQVTDRGVKE
+LAGSTNLCWLDLSITQVTDEGLKE
+LAGLKDLQHLMLGGTDVTDTGLKQ
+LAGLKNLHSLHISGTKVTDEG---
+**********************
+
+Length: 21 residues - nb: 2  from  313 to 357 - Psim:0.8333333333333334 region Length:45 
+VTDNGLKELTGLKNLQDLDLSITE
+VTDGSLKELTRLKNLRELDL---E
+**********************
+
+Length: 24 residues - nb: 6  from  143 to 286 - Psim:0.75 region Length:144 
+TQVTDTGLKALAGLKNLQELDLGS
+TNVTDTGLRELSGLTNLRMLDVTY
+TQVTDEGLKELAGLTGLRWLDLTD
+TQVTDRGVKELAGSTNLCWLDLSI
+TQVTDEGLKELAGLKDLQHLMLGG
+TDVTDTGLKQLAGLKNLHSLHISG
+**********************
+
+>uniprot|A0A2D6SV44|A0A2D6SV44_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 3 residues - nb: 6  from  17 to 33 - Psim:0.7 region Length:17 
+-A-SS
+-ASL-
+TV-GV
+-V-L-
+-V-L-
+-V-LA
+**********************
+
+>uniprot|A0A2D6SYF8|A0A2D6SYF8_9PLAN Uncharacterized protein [Planctomycetaceae bacterium]
+Length: 24 residues - nb: 4  from  149 to 243 - Psim:0.8229166666666666 region Length:95 
+LQTLLLYGTDVTDAGLVHLEGLTS
+LQKLDL-PTDVTDAGLEHLRGLTS
+LQTLNLSDTKVTDAGLVHLKGLTN
+LRTLYLSGTNVADAGLVNLKGLTS
+**********************
+
+Length: 24 residues - nb: 3  from  238 to 308 - Psim:0.8 region Length:71 
+LKGLTSLQDLYLP-P-NVTDAGLEH
+LKGLTSLETLGLGRP-NVTEAGLEH
+LKGLTSLRTLYLD-AAKVTDGGMKG
+**********************
+
+>uniprot|A0A286RBU1|A0A286RBU1_9PLAN Uncharacterized protein [Thermogutta terrifontis]
+Length: 5 residues - nb: 3  from  342 to 356 - Psim:0.7222222222222222 region Length:15 
+LR-TLS
+LR-DLP
+LRGTF-
+**********************
+
+>uniprot|A0A286RBY7|A0A286RBY7_9PLAN Uncharacterized protein [Thermogutta terrifontis]
+Length: 5 residues - nb: 3  from  255 to 270 - Psim:0.6666666666666666 region Length:16 
+D-AGIT
+D-AGVK
+QLASLT
+**********************
+
+Length: 7 residues - nb: 2  from  3 to 16 - Psim:0.75 region Length:14 
+VLA-RLAC
+VLVVALA-
+**********************
+
+>uniprot|M5UB47|M5UB47_9PLAN Small GTP-binding protein [Rhodopirellula sallentina SM41]
+Length: 5 residues - nb: 3  from  236 to 251 - Psim:0.7222222222222222 region Length:16 
+LAEL-D
+LAEN-D
+LVGLPE
+**********************
+
+>uniprot|A0A1G3AFP0|A0A1G3AFP0_9BACT Uncharacterized protein [Planctomycetes bacterium RBG_19FT_COMBO_48_8]
+Length: 5 residues - nb: 3  from  54 to 67 - Psim:0.6666666666666666 region Length:14 
+AVSII
+AVCI-
+AVGVA
+**********************
+
+>uniprot|A0A225EG43|A0A225EG43_9BACT Alanyl-tRNA synthetase [Fimbriiglobus ruber]
+Length: 5 residues - nb: 3  from  362 to 376 - Psim:0.6666666666666666 region Length:15 
+QLTAL
+QLQNT
+QLTDA
+**********************
+
+Length: 24 residues - nb: 14  from  61 to 396 - Psim:0.6964285714285714 region Length:336 
+VTDAGLKELAPFQHLTTLDLSNTR
+VTDAGLKDVASFRHLTTLGLSGTK
+VTDAGLKELAPLQHLTTLDLVHTP
+VTDAGVTHLAALKNLTTLNLGITP
+VTDAGVKHLAALPHLTTLGLSRTR
+VTGVGLKELATLEQLTTLDLSFTK
+VTAPSLKELGTLRHLTSLDLYSTR
+VTDDGLKELGTLQRLNTLDLSHTD
+VTGTGLKGLAPLQDLTILTLFDTP
+VTDAGLKELAPLQNLISLCLNSTR
+VTDAGMKEVAALKNLTSLNLINTG
+VTGAGMKELAGLPQLANLYLDRTR
+VTDAGAKELAALTQLTALQLQNTQ
+LTDAGLRELAALKKLSRLYLSGTK
+**********************
+
+Length: 24 residues - nb: 7  from  69 to 236 - Psim:0.7321428571428571 region Length:168 
+LAPFQHLTTLDLSNTRVTDAGLKD
+VASFRHLTTLGLSGTKVTDAGLKE
+LAPLQHLTTLDLVHTPVTDAGVTH
+LAALKNLTTLNLGITPVTDAGVKH
+LAALPHLTTLGLSRTRVTGVGLKE
+LATLEQLTTLDLSFTKVTAPSLKE
+LGTLRHLTSLDLYSTRVTDDGLKE
+**********************
+
+Length: 24 residues - nb: 5  from  210 to 329 - Psim:0.7166666666666667 region Length:120 
+LKELGTLRHLTSLDLYSTRVTDDG
+LKELGTLQRLNTLDLSHTDVTGTG
+LKGLAPLQDLTILTLFDTPVTDAG
+LKELAPLQNLISLCLNSTRVTDAG
+MKEVAALKNLTSLNLINTGVTGAG
+**********************
+
+>uniprot|A0A225DP75|A0A225DP75_9BACT Putative GALA PROTEIN [Fimbriiglobus ruber]
+Length: 5 residues - nb: 3  from  198 to 213 - Psim:0.7222222222222222 region Length:16 
+LGENE-
+LGEPAG
+LGL-AG
+**********************
+
+Length: 6 residues - nb: 3  from  198 to 214 - Psim:0.7142857142857143 region Length:17 
+LGENE--
+LGEPAG-
+LGL-AGC
+**********************
+
+Length: 6 residues - nb: 3  from  310 to 328 - Psim:0.7142857142857143 region Length:19 
+DLGDAGV
+DLL-AGT
+PTL-AGL
+**********************
+
+>uniprot|A0A225DML2|A0A225DML2_9BACT Alanyl-tRNA synthetase [Fimbriiglobus ruber]
+Length: 21 residues - nb: 4  from  71 to 160 - Psim:0.6666666666666666 region Length:90 
+--ALT-NLTTLDLSLTNVTSPGVARLA
+--ALK-RLTTLDLSHTPVADMGLKELA
+--ALK-TLTSLNLNGTKVSDADLK---
+DLAAIPNLTTLNLDGMIVA--GL----
+**********************
+
+Length: 21 residues - nb: 4  from  187 to 276 - Psim:0.7083333333333334 region Length:90 
+---IKVLTALPNLVTLDLSRAKLT
+DAGIKELTALKQLTWLNLDGTKMT
+DAGLKELAPLKQLTWLNLDGTEVT
+DAGLKDLAALKNLTKLNL--S-YT
+**********************
+
+Length: 21 residues - nb: 4  from  207 to 296 - Psim:0.75 region Length:90 
+TD---AGIKELTALKQLTWLNLDGTKM
+TD---AGLKELAPLKQLTWLNLDGTEV
+TD---AGLKDLAALKNLTKLNL--S-Y
+TPVTGAGLKDLAPLQKLTELN------
+**********************
+
+Length: 21 residues - nb: 10  from  238 to 474 - Psim:0.7541666666666667 region Length:237 
+LAPLKQLTWLNLDGTEVTDAGLKD
+LAALKNLTKLNLSYTPVTGAGLKD
+LAPLQKLTELNLSSTPVTDAGLKE
+LAPLKHLTTLNLWGTKVTDAVLKE
+LAPLQNLTTLDLGNTKVTGAELKE
+LAAFKNLSTLNLSQAQVADAGLKG
+LATLPNLTALDLQLTKVTDAGLKE
+LALLQNLTTLDLTQTQVTDAGLKE
+LAALQNLTKLDLTQTQVTDAGLKE
+LAALQNLTKLNLFSTEVTDAG---
+**********************
+
+Length: 21 residues - nb: 4  from  270 to 353 - Psim:0.6532258064516129 region Length:84 
+--KL-----NLSYTPVTGAGL-KDL-APLQ-
+--KLT-EL-NLSSTPVTDAGL-KEL-A----
+PLKHLT-TLNLWGTKVTDA-VLK--------
+--ELA-PLQNLT-T-L-DLGNTKV-T---GA
+**********************
+
+Length: 21 residues - nb: 6  from  339 to 476 - Psim:0.7023809523809523 region Length:138 
+NLTTL-DLGNTKVTGAELKELAAFK---
+NLSTL-NLS-----QAQVAD-AGLKGLA
+--T-LPNLTALDLQLTKVTD-AGLK---
+ELALLQNLTTLDLTQTQVTD-AGLK---
+ELAALQNLTKLDLTQTQVTD-AGLK---
+ELAALQNLTKLNLFSTEVTD-AGVK---
+**********************
+
+Length: 21 residues - nb: 5  from  376 to 489 - Psim:0.775 region Length:114 
+DAGLKGLATLPNLTALDLQLTKVT
+DAGLKELALLQNLTTLDLTQTQVT
+DAGLKELAALQNLTKLDLTQTQVT
+DAGLKELAALQNLTKLNLFSTEVT
+DAGVKELR--QALPKC-LIRN---
+**********************
+
+Length: 21 residues - nb: 3  from  403 to 471 - Psim:0.875 region Length:69 
+LKELALLQNLTTLDLTQTQVTDAG
+LKELAALQNLTKLDLTQTQVTDAG
+LKELAALQNLTKLNLFSTEVT---
+**********************
+
+Length: 21 residues - nb: 2  from  430 to 474 - Psim:0.8541666666666666 region Length:45 
+LAALQNLTKLDLTQTQVTDAGLKE
+LAALQNLTKLNLFSTEVTDAG---
+**********************
+
+Length: 24 residues - nb: 5  from  195 to 314 - Psim:0.7034482758620689 region Length:120 
+NLVTLDLSRAKLTDAGIKELTALKQLTWL
+-----NLDGTKMTDAGLKELAPLKQLTWL
+-----NLDGTEVTDAGLKDLAALK-----
+NLTKLNLSYTPVTGAGLKDLAPLQ-----
+KLTELNLSSTPVTDAGLKELAPLK-----
+**********************
+
+Length: 24 residues - nb: 12  from  197 to 489 - Psim:0.7404761904761905 region Length:293 
+--VTLD----LSRAK---LTDAGIKELTALK--QL-
+TWLN-LDGTKMTDAG-LK-ELAPLKQLTWLNLDGTE
+--VT-D----AGLKD---LAA-LK-NLTKLNLSYTP
+--VT-G----AGLKD---LAP-LQ-KLTELNLSSTP
+--VT-D----AGLKE---LAP-LK-HLTTLNLWGTK
+--VT-D----AVLKE---LAP-LQ-NLTTLDLGNTK
+--VT-G----AELKE---LAA-FK-NLSTLNLSQAQ
+--VA-D----AGLKG---LAT-LP-NLTALDLQLTK
+--VT-D----AGLKE---LAL-LQ-NLTTLDLTQTQ
+--VT-D----AGLKE---LAA-LQ-NLTKLDLTQTQ
+--VT-D----AGLKE---LAA-LQ-NLTKLNLFSTE
+--VT-D----AGVKE---LR---Q-ALPKC-LIRN-
+**********************
+
+Length: 24 residues - nb: 8  from  286 to 477 - Psim:0.7760416666666666 region Length:192 
+LAPLQKLTELNLSSTPVTDAGLKE
+LAPLKHLTTLNLWGTKVTDAVLKE
+LAPLQNLTTLDLGNTKVTGAELKE
+LAAFKNLSTLNLSQAQVADAGLKG
+LATLPNLTALDLQLTKVTDAGLKE
+LALLQNLTTLDLTQTQVTDAGLKE
+LAALQNLTKLDLTQTQVTDAGLKE
+LAALQNLTKLNLFSTEVTDAGVKE
+**********************
+
+Length: 24 residues - nb: 2  from  316 to 363 - Psim:0.8333333333333334 region Length:48 
+LTTLNLWGTKVTDAVLKELAPLQN
+LTTLDLGNTKVTGAELKELAAFKN
+**********************
+
+Length: 24 residues - nb: 4  from  379 to 474 - Psim:0.8645833333333334 region Length:96 
+LKGLATLPNLTALDLQLTKVTDAG
+LKELALLQNLTTLDLTQTQVTDAG
+LKELAALQNLTKLDLTQTQVTDAG
+LKELAALQNLTKLNLFSTEVTDAG
+**********************
+
+Length: 24 residues - nb: 3  from  406 to 477 - Psim:0.9027777777777778 region Length:72 
+LALLQNLTTLDLTQTQVTDAGLKE
+LAALQNLTKLDLTQTQVTDAGLKE
+LAALQNLTKLNLFSTEVTDAGVKE
+**********************
+
+Length: 24 residues - nb: 2  from  433 to 480 - Psim:0.8541666666666666 region Length:48 
+LQNLTKLDLTQTQVTDAGLKELAA
+LQNLTKLNLFSTEVTDAGVKELRQ
+**********************
+
+>uniprot|A0A225DP84|A0A225DP84_9BACT Uncharacterized protein [Fimbriiglobus ruber]
+Length: 22 residues - nb: 4  from  56 to 147 - Psim:0.8173076923076923 region Length:92 
+LS-HT-KVTDVGLKELAVFTNLTELD
+LS-HT-KVTDVGLKELAVFTNLTELD
+LS-HT-KVTDVGLKELIVLTNLTS--
+LTLGGTTVTDAGLKELIVLKNL----
+**********************
+
+Length: 22 residues - nb: 6  from  83 to 216 - Psim:0.7222222222222222 region Length:134 
+-T---K---V-TDVGLKELAVFTNLTELD--L---SH
+-T---K---V-TDVGLKELIVLTNL--TS--LTL---
+-G---GT-TV-TDAGLKELIVLKNL---AYL------
+-TL-FDT-PV-TDTGLKELIVLRNL---D--------
+-TLDLGGTK-VTDAGLKELIVLKK-------------
+LTSLYLSSTPVTSAGLKELPAL---------------
+**********************
+
+Length: 22 residues - nb: 6  from  113 to 252 - Psim:0.7307692307692307 region Length:140 
+G--LKELIVLTNLTSLTLGGTTVTDA
+G--LKELIVLKNLAYLTLFDTPVTDT
+G--LKELIVLRNLDTLDLGGTKVTDA
+G--LKELIVLKKLTSLYLSSTPVTSA
+G--LKELPALRNLDTLSLGGMKLT--
+GADLKELAPLTNLRMLSLVGMK----
+**********************
+
+Length: 22 residues - nb: 10  from  165 to 396 - Psim:0.6515151515151515 region Length:232 
+LI-V--LRNLDTL--DLGGTKVTDAGLK----E
+LI-V--LKKLTSLYLSS--TPVTSAGL------
+-KELPALRNLDTL-S-L--GGMKLTGA------
+--D---LKELAPL-TNL--RMLSLVGMKLTGA-
+--D---LKELAPL-TNL--TALLLGDTK--VT-
+--DA-GLKELAPL-RNL--RRLSLVDAG-----
+VTDA-DLKGLAAL-TNL--TFLNLFDAT-----
+VTDV-GLKELAGL-TNL--TWLSLSGTK-----
+VTDA-GLKDLVAL-TNL--RTLSLGRTY-----
+VTDA-SLKELAAF-KKL--TTLHLISTR-----
+**********************
+
+Length: 22 residues - nb: 9  from  210 to 416 - Psim:0.68 region Length:207 
+LKELPALRNLDTL-SLGGMKLTGAD
+LKELAPLTNLRMLSLVG-MKLTGAD
+LKELAPLTNLTAL-LLGDTKVTDAG
+LKELAPLRNLRRL-SLVDAGVTDAD
+LKGLAALTNLTFL-NLFDATVTDVG
+LKELAGLTNLTWL-SLSGTKVTDAG
+LKDLVALTNLRTL-SLGRTYVTDAS
+LKELAAFKKLTTL-HLISTRVTDRG
+LKELQ---Q--AL---PKCKITK--
+**********************
+
+Length: 22 residues - nb: 7  from  258 to 416 - Psim:0.6845238095238095 region Length:159 
+LKELAPLTNLTALLLGDTKVTDAG
+LKELAPLRNLRRLSLVDAGVTDAD
+LKGLAALTNLTFLNLFDATVTDVG
+LKELAGLTNLTWLSLSGTKVTDAG
+LKDLVALTNLRTLSLGRTYVTDAS
+LKELAAFKKLTTLHLISTRVTDRG
+LKELQ---Q--AL--PKCKITK--
+**********************
+
+Length: 22 residues - nb: 4  from  325 to 416 - Psim:0.6875 region Length:92 
+VTDVGLKELAGLTNLTWLSLSGTK
+VTDAGLKDLVALTNLRTLSLGRTY
+VTDASLKELAAFKKLTTLHLISTR
+VTDRGLKELQQ-A-LPKCKI--TK
+**********************
+
+Length: 24 residues - nb: 5  from  35 to 151 - Psim:0.728 region Length:117 
+ELGG-RVTR-D--EKAPGKPVISVG
+-LSHTKVTDVGLKELAVFTNLTELD
+-LSHTKVTDVGLKELAVFTNLTELD
+-LSHTKVTDVGLKELIVLTNLTSLT
+-LGGTTVTDAGLKELIVLKNLAYLT
+**********************
+
+Length: 24 residues - nb: 3  from  83 to 154 - Psim:0.8194444444444444 region Length:72 
+TKVTDVGLKELAVFTNLTELDLSH
+TKVTDVGLKELIVLTNLTSLTLGG
+TTVTDAGLKELIVLKNLAYLTLFD
+**********************
+
+Length: 24 residues - nb: 6  from  113 to 256 - Psim:0.7361111111111112 region Length:144 
+GLKELIVLTNLTSLTLGGTTVTDA
+GLKELIVLKNLAYLTLFDTPVTDT
+GLKELIVLRNLDTLDLGGTKVTDA
+GLKELIVLKKLTSLYLSSTPVTSA
+GLKELPALRNLDTLSLGGMKLTGA
+DLKELAPLTNLRMLSLVGMKLTGA
+**********************
+
+Length: 24 residues - nb: 10  from  141 to 380 - Psim:0.712 region Length:240 
+LIVLKNLAYL-TLFDTPVTDTGLKE
+LIVLRNLDTL-DLGGTKVTDAGLKE
+LIVLKKLTSL-YLSSTPVTSAGLKE
+LPALRNLDTL-SLGGMKLTGADLKE
+LAPLTNLRMLSLVG-MKLTGADLKE
+LAPLTNLTAL-LLGDTKVTDAGLKE
+LAPLRNLRRL-SLVDAGVTDADLKG
+LAALTNLTFL-NLFDATVTDVGLKE
+LAGLTNLTWL-SLSGTKVTDAGLKD
+LVALTNLRTL-SLGRTYVTDASLKE
+**********************
+
+Length: 24 residues - nb: 9  from  210 to 416 - Psim:0.68 region Length:207 
+LKELPALRNLDTL-SLGGMKLTGAD
+LKELAPLTNLRMLSLVG-MKLTGAD
+LKELAPLTNLTAL-LLGDTKVTDAG
+LKELAPLRNLRRL-SLVDAGVTDAD
+LKGLAALTNLTFL-NLFDATVTDVG
+LKELAGLTNLTWL-SLSGTKVTDAG
+LKDLVALTNLRTL-SLGRTYVTDAS
+LKELAAFKKLTTL-HLISTRVTDRG
+LKELQ---Q--AL---PKCKITK--
+**********************
+
+Length: 24 residues - nb: 7  from  258 to 416 - Psim:0.6845238095238095 region Length:159 
+LKELAPLTNLTALLLGDTKVTDAG
+LKELAPLRNLRRLSLVDAGVTDAD
+LKGLAALTNLTFLNLFDATVTDVG
+LKELAGLTNLTWLSLSGTKVTDAG
+LKDLVALTNLRTLSLGRTYVTDAS
+LKELAAFKKLTTLHLISTRVTDRG
+LKELQ---Q--AL--PKCKITK--
+**********************
+
+Length: 24 residues - nb: 3  from  322 to 398 - Psim:0.7586206896551724 region Length:77 
+DATVTDVGLKELAGLTNLTWLSLSGTKVT
+DA-----GLKDLVALTNLRTLSLGRTYVT
+DA-----SLKELAAFKKLTTLHLISTRVT
+**********************
+
+>uniprot|A0A225E1L0|A0A225E1L0_9BACT Alanyl-tRNA synthetase [Fimbriiglobus ruber]
+Length: 21 residues - nb: 7  from  69 to 224 - Psim:0.7218045112781954 region Length:156 
+------ELVALKRLAVLDLSFTPVTDGA--------VK
+------------ELVALKG-LTSLNL-AHTKVTDAGVK
+------------ELVALKG-LTNLNL-ANT---QFPVT
+------D-AGVKELIALKG-LTSLNL-AHT--------
+---KVTN-VGVKELVALKG-LTSLSL-AHT--------
+---KVTN-AGVKELTALKG-LTSLDL------------
+GYTEVTD-AGVKELVALKG-LT--N-------------
+**********************
+
+Length: 21 residues - nb: 8  from  136 to 316 - Psim:0.6919642857142857 region Length:181 
+---VTD-AGVKELIALKGLTSLNLAHTK
+---VTN-VGVKELVALKGLTSLSLAHTK
+---VTN-AGVKELTALKGLTSLDLGYTE
+---VTD-AGVKELVALKGLTNLDLGFTP
+---VTD-AAVKELSALKGLTNLNFL---
+FTKITD-AGVKELTALKGLT--NL----
+--NLGF-TPVTDG-GVKELTALNEL-T-
+---NLNLSGAK--ITDAGVKEL-AA-LK
+**********************
+
+Length: 21 residues - nb: 9  from  165 to 374 - Psim:0.7695473251028807 region Length:210 
+-VK--ELVALKGLTSLSLAHTKVTNAG
+-VK--ELTALKGLTSLDLGYTEVTDAG
+-VK--ELVALKGLTNLDLGFTPVTDAA
+-VK--ELSALKGLTNLNFLFTKITDAG
+-VK--ELTALKGLTNLNLGFTPVTDGG
+-VK--ELTALNELTNLNLSGAKITDAG
+-VK--ELAALKGLTDLDLGGTGVTDAG
+-VK--ELATLKRLTSLGLRSTAVT---
+DAGAKELAALKGLTDLDLRFT------
+**********************
+
+Length: 21 residues - nb: 7  from  194 to 355 - Psim:0.7619047619047619 region Length:162 
+--ALK-GLTSLDLGYTEVTDAGVKELV
+--ALK-GLTNLDLGFTPVTDAAVKELS
+--ALK-GLTNLNFLFTKITDAGVKELT
+--ALK-GLTNLNLGFTPVTDGGVKELT
+--ALN-ELTNLNLSGAKITDAGVKELA
+--ALK-GLTDLDLGGTGVTDAGVK---
+ELATLKRLTSLGLRSTAVTDA------
+**********************
+
+Length: 21 residues - nb: 8  from  221 to 403 - Psim:0.6583333333333333 region Length:183 
+GLTNLDLGF-TPVTDAAVKELS-A-L---K
+GLTNLN-FLFTKITDAGVKELT-A-L---K
+-------GL-TNLN-LGFTPVTDGGVKELT
+--A-LN-EL-TNLN-LSGAKITDAGVK---
+ELAALK-GL-TDLD-LGGTGVTDAGVK---
+ELATLK-RL-TSLG-LRSTAVTDAGAK---
+ELAALK-GL-TDLD-LRFTEVTDAGVK---
+ELAALK-GL-TNLN-LAHTRVTDA------
+**********************
+
+Length: 21 residues - nb: 3  from  248 to 313 - Psim:0.7530864197530864 region Length:66 
+NL-NFL-FTK-ITDAGVKELTALKGLT
+NL-NLG-FTP-VTDGGVKELTALN---
+ELTNLNLSGAKITDAGVKEL-A-----
+**********************
+
+Length: 21 residues - nb: 3  from  290 to 355 - Psim:0.691358024691358 region Length:66 
+--ALN-ELTNLNLSGAKITDAGVKELA
+--ALK-GLTDLDLGGTGVTDAGVK---
+ELATLKRLTSLGLRSTAVTDA------
+**********************
+
+Length: 21 residues - nb: 3  from  323 to 386 - Psim:0.7530864197530864 region Length:64 
+L-G----GTGVTDAGVKELATLKRLTS
+L-GLR--STAVTDAGAKELAALK---G
+LTDLDLRFTEVTDAGVKELAA------
+**********************
+
+Length: 21 residues - nb: 4  from  352 to 443 - Psim:0.65625 region Length:92 
+VTDAGAKELAALKGLTDLDLRFTE
+VTDAGVKELAALKGLTNLNLAHTR
+VTDAGAKQLVSINSLTELDVRNTK
+VT-VELKAIF-LQALPTC--RVHR
+**********************
+
+Length: 24 residues - nb: 6  from  76 to 226 - Psim:0.8448275862068966 region Length:151 
+LAVLDLSFTPVTDGAVKELVALKGLTSLN
+LA--HTK---VTDAGVKELVALKGLTNLN
+LA--NTQ-FPVTDAGVKELIALKGLTSLN
+LA--HTK---VTNVGVKELVALKGLTSLS
+LA--HTK---VTNAGVKELTALKGLTSLD
+LG--YTE---VTDAGVKELVALKGLTNLD
+**********************
+
+Length: 24 residues - nb: 3  from  112 to 185 - Psim:0.8846153846153846 region Length:74 
+DAGVKELVALKGLTNLNLANTQFPVT
+DAGVKELIALKGLTSLNLAHTK--VT
+NVGVKELVALKGLTSLSLAHTK--VT
+**********************
+
+Length: 24 residues - nb: 11  from  142 to 405 - Psim:0.7916666666666666 region Length:264 
+KELIALKGLTSLNLAHTKVTNVGV
+KELVALKGLTSLSLAHTKVTNAGV
+KELTALKGLTSLDLGYTEVTDAGV
+KELVALKGLTNLDLGFTPVTDAAV
+KELSALKGLTNLNFLFTKITDAGV
+KELTALKGLTNLNLGFTPVTDGGV
+KELTALNELTNLNLSGAKITDAGV
+KELAALKGLTDLDLGGTGVTDAGV
+KELATLKRLTSLGLRSTAVTDAGA
+KELAALKGLTDLDLRFTEVTDAGV
+KELAALKGLTNLNLAHTRVTDAGA
+**********************
+
+Length: 24 residues - nb: 10  from  171 to 410 - Psim:0.7875 region Length:240 
+LKGLTSLSLAHTKVTNAGVKELTA
+LKGLTSLDLGYTEVTDAGVKELVA
+LKGLTNLDLGFTPVTDAAVKELSA
+LKGLTNLNFLFTKITDAGVKELTA
+LKGLTNLNLGFTPVTDGGVKELTA
+LNELTNLNLSGAKITDAGVKELAA
+LKGLTDLDLGGTGVTDAGVKELAT
+LKRLTSLGLRSTAVTDAGAKELAA
+LKGLTDLDLRFTEVTDAGVKELAA
+LKGLTNLNLAHTRVTDAGAKQLVS
+**********************
+
+Length: 24 residues - nb: 10  from  198 to 437 - Psim:0.7615384615384615 region Length:240 
+LTSLDLGYTEVTDAGVKE--LVALKG
+LTNLDLGFTPVTDAAVKE--LSALKG
+LTNLNFLFTKITDAGVKE--LTALKG
+LTNLNLGFTPVTDGGVKE--LTALNE
+LTNLNLSGAKITDAGVKE--LAALKG
+LTDLDLGGTGVTDAGVKE--LATLKR
+LTSLGLRSTAVTDAGAKE--LAALKG
+LTDLDLRFTEVTDAGVKE--LAALKG
+LTNLNLAHTRVTDAGAKQ--LVSINS
+LTELDVRNTKVT-VELKAIFLQALP-
+**********************
+
+Length: 24 residues - nb: 4  from  229 to 324 - Psim:0.8229166666666666 region Length:96 
+FTPVTDAAVKELSALKGLTNLNFL
+FTKITDAGVKELTALKGLTNLNLG
+FTPVTDGGVKELTALNELTNLNLS
+GAKITDAGVKELAALKGLTDLDLG
+**********************
+
+Length: 24 residues - nb: 7  from  258 to 425 - Psim:0.7619047619047619 region Length:168 
+DAGVKELTALKGLTNLNLGFTPVT
+DGGVKELTALNELTNLNLSGAKIT
+DAGVKELAALKGLTDLDLGGTGVT
+DAGVKELATLKRLTSLGLRSTAVT
+DAGAKELAALKGLTDLDLRFTEVT
+DAGVKELAALKGLTNLNLAHTRVT
+DAGAKQLVSINSLTELDVRNTKVT
+**********************
+
+Length: 24 residues - nb: 3  from  339 to 410 - Psim:0.8055555555555556 region Length:72 
+LKRLTSLGLRSTAVTDAGAKELAA
+LKGLTDLDLRFTEVTDAGVKELAA
+LKGLTNLNLAHTRVTDAGAKQLVS
+**********************
+
+Length: 26 residues - nb: 6  from  76 to 230 - Psim:0.8080808080808081 region Length:155 
+LAVLDLSFTPVTDGAVKELVALKGLTS----LN
+LA--HTK---VTDAGVKELVALKGLTNLN----
+LA--NTQ-FPVTDAGVKELIALKGLTSLN----
+LA--HTK---VTNVGVKELVALKGLTSLS----
+LA--HTK---VTNAGVKELTALKGLTSLD--LG
+----YTE---VTDAGVKELVALKGLTNLDLGFT
+**********************
+
+Length: 26 residues - nb: 12  from  112 to 407 - Psim:0.7876344086021505 region Length:296 
+DAGVKELVALKGLTNLNLANTQFPVT------
+DAGVKELIALKGLTSLNLAHTKVTN----V--
+--GVKELVALKGLTSLSLAHTKVTN--AGV--
+----KELTALKGLTSLDLGYTEVTD--AGV--
+----KELVALKGLTNLDLGFTPVTD--AAV--
+----KELSALKGLTNLNFLFTKITD--AGV--
+----KELTALKGLTNLNLGFTPVTD--GGV--
+----KELTALNELTNLNLSGAKITD--AGV--
+----KELAALKGLTDLDLGGTGVTD--AGV--
+----KELATLKRLTSLGLRSTAVTD--AGA--
+----KELAALKGLTDLDLRFTEVTD--AGV--
+----KELAALKGLTNLNLAHTRVTD--AGAKQ
+**********************
+
+Length: 26 residues - nb: 11  from  142 to 407 - Psim:0.8006993006993007 region Length:266 
+KELIALKGLTSLNLAHTKVTNVGV--
+KELVALKGLTSLSLAHTKVTNAGV--
+KELTALKGLTSLDLGYTEVTDAGV--
+KELVALKGLTNLDLGFTPVTDAAV--
+KELSALKGLTNLNFLFTKITDAGV--
+KELTALKGLTNLNLGFTPVTDGGV--
+KELTALNELTNLNLSGAKITDAGV--
+KELAALKGLTDLDLGGTGVTDAGV--
+KELATLKRLTSLGLRSTAVTDAGA--
+KELAALKGLTDLDLRFTEVTDAGV--
+KELAALKGLTNLNLAHTRVTDAGAKQ
+**********************
+
+Length: 26 residues - nb: 6  from  171 to 318 - Psim:0.8035714285714286 region Length:148 
+LKGLTSLSLAHTKVTNAGVKELTA----
+LKGLTSLDLGYTEVTDAGVKELVA----
+LKGLTNLDLGFTPVTDAAVKELSA----
+LKGLTNLNFLFTKITDAGVKELTA----
+LKGLTNLNLGFTPVTDGGVKELTALN--
+-E-LTNLNLSGAKITDAGVKELAALKGL
+**********************
+
+Length: 26 residues - nb: 4  from  198 to 297 - Psim:0.7946428571428571 region Length:100 
+LTSLDLGYTEVTDAGVKELVAL-KG---
+LTNLDLGFTPVTDAAVKELSAL-KG---
+LTNLNFLFTKITDAGVKELTAL-KGLT-
+--NLNLGFTPVTDGGVKELTALNELTNL
+**********************
+
+Length: 26 residues - nb: 7  from  229 to 404 - Psim:0.7359307359307359 region Length:176 
+-FTPVTDAAVKELSALKGLTNLNF--------L
+FTKI-TDAGVKELTALKGLTNLNLG--------
+-FTPVTDGGVKELTALNELTNLNL--SG----A
+--KI-TDAGVKELAALKGLTDLDLGGTGV----
+-----TDAGVKELATLKRLTSLGLRSTAV----
+-----TDAGAKELAALKGLTDLDLRFTEV--TD
+-------AGVKELAALKGLTNLNLAHTRVTDAG
+**********************
+
+Length: 26 residues - nb: 5  from  306 to 427 - Psim:0.7846153846153846 region Length:122 
+DAGVKELAALKGLTDLDLGGTGVT--
+DAGVKELATLKRLTSLGLRSTAVT--
+DAGAKELAALKGLTDLDLRFTEVT--
+DAGVKELAALKGLTNLNLAHTRVT--
+DAGAKQLVSINSLTELDVRNTKVTVE
+**********************
+
+Length: 26 residues - nb: 4  from  342 to 439 - Psim:0.7115384615384616 region Length:98 
+LTSLGLRSTAVT-DAGAKELAALKG-
+LTDLDLRFTEVT-DAGVKELAALKG-
+LTNLNLAHTRVT-DAGAKQLVSINS-
+LTELDVRNTKVTVELKAIFLQALPTC
+**********************
+
+Length: 30 residues - nb: 12  from  67 to 392 - Psim:0.7083333333333334 region Length:326 
+-LN-----ELVALK----RLAV--L--D-L-S-F-TPVT-DGAVKELVALKG-LT---S-
+-LN------LAHTK-----VTDAGV--K-E-L-VALKG-LT--------N----------
+-LN------LANTQ---FPVTD--AGV-K-E-LIAL-KGL--------T--S--------
+-LN------LAHTKVTNVGVKE--L--V-A-L-KG-LTS--------L-SL---AHT---
+KVTNAGVKELTAL----KGLT--S--L-D-L-G-YTEV-T-DA--------G--------
+-VK-----ELVALK----GLTN--L--D-L-G-F-TPVT-D-AA----------------
+-VK-----ELSALK----GLTN--L--N-F-L-F-TKIT-D-AG----------------
+-VK-----ELTALK----GLTN--L--N-L-G-F-TPVT-D-GG----------------
+-VK-----ELTALN----ELTN--L--N-L-S-G-AKIT-D-AG----------------
+-VK-----ELAALK----GLTD--L--D-L-G-G-TGVT-D-AG----------------
+-VK-----ELATLK----RLTS--L--G-L-R-S-TAVT-D-AG--AKELAA--------
+-LK-----GLTDLD---LRFTE--V--TD-A-G-VKEL-A-AL--------KGLTN----
+**********************
+
+Length: 30 residues - nb: 10  from  111 to 382 - Psim:0.6534883720930232 region Length:272 
+------TDAGVKELVA-LKGLTNLNLANTQFP-V---------
+------TDAGVKELIA-LKGLTSLNLAHTKVTNVGVK------
+------------ELVA-LKGLTSLSLAHTKVTNAGVKELTALK
+---------GLTSL-D-L-GYTEVTDAGVKEL-VALK------
+---------GLTNL-D-L-GFTPVTDAAVKELSA-LK------
+---------GLTNLNF-L--FTKITDAGVKELTA-LK------
+----GLTNLNLGFTPVTDGGVKELT-ALNELTNLN--------
+LSGAKITDAGVKELAA-LKGLTDLDLGGT-----GV-------
+------TDAGVKELAT-LKRLTSLGL-RS--T-A-V-------
+------TDAGAKELAA-LKGLTDLDLRFTEVTDAGVK------
+**********************
+
+Length: 30 residues - nb: 11  from  142 to 411 - Psim:0.8181818181818182 region Length:270 
+KELIALKGLTSLNLAHTKVTNVG----V--
+KELVALKGLTSLSLAHTKVTNAG----V--
+KELTALKGLTSLDLGYTEVTDAG----V--
+KELVALKGLTNLDLGFTPVTDAA----V--
+KELSALKGLTNLNFLFTKITDAG----V--
+KELTALKGLTNLNLGFTPVTDGG----V--
+KELTALNELTNLNLSGAKITDAG----V--
+KELAALKGLTDLDLGGTGVTDAG----V--
+KELATLKRLTSLGLRSTAVTDAG----A--
+KELAALKGLTDLDLRFTEVTDAG----V--
+KELAALKGLTNLNLAHTRVTDAGAKQLVSI
+**********************
+
+Length: 30 residues - nb: 4  from  184 to 291 - Psim:0.7291666666666666 region Length:108 
+VTNAGVKELTALKGLTSLD-L-G-YTE---------
+VTDAGVKELVALKGLTNLDLGFTP------------
+VTDAAVKELSALKGLTNLNFLFTKITDAGV------
+------KELTALKGLTNLNLGFTPVTDGGVKELTAL
+**********************
+
+Length: 30 residues - nb: 4  from  242 to 343 - Psim:0.8166666666666667 region Length:102 
+ALKGLTNLNFLFTKITDAGVKEL-T-----
+ALKGLTNLNLGFTPVTDGGVKEL-T-----
+ALNELTNLNLSGAKITDAGVKEL-A-----
+ALKGLTDLDLGGTGVTDAGVKELATLKRLT
+**********************
+
+Length: 31 residues - nb: 2  from  110 to 166 - Psim:0.8225806451612904 region Length:57 
+VTDAGVKELVALKGLTNLNLANTQFP-----
+VTDAGVKELIALKGLTSLNLAHTKVTNVGVK
+**********************
+
+>uniprot|A0A225DHD9|A0A225DHD9_9BACT Uncharacterized protein [Fimbriiglobus ruber]
+Length: 22 residues - nb: 4  from  78 to 169 - Psim:0.7307692307692307 region Length:92 
+--LDLSLTRLTGAGLRELAKLTNLTT
+--LDLSSTNVTDAGLKELATFKNLTT
+--LDLGKMRVTDASLKELATLTKL--
+TTLRLHGAEMTDVGLKELAT---LT-
+**********************
+
+Length: 22 residues - nb: 4  from  110 to 201 - Psim:0.7857142857142857 region Length:92 
+--TDAGLKELATFKNLTTLDL--GKMRV
+--TDASLKELATLTKLTTLRLHGA--EM
+--TDVGLKELATLTKLTTLDL--S--RT
+PISDVGLKELATLKNLTTLNL--S----
+**********************
+
+Length: 22 residues - nb: 5  from  140 to 257 - Psim:0.775 region Length:118 
+ELATLTKLTTLRLHGAEMTDVGLK
+ELATLTKLTTLDLSRTPISDVGLK
+ELATLKNLTTLNLSFTKVTGVGLK
+ELATLKTLTTLDLSITPMTSVGLK
+ELGTLTNLTTLDLSHMETTDTG--
+**********************
+
+Length: 22 residues - nb: 4  from  171 to 261 - Psim:0.7314814814814815 region Length:91 
+LT--TLD-LSRTPISDVGLKELATLKN
+LT--TLN-LSFTKVTGVGLKELATLKT
+LT--TLD-LSITPMTSVGLKELGT---
+LTNLTTLDLSHMETTDTGLKDL-----
+**********************
+
+Length: 22 residues - nb: 6  from  200 to 337 - Psim:0.6923076923076923 region Length:138 
+LSF--TKVTGVGLKELATLKTLTTLD
+LSI--TPMTSVGLKELGTLTNLTTLD
+LSH--METTDTGLKDLGTLKNLTTLR
+LSR--TR-E-VELKGLAILKNLTTLD
+LSG--TPLTDAGLKEVAALTKLTS--
+LDLGQTGVMDAGLKELAAL-T-K-L-
+**********************
+
+Length: 22 residues - nb: 10  from  292 to 521 - Psim:0.6771428571428572 region Length:230 
+-----L---DL--SGTPLTDAGLKEVAALTK-L-TS
+-----L---DL--GQTGVMDAGLKELAALTK-L-TT
+-----L---DL--GNTKVTSAGLKELT--GFKN-L-
+----TVL--ALY-R-TPVADAGLKELA--TL-T---
+----NLT--ELYLADTPVTDAGLKELS--TL-T---
+----NLT--TLMLDKTKVSDAGLKELA--A------
+--LKNIA--HLHLSETNVTDAGLKEL----------
+AALTNLT--ELWLNDTKVTGVGLKEL----------
+--AASMKLSTLIMNDTPVTDAGLKE--L--------
+AALKSLT--TLDLSYTPTSDAGLK------------
+**********************
+
+Length: 22 residues - nb: 5  from  350 to 467 - Psim:0.7416666666666667 region Length:118 
+AGLKELTGFKNLTVLALYRTPVAD
+AGLKELATLTNLTELYLADTPVTD
+AGLKELSTLTNLTTLMLDKTKVSD
+AGLKELAALKNIAHLHLSETNVTD
+AGLKELAALTNLTELWLNDTKV--
+**********************
+
+Length: 22 residues - nb: 5  from  471 to 587 - Psim:0.672 region Length:117 
+GLKELA-ASMKLSTLIMNDTPVTDA
+GLKELA-ALKSLTTLDLSYTPTSDA
+GLKELA-TLTKLTELELTGTPVTDA
+GLKKLI-TLKNLTNLFLGGTKVTDE
+GLKEFRQALPNCGII-LDGT--R-G
+**********************
+
+Length: 24 residues - nb: 4  from  78 to 173 - Psim:0.78 region Length:96 
+LDL-SLTRLTGAGLRELAKLTNLTT
+LDL-SSTNVTDAGLKELATFKNLTT
+LDL-GKMRVTDASLKELATLTKLTT
+LRLHGA-EMTDVGLKELATLTKLTT
+**********************
+
+Length: 24 residues - nb: 7  from  138 to 305 - Psim:0.7582417582417582 region Length:168 
+LKELATLTKLTTLRLHGAEMTDVG--
+LKELATLTKLTTLDLSRTPISDVG--
+LKELATLKNLTTLNLSFTKVTGVG--
+LKELATLKTLTTLDLSITPMTSVG--
+LKELGTLTNLTTLDLSHMETTDTG--
+LKDLGTLKNLTTLRLSRTREVELK--
+-G-LAILKNLTTLDLSGTPLTDAGLK
+**********************
+
+Length: 24 residues - nb: 6  from  246 to 387 - Psim:0.7013888888888888 region Length:142 
+LDLSHMETTDTGLKDLGTLKNLTT
+LRLSRTREVE--LKGLAILKNLTT
+LDLSGTPLTDAGLKEVAALTKLTS
+LDLGQTGVMDAGLKELAALTKLTT
+LDLGNTKVTSAGLKELTGFKNLTV
+LALYRTPVADAGLKELATLTNLTE
+**********************
+
+Length: 24 residues - nb: 9  from  350 to 565 - Psim:0.7222222222222222 region Length:216 
+AGLKELTGFKNLTVLALYRTPVAD
+AGLKELATLTNLTELYLADTPVTD
+AGLKELSTLTNLTTLMLDKTKVSD
+AGLKELAALKNIAHLHLSETNVTD
+AGLKELAALTNLTELWLNDTKVTG
+VGLKELAASMKLSTLIMNDTPVTD
+AGLKELAALKSLTTLDLSYTPTSD
+AGLKELATLTKLTELELTGTPVTD
+AGLKKLITLKNLTNLFLGGTKVTD
+**********************
+
+Length: 24 residues - nb: 5  from  471 to 587 - Psim:0.672 region Length:117 
+GLKELA-ASMKLSTLIMNDTPVTDA
+GLKELA-ALKSLTTLDLSYTPTSDA
+GLKELA-TLTKLTELELTGTPVTDA
+GLKKLI-TLKNLTNLFLGGTKVTDE
+GLKEFRQALPNCGII-LDGT--R-G
+**********************
+
+>uniprot|A0A225D460|A0A225D460_9BACT Alanyl-tRNA synthetase [Fimbriiglobus ruber]
+Length: 24 residues - nb: 7  from  107 to 276 - Psim:0.7142857142857143 region Length:170 
+TDVGDARLKDLAAFPNLTTLRLGASDV
+TDAG---MKDLALLQNLTTLGLSF-KI
+TDAG---LKELAPLKNLTSLDISSTKI
+TNAG---LTELKAFRHLAALDISLTNV
+TDAG---LKGLAPLKNLASLNINHTNV
+TDAG---LKELVPLKNITALDLEFTSV
+TGAG---LKELAPLKNLASLNINHTKV
+**********************
+
+>uniprot|A0A225DAU6|A0A225DAU6_9BACT Fructose-1,6-bisphosphatase, type I [Fimbriiglobus ruber]
+Length: 8 residues - nb: 2  from  507 to 520 - Psim:0.75 region Length:14 
+GLTHLS--
+GLTALTHL
+**********************
+
+Length: 25 residues - nb: 7  from  554 to 728 - Psim:0.8846153846153846 region Length:175 
+TDAGLAYLQGLTILTYLDLHGCQEV-
+TDAGLAHLQGLTALTHLDLGGCQEV-
+TDAGLAHLQGLTTLTHLDLHGCQEV-
+TDAGLAHLQGLTTLTHLDLGGCQQV-
+TDAGLAHLQGLTALTHLDLGGCRQV-
+TDAGLAHLQGLTALTHLDLGGCRQV-
+TDAGLAHLQGLK-LQDLCLSSCQHVT
+**********************
+
+Length: 25 residues - nb: 6  from  583 to 732 - Psim:0.8846153846153846 region Length:150 
+LAHLQGLTALTHLDLGGCQEVTDAG-
+LAHLQGLTTLTHLDLHGCQEVTDAG-
+LAHLQGLTTLTHLDLGGCQQVTDAG-
+LAHLQGLTALTHLDLGGCRQVTDAG-
+LAHLQGLTALTHLDLGGCRQVTDAG-
+LAHLQGLK-LQDLCLSSCQHVTTATL
+**********************
+
+Length: 25 residues - nb: 5  from  612 to 736 - Psim:0.8461538461538461 region Length:125 
+QGLTTLTHLDLHGCQEVTDAGL-AHL
+QGLTTLTHLDLGGCQQVTDAGL-AHL
+QGLTALTHLDLGGCRQVTDAGL-AHL
+QGLTALTHLDLGGCRQVTDAGL-AHL
+QGLK-LQDLCLSSCQHVTTATLDLFR
+**********************
+
+Length: 25 residues - nb: 3  from  645 to 719 - Psim:0.92 region Length:75 
+LDLGGCQQVTDAGLAHLQGLTALTH
+LDLGGCRQVTDAGLAHLQGLTALTH
+LDLGGCRQVTDAGLAHLQGLKLQDL
+**********************
+
+Length: 25 residues - nb: 2  from  673 to 722 - Psim:0.8846153846153846 region Length:50 
+GGCRQVTDAGLAHLQGLTALTHLDL-
+GGCRQVTDAGLAHLQGLK-LQDLCLS
+**********************
+
+>uniprot|A0A225EDD7|A0A225EDD7_9BACT Putative internalin [Fimbriiglobus ruber]
+Length: 23 residues - nb: 3  from  336 to 404 - Psim:0.8115942028985508 region Length:69 
+SHCSGLTSVEYLSQLTAITVLDL
+SHCSGLTSVEGLARLIAITHLSL
+SSCSGLSSVKGLAKLTALTSLNL
+**********************
+
+>uniprot|A0A225D9R0|A0A225D9R0_9BACT Alanyl-tRNA synthetase [Fimbriiglobus ruber]
+Length: 20 residues - nb: 6  from  171 to 310 - Psim:0.7013888888888888 region Length:140 
+VTDAGVKQLTALKELTTLRLSSPN
+VTDAGVKDLTAFKGLTHLDLSCPY
+VTDVGVKELTALKSLTHLNLRSTK
+VTDAGVKQLAALKKLTYLDLWHTG
+VTGTGIKELAGLENLAVIDLSHSR
+VTDAGLKELASLKGLTNLDL----
+**********************
+
+Length: 20 residues - nb: 9  from  273 to 484 - Psim:0.7037037037037037 region Length:212 
+KELAGLENLAVIDLSHSRVTDAGL
+KELASLKGLTNLDLSFTKVSDAGM
+KELVPLKNLAALNMHHTPVTDAGV
+KELASLEGLTNLNLGFTGVTDAGM
+KELAALKNLAALELENTRVTDAGA
+KELTALKSLTELGLHDTRVTDAGA
+KELTALTSLTKLWLSATLVTDAGA
+KELAPLKNLTELDLSYTSVTDAGV
+KELAPLKNLVKLILLETKVT----
+**********************
+
+Length: 20 residues - nb: 7  from  321 to 484 - Psim:0.7083333333333334 region Length:164 
+KELVPLKNLAALNMHHTPVTDAGV
+KELASLEGLTNLNLGFTGVTDAGM
+KELAALKNLAALELENTRVTDAGA
+KELTALKSLTELGLHDTRVTDAGA
+KELTALTSLTKLWLSATLVTDAGA
+KELAPLKNLTELDLSYTSVTDAGV
+KELAPLKNLVKLILLETKVT----
+**********************
+
+Length: 20 residues - nb: 6  from  363 to 502 - Psim:0.6875 region Length:140 
+VTDAGMKELAALKNLAALELENTR
+VTDAGAKELTALKSLTELGLHDTR
+VTDAGAKELTALTSLTKLWLSATL
+VTDAGAKELAPLKNLTELDLSYTS
+VTDAGVKELAPLKNLVKLILLETK
+VTPAGEKDYRREHPNCEI-F---R
+**********************
+
+Length: 20 residues - nb: 4  from  390 to 485 - Psim:0.7604166666666666 region Length:96 
+AGAKELTALKSLTELGLHDTRVTD
+AGAKELTALTSLTKLWLSATLVTD
+AGAKELAPLKNLTELDLSYTSVTD
+AGVKELAPLKNLVKLILLETKVTP
+**********************
+
+Length: 20 residues - nb: 2  from  425 to 468 - Psim:0.8125 region Length:44 
+LTKLWLSATLVTDAGAKELAPLKN
+LTELDLSYTSVTDAGVKELA----
+**********************
+
+Length: 24 residues - nb: 5  from  374 to 493 - Psim:0.725 region Length:120 
+LKNLAALELENTRVTDAGAKELTA
+LKSLTELGLHDTRVTDAGAKELTA
+LTSLTKLWLSATLVTDAGAKELAP
+LKNLTELDLSYTSVTDAGVKELAP
+LKNLVKLILLETKVTPAGEKDYRR
+**********************
+
+Length: 24 residues - nb: 2  from  425 to 472 - Psim:0.8958333333333334 region Length:48 
+LTKLWLSATLVTDAGAKELAPLKN
+LTELDLSYTSVTDAGVKELAPLKN
+**********************
+
+>uniprot|A0A225DU96|A0A225DU96_9BACT Uncharacterized protein [Fimbriiglobus ruber]
+Length: 5 residues - nb: 3  from  153 to 167 - Psim:0.6666666666666666 region Length:15 
+LGGQP
+LGTEA
+LGTIL
+**********************
+
+>uniprot|F0SP32|F0SP32_RUBBR Leucine-rich repeat-containing protein [Rubinisphaera brasiliensis DSM 5305]
+Length: 3 residues - nb: 5  from  235 to 248 - Psim:0.6666666666666666 region Length:14 
+NLT
+NLT
+N-T
+ALE
+ALK
+**********************
+
+>uniprot|F0SGE6|F0SGE6_RUBBR Leucine-rich repeat cysteine-containing subtype [Rubinisphaera brasiliensis DSM 5305]
+Length: 7 residues - nb: 2  from  258 to 272 - Psim:0.75 region Length:15 
+SSLSNDDI
+SSLSKLT-
+**********************
+
+>uniprot|A6C645|A6C645_9PLAN Uncharacterized protein [Gimesia maris DSM 8797]
+Length: 6 residues - nb: 3  from  51 to 69 - Psim:0.6666666666666666 region Length:19 
+KK-LL-EM
+KK-LVVKE
+KKSIL-G-
+**********************
+
+>uniprot|A6C0S1|A6C0S1_9PLAN Putative lipoprotein [Gimesia maris DSM 8797]
+Length: 19 residues - nb: 2  from  112 to 153 - Psim:0.717391304347826 region Length:42 
+-LSQLK--E-LDLSENKLMRLDP
+EFGQLSSLERLNLSSNWLKTLPP
+**********************
+
+Length: 19 residues - nb: 2  from  130 to 171 - Psim:0.7391304347826086 region Length:42 
+PEFGQLSSLERLNLSSNWLKTLP
+PEFGMLENLRDLNLDSN---SI-
+**********************
+
+Length: 19 residues - nb: 4  from  220 to 307 - Psim:0.6630434782608695 region Length:88 
+LPPQIGNLENLETLDLRENQIEF
+LPSEIGNLRNLKRLDLFKNHLTS
+LPPEIGKLKNLKDLDLMHNDLTS
+LPKEFGDLTGLEKLSLQNN----
+**********************
+
+Length: 23 residues - nb: 2  from  70 to 115 - Psim:0.8260869565217391 region Length:46 
+TWLNISDNSLSELSPEIGNLKNL
+TWLNVSDNSIRYLPDEIGNLSQL
+**********************
+
+Length: 23 residues - nb: 3  from  243 to 311 - Psim:0.7391304347826086 region Length:69 
+LPSEIGNLRNLKRLDLFKNHLTS
+LPPEIGKLKNLKDLDLMHNDLTS
+LPKEFGDLTGLEKLSLQNNNLTS
+**********************
+
+>uniprot|A6C325|A6C325_9PLAN Uncharacterized protein [Gimesia maris DSM 8797]
+Length: 5 residues - nb: 3  from  379 to 394 - Psim:0.6666666666666666 region Length:16 
+LSGVG-
+LSSLKN
+LSMLQ-
+**********************
+
+>uniprot|A6C938|A6C938_9PLAN Leucine-rich repeat domain protein [Gimesia maris DSM 8797]
+Length: 3 residues - nb: 6  from  1194 to 1210 - Psim:0.7 region Length:17 
+QL-A-
+QL---
+QL-N-
+RLYS-
+-L-D-
+-L-DH
+**********************
+
+>uniprot|A0A1C3EIR2|A0A1C3EIR2_9PLAN Uncharacterized protein [Planctopirus sp. JC280]
+Length: 8 residues - nb: 2  from  219 to 235 - Psim:0.7777777777777778 region Length:17 
+ALREAGLLH
+ALREA-YAA
+**********************
+
+Length: 9 residues - nb: 2  from  219 to 236 - Psim:0.7777777777777778 region Length:18 
+ALREAGLLH
+ALREAYAAE
+**********************
+
+Length: 24 residues - nb: 4  from  296 to 387 - Psim:0.65625 region Length:92 
+ALH-EAEAV---GRKRPTRPEDVV
+SLDLSRTQVTDAGLQQLKDLKQLA
+SLDLRGTQVTDAGLNELKELKQLT
+SLNLSGTKVTDAGRRELKELEQLS
+**********************
+
+>uniprot|UPI00016C35C7|UPI00016C35C7 hypothetical protein [Gemmata obscuriglobus]
+Length: 20 residues - nb: 11  from  61 to 319 - Psim:0.7727272727272727 region Length:259 
+VTDKGLKELAGLKNLTHLNLFSTW
+VTDAGVKELAGLKGLTTLDLNSTS
+VTDAGMKELAALNNLTTLRLSGKG
+VTDAGLKELAALKKLANLDLSHTK
+VTDAGLKELAALKGLTTIRLNNTE
+VTDAGLKELAALKKLADLDLSQTK
+VTDAGLKELAALKGLTCLGLLGTK
+VTDAGLKELAGL-NLTDLHLAGTP
+VTDAGLKELAALKNLTHLYLFGTK
+VTGVGLKELSGLKGLTTLYLNNTK
+VTDAGVKELSGLKGLTTLDL----
+**********************
+
+Length: 20 residues - nb: 11  from  91 to 345 - Psim:0.7381818181818182 region Length:255 
+KELAGLKGLTTLDLNS-TSVTDAGM
+KELAALNNLTTLRLSG-KGVTDAGL
+KELAALKKLANLDLSH-TKVTDAGL
+KELAALKGLTTIRLNN-TEVTDAGL
+KELAALKKLADLDLSQ-TKVTDAGL
+KELAALKGLTCLGLLG-TKVTDAGL
+KELAGLN-LTDLHLAG-TPVTDAGL
+KELAALKNLTHLYLFG-TKVTGVGL
+KELSGLKGLTTLYLNN-TKVTDAGV
+KELSGLKGLTTLDLSY-TEMT----
+-D-AGVKALA--GLKGLTNLELYG-
+**********************
+
+Length: 20 residues - nb: 6  from  118 to 253 - Psim:0.7083333333333334 region Length:136 
+AALNNLTTLRLSGKGVTDAGLKEL
+AALKKLANLDLSHTKVTDAGLKEL
+AALKGLTTIRLNNTEVTDAGLKEL
+AALKKLADLDLSQTKVTDAGLKEL
+AALKGLTCLGLLGTKVTDAG----
+--LKELAGLNLTDLHL--AGTPVT
+**********************
+
+Length: 20 residues - nb: 7  from  157 to 319 - Psim:0.7857142857142857 region Length:163 
+VTDAGLKELAALKGLTTIRLNNTE
+VTDAGLKELAALKKLADLDLSQTK
+VTDAGLKELAALKGLTCLGLLGTK
+VTDAGLKELAGLN-LTDLHLAGTP
+VTDAGLKELAALKNLTHLYLFGTK
+VTGVGLKELSGLKGLTTLYLNNTK
+VTDAGVKELSGLKGLTTLDL----
+**********************
+
+Length: 20 residues - nb: 4  from  184 to 271 - Psim:0.7407407407407407 region Length:88 
+---AGLKELAALKKLADLDLSQTKVTD
+---AGLKELAALKGLTCLGLLGTKVTD
+---AGLKELAGLN-LTDLHLAGTP---
+VTDAGLKELAALKNLTHL-YL------
+**********************
+
+Length: 20 residues - nb: 6  from  219 to 357 - Psim:0.7569444444444444 region Length:139 
+LTCLGLLGTKVTDAGLKELAGLN-
+LTDLHLAGTPVTDAGLKELAALKN
+LTHLYLFGTKVTGVGLKELSGLKG
+LTTLYLNNTKVTDAGVKELSGLKG
+LTTLDLSYTEMTDAGVKALAGLKG
+LTNLELYGTKVTDAGVKELN----
+**********************
+
+Length: 20 residues - nb: 3  from  252 to 319 - Psim:0.8055555555555556 region Length:68 
+VTDAGLKELAALKNLTHLYLFGTK
+VTGVGLKELSGLKGLTTLYLNNTK
+VTDAGVKELSGLKGLTTLDL----
+**********************
+
+Length: 20 residues - nb: 3  from  284 to 347 - Psim:0.7380952380952381 region Length:64 
+----LSGLKGLTTLYLNNTKVTDAGVKE
+----LSGLKGLTTLDLSYTEMTDA----
+GVKALAGLKGLTNLEL-YG--TK-----
+**********************
+
+Length: 21 residues - nb: 12  from  61 to 341 - Psim:0.7716049382716049 region Length:281 
+---VTDKGLKELAGLKNLTHLNLFSTW
+---VTDAGVKELAGLKGLTTLDLNSTS
+---VTDAGMKELAALNNLTTLRLSGKG
+---VTDAGLKELAALKKLANLDLSHTK
+---VTDAGLKELAALKGLTTIRLNNTE
+---VTDAGLKELAALKKLADLDLSQTK
+---VTDAGLKELAALKGLTCLGLLGTK
+---VTDAGLKELAGL-NLTDLHLAGTP
+---VTDAGLKELAALKNLTHLYLFGTK
+---VTGVGLKELSGLKGLTTLYLNNTK
+---VTDAGVKELSGLKGLTTLDL--S-
+YTEMTDAGVKALAGLKGLTNL------
+**********************
+
+Length: 21 residues - nb: 10  from  91 to 326 - Psim:0.7791666666666667 region Length:236 
+KELAGLKGLTTLDLNSTSVTDAGM
+KELAALNNLTTLRLSGKGVTDAGL
+KELAALKKLANLDLSHTKVTDAGL
+KELAALKGLTTIRLNNTEVTDAGL
+KELAALKKLADLDLSQTKVTDAGL
+KELAALKGLTCLGLLGTKVTDAGL
+KELAGLN-LTDLHLAGTPVTDAGL
+KELAALKNLTHLYLFGTKVTGVGL
+KELSGLKGLTTLYLNNTKVTDAGV
+KELSGLKGLTTLDLSYTEMTD---
+**********************
+
+Length: 21 residues - nb: 8  from  118 to 300 - Psim:0.65625 region Length:183 
+AALN--NLTTL-R-LSGKGVTDAGLKEL
+AALK--KLANL-D-LSHTKVTDAGLKEL
+AALK--GLTTI-R-LNNTEVTDAGLKEL
+AALK--KLADL-D-LSQTKVTDAGLKEL
+AALK--GLTCL-G-LLGTKVTDAGL---
+KELAGLNLTDL-H-LAGTPVTDA-----
+G-LK--ELAALKN-LTHLYLFGTKVTGV
+G-LK--ELSGL-KGLT-TLYLN-NTK-V
+**********************
+
+Length: 21 residues - nb: 8  from  157 to 341 - Psim:0.7685185185185185 region Length:185 
+---VTDAGLKELAALKGLTTIRLNNTE
+---VTDAGLKELAALKKLADLDLSQTK
+---VTDAGLKELAALKGLTCLGLLGTK
+---VTDAGLKELAGLN-LTDLHLAGTP
+---VTDAGLKELAALKNLTHLYLFGTK
+---VTGVGLKELSGLKGLTTLYLNNTK
+---VTDAGVKELSGLKGLTTLDL--S-
+YTEMTDAGVKALAGLKGLT--NL----
+**********************
+
+Length: 21 residues - nb: 6  from  184 to 318 - Psim:0.6666666666666666 region Length:135 
+--A---GLKE--LAALKKLADL-DLSQTKVTD
+--A---GLKE--LAALKGLTCL-GLLGTKVTD
+--A---GLKE--LAGLN-LTDL-HLAGTPV--
+TDA---GLKE--LAALKNLTHL-YLFG-----
+--TKVTGVGLKELSGLKGL-TTL-YLN----N
+--T---KVTD---AGVKELS---GLKGLTTLD
+**********************
+
+Length: 21 residues - nb: 6  from  219 to 358 - Psim:0.7569444444444444 region Length:140 
+LTCLGLLGTKVTDAGLKELAGLN-
+LTDLHLAGTPVTDAGLKELAALKN
+LTHLYLFGTKVTGVGLKELSGLKG
+LTTLYLNNTKVTDAGVKELSGLKG
+LTTLDLSYTEMTDAGVKALAGLKG
+LTNLELYGTKVTDAGVKELNS---
+**********************
+
+Length: 21 residues - nb: 4  from  252 to 341 - Psim:0.775 region Length:90 
+---VTDAGLKELAALKNLTHLYLFGT---K
+---VTGVGLKELSGLKGLTTLYL--NNTK-
+---VTDAGVKELSGLKGLTTLDL--S----
+YTEMTDAGVKALAGLKGLT--NL-------
+**********************
+
+Length: 21 residues - nb: 3  from  284 to 349 - Psim:0.7654320987654321 region Length:66 
+---LSGLKGLTTLYLNNTKVTDAGVKE
+---LSGLKGLTTLDLSYTEMTDAG---
+VKALAGLKGLTNLELYGTKVT------
+**********************
+
+Length: 22 residues - nb: 12  from  61 to 343 - Psim:0.7692307692307693 region Length:283 
+--VTDKGLKELAGLKNLTHLNLFSTW
+--VTDAGVKELAGLKGLTTLDLNSTS
+--VTDAGMKELAALNNLTTLRLSGKG
+--VTDAGLKELAALKKLANLDLSHTK
+--VTDAGLKELAALKGLTTIRLNNTE
+--VTDAGLKELAALKKLADLDLSQTK
+--VTDAGLKELAALKGLTCLGLLGTK
+--VTDAGLKELAGL-NLTDLHLAGTP
+--VTDAGLKELAALKNLTHLYLFGTK
+--VTGVGLKELSGLKGLTTLYLNNTK
+--VTDAGVKELSGLKGLTTLDL--SY
+TEMTDAGVKALAGLKGLTNLEL----
+**********************
+
+Length: 22 residues - nb: 11  from  91 to 349 - Psim:0.7797202797202797 region Length:259 
+--KELAGLKGLTTLDLNSTSVTDAGM
+--KELAALNNLTTLRLSGKGVTDAGL
+--KELAALKKLANLDLSHTKVTDAGL
+--KELAALKGLTTIRLNNTEVTDAGL
+--KELAALKKLADLDLSQTKVTDAGL
+--KELAALKGLTCLGLLGTKVTDAGL
+--KELAGLN-LTDLHLAGTPVTDAGL
+--KELAALKNLTHLYLFGTKVTGVGL
+--KELSGLKGLTTLYLNNTKVTDAGV
+--KELSGLKGLTTLDLSYTEMTDA--
+GVKALAGLKGLTNLELYGTKVT----
+**********************
+
+Length: 22 residues - nb: 10  from  118 to 349 - Psim:0.696551724137931 region Length:232 
+---AALN-NL--TTLRLSGKGVTDAGLKEL
+---AALK-KL--ANLDLSHTKVTDAGLKEL
+---AALK-GL--TTIRLNNTEVTDAGLKEL
+---AALK-KL--ADLDLSQTKVTDAGLKEL
+---AALK-GL--TCLGLLGTKVTDAGLK--
+---E-LA-GLNLTDLHLAGTPVTDAGL---
+KELAALK-NL--THLYLFGTKVTGVGL---
+KELSGLK-GL--TTLYLNNTKVTDAGV---
+KELSGLK-GL--TTLDLSYTEMTDA-----
+GVKALAG-LKGLTNLELYGTKVT-------
+**********************
+
+Length: 22 residues - nb: 8  from  157 to 343 - Psim:0.7692307692307693 region Length:187 
+--VTDAGLKELAALKGLTTIRLNNTE
+--VTDAGLKELAALKKLADLDLSQTK
+--VTDAGLKELAALKGLTCLGLLGTK
+--VTDAGLKELAGLN-LTDLHLAGTP
+--VTDAGLKELAALKNLTHLYLFGTK
+--VTGVGLKELSGLKGLTTLYLNNTK
+--VTDAGVKELSGLKGLTTLDL--SY
+TEMTDAGVKALAGLKGLTNLEL----
+**********************
+
+Length: 22 residues - nb: 7  from  184 to 343 - Psim:0.7095238095238096 region Length:160 
+-----AG-LKELAALKKLADLDLSQTKVTD
+-----AG-LKELAALKGLTCLGLLGTKVTD
+-----AG-LKELAGL-NLTDLHLAGTP-VT
+----DAG-LKELAALKNLTHLYLFGTK---
+---VTGVGLKELSGLKGLTTLYLNNT---K
+--VTDAG-VKELSGLKGLTTLDL--SY---
+TEMTDAG-VKALAGLKGLTNLEL-------
+**********************
+
+Length: 22 residues - nb: 4  from  252 to 343 - Psim:0.7678571428571429 region Length:92 
+--VTDAGLKELAALKNLTHLYLFGTK--
+--VTGVGLKELSGLKGLTTLYL--NNTK
+--VTDAGVKELSGLKGLTTLDL--SY--
+TEMTDAGVKALAGLKGLTNLEL------
+**********************
+
+Length: 22 residues - nb: 3  from  283 to 350 - Psim:0.7692307692307693 region Length:68 
+-EL-SGLKGLTTLYLNNTKVTDAGVK
+-EL-SGLKGLTTLDLSYTEMTDAG--
+VKALAGLKGLTNLELYGTKVTD----
+**********************
+
+Length: 24 residues - nb: 12  from  67 to 353 - Psim:0.7743055555555556 region Length:287 
+KELAGLKNLTHLNLFSTWVTDAGV
+KELAGLKGLTTLDLNSTSVTDAGM
+KELAALNNLTTLRLSGKGVTDAGL
+KELAALKKLANLDLSHTKVTDAGL
+KELAALKGLTTIRLNNTEVTDAGL
+KELAALKKLADLDLSQTKVTDAGL
+KELAALKGLTCLGLLGTKVTDAGL
+KELAGLN-LTDLHLAGTPVTDAGL
+KELAALKNLTHLYLFGTKVTGVGL
+KELSGLKGLTTLYLNNTKVTDAGV
+KELSGLKGLTTLDLSYTEMTDAGV
+KALAGLKGLTNLELYGTKVTDAGV
+**********************
+
+Length: 24 residues - nb: 3  from  99 to 170 - Psim:0.8194444444444444 region Length:72 
+LTTLDLNSTSVTDAGMKELAALNN
+LTTLRLSGKGVTDAGLKELAALKK
+LANLDLSHTKVTDAGLKELAALKG
+**********************
+
+Length: 24 residues - nb: 7  from  181 to 347 - Psim:0.7857142857142857 region Length:167 
+VTDAGLKELAALKKLADLDLSQTK
+VTDAGLKELAALKGLTCLGLLGTK
+VTDAGLKELAGLN-LTDLHLAGTP
+VTDAGLKELAALKNLTHLYLFGTK
+VTGVGLKELSGLKGLTTLYLNNTK
+VTDAGVKELSGLKGLTTLDLSYTE
+MTDAGVKALAGLKGLTNLELYGTK
+**********************
+
+Length: 24 residues - nb: 4  from  266 to 361 - Psim:0.8 region Length:96 
+LTHLYLFGTKVTGVGLKEL-SGLKG
+LTTLYLNNTKVTDAGVKEL-SGLKG
+LTTLDLSYTEMTDAGVKAL-AGLKG
+LTNLELYGTKVTDAGVKELNSALP-
+**********************
+
+>uniprot|UPI00016C3681|UPI00016C3681 NACHT domain-containing protein [Gemmata obscuriglobus]
+Length: 23 residues - nb: 13  from  649 to 947 - Psim:0.8528428093645485 region Length:299 
+SPLAPLTALEELDLSGCAGVSDL
+SPLANLTALRFLDLSGCAGGADL
+SPLANLTALRFLDLSGCAGVSDL
+APLANLTALEGLNLRGCAGVSDL
+SPLANLTGLRHLNLSGCAGWADL
+SPLANLTGLRHLNLNGCTGVSDL
+SPLAPLTALEELDLSGCAGVSDL
+SPLANLTALEGLDLSGCAGVSDL
+SPLAPHTALRFLDLSGCAGVSCL
+SPLAPHTALRFLDLSGCAGVSDL
+SPLANLTALEDLDLSGCAGVSDL
+SPLANLTALEGLDLSGCTGVLDL
+SPLAPLTALQFLDLGGCASALSI
+**********************
+
+Length: 23 residues - nb: 6  from  675 to 812 - Psim:0.855072463768116 region Length:138 
+ANLTALRFLDLSGCAGGADLSPL
+ANLTALRFLDLSGCAGVSDLAPL
+ANLTALEGLNLRGCAGVSDLSPL
+ANLTGLRHLNLSGCAGWADLSPL
+ANLTGLRHLNLNGCTGVSDLSPL
+APLTALEELDLSGCAGVSDLSPL
+**********************
+
+Length: 23 residues - nb: 3  from  701 to 769 - Psim:0.8695652173913043 region Length:69 
+TALRFLDLSGCAGVSDLAPLANL
+TALEGLNLRGCAGVSDLSPLANL
+TGLRHLNLSGCAGWADLSPLANL
+**********************
+
+Length: 23 residues - nb: 4  from  731 to 817 - Psim:0.8369565217391305 region Length:87 
+LR-----GCAGVSDLSPLANLTG
+LRHLNLSGCAGWADLSPLANLTG
+LRHLNLNGCTGVSDLSPLAPLTA
+LEELDLSGCAGVSDLSPLANLTA
+**********************
+
+Length: 23 residues - nb: 8  from  779 to 952 - Psim:0.8260869565217391 region Length:174 
+GCTGVSDLSPLAPLTALEELDLS
+GCAGVSDLSPLANLTALEGLDLS
+GCAGVSDLSPLAPHTALRFLDLS
+GCAGVSCLSPLAPHTALRFLDLS
+GCAGVSDLSPLANLTALEDLDLS
+GCAGVSDLSPLANLTALEGLDLS
+GCTGVLDLSPLAPLTALQFLDLG
+GCA--SALS-IPD----E-LQ--
+**********************
+
+Length: 23 residues - nb: 6  from  805 to 942 - Psim:0.8913043478260869 region Length:138 
+GVSDLSPLANLTALEGLDLSGCA
+GVSDLSPLAPHTALRFLDLSGCA
+GVSCLSPLAPHTALRFLDLSGCA
+GVSDLSPLANLTALEDLDLSGCA
+GVSDLSPLANLTALEGLDLSGCT
+GVLDLSPLAPLTALQFLDLGGCA
+**********************
+
+Length: 23 residues - nb: 5  from  834 to 948 - Psim:0.8347826086956521 region Length:115 
+PLAPHTALRFLDLSGCAGVSCLS
+PLAPHTALRFLDLSGCAGVSDLS
+PLANLTALEDLDLSGCAGVSDLS
+PLANLTALEGLDLSGCTGVLDLS
+PLAPLTALQFLDLGGCASALSIP
+**********************
+
+Length: 23 residues - nb: 4  from  863 to 952 - Psim:0.8333333333333334 region Length:90 
+ALRFLDLSGCAGVSDLS-PLANLT
+ALEDLDLSGCAGVSDLS-PLANLT
+ALEGLDLSGCTGVLDLS-PLAPLT
+ALQFLDLGGCA--SALSIP-DELQ
+**********************
+
+>uniprot|UPI00016C3F2F|UPI00016C3F2F hypothetical protein [Gemmata obscuriglobus]
+Length: 21 residues - nb: 10  from  65 to 294 - Psim:0.6862068965517242 region Length:230 
+GVKELAGLKALTT-LN-L-GA-TK-VTDV
+GVKELAGFKALTT-LN-L-SF-TT-LTDV
+GVKELAGFKALTT-LE-L-NY-TD-VTDA
+GVKELAGLKALTT-LG-L-GG-TK-VTDA
+GVKELASLKELSV-LG-L-FA-AKAVTDA
+GVKELAGLKALTT-LE-L-GL-TK-VTDA
+GVKELAGLKALTT-LD-L-----H-YT--
+GVTD-AGVKELAG-LK---AL-S--VLDL
+G-N--TGVTDAGV-KE-LAGL-KA-LT-T
+-LN-LGGAKVTDAGVKE-LAGL--KALST
+**********************
+
+Length: 21 residues - nb: 14  from  92 to 417 - Psim:0.771889400921659 region Length:326 
+ELAGFKALTTLNLSFTTLTD-VGV--K----
+------ELAGFK-ALTTLE-L-NYTD-VTDA
+---GVKELAGLK-ALTTLG-L-GGTK-V---
+TDAGVKELASLK-ELSVLG-L-FAAKAV---
+TDAGVKELAGLK-ALTTLE-L-GLTK-V---
+TDAGVKELAGLK-ALTTLD-L-HYTG-V---
+TDAGVKELAGLK-ALSVLD-L-GNTG-V---
+TDAGVKELAGLK-ALTTLN-L-GGAK-V---
+TDAGVKELAGLK-ALSTLN-L-GGTK-V---
+TDTGLKELAGFK-ALTTLD-L-SFTT-L---
+TDAGVKELAGLT-ALTLLD-LSGTT--L---
+TDAGVKELAPLT-NLTMLY-L-GETG-V---
+TDAGLKELAGLK-NLTALF-L-FNTK-V---
+TDAGVKELTA---ALPKCK-I--M-R-----
+**********************
+
+Length: 21 residues - nb: 8  from  121 to 303 - Psim:0.7620967741935484 region Length:183 
+-KALTTLELNYTDVTDAGVK-EL-AG----L
+-K--A-L----TTLGLGGTK-VTDAGVKEL-
+----ASLKE-LSVLGLFAAKAVTDAG-----
+VKELAGLKA-LTTLELGLTK-VTDAG-----
+VKELAGLKA-LTTLDLHYTG-VTDAG-----
+VKELAGLKA-LSVLDLGNTG-VTDAG-----
+VKELAGLKA-LTTLNLGGAK-VTDAG-----
+VKELAGLKA-LSTLNLGGTK-VT--------
+**********************
+
+Length: 21 residues - nb: 7  from  157 to 322 - Psim:0.8342857142857143 region Length:166 
+VTDAGVKELASLKELSVLGLFAAKA
+VTDAGVKELAGLKALTTLELGLTK-
+VTDAGVKELAGLKALTTLDLHYTG-
+VTDAGVKELAGLKALSVLDLGNTG-
+VTDAGVKELAGLKALTTLNLGGAK-
+VTDAGVKELAGLKALSTLNLGGTK-
+VTDTGLKELAGFKALTTLDL--S--
+**********************
+
+Length: 21 residues - nb: 6  from  186 to 315 - Psim:0.6611111111111111 region Length:130 
+GVKELAGLKALTT-L-EL-GLTKVT---DA
+-----G-VKEL-AGLKALTTLDL-HYT---
+-----G---VTDAGVKELAGLKA-LSVLDL
+-GNT-G---VTDAGVKELAGLKA-LTT---
+-LNL-GGAKVTDAGVKELAGLKA-LST---
+-LNL-GGTKVTDTGLKELAGFKA-------
+**********************
+
+Length: 21 residues - nb: 9  from  213 to 417 - Psim:0.7407407407407407 region Length:205 
+ELAGLKALTTLDLHYTGVTDAGVK
+ELAGLKALSVLDLGNTGVTDAGVK
+ELAGLKALTTLNLGGAKVTDAGVK
+ELAGLKALSTLNLGGTKVTDTGLK
+ELAGFKALTTLDLSFTTLTDAGVK
+ELAGLTALTLLDLSGTTLTDAGVK
+ELAPLTNLTMLYLGETGVTDAGLK
+ELAGLKNLTALFLFNTKVTDAGVK
+ELTA--ALPKCK-----I----MR
+**********************
+
+Length: 21 residues - nb: 4  from  240 to 326 - Psim:0.69 region Length:87 
+GLKALSVLDLGNTGVT-DAGVKELA
+GLKALTTLNLGGAKVT-DAGVKELA
+GLKALSTLNLGGTKVT-DT------
+GLKELAGFK---ALTTLDLSFTTL-
+**********************
+
+Length: 21 residues - nb: 6  from  267 to 404 - Psim:0.6733333333333333 region Length:138 
+ALTTL-NLGGAKVTDAGVKELAGLK
+ALSTL-NLGGTKVTDTGLKELAGFK
+ALTTL-DLSFTTLTDAGVKELAGLT
+ALTLL-DLSGTTLTDAGVKELA---
+PLTNL-TM--LYLGETGVTD-AGLK
+ELAGLKNLTALFLFNTKVTD-AGVK
+**********************
+
+Length: 21 residues - nb: 5  from  308 to 417 - Psim:0.675 region Length:110 
+KELAGFKALTTLDLSFTTLTDAGV
+KELAGLTALTLLDLSGTTLTDAGV
+KELAPLTNLTMLYLGETGVTDAGL
+KELAGLKNLTALFLFNTKVTDAGV
+KEL---TA-AL-P-K-CKIM-R--
+**********************
+
+Length: 21 residues - nb: 3  from  351 to 417 - Psim:0.6933333333333334 region Length:67 
+TDAGVKEL-APLTNLTMLYLGETGV
+TDAGLKEL-AGLKNLTALFLFNTKV
+TDAGVKELTAALPKCK-I-M-R---
+**********************
+
+Length: 24 residues - nb: 12  from  65 to 348 - Psim:0.7685185185185185 region Length:284 
+-----GV-----KELAGLKALTTL-NLGATK-VTDV
+-----GV-----KELAGFKALTTL-NLSFTT-LTDV
+-----GV-----KELAGFKALTTL-ELNYTD-VTDA
+-----GV-----KELAGLKALTTL-GLGGTK-VTDA
+-----GV-----KELASLKELSVL-GLFAAKAVTDA
+-----GV-----KELAGLKALTTL-ELGLTK-VTDA
+-----GV-----KELAGLKALTTL-DL---H-YT--
+-----GV-----TD-AGVKELAGLKALSVLD-LGNT
+-----GVTDAGVKELAGLKALTTL-NLGG------A
+KVTDAGV-----KELAGLKALSTL-NLGGT------
+KVTDTGL-----KELAGFKALTTL-DL--S--FT--
+TLTDAGV-----KELAGLTALTLL-DLSGT------
+**********************
+
+Length: 24 residues - nb: 3  from  92 to 163 - Psim:0.8472222222222222 region Length:72 
+ELAGFKALTTLNLSFTTLTDVGVK
+ELAGFKALTTLELNYTDVTDAGVK
+ELAGLKALTTLGLGGTKVTDAGVK
+**********************
+
+Length: 24 residues - nb: 10  from  122 to 361 - Psim:0.8296296296296296 region Length:240 
+-ALTTLEL-NYTD-VTDAGVKELAGLK
+-ALTTLGL-GGTK-VTDAGVKELASLK
+E-LSVLGL-FAAKAVTDAGVKELAGL-
+KALTTLEL-GLTK-VTDAGVKELAGL-
+KALTTLDL-HYTG-VTDAGVKELAGL-
+KALSVLDL-GNTG-VTDAGVKELAGL-
+KALTTLNL-GGAK-VTDAGVKELAGL-
+KALSTLNL-GGTK-VTDTGLKELAGF-
+KALTTLDL-SFTT-LTDAGVKELAGL-
+TALTLLDLSGTT--LTDAGVKELAPL-
+**********************
+
+Length: 24 residues - nb: 8  from  157 to 349 - Psim:0.835 region Length:193 
+VTDAGVKELASLKELSVLGLFAAKA
+VTDAGVKELAGLKALTTLELGLTK-
+VTDAGVKELAGLKALTTLDLHYTG-
+VTDAGVKELAGLKALSVLDLGNTG-
+VTDAGVKELAGLKALTTLNLGGAK-
+VTDAGVKELAGLKALSTLNLGGTK-
+VTDTGLKELAGFKALTTLDLSFTT-
+LTDAGVKELAGLTALTLLDLSGTT-
+**********************
+
+Length: 24 residues - nb: 7  from  186 to 348 - Psim:0.8078817733990148 region Length:163 
+-----GVKELAGLKALTTLELGLTKVTDA
+-----GVKELAGLKALTTLDLH-YT----
+GVTDAGVKELAGLKALSVLDLG-NT----
+GVTDAGVKELAGLKALTTLNLG-GA----
+KVTDAGVKELAGLKALSTLNLG-GT----
+KVTDTGLKELAGFKALTTLDLS-FT----
+TLTDAGVKELAGLTALTLLDLS-GT----
+**********************
+
+Length: 24 residues - nb: 9  from  213 to 417 - Psim:0.7407407407407407 region Length:205 
+ELAGLKALTTLDLHYTGVTDAGVK
+ELAGLKALSVLDLGNTGVTDAGVK
+ELAGLKALTTLNLGGAKVTDAGVK
+ELAGLKALSTLNLGGTKVTDTGLK
+ELAGFKALTTLDLSFTTLTDAGVK
+ELAGLTALTLLDLSGTTLTDAGVK
+ELAPLTNLTMLYLGETGVTDAGLK
+ELAGLKNLTALFLFNTKVTDAGVK
+ELTA--ALPKCK-----I----MR
+**********************
+
+Length: 24 residues - nb: 4  from  241 to 336 - Psim:0.84375 region Length:96 
+LKALSVLDLGNTGVTDAGVKELAG
+LKALTTLNLGGAKVTDAGVKELAG
+LKALSTLNLGGTKVTDTGLKELAG
+FKALTTLDLSFTTLTDAGVKELAG
+**********************
+
+Length: 24 residues - nb: 6  from  222 to 365 - Psim:0.8194444444444444 region Length:144 
+TLDLHYTGVTDAGVKELAGLKALS
+VLDLGNTGVTDAGVKELAGLKALT
+TLNLGGAKVTDAGVKELAGLKALS
+TLNLGGTKVTDTGLKELAGFKALT
+TLDLSFTTLTDAGVKELAGLTALT
+LLDLSGTTLTDAGVKELAPLTNLT
+**********************
+
+Length: 24 residues - nb: 5  from  309 to 417 - Psim:0.6666666666666666 region Length:109 
+ELAGFKALTTLDLSFTTLTDAGVK
+ELAGLTALTLLDLSGTTLTDAGVK
+ELAPLTNLTMLYLGETGVTDAGLK
+ELAGLKNLTALFLFNTKVTDAGVK
+EL---TA-AL-P-K-CKI----MR
+**********************
+
+Length: 24 residues - nb: 3  from  352 to 417 - Psim:0.7066666666666667 region Length:66 
+DAGVKELAPLTNLTMLYLGETGVT-
+DAGLKELAGLKNLTALFLFNTKVT-
+DAGVKEL------TAA-LPKCKIMR
+**********************
+
+Length: 25 residues - nb: 15  from  65 to 417 - Psim:0.7382716049382716 region Length:353 
+GVKELAGLKALTTLNLGATK-VTDV--
+GVKELAGFKALTTLNLSFTT-LTDV--
+GVKELAGFKALTTLELNYTD-VTDA--
+GVKELAGLKALTTLGLGGTK-VTDA--
+GVKELASLKELSVLGLFAAKAVTDA--
+GVKELAGLKALTTLELGLTK-VTDA--
+GVKELAGLKALTTLDLHYTG-VTDA-G
+-VKELAGLKALSVLDLGNTG-VTDAGV
+--KELAGLKALTTLNLGGAK-VTDAGV
+--KELAGLKALSTLNLGGTK-VTDTGL
+--KELAGFKALTTLDLSFTT-LTDAGV
+--KELAGLTALTLLDLSGTT-LTDAGV
+--KELAPLTNLTMLYLGETG-VTDAGL
+--KELAGLKNLTALFLFNTK-VTDAGV
+--KELTA--ALPKC-----K-IM-R--
+**********************
+
+Length: 25 residues - nb: 3  from  92 to 165 - Psim:0.8205128205128205 region Length:74 
+ELAGFKALTTLNLSFTTLTDVGVK--
+ELAGFKALTTLELNYTDVTDAGVKE-
+-LAGLKALTTLGLGGTKVTDAGVKEL
+**********************
+
+Length: 25 residues - nb: 3  from  122 to 195 - Psim:0.8205128205128205 region Length:74 
+ALTTLELNYTD-VTDAGVKELAGLK-
+ALTTLGLGGTK-VTDAGVKELASLKE
+-LSVLGLFAAKAVTDAGVKELAGLKA
+**********************
+
+Length: 25 residues - nb: 3  from  174 to 250 - Psim:0.8160919540229885 region Length:77 
+LGLFAAKAVTDAGVKELAGLKALTTL-E-
+LGL-TK-VT-DAGVKELAGLKALTTLDL-
+-HY-TG-VT-DAGVKELAGLKALSVLDLG
+**********************
+
+Length: 25 residues - nb: 8  from  208 to 403 - Psim:0.7589285714285714 region Length:196 
+DAGVKELAGLKALTTLDLHYTGVT----
+DAGVKELAGLKALSVLDLGNTGVT----
+DAGVKELAGLKALTTLNLGGAKVT----
+DAGVKELAGLKALSTLNLGGTKVTD---
+-TGLKELAGFKALTTLDLSFTTLTD--A
+--GVKELAGLTALTLLDLSGTTLTD--A
+--GVKELAPLTNLTMLYLGETGVTD-AG
+---LKELAGLKNLTALFLFNTKVTDAGV
+**********************
+
+Length: 25 residues - nb: 8  from  237 to 417 - Psim:0.7291666666666666 region Length:181 
+ELAGLKALSVLDLGNTGVTDAGVK
+ELAGLKALTTLNLGGAKVTDAGVK
+ELAGLKALSTLNLGGTKVTDTGLK
+ELAGFKALTTLDLSFTTLTDAGVK
+ELAGLTALTLLDLSGTTLTDAGVK
+ELAPLTNLTMLYLGETGVTDAGLK
+ELAGLKNLTALFLFNTKVTDAGVK
+ELTA--ALP--K---CKI----MR
+**********************
+
+Length: 25 residues - nb: 3  from  265 to 338 - Psim:0.8333333333333334 region Length:74 
+LKALTTLNLGGAKVTDAGVKELAG--
+LKALSTLNLGGTKVTDTGLKELAG-F
+-KALTTLDLSFTTLTDAGVKELAGLT
+**********************
+
+Length: 25 residues - nb: 3  from  306 to 385 - Psim:0.7291666666666666 region Length:80 
+GLKELAGFKALTTLDLSFTTLTDAGVKE-LA-
+GL---TALT---LLDLSGTTLTDAGVKELAP-
+-L---TNLT---MLYLGETGVTDAGLKELAGL
+**********************
+
+>uniprot|UPI00016C3F30|UPI00016C3F30 hypothetical protein [Gemmata obscuriglobus]
+Length: 24 residues - nb: 8  from  108 to 295 - Psim:0.71875 region Length:188 
+VTDAGLKELGRFKNLTVLGLGGTG
+VTDAGLRELGRFKNLTALGLSGTG
+VTDAGLKELAPLKNLTELGLGGTG
+VADVGLKELAPFKNLAKLDLYSTK
+VTDAGLKELGLLKNLTLLDLGRTQ
+VTDDGLRELTGLKALTTLILIGTG
+VTDAGLKELAGLTNLTRLNLYRTK
+VTDAGWKELKSA--LPKCEIS-K-
+**********************
+
+Length: 25 residues - nb: 4  from  108 to 205 - Psim:0.7980769230769231 region Length:98 
+VTDAGLKELGRFKNLTVLGLGGTG--
+VTDAGLRELGRFKNLTALGLSGTG--
+VTDAGLKELAPLKNLTELGLGGTG-V
+A-DVGLKELAPFKNLAKLDLYSTKVT
+**********************
+
+>uniprot|UPI00016C3F77|UPI00016C3F77 hypothetical protein [Gemmata obscuriglobus]
+Length: 20 residues - nb: 2  from  93 to 136 - Psim:0.75 region Length:44 
+LAPLKKLTTLQLTAAKVTDAGVKE
+LASLASLTTLDLASTNVTDA----
+**********************
+
+Length: 20 residues - nb: 4  from  171 to 258 - Psim:0.6979166666666666 region Length:88 
+-L--VT-LSLGSTAVTGASLKELA
+PLTNLKTLHLYDTKMTDAGLKELA
+PLTSLTTLTLAATKVTDAGLKGLT
+PLKNLSDLNLGGTKVTSAGL----
+**********************
+
+Length: 20 residues - nb: 2  from  187 to 230 - Psim:0.7916666666666666 region Length:44 
+KELAPLTNLKTLHLYDTKMTDAGL
+KELAPLTSLTTLTLAATKVT----
+**********************
+
+Length: 24 residues - nb: 7  from  93 to 260 - Psim:0.7619047619047619 region Length:168 
+LAPLKKLTTLQLTAAKVTDAGVKE
+LASLASLTTLDLASTNVTDAGVKE
+LAPLTRLTALDLSGTKVTDAGLKE
+LAPLKNLVTLSLGSTAVTGASLKE
+LAPLTNLKTLHLYDTKMTDAGLKE
+LAPLTSLTTLTLAATKVTDAGLKG
+LTPLKNLSDLNLGGTKVTSAGLKE
+**********************
+
+Length: 24 residues - nb: 6  from  187 to 320 - Psim:0.66 region Length:134 
+KELAPLTNLKTLHLYD-TKMTDAGL
+KELAPLTSLTTLTLAA-TKVTDAGL
+KGLTPLKNLSDLNLGG-TKVTSAGL
+KELAALKNLTVLDL-DVTAVTDAGL
+KELTPLTNLKVLRLVG-AKVTTKGV
+KEFKDAV-LKCI-VF---K------
+**********************
+
+>uniprot|UPI00016C426F|UPI00016C426F hypothetical protein [Gemmata obscuriglobus]
+Length: 3 residues - nb: 5  from  304 to 319 - Psim:0.65 region Length:16 
+-ADV
+-ADV
+VACR
+-ALA
+-ALA
+**********************
+
+Length: 7 residues - nb: 2  from  280 to 294 - Psim:0.75 region Length:15 
+GAGLRPFA
+GAGLTHL-
+**********************
+
+>uniprot|UPI00016C430D|UPI00016C430D TIGR02996 domain-containing protein [Gemmata obscuriglobus]
+Length: 5 residues - nb: 3  from  834 to 849 - Psim:0.7222222222222222 region Length:16 
+AARE-L
+AASEAL
+AALNA-
+**********************
+
+Length: 6 residues - nb: 3  from  834 to 850 - Psim:0.7777777777777778 region Length:17 
+AARE-L
+AASEAL
+AALNAL
+**********************
+
+>uniprot|UPI00016C465B|UPI00016C465B hypothetical protein [Gemmata obscuriglobus]
+Length: 24 residues - nb: 7  from  177 to 349 - Psim:0.7714285714285715 region Length:173 
+DTKVTDAGLKALAPLERLTNLYLYN-TEVT
+D-----TGLKELAPSKNLAVLLLYN-TKVT
+D-----AGLKELAPLKSLSVLVL-GETEVT
+D-----AGLKELAPLKNLTALNLYG-TKVT
+D-----AGVKELAPFQNLTLLDLSG-TNVT
+D-----AGIKELARFKNLAHLELSS-TAVT
+D-----VGLKELASLKKLTKLFLIS-TKTT
+**********************
+
+Length: 24 residues - nb: 4  from  252 to 347 - Psim:0.7708333333333334 region Length:96 
+VTDAGLKELAPLKNLTALNLYGTK
+VTDAGVKELAPFQNLTLLDLSGTN
+VTDAGIKELARFKNLAHLELSSTA
+VTDVGLKELASLKKLTKLFLISTK
+**********************
+
+Length: 26 residues - nb: 8  from  177 to 379 - Psim:0.652027027027027 region Length:203 
+--DTKVTDAGLKALAPLERLTN-LYLYNTE-VT----
+DTGLKEL--APS--KNL-AV--LLLYNTK-VTDA---
+--GLKEL--APL--KSL-SV--LVL-GETEVTDAG-L
+----KEL--APL--KNL-TA--LNLYGTK-VTDAGV-
+----KEL--APF--QNL-TL--LDLSGTN-VTDAGI-
+----KEL--ARF--KNL-AH--LELSSTA-VTDVGL-
+----KEL--ASL--KKL-TK--LFLISTK-TTFAGI-
+----KEFQKAAP--K--C--DVWNTLS-LKGQPALGK
+**********************
+
+>uniprot|UPI00016C4CBE|UPI00016C4CBE leucine-rich repeat domain protein [Gemmata obscuriglobus]
+Length: 5 residues - nb: 4  from  271 to 290 - Psim:0.65625 region Length:20 
+-G--TGVK
+-E-LAP--
+LERLRI--
+LE-LTG--
+**********************
+
+>uniprot|UPI00016C4FEA|UPI00016C4FEA hypothetical protein [Gemmata obscuriglobus]
+Length: 22 residues - nb: 3  from  7 to 72 - Psim:0.7444444444444445 region Length:66 
+GV-----KELAALNKGLTTLNLRRTRVTDV
+GV-----KELAAL-KALTNLDLGGT-----
+GVTDAGVKELSGL-KGLTRLEL--R-----
+**********************
+
+Length: 24 residues - nb: 4  from  7 to 98 - Psim:0.7857142857142857 region Length:92 
+-----GV-----KELAALNKGLTTLNLRRTRVTDV
+-----GV-----KELAAL-KALTNLDLGGT-----
+-----GVTDAGVKELSGL-KGLTRLELRST-----
+KITDAGV-----KELAAL-KNLNHLDLGGT-----
+**********************
+
+>uniprot|UPI00016C59D3|UPI00016C59D3 hypothetical protein [Gemmata obscuriglobus]
+Length: 22 residues - nb: 2  from  235 to 280 - Psim:0.8333333333333334 region Length:46 
+LAALDKLTTLHLEKTQVTDAGVKS
+LASLKKLKVLHLTSTQVTDAGV--
+**********************
+
+Length: 24 residues - nb: 2  from  235 to 282 - Psim:0.8541666666666666 region Length:48 
+LAALDKLTTLHLEKTQVTDAGVKS
+LASLKKLKVLHLTSTQVTDAGVKT
+**********************
+
+>uniprot|UPI000299D967|UPI000299D967 ribonuclease inhibitor [Schlesneria paludicola]
+Length: 5 residues - nb: 3  from  229 to 244 - Psim:0.6666666666666666 region Length:16 
+SLKDCQ
+SL-TFL
+SL-DGI
+**********************
+
+Length: 13 residues - nb: 3  from  236 to 274 - Psim:0.6666666666666666 region Length:39 
+LT--FL-SL-D-GIP----
+LTGSFL-KE-LKGIP-LEY
+LT--LANSKC-DGTTF---
+**********************
+
+>uniprot|UPI00029A7FE0|UPI00029A7FE0 hypothetical protein [Schlesneria paludicola]
+Length: 5 residues - nb: 3  from  167 to 182 - Psim:0.7222222222222222 region Length:16 
+LSVLEN
+LSTI-N
+LSTT-K
+**********************
+
+Length: 6 residues - nb: 3  from  167 to 183 - Psim:0.7142857142857143 region Length:17 
+LSVLEN-
+LSTI-N-
+LSTT-KI
+**********************
+
+Length: 8 residues - nb: 2  from  379 to 392 - Psim:0.75 region Length:14 
+GLKSL--L
+GLEHLQSL
+**********************
+
+>uniprot|UPI00029AC357|UPI00029AC357 leucine-rich repeat-containing protein [Schlesneria paludicola]
+Length: 3 residues - nb: 5  from  150 to 163 - Psim:0.68 region Length:14 
+--LN-
+--LND
+TQIN-
+-GL--
+-GLV-
+**********************
+
+Length: 5 residues - nb: 3  from  69 to 84 - Psim:0.6666666666666666 region Length:16 
+LTAFPA
+LTTL-A
+LTDSP-
+**********************
+
+>uniprot|UPI00029B3302|UPI00029B3302 hypothetical protein [Schlesneria paludicola]
+Length: 3 residues - nb: 5  from  37 to 50 - Psim:0.68 region Length:14 
+--SR-
+--SRG
+VVMR-
+--LS-
+-LSL-
+**********************
+
+>uniprot|UPI00029B4BC7|UPI00029B4BC7 hypothetical protein [Schlesneria paludicola]
+Length: 3 residues - nb: 5  from  362 to 375 - Psim:0.7 region Length:14 
+-LRS
+-LRE
+-LK-
+RLR-
+RLT-
+**********************
+
+>uniprot|UPI0002E0CD3A|UPI0002E0CD3A hypothetical protein [Zavarzinella formosa]
+Length: 8 residues - nb: 4  from  546 to 578 - Psim:0.6818181818181818 region Length:33 
+PK-TPPAEPVP
+PK-TT-S--T-
+PK-TP-ADPNP
+PKLTP--EAI-
+**********************
+
+>uniprot|UPI0002EB6544|UPI0002EB6544 hypothetical protein [Zavarzinella formosa]
+Length: 24 residues - nb: 3  from  180 to 253 - Psim:0.7333333333333333 region Length:74 
+DAGLKELHGLTRLVSLDLGSAKNIT
+DAGLKSLREMTRLASLDLSSTKNIT
+DAGLKEIGALSKLRRLDLVNLP-VT
+**********************
+
+>uniprot|UPI0002F75FC0|UPI0002F75FC0 hypothetical protein [Zavarzinella formosa]
+Length: 23 residues - nb: 4  from  54 to 145 - Psim:0.8043478260869565 region Length:92 
+NNQLTALPREIGQLVQLTELHLF
+NNQLTALSREIGQLVRLKSLHLS
+NNQLTTLPGGFGQLVQLRWLGLA
+YNQLTALPVEFGQLVQLTELDIA
+**********************
+
+Length: 23 residues - nb: 6  from  110 to 247 - Psim:0.7608695652173914 region Length:138 
+FGQLVQLRWLGLAYNQLTALPVE
+FGQLVQLTELDIAFNQLTALPVE
+FGQLVQLKFLGFSGNQLTALPVE
+FGQLVQLTSLYLAYNQLTALPVE
+FGQLVRLKSLHLSNNQLITLPGE
+FGQTRNLVELDLQHNRLSSLPLS
+**********************
+
+Length: 23 residues - nb: 5  from  137 to 251 - Psim:0.7130434782608696 region Length:115 
+VQLTELDIAFNQLTALPVEFGQL
+VQLKFLGFSGNQLTALPVEFGQL
+VQLTSLYLAYNQLTALPVEFGQL
+VRLKSLHLSNNQLITLPGEFGQT
+RNLVELDLQHNRLSSLPLSLGLC
+**********************
+
+>uniprot|UPI00030168EE|UPI00030168EE hypothetical protein [Gemmata obscuriglobus]
+Length: 7 residues - nb: 2  from  20 to 33 - Psim:0.875 region Length:14 
+PA-VPGGD
+PAAVPG-D
+**********************
+
+Length: 8 residues - nb: 3  from  20 to 43 - Psim:0.6666666666666666 region Length:24 
+PA-VPG-GD
+PAAVPGDAT
+PAA-PAPHR
+**********************
+
+Length: 9 residues - nb: 3  from  20 to 44 - Psim:0.6666666666666666 region Length:25 
+PA-VPG--GD
+PAAVPGD-AT
+PAA-PAPHRR
+**********************
+
+Length: 10 residues - nb: 2  from  21 to 38 - Psim:0.8 region Length:18 
+AVPG-GDPA-
+AVPGDATPAA
+**********************
+
+Length: 24 residues - nb: 4  from  290 to 393 - Psim:0.6796875 region Length:104 
+DLDLSYTKAGDGGVTALAAAPNRLTSVSLEKT
+-------RVGDEGAKALAAAPGLTRLNLG-YT
+-------RVGDDGVSALAAAPNLTGLTLV-AT
+-------RVTDDGVRSLFACRKLAYVELR-ET
+**********************
+
+>uniprot|UPI00030C8F33|UPI00030C8F33 hypothetical protein [Zavarzinella formosa]
+Length: 7 residues - nb: 2  from  21 to 34 - Psim:0.8125 region Length:14 
+PAAP-KPR
+PA-PGKPL
+**********************
+
+Length: 8 residues - nb: 2  from  310 to 323 - Psim:0.8125 region Length:14 
+GLKELR--
+GLKKLREL
+**********************
+
+Length: 19 residues - nb: 4  from  331 to 414 - Psim:0.6774193548387096 region Length:84 
+-----TDAGLKEIKDMKTLVNLTL-SEHV--
+-----TDAGLKEIKNLANLGHL-V-V-----
+SHAMVTDAGLKELKSLANLNH----------
+-----LELSDCELTD-AGIGEL-YGL---KK
+**********************
+
+Length: 24 residues - nb: 3  from  344 to 417 - Psim:0.7051282051282052 region Length:74 
+LVNLTLSEHVTDAGLKEIKNLANLGH
+LV-VSHAMV-TDAGLKELKSLANLNH
+LE-LSDCEL-TDAGIGELYGLKKLEY
+**********************
+
+>uniprot|UPI00035CED0F|UPI00035CED0F hypothetical protein [Zavarzinella formosa]
+Length: 5 residues - nb: 3  from  303 to 317 - Psim:0.6666666666666666 region Length:15 
+VT-LG-
+VTEAAG
+VTHLF-
+**********************
+
+Length: 5 residues - nb: 3  from  836 to 851 - Psim:0.6666666666666666 region Length:16 
+-TGLAEL
+-TGLNR-
+LTKLG--
+**********************
+
+Length: 7 residues - nb: 4  from  836 to 861 - Psim:0.65625 region Length:26 
+T-GLAEL-
+T-GLNRLT
+KLGLTK--
+AKGVNEL-
+**********************
+
+>uniprot|UPI000364590C|UPI000364590C hypothetical protein [Zavarzinella formosa]
+Length: 24 residues - nb: 3  from  114 to 190 - Psim:0.7126436781609196 region Length:77 
+KDAHLKELVRFKNLRSLNFFNTQVTDAGL
+KD--LAALDK-IQ-SL-NFGSTQVTDAGL
+KE--LAGLKT-LQ-KL-HLSSTQVSDAGL
+**********************
+
+>uniprot|UPI000366197F|UPI000366197F hypothetical protein [Zavarzinella formosa]
+Length: 6 residues - nb: 3  from  482 to 499 - Psim:0.7142857142857143 region Length:18 
+LKTLDG-
+LKTLAS-
+LQIL-GL
+**********************
+
+>uniprot|UPI00082DF28F|UPI00082DF28F adenylate cyclase [Roseimaritima ulvae]
+Length: 8 residues - nb: 2  from  22 to 39 - Psim:0.7 region Length:18 
+QPAGSSTPAP
+QPEPPK-PA-
+**********************
+
+>uniprot|A0A1C3EIS9|A0A1C3EIS9_9PLAN Uncharacterized protein [Planctopirus sp. JC280]
+Length: 24 residues - nb: 4  from  554 to 646 - Psim:0.7222222222222222 region Length:93 
+LK---DFKRIASLNLRGTQVTDVGLNE
+LK---EFKNLTSLDLSSTQVTDAGLNE
+LK---AFKSLTSLDLRGTMVTSAG---
+LKNLMEFRELTTLDLSNEQFTDQA---
+**********************
+
+Length: 24 residues - nb: 5  from  678 to 797 - Psim:0.8583333333333333 region Length:120 
+SLDLSFRQVTDAGLKELKDLKQLT
+SLNLSNTQVTDTGLKELKDLKQLT
+SLNLSNTQVTDTGLKELKDLKQLT
+SLNLSNTQVTDTGLKELKDLQQLT
+SLGVAGTNVTDSGLKMLRTLENLS
+**********************
+
+Length: 24 residues - nb: 3  from  705 to 776 - Psim:0.9722222222222222 region Length:72 
+LSNTQVTDTGLKELKDLKQLTSLN
+LSNTQVTDTGLKELKDLKQLTSLN
+LSNTQVTDTGLKELKDLQQLTSLG
+**********************
+
+Length: 24 residues - nb: 2  from  732 to 779 - Psim:0.8958333333333334 region Length:48 
+TQVTDTGLKELKDLKQLTSLNLSN
+TQVTDTGLKELKDLQQLTSLGVAG
+**********************
+
+>uniprot|D2QZJ6|D2QZJ6_PIRSD Serine/threonine protein kinase [Pirellula staleyi DSM 6068]
+Length: 3 residues - nb: 5  from  1262 to 1277 - Psim:0.65 region Length:16 
+LAN-
+LAI-
+TDDG
+LAK-
+LAE-
+**********************
+
+Length: 5 residues - nb: 3  from  507 to 520 - Psim:0.7333333333333333 region Length:14 
+VAIG-
+VAIAA
+VLVAA
+**********************
+
+Length: 5 residues - nb: 3  from  714 to 729 - Psim:0.8333333333333334 region Length:16 
+SLAKLK
+SLAKL-
+SLART-
+**********************
+
+Length: 6 residues - nb: 3  from  714 to 730 - Psim:0.7777777777777778 region Length:17 
+SLAKLK
+SLAKL-
+SLARTA
+**********************
+
+Length: 8 residues - nb: 2  from  714 to 727 - Psim:0.8125 region Length:14 
+SLAKLK--
+SLAKLSLA
+**********************
+
+Length: 8 residues - nb: 2  from  1473 to 1486 - Psim:0.875 region Length:14 
+FAPGGS--
+FAPGGSPG
+**********************
+
+>uniprot|A0A142YB11|A0A142YB11_9PLAN Internalin-A [Planctomyces sp. SH-PL62]
+Length: 5 residues - nb: 3  from  301 to 314 - Psim:0.6666666666666666 region Length:14 
+TAPAA
+TA-RK
+TAKAT
+**********************
+
+>uniprot|UPI000A2F7656|UPI000A2F7656 TIGR02996 domain-containing protein [Gemmata obscuriglobus]
+Length: 6 residues - nb: 3  from  296 to 313 - Psim:0.7083333333333334 region Length:18 
+SAA-LTNL
+SA--L-NV
+SATQLT--
+**********************
+
+Length: 7 residues - nb: 3  from  284 to 303 - Psim:0.6666666666666666 region Length:20 
+AA-LSDAD
+AAFLS-S-
+AA-LTNLS
+**********************
+
+>uniprot|UPI000B4ABAB9|UPI000B4ABAB9 hypothetical protein [Fimbriiglobus ruber]
+Length: 5 residues - nb: 3  from  701 to 716 - Psim:0.6666666666666666 region Length:16 
+LTRLNR
+LTTLV-
+LTPKT-
+**********************
+
+>uniprot|UPI000B4B01FE|UPI000B4B01FE hypothetical protein [Fimbriiglobus ruber]
+Length: 5 residues - nb: 3  from  397 to 412 - Psim:0.6666666666666666 region Length:16 
+LSGSTQ
+LS-DLD
+LS-SAA
+**********************
+
+Length: 21 residues - nb: 3  from  1369 to 1437 - Psim:0.7083333333333334 region Length:69 
+VTGTGLRELAGRENLTILDLSRTS
+VTDTGLRELMGLKNLKRLDLSETK
+VTDAGLKTLQGLSQLEYLGL-H--
+**********************
+
+>uniprot|A0A225DZI9|A0A225DZI9_9BACT HtrA protease/chaperone protein [Fimbriiglobus ruber]
+Length: 9 residues - nb: 3  from  240 to 270 - Psim:0.7692307692307693 region Length:31 
+SE--LSALTTLDL
+SETGVSDVGPL--
+SE--LSALTTL--
+**********************
+
+Length: 23 residues - nb: 23  from  102 to 624 - Psim:0.8083735909822867 region Length:523 
+PL-SELTALTTLD-LS-E-TGVSDVG-
+PL-SELSALTTLN-LY-ECRGVSDVG-
+PL-AELTALTTLD-LS--YTGVSDVG-
+PL-AELSALTTLN-LS-GCTGVSDVG-
+PL-AELTALTTLN-LS-WCTGVSDVG-
+PL-SELSALTTLN-LS-GCTGVSDVG-
+PL-SELSALTTLD-LS-E-TGVSDVG-
+PL-SELSALTTLD-LS-GCTGVSDVG-
+PL-SELTALTTLD-LS-RCTGVSDVG-
+PL-SELSALTTLN-LS-GCTGVSDVG-
+PL-SALTALTTLD-LS-GCTGVSDIG-
+PL-SELSALTTLN-LS-RCEGVSDVG-
+PL-SELTALTTLI-LS-GCTDVSDVG-
+PL-SDLTALITLD-LS-WCTGVSDVG-
+PL-SELSALTTLD-LS-WCTGVSDVG-
+PL-SELSALTTLN-LS-RCEGVSDVG-
+PL-SELTALTTLN-LS-GCTGVSDVG-
+PL-SELTALTTLN-LS-RCEGVSDVG-
+PL-SALTALTTLD-LS-GCTGVSDIG-
+PL-SELTTLTTLD-LS-RCSNLY-FGR
+-I-QKL--LPRLNDLK--LYQ-ADCT-
+DLPAAICGEESYENVLSAVRAYFD---
+DLGADPKGDAELK-VF--LLGNGRVG-
+**********************
+
+Length: 23 residues - nb: 3  from  131 to 196 - Psim:0.8472222222222222 region Length:66 
+---LTTLNLYECRGVSDVGPLAE-
+LTALTTLDLS-YTGVSDVGPLAEL
+-SALTTLNLSGCTGVSDVGPLAEL
+**********************
+
+Length: 23 residues - nb: 18  from  155 to 563 - Psim:0.8739316239316239 region Length:409 
+TTL---DLS-YTGVSDVGPLAELSAL
+TTL---NLSGCTGVSDVGPLAELTAL
+TTL---NLSWCTGVSDVGPLSELSAL
+TTL---NLSGCTGVSDVGPLSELSAL
+TTL---DLSE-TGVSDVGPLSELSAL
+TTL---DLSGCTGVSDVGPLSELTAL
+TTL---DLSRCTGVSDVGPLSELSAL
+TTL---NLSGCTGVSDVGPLSALTAL
+TTL---DLSGCTGVSDIGPLSELSAL
+TTL---NLSRCEGVSDVGPLSELTAL
+TTL---ILSGCTDVSDVGPLSDLTAL
+ITL---DLSWCTGVSDVGPLSELSAL
+TTL---DLSWCTGVSDVGPLSELSAL
+TTL---NLSRCEGVSDVGPLSELTAL
+TTL---NLSGCTGVSDVGPLSELTAL
+TTL---NLSRCEGVSDVGPLSALTAL
+TTL---DLSGCTGVSDIGPLSEL---
+TTLTTLDLSRCSNLY-FGRIQKL--L
+**********************
+
+Length: 23 residues - nb: 6  from  135 to 271 - Psim:0.8888888888888888 region Length:137 
+NLYECRGVSDVGPLAELTALTTL-
+DLS-YTGVSDVGPLAELSALTTL-
+NLSGCTGVSDVGPLAELTALTTL-
+NLSWCTGVSDVGPLSELSALTTL-
+NLSGCTGVSDVGPLSELSALTTL-
+DLSE-TGVSDVGPLSELSALTTLD
+**********************
+
+Length: 23 residues - nb: 18  from  209 to 624 - Psim:0.7969348659003831 region Length:416 
+GV-SDVG-PLSEL-SALTTLNLS-GCT--
+GV-SDVG-PLSEL-SALTTLDLS-E-T--
+GV-SDVG-PLSEL-SALTTLDLS-GCT--
+GV-SDVG-PLSEL-TALTTLDLS-RCT--
+GV-SDVG-PLSEL-SALTTLNLS-GCT--
+GV-SDVG-PLSAL-TALTTLDLS-GCT--
+GV-SDIG-PLSEL-SALTTLNLS-RCE--
+GV-SDVG-PLSEL-TALTTLILS-GCT--
+DV-SDVG-PLSDL-TALITLDLS-WCT--
+GV-SDVG-PLSEL-SALTTLDLS-WCT--
+GV-SDVG-PLSEL-SALTTLNLS-RCE--
+GV-SDVG-PLSEL-TALTTLNLS-GCT--
+GV-SDVG-PLSEL-TALTTLNLS-RCE--
+GV-SDVG-PLSAL-TALTTLDLS-GCT--
+GV-SDIG-PLSEL-TTLTTLDLS-RCS--
+NL-Y-FG-RIQKLLPRLNDLKLYQADCT-
+DLPAAICGEESYE-NVLSAVR--AY-FD-
+DLGADPKGD-AE-LKVFL-LG--NGR-VG
+**********************
+
+Length: 23 residues - nb: 17  from  235 to 624 - Psim:0.7581699346405228 region Length:390 
+----DVG-PLSEL-SA-LTTLDLSETGV---S----
+----DVG-PLSEL-SA-LTTLDLS--GC---TGVS-
+----DVG-PLSEL-TA-LTTLDLS--RC---TGVS-
+----DVG-PLSEL-SA-LTTLNLS--GC---TGVS-
+----DVG-PLSAL-TA-LTTLDLS--GC---TGVS-
+----DIG-PLSEL-SA-LTTLNLS--RCEGVS----
+----DVG-PLSEL-TA-LTTLILS--GC---T----
+DV-SDVG-PLSDL-TA-LITLDLS--WC---T----
+GV-SDVG-PLSEL-SA-LTTLDLS--WC---T----
+GV-SDVG-PLSEL-SA-LTTLNLS--RC---E----
+GV-SDVG-PLSEL-TA-LTTLNLS--GC---T----
+GV-SDVG-PLSEL-TA-LTTLNLS--RC---E----
+GV-SDVG-PLSAL-TA-LTTLDLS--GC---T----
+GV-SDIG-PLSEL-TT-LTTLDLS--RC---S----
+NL-Y-FG-RIQKL-LPRLNDLKLY-QA---D--CT-
+DLPAAICGEESYE--NVLSAVR---A---Y---FD-
+DLGADPKGD-AE-LK-VFL-LG---NG---R---VG
+**********************
+
+Length: 23 residues - nb: 16  from  260 to 624 - Psim:0.7857142857142857 region Length:365 
+PL-SELSALTTL-DL--SGCTGVSDVG-
+PL-SELTALTTL-DL--SRCTGVSDVG-
+PL-SELSALTTL-NL--SGCTGVSDVG-
+PL-SALTALTTL-DL--SGCTGVSDIG-
+PL-SELSALTTL-NL--SRCEGVSDVG-
+PL-SELTALTTL-IL--SGCTDVSDVG-
+PL-SDLTALITL-DL--SWCTGVSDVG-
+PL-SELSALTTL-DL--SWCTGVSDVG-
+PL-SELSALTTL-NL--SRCEGVSDVG-
+PL-SELTALTTL-NL--SGCTGVSDVG-
+PL-SELTALTTL-NL--SRCEGVSDVG-
+PL-SALTALTTL-DL--SGCTGVSDIG-
+PL-SELTTLTTL-DL--SRCSNLY-FGR
+-I-QKL--LPRLNDL---KLYQ-ADCT-
+DLPAAICGEESY-ENVLSAVRAYFD---
+DLGADPKGDAEL-KV--F-LLGNGRVG-
+**********************
+
+Length: 23 residues - nb: 4  from  289 to 377 - Psim:0.8275862068965517 region Length:89 
+---ALT--TLD-LSRCTGVSDVGPLSELS
+---ALT--TLN-LSGCTGVSDVGPLS---
+---ALTALTTLDLSGCTGVSDIGP---LS
+ELSALT--TLN-LSRCEGVSDVGPLS---
+**********************
+
+Length: 23 residues - nb: 11  from  315 to 564 - Psim:0.8461538461538461 region Length:250 
+TL---NLSGCTGVSDVGPLSALTALT
+TL---DLSGCTGVSDIGPLSELSALT
+TL---NLSRCEGVSDVGPLSELTALT
+TL---ILSGCTDVSDVGPLSDLTALI
+TL---DLSWCTGVSDVGPLSELSALT
+TL---DLSWCTGVSDVGPLSELSALT
+TL---NLSRCEGVSDVGPLSELTALT
+TL---NLSGCTGVSDVGPLSELTALT
+TL---NLSRCEGVSDVGPLSALTALT
+TL---DLSGCTGVSDIGPLSELT---
+TLTTLDLSRCSNLY-FGRIQKL--LP
+**********************
+
+Length: 23 residues - nb: 12  from  348 to 624 - Psim:0.7575757575757576 region Length:277 
+SDIG--PLSELSA-LTTL-NL-S-R-CE-GV--
+SDVG--PLSELTA-LTTL-IL-S-G-CT-DV--
+SDVG--PLSDLTA-LITL-DL-S-W-CT-GV--
+SDVG--PLSELSA-LTTL-DL-S-W-CT-GV--
+SDVG--PLSELSA-LTTL-NL-S-R-CE-GV--
+SDVG--PLSELTA-LTTL-NL-S-G-CT-GV--
+SDVG--PLSELTA-LTTL-NL-S-R-CE-GV--
+SDVG--PLSALTA-LTTL-DL-S-G-CT-GV--
+SDIG--PLSELTT-LTTL-DL-S-R-CS-NL--
+Y-FG--RIQKLLPRLNDL-KL-YQ-ADCT----
+-DL---PAA-ICG-EESYENVL-S-AV-RAYFD
+-DLGADPKGD-AE-LKVF-LL-G-NG-RVG---
+**********************
+
+Length: 23 residues - nb: 11  from  374 to 624 - Psim:0.7243401759530792 region Length:251 
+--G-PL--SELTALTTLI-LS-GCTDVSDV-
+--G-PL--SDLTALITLD-LS-WCTGVSDV-
+--G-PL--SELSALTTLD-LS-WCTGVSDV-
+--G-PL--SELSALTTLN-LS-RCEGVSDV-
+--G-PL--SELTALTTLN-LS-GCTGVSDV-
+--G-PL--SELTALTTLN-LS-RCEGVSDV-
+--G-PL--SALTALTTLD-LS-GCTGVSDI-
+--G-PL--SELTTLTTLD-LS-RCSNLYFG-
+--R--I--QKL--LPRLNDLK--LYQ-ADCT
+--DLPA--A-ICGEESYENVLSAVRAYF-D-
+DLG-ADPKGD-AELKV-F--LLG-NGRVG--
+**********************
+
+Length: 23 residues - nb: 6  from  404 to 538 - Psim:0.8525641025641025 region Length:135 
+ALI--TLD-LSWCTGVSDVGPLSELS
+ALT--TLD-LSWCTGVSDVGPLSELS
+ALT--TLN-LSRCEGVSDVGPLSELT
+ALT--TLN-LSGCTGVSDVGPLSELT
+ALT--TLN-LSRCEGVSDVGPLS---
+ALTALTTLDLSGCTGVSDIGPLS---
+**********************
+
+Length: 23 residues - nb: 6  from  430 to 564 - Psim:0.8076923076923077 region Length:135 
+TL---DLSWCTGVSDVGPLSELSALT
+TL---NLSRCEGVSDVGPLSELTALT
+TL---NLSGCTGVSDVGPLSELTALT
+TL---NLSRCEGVSDVGPLSALTALT
+TL---DLSGCTGVSDIGPLSELT---
+TLTTLDLSRCSNLY-FGRIQKL--LP
+**********************
+
+Length: 23 residues - nb: 6  from  461 to 601 - Psim:0.6666666666666666 region Length:141 
+GV-SDVG-PLSELTA-LTTLNLS-GCT-
+GV-SDVG-PLSELTA-LTTLNLS-RCE-
+GV-SDVG-PLSALTA-LTTLDLS-GCT-
+GV-SDIG-PLSELTT-LTTLDLS-RCS-
+NL-Y-FG-RIQKLLPRLNDLKLYQADCT
+DLPAAICGEESYE-NVLSAVR--AY-FD
+**********************
+
+Length: 23 residues - nb: 3  from  487 to 555 - Psim:0.855072463768116 region Length:69 
+DVGPLSELTALTTLNLSRCEGVS
+DVGPLSALTALTTLDLSGCTGVS
+DIGPLSELTTLTTLDLSRCSNLY
+**********************
+
+>uniprot|UPI000B4B3B98|UPI000B4B3B98 hypothetical protein [Fimbriiglobus ruber]
+Length: 3 residues - nb: 5  from  122 to 135 - Psim:0.65 region Length:14 
+-LAR
+-LAA
+-LP-
+KLS-
+KLI-
+**********************
+
+>uniprot|A0A225D4N2|A0A225D4N2_9BACT Alanyl-tRNA synthetase [Fimbriiglobus ruber]
+Length: 24 residues - nb: 4  from  248 to 339 - Psim:0.6666666666666666 region Length:92 
+LAADK--E--IKEIASLKQLASLN
+LSGTPLTDAGLRELVAIKSLRALD
+LSGTKVTDAGVKELVALNHLRTLD
+LSGTRVTEAGVMGLAALKELHTLN
+**********************
+
+Length: 24 residues - nb: 3  from  502 to 573 - Psim:0.76 region Length:72 
+GLRSLNFENCQVTDAGVMKL-VSLK
+GLRSLSLNSCNVTDAGVNDL-VTLK
+GLRSLNLSGTKLTKAGVKKLRESL-
+**********************
+
+>uniprot|UPI000BAE029D|UPI000BAE029D hypothetical protein [Rhodopirellula sp. SM50]
+Length: 5 residues - nb: 3  from  21 to 35 - Psim:0.8666666666666667 region Length:15 
+SARES
+SARES
+SARQV
+**********************
+

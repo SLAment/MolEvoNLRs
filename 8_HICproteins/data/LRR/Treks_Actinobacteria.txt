@@ -1,0 +1,3411 @@
+PHYLUM:ACTINOBACTERIA
+
+>uniprot|A0A1C4H6I2|A0A1C4H6I2_9BIFI Leucine Rich repeat-containing protein [Bifidobacterium commune]
+Length: 8 residues - nb: 3  from  706 to 731 - Psim:0.7333333333333333 region Length:26 
+PDGPGGGSNG
+PDGPK--ENG
+KDEPK--NDG
+**********************
+
+>uniprot|A0A1H6F1M3|A0A1H6F1M3_9ACTN Repeat-companion domain-containing protein [Nonomuraea solani]
+Length: 3 residues - nb: 4  from  63 to 76 - Psim:0.65 region Length:14 
+RL-EQ
+RL-A-
+RT-R-
+PADR-
+**********************
+
+Length: 5 residues - nb: 3  from  204 to 218 - Psim:0.6666666666666666 region Length:15 
+LRADR
+LRTLE
+LRYCR
+**********************
+
+>uniprot|A0A1M4DYV4|A0A1M4DYV4_9ACTN Uncharacterized protein [Nonomuraea gerenzanensis]
+Length: 5 residues - nb: 3  from  94 to 110 - Psim:0.7222222222222222 region Length:17 
+LTGLRH
+LTMLES
+LT-LDH
+**********************
+
+Length: 11 residues - nb: 2  from  292 to 315 - Psim:0.6923076923076923 region Length:24 
+PAALPDLRPLSRL
+PA-LRRLS-IDRD
+**********************
+
+>uniprot|A0A1M4EJT7|A0A1M4EJT7_9ACTN Small GTP-binding protein [Nonomuraea gerenzanensis]
+Length: 5 residues - nb: 5  from  256 to 281 - Psim:0.725 region Length:26 
+LRE-LP--
+-GD-LPAG
+LRQ-LD--
+LRNNL---
+LRT-LP--
+**********************
+
+Length: 9 residues - nb: 2  from  245 to 263 - Psim:0.7727272727272727 region Length:19 
+RLRELHLQGN-
+RLREL--PGDL
+**********************
+
+Length: 21 residues - nb: 3  from  264 to 322 - Psim:0.7466666666666667 region Length:59 
+PAGLR---QLDLRNNLLRTLPERL-
+PAGLK---QLDLRNNRLR---EL--
+PADLPDLDKLDLRWNKLD---GE-P
+**********************
+
+>uniprot|A0A2G7DIZ2|A0A2G7DIZ2_9ACTN Leucine Rich Repeat (LRR) protein [Streptomyces sp. 1]
+Length: 20 residues - nb: 3  from  122 to 184 - Psim:0.7037037037037037 region Length:63 
+ELR-AQ---NCRLTALPNTLGSLPRLR
+ELR-LR--GNA-LTALPDSLGSLP---
+ELRCLELRDN-ALTTLPRAL-A-----
+**********************
+
+>uniprot|A0A2G5IR24|A0A2G5IR24_9ACTN Ribonuclease inhibitor [Streptomyces sp. HG99]
+Length: 5 residues - nb: 3  from  81 to 97 - Psim:0.6666666666666666 region Length:17 
+SERYSA
+SEGVAG
+SEGPS-
+**********************
+
+>uniprot|A0A0B2B181|A0A0B2B181_9ACTN Protein kinase [Mumia flava]
+Length: 3 residues - nb: 5  from  48 to 63 - Psim:0.65 region Length:16 
+A-LS
+A-LP
+DDLP
+R-LH
+R-LR
+**********************
+
+Length: 5 residues - nb: 3  from  7 to 22 - Psim:0.6666666666666666 region Length:16 
+QLQ-AG
+QLAGAR
+QLKLA-
+**********************
+
+>uniprot|A0A2D9X515|A0A2D9X515_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 6 residues - nb: 3  from  70 to 87 - Psim:0.6666666666666666 region Length:18 
+DKLNLT
+DKKLLT
+IPLALF
+**********************
+
+>uniprot|A0A2E4AXM4|A0A2E4AXM4_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 19 residues - nb: 4  from  143 to 221 - Psim:0.7419354838709677 region Length:79 
+N------IT---DDGLRHLTNATTIRLSNSY
+N------IT---DNGLAHLKNATVIKLS---
+N------ITGITDDGLAYLTN--IERI----
+NLEGCFSIT---DDGLRHLKNA---------
+**********************
+
+Length: 19 residues - nb: 2  from  203 to 243 - Psim:0.8409090909090909 region Length:41 
+NLEGCFSITDDGLRHLKNATKV
+NLAECNNITDDGLRHLKN-T--
+**********************
+
+Length: 19 residues - nb: 8  from  254 to 425 - Psim:0.6647727272727273 region Length:172 
+ITDDGLRHLSHVKDINLEGCDN
+ITNDGLRHLKNATTINLSGCHN
+ITDDGLVHLANVETVKLRFC-D
+ITDDGLRHLKNAIRVNLSDCYE
+ITDDGLAYLTHVTTINLTHCFD
+ITDDGMHYLANATMVNLSGCKN
+ITDNGLRYLSHVKNINVGYCDN
+ITNDGLRHLTNATVANLQ---S
+**********************
+
+Length: 19 residues - nb: 2  from  404 to 444 - Psim:0.7727272727272727 region Length:41 
+CDNITNDGLRHLTNATVANLQS
+CDNISDDGLRHLTR--VERI-N
+**********************
+
+Length: 20 residues - nb: 4  from  119 to 203 - Psim:0.7314814814814815 region Length:85 
+NIT---NDGLRYLKNATTIDLEHMNHQ
+NIT---DDGLRHLTNATTIRLSN-SY-
+NIT---DNGLAHLKNATVIKLS-----
+NITGITDDGLAYLTNIE--RI-N----
+**********************
+
+Length: 20 residues - nb: 13  from  148 to 426 - Psim:0.6627218934911243 region Length:279 
+----GLRHLTNATTIRLSNSYNITDN
+----GLAHLKNATVIKLSNITGITDD
+----GLAYLTNIERINLEGCFSITDD
+----GLRHLKNATKVNLAECNNITDD
+----GLRHLKNTTILKLCNCEDITDD
+----GLRHLSHVKDINLEGCDNITND
+----GLRHLKNATTINLSGCHNITDD
+----GLVHLANVETVKLRFC-DITDD
+----GLRHLKNAIRVNLSDCYEITDD
+----GLAYLTHVTTINLTHCFDIT--
+--DDGMHYLANATMVNLSGCKN----
+ITDNGLRYLSHVKNINV-G-Y-C-DN
+ITNDGLRHLTNATVANLQSC------
+**********************
+
+Length: 20 residues - nb: 3  from  203 to 264 - Psim:0.75 region Length:62 
+--NLEGCFSITDDGLRHLKNATKV
+--NLAECNNITDDGLRHLKNTT--
+ILKLCNCEDITDDGLRHLSH----
+**********************
+
+Length: 20 residues - nb: 8  from  254 to 426 - Psim:0.6704545454545454 region Length:173 
+ITDDGLRHLSHVKDINLEGCDN
+ITNDGLRHLKNATTINLSGCHN
+ITDDGLVHLANVETVKLRFC-D
+ITDDGLRHLKNAIRVNLSDCYE
+ITDDGLAYLTHVTTINLTHCFD
+ITDDGMHYLANATMVNLSGCKN
+ITDNGLRYLSHVKNINVGYCDN
+ITNDGLRHLTNATVANLQSC--
+**********************
+
+Length: 20 residues - nb: 2  from  404 to 445 - Psim:0.7954545454545454 region Length:42 
+CDNITNDGLRHLTNATVANLQS
+CDNISDDGLRHLTRVERINL--
+**********************
+
+Length: 22 residues - nb: 6  from  203 to 334 - Psim:0.7391304347826086 region Length:132 
+NLEGCFSITDDGLRHLKNATKV-
+NLAECNNITDDGLRHLKNTTIL-
+KLCNCEDITDDGLRHLSHVKDI-
+NLEGCDNITNDGLRHLKNATTI-
+NLSGCHNITDDGLVHLANVETV-
+KLRFC-DITDDGLRHLKNAIRVN
+**********************
+
+Length: 22 residues - nb: 11  from  254 to 491 - Psim:0.6652892561983471 region Length:238 
+ITDDGLRHLSHVKDINLEGCDN
+ITNDGLRHLKNATTINLSGCHN
+ITDDGLVHLANVETVKLRFC-D
+ITDDGLRHLKNAIRVNLSDCYE
+ITDDGLAYLTHVTTINLTHCFD
+ITDDGMHYLANATMVNLSGCKN
+ITDNGLRYLSHVKNINVGYCDN
+ITNDGLRHLTNATVANLQSCDN
+ISDDGLRHLTRVERINLSGCKN
+ITNDGLRNLKNASIIRLARCPN
+ITNEGLRHLTNSTTI-YT-II-
+**********************
+
+>uniprot|S2XQ14|S2XQ14_9ACTN Uncharacterized protein [Streptomyces sp. HGB0020]
+Length: 4 residues - nb: 4  from  37 to 54 - Psim:0.75 region Length:18 
+AAL-EL
+AARYE-
+AAS-E-
+YSS-E-
+**********************
+
+Length: 5 residues - nb: 3  from  37 to 51 - Psim:0.7222222222222222 region Length:15 
+AA-LEL
+AARYE-
+AA-SEY
+**********************
+
+>uniprot|B5GV86|B5GV86_STRC2 Leucine-rich repeat-containing protein [Streptomyces clavuligerus ATCC 27064]
+Length: 4 residues - nb: 4  from  86 to 102 - Psim:0.65 region Length:17 
+DLAAL
+DLSF-
+NLLD-
+DLPA-
+**********************
+
+Length: 23 residues - nb: 4  from  257 to 348 - Psim:0.6847826086956522 region Length:92 
+NRLTGLPRSIGALRELREAHLMG
+NRLTGLPEEIGGLADLRELRLMD
+NRVTALPDTIGGLVRLTRLDLRN
+NELRAVPDAIGRLDRLTHLDLRN
+**********************
+
+>uniprot|A0A1G9MIF1|A0A1G9MIF1_9ACTN Leucine-rich repeat (LRR) protein [Glycomyces sambucus]
+Length: 7 residues - nb: 3  from  1017 to 1038 - Psim:0.6666666666666666 region Length:22 
+LAALGAKE
+LAS-SATE
+LAD-GTGT
+**********************
+
+>uniprot|A0A0C2JJY0|A0A0C2JJY0_9ACTN Uncharacterized protein [Streptomonospora alba]
+Length: 7 residues - nb: 2  from  149 to 162 - Psim:0.7857142857142857 region Length:14 
+ELPADIG
+ELPALTD
+**********************
+
+>uniprot|A0A066Z9Q4|A0A066Z9Q4_9ACTN Uncharacterized protein [Kitasatospora cheerisanensis KCTC 2395]
+Length: 19 residues - nb: 2  from  139 to 180 - Psim:0.7391304347826086 region Length:42 
+GALARLRELRLQGNSLTTLPDSL
+GALRELRCLELRDNALT----AL
+**********************
+
+Length: 20 residues - nb: 2  from  139 to 181 - Psim:0.7608695652173914 region Length:43 
+GALARLRELRLQGNSLTTLPDSL
+GALRELRCLELRDNALTALP---
+**********************
+
+>uniprot|A0A177HQ73|A0A177HQ73_9ACTN E3 ubiquitin-protein ligase SspH1 [Streptomyces jeddahensis]
+Length: 3 residues - nb: 5  from  200 to 215 - Psim:0.75 region Length:16 
+-RLR
+-RLD
+LRGN
+-RLR
+-RLP
+**********************
+
+Length: 5 residues - nb: 5  from  188 to 215 - Psim:0.6571428571428571 region Length:28 
+FMAVPEA
+LRGLP-R
+LRRLD--
+LRGNR--
+LRRLP--
+**********************
+
+Length: 6 residues - nb: 3  from  201 to 216 - Psim:0.7222222222222222 region Length:16 
+LRRLD-
+LRGNR-
+LRRLPG
+**********************
+
+>uniprot|A0A1D3DLQ7|A0A1D3DLQ7_9ACTN Uncharacterized protein [Streptomyces thermolilacinus SPC6]
+Length: 3 residues - nb: 5  from  81 to 96 - Psim:0.7 region Length:16 
+-RLA
+-RLP
+DALG
+-RLT
+-RLR
+**********************
+
+Length: 20 residues - nb: 2  from  103 to 145 - Psim:0.782608695652174 region Length:43 
+NRLTSLPEALGNMTGLVELRAQH
+NRLTSLPGSLGRLGGLREL--W-
+**********************
+
+Length: 21 residues - nb: 2  from  103 to 146 - Psim:0.782608695652174 region Length:44 
+NRLTSLPEALGNMTGLVELRAQH
+NRLTSLPGSLGRLGGLRELWL--
+**********************
+
+Length: 23 residues - nb: 5  from  95 to 214 - Psim:0.6838709677419355 region Length:120 
+LRYLNVGENRLTSLPEALGNMTGLV---E--
+LR-A--QHNRLTSLPGSLG---RLG---G--
+LRELWLRGNAIECLPPSAA---RLR---E--
+LRHLDLRENALTVLPPSLA---GLP---R--
+LRQIDVRSNRLTRLPDWLA---LLPSLEKLD
+**********************
+
+>uniprot|A0A1G8ZSM6|A0A1G8ZSM6_9ACTN Leucine Rich Repeat [Streptomyces indicus]
+Length: 6 residues - nb: 6  from  161 to 195 - Psim:0.6666666666666666 region Length:35 
+--ELRE---V
+--ELRE-N-L
+FSEVPA-G--
+---LRELP-L
+---LRK-V-D
+---LRS-NQV
+**********************
+
+Length: 8 residues - nb: 6  from  141 to 192 - Psim:0.6555555555555556 region Length:52 
+E-LWLR-G-NRL-T-
+E-L--P-PGTSHL-T
+E-L--R-E-VEL-R-
+ENL--FS-EVP-A-G
+--L--R-E-LPL---
+--L--R-K-VDL-RS
+**********************
+
+>uniprot|G0FTM3|G0FTM3_AMYMS Uncharacterized protein [Amycolatopsis mediterranei S699]
+Length: 3 residues - nb: 5  from  308 to 322 - Psim:0.7 region Length:15 
+VLPQ
+-LTE
+-LT-
+-LTL
+-LPL
+**********************
+
+Length: 4 residues - nb: 3  from  435 to 448 - Psim:0.7333333333333333 region Length:14 
+GLAAT
+GLGAG
+GLDA-
+**********************
+
+Length: 5 residues - nb: 3  from  435 to 449 - Psim:0.7333333333333333 region Length:15 
+GLAAT
+GLGAG
+GLDAL
+**********************
+
+Length: 7 residues - nb: 2  from  198 to 212 - Psim:0.8125 region Length:15 
+LVHLLRSD
+LVPDLRS-
+**********************
+
+>uniprot|A0A0H3DFT3|A0A0H3DFT3_AMYMU Leucine-rich repeat-containing protein [Amycolatopsis mediterranei U32]
+Length: 7 residues - nb: 2  from  253 to 266 - Psim:0.75 region Length:14 
+PAGLRRL-
+PA-LRSVR
+**********************
+
+>uniprot|A0A0D4DIG9|A0A0D4DIG9_9ACTN Uncharacterized protein [Streptomyces lydicus]
+Length: 7 residues - nb: 2  from  183 to 197 - Psim:0.8125 region Length:15 
+NLSGLTEL
+NLSG-NAL
+**********************
+
+Length: 8 residues - nb: 2  from  183 to 198 - Psim:0.7777777777777778 region Length:16 
+NLSGLTEL-
+NLSG-NALT
+**********************
+
+Length: 8 residues - nb: 2  from  243 to 260 - Psim:0.65 region Length:18 
+LTDLPESFGN
+LTSLT-GLN-
+**********************
+
+Length: 10 residues - nb: 2  from  182 to 203 - Psim:0.7083333333333334 region Length:22 
+GNLSGLTELNLS
+GN-A-LTALPEA
+**********************
+
+Length: 12 residues - nb: 3  from  209 to 241 - Psim:0.6666666666666666 region Length:33 
+ALTHLDLDFNRLT
+ALP-A-WT-GRLT
+ALTWLNLD--R-N
+**********************
+
+Length: 13 residues - nb: 3  from  209 to 241 - Psim:0.6666666666666666 region Length:33 
+ALTHLDLDFNRLT
+ALP-A-WT-GRLT
+ALTWLNLD--R-N
+**********************
+
+>uniprot|A0A133NM12|A0A133NM12_GARVA LPXTG-motif protein cell wall anchor domain protein [Gardnerella vaginalis]
+Length: 4 residues - nb: 3  from  660 to 673 - Psim:0.8333333333333334 region Length:14 
+PNTDP-
+PNP-PA
+PNP-P-
+**********************
+
+Length: 5 residues - nb: 3  from  333 to 346 - Psim:0.7222222222222222 region Length:14 
+KL-IDF
+KLNK--
+KLGKD-
+**********************
+
+Length: 5 residues - nb: 3  from  660 to 674 - Psim:0.8 region Length:15 
+PNTDP
+PNPPA
+PNPPA
+**********************
+
+Length: 5 residues - nb: 5  from  689 to 712 - Psim:0.6666666666666666 region Length:24 
+PQ-PSD
+PQDPS-
+VT-PVT
+PT-PA-
+PT-PDQ
+**********************
+
+>uniprot|A0A222VXQ2|A0A222VXQ2_9PSEU Leucine rich repeat-containing protein [Prauserella marina]
+Length: 4 residues - nb: 3  from  189 to 202 - Psim:0.6666666666666666 region Length:14 
+LRVLD
+LRDNG
+LREL-
+**********************
+
+Length: 5 residues - nb: 3  from  189 to 203 - Psim:0.6666666666666666 region Length:15 
+LRVLD
+LRDNG
+LRELP
+**********************
+
+>uniprot|A0A2A2EIB3|A0A2A2EIB3_9BIFI Leucine Rich repeats (2 copies) [Bifidobacterium criceti]
+Length: 5 residues - nb: 3  from  14 to 27 - Psim:0.6666666666666666 region Length:14 
+AL-AC
+ALLVP
+ALPAY
+**********************
+
+Length: 5 residues - nb: 3  from  669 to 683 - Psim:0.7222222222222222 region Length:15 
+DVTASD
+DVD-G-
+DVT-SR
+**********************
+
+Length: 5 residues - nb: 3  from  788 to 802 - Psim:0.7142857142857143 region Length:15 
+KV-TQ--
+KVIVQ-A
+KV-QNV-
+**********************
+
+>uniprot|A0A1M6UUG6|A0A1M6UUG6_9ACTN Leucine Rich repeat-containing protein [Nocardiopsis flavescens]
+Length: 5 residues - nb: 3  from  267 to 281 - Psim:0.7619047619047619 region Length:15 
+AL-AG--
+AL-GGIE
+ALDLG--
+**********************
+
+>uniprot|C7QBA7|C7QBA7_CATAD Leucine-rich repeat, ribonuclease inhibitor subtype [Catenulispora acidiphila DSM 44928]
+Length: 13 residues - nb: 2  from  199 to 225 - Psim:0.71875 region Length:27 
+GA-REL---A-RLLAA
+GAVAELYVSAARLGDP
+**********************
+
+>uniprot|A0A0A6UQW7|A0A0A6UQW7_ACTUT Gala protein [Actinoplanes utahensis]
+Length: 6 residues - nb: 2  from  66 to 79 - Psim:0.7142857142857143 region Length:14 
+VAARVVR
+VAAGSPH
+**********************
+
+Length: 7 residues - nb: 2  from  66 to 79 - Psim:0.7142857142857143 region Length:14 
+VAARVVR
+VAAGSPH
+**********************
+
+>uniprot|J5VUC4|J5VUC4_9ACTN Leucine rich repeat protein [Slackia sp. CM382]
+Length: 3 residues - nb: 5  from  1672 to 1686 - Psim:0.75 region Length:15 
+PD--
+PDP-
+-EPS
+PDPT
+PDP-
+**********************
+
+Length: 4 residues - nb: 6  from  1674 to 1696 - Psim:0.6944444444444444 region Length:23 
+P--DPE
+P----S
+P--DPT
+P--DPT
+P--SPG
+EGVQP-
+**********************
+
+Length: 5 residues - nb: 3  from  1658 to 1671 - Psim:0.7222222222222222 region Length:14 
+-PDP-E
+-PDPGP
+GPEPG-
+**********************
+
+Length: 5 residues - nb: 3  from  1674 to 1688 - Psim:0.8333333333333334 region Length:15 
+PDPEPS
+PDPT--
+PDPTP-
+**********************
+
+Length: 5 residues - nb: 3  from  1702 to 1715 - Psim:0.6666666666666666 region Length:14 
+DASD-
+DARQA
+DATQE
+**********************
+
+Length: 8 residues - nb: 4  from  1660 to 1691 - Psim:0.75 region Length:32 
+PEPDPGPG
+PEPGPDPD
+PEPSPDPT
+PDPTPSPG
+**********************
+
+>uniprot|A0A1H4Y9I0|A0A1H4Y9I0_9PSEU Uncharacterized protein [Amycolatopsis tolypomycina]
+Length: 3 residues - nb: 5  from  184 to 198 - Psim:0.7 region Length:15 
+PPF-R-
+--PPA-
+--G-RP
+--L-R-
+--L-RH
+**********************
+
+Length: 7 residues - nb: 2  from  205 to 219 - Psim:0.8125 region Length:15 
+DLVSLLRS
+DLVPRLR-
+**********************
+
+Length: 8 residues - nb: 5  from  218 to 253 - Psim:0.6545454545454545 region Length:36 
+LRSA-DVLV--
+C-SA-GEAR-D
+L--A-ACPE--
+L--A-GVER--
+L--AIGFRCG-
+**********************
+
+Length: 9 residues - nb: 3  from  201 to 226 - Psim:0.6666666666666666 region Length:26 
+LRAPDLVSL
+LRS-DLVPR
+LRSADVLVC
+**********************
+
+>uniprot|A0A239PAF8|A0A239PAF8_9ACTN Leucine-rich repeat (LRR) protein [Streptosporangium subroseum]
+Length: 3 residues - nb: 5  from  40 to 55 - Psim:0.7 region Length:16 
+-V-GDL
+-V-G-P
+AQ----
+AVPD--
+AV-G--
+**********************
+
+Length: 14 residues - nb: 2  from  31 to 58 - Psim:0.9642857142857143 region Length:28 
+GPAQAVPDAVGDLV
+GPAQAVPDAVGDLD
+**********************
+
+>uniprot|A0A1D9MLM0|A0A1D9MLM0_9ACTO Uncharacterized protein [Actinomyces sp. VUL4_3]
+Length: 4 residues - nb: 3  from  1317 to 1330 - Psim:0.6666666666666666 region Length:14 
+NLNFP
+NLEYL
+NLAY-
+**********************
+
+Length: 5 residues - nb: 3  from  23 to 39 - Psim:0.7619047619047619 region Length:17 
+GANVAF-
+GA-DGEV
+GA-VGE-
+**********************
+
+Length: 5 residues - nb: 3  from  1317 to 1331 - Psim:0.6666666666666666 region Length:15 
+NLNFP
+NLEYL
+NLAYN
+**********************
+
+Length: 22 residues - nb: 11  from  1321 to 1562 - Psim:0.7768595041322314 region Length:242 
+PNLEYLNLAYNELGVVPDFSHL
+PNLKYLNLFANNLRVVPDFSHL
+PNLESLDLTYNKLGGVPDFSHL
+PNLESLDLSGNGLGVVPDFSHL
+PNLEDLSLGGNGLGVVPDFSHL
+PNLTHLSLGTNELGVVPDFSHL
+PNLTHLNLDGIGLKVVPDFSHL
+PNLEWLDLKENGLGVVPDFSHL
+PNLEWLDLTYNKLGVVPDFSHL
+PNLRWLDLENNKLKVVPDFSHL
+PNLEHLELSDNPFEKCPTFTKL
+**********************
+
+Length: 22 residues - nb: 9  from  1360 to 1557 - Psim:0.803030303030303 region Length:198 
+DFSHLPNLESLDLTYNKLGGVP
+DFSHLPNLESLDLSGNGLGVVP
+DFSHLPNLEDLSLGGNGLGVVP
+DFSHLPNLTHLSLGTNELGVVP
+DFSHLPNLTHLNLDGIGLKVVP
+DFSHLPNLEWLDLKENGLGVVP
+DFSHLPNLEWLDLTYNKLGVVP
+DFSHLPNLRWLDLENNKLKVVP
+DFSHLPNLEHLELSDNPFEKCP
+**********************
+
+Length: 22 residues - nb: 8  from  1385 to 1560 - Psim:0.7954545454545454 region Length:176 
+HLPNLESLDLSGNGLGVVPDFS
+HLPNLEDLSLGGNGLGVVPDFS
+HLPNLTHLSLGTNELGVVPDFS
+HLPNLTHLNLDGIGLKVVPDFS
+HLPNLEWLDLKENGLGVVPDFS
+HLPNLEWLDLTYNKLGVVPDFS
+HLPNLRWLDLENNKLKVVPDFS
+HLPNLEHLELSDNPFEKCPTFT
+**********************
+
+Length: 22 residues - nb: 7  from  1410 to 1563 - Psim:0.7727272727272727 region Length:154 
+NLEDLSLGGNGLGVVPDFSHLP
+NLTHLSLGTNELGVVPDFSHLP
+NLTHLNLDGIGLKVVPDFSHLP
+NLEWLDLKENGLGVVPDFSHLP
+NLEWLDLTYNKLGVVPDFSHLP
+NLRWLDLENNKLKVVPDFSHLP
+NLEHLELSDNPFEKCPTFTKLP
+**********************
+
+Length: 22 residues - nb: 5  from  1445 to 1554 - Psim:0.8 region Length:110 
+VVPDFSHLPNLTHLNLDGIGLK
+VVPDFSHLPNLEWLDLKENGLG
+VVPDFSHLPNLEWLDLTYNKLG
+VVPDFSHLPNLRWLDLENNKLK
+VVPDFSHLPNLEHLELSDNPFE
+**********************
+
+Length: 22 residues - nb: 4  from  1470 to 1557 - Psim:0.8181818181818182 region Length:88 
+DFSHLPNLEWLDLKENGLGVVP
+DFSHLPNLEWLDLTYNKLGVVP
+DFSHLPNLRWLDLENNKLKVVP
+DFSHLPNLEHLELSDNPFEKCP
+**********************
+
+Length: 22 residues - nb: 3  from  1495 to 1560 - Psim:0.7727272727272727 region Length:66 
+HLPNLEWLDLTYNKLGVVPDFS
+HLPNLRWLDLENNKLKVVPDFS
+HLPNLEHLELSDNPFEKCPTFT
+**********************
+
+>uniprot|F8JNK1|F8JNK1_STREN Uncharacterized protein [Streptomyces cattleya NRRL 8057 = DSM 46488]
+Length: 3 residues - nb: 5  from  47 to 61 - Psim:0.65 region Length:15 
+-LPH
+-LPA
+-EVA
+ALP-
+-ALA
+**********************
+
+Length: 4 residues - nb: 3  from  245 to 258 - Psim:0.7333333333333333 region Length:14 
+LRHLD
+LRNNP
+LRHL-
+**********************
+
+Length: 5 residues - nb: 3  from  245 to 259 - Psim:0.8 region Length:15 
+LRHLD
+LRNNP
+LRHLP
+**********************
+
+Length: 23 residues - nb: 5  from  189 to 303 - Psim:0.7043478260869566 region Length:115 
+LPDTLGDMAALRELRLYDNHLAT
+LPSTLGRLTRLRELHLADNHLTV
+LPHTLGDLHDLRHLDLRNNPLRH
+LPDTLGTLHRLRHLDLRATHLRH
+LPDTLATLPSLEKLDLRWTKLDQ
+**********************
+
+>uniprot|A0A0G3H0F8|A0A0G3H0F8_9CORY Immunoglobulin I-set domain-containing protein,Htaa protein [Corynebacterium mustelae]
+Length: 4 residues - nb: 4  from  668 to 686 - Psim:0.7 region Length:19 
+PPNQT
+PPTSN
+PPTQN
+PPAA-
+**********************
+
+Length: 5 residues - nb: 3  from  91 to 106 - Psim:0.6666666666666666 region Length:16 
+AA-APN
+AATGLV
+AA-GSD
+**********************
+
+Length: 5 residues - nb: 4  from  668 to 687 - Psim:0.7 region Length:20 
+PPNQT
+PPTSN
+PPTQN
+PPAAD
+**********************
+
+>uniprot|A0A1C4QCV5|A0A1C4QCV5_9ACTN Leucine rich repeat-containing protein (Fragment) [Streptomyces sp. ScaeMP-e83]
+Length: 20 residues - nb: 4  from  63 to 151 - Psim:0.8695652173913043 region Length:89 
+PESVGQLTNLTTLRLGGTSLTGV
+PEWIGQLTNLTTLRLSGTGLTEL
+PESVGQLTNLTTLNLAGTGLTEL
+PESVGQLTNLTTLNLAGTGL---
+**********************
+
+Length: 20 residues - nb: 3  from  93 to 152 - Psim:0.8405797101449275 region Length:60 
+TNLTTLRLSGTGLTELPESVGQL
+TNLTTLNLAGTGLTELPESVGQL
+TNLTTLNLAGTGLT---------
+**********************
+
+Length: 23 residues - nb: 4  from  63 to 152 - Psim:0.8804347826086957 region Length:90 
+PESVGQLTNLTTLRLGGTSLTGV
+PEWIGQLTNLTTLRLSGTGLTEL
+PESVGQLTNLTTLNLAGTGLTEL
+PESVGQLTNLTTLNLAGTGLT--
+**********************
+
+Length: 23 residues - nb: 3  from  93 to 152 - Psim:0.8405797101449275 region Length:60 
+TNLTTLRLSGTGLTELPESVGQL
+TNLTTLNLAGTGLTELPESVGQL
+TNLTTLNLAGTGLT---------
+**********************
+
+Length: 28 residues - nb: 3  from  86 to 152 - Psim:0.9130434782608695 region Length:67 
+PEWIGQLTNLTTLRLSGTGLTEL
+PESVGQLTNLTTLNLAGTGLTEL
+PESVGQLTNLTTLNLAGTGLT--
+**********************
+
+>uniprot|A0A1C4ILJ3|A0A1C4ILJ3_9ACTN Leucine-rich repeat (LRR) protein (Fragment) [Streptomyces sp. ScaeMP-e83]
+Length: 4 residues - nb: 3  from  68 to 81 - Psim:0.6666666666666666 region Length:14 
+LTALH
+LTGVR
+LTEL-
+**********************
+
+Length: 5 residues - nb: 3  from  68 to 82 - Psim:0.6666666666666666 region Length:15 
+LTALH
+LTGVR
+LTELP
+**********************
+
+Length: 5 residues - nb: 3  from  386 to 402 - Psim:0.6666666666666666 region Length:17 
+SLTRLT
+SL-RLG
+ENERLA
+**********************
+
+Length: 23 residues - nb: 10  from  1 to 230 - Psim:0.6652173913043479 region Length:230 
+TLRLSGTGLTELPESVGQLTNLT
+TLNLAGTGLTELPESVGQLTNLT
+TLQLSFARLSTLPESLGTLADLT
+ALHLTGVRLTELPDSVGQLTGLT
+TLNLAFMRLEAVPDFIGQLTNLT
+TLDLSGNLLTELPESIRNLTNLT
+TLEMSFCSLTNIPESLKFLTNLA
+SLDISYNSLESLPEWMNHLTSLT
+TLNLTAVNLKGLSASLGQLNNLT
+TLKLGSKSVTTLPESLGSLTGLT
+**********************
+
+>uniprot|I2N6C8|I2N6C8_9ACTN Uncharacterized protein [Streptomyces tsukubensis NRRL18488]
+Length: 23 residues - nb: 4  from  104 to 195 - Psim:0.6630434782608695 region Length:92 
+LPGALGGLASLRELRAQHCGLTA
+LPGSLGGLGGLRELWLRGNALTA
+LPDSFAALTELRRVELRENALTE
+LPRCLSALPRLRELDLRSNRLRE
+**********************
+
+>uniprot|A0A1H3P7X1|A0A1H3P7X1_9ACTN Uncharacterized protein [Tessaracoccus flavus]
+Length: 18 residues - nb: 2  from  233 to 276 - Psim:0.8181818181818182 region Length:44 
+PLAGLTQLSSLVLDGNEISDVS
+PLAGLEGLTSLDLDGNQVSDLR
+**********************
+
+Length: 18 residues - nb: 2  from  357 to 396 - Psim:0.7391304347826086 region Length:40 
+LNL-HTNGLADISALTELSALTS
+LNLAH-NDVVDISALS---GLS-
+**********************
+
+Length: 22 residues - nb: 2  from  227 to 273 - Psim:0.8 region Length:47 
+DVTDTTPLAGLTQLSSLVLDGNEIS
+DVS---PLAGLEGLTSLDLDGNQVS
+**********************
+
+>uniprot|A0A0M8YXN5|A0A0M8YXN5_9ACTN Protein kinase [Streptomyces purpurogeneiscleroticus]
+Length: 4 residues - nb: 3  from  154 to 167 - Psim:0.6666666666666666 region Length:14 
+RLELI
+RLSCN
+RLEA-
+**********************
+
+>uniprot|A0A1C6VY76|A0A1C6VY76_9ACTN Leucine rich repeat-containing protein [Micromonospora peucetia]
+Length: 5 residues - nb: 3  from  165 to 180 - Psim:0.6666666666666666 region Length:16 
+VGEGN-
+VGKTSL
+VGALN-
+**********************
+
+>uniprot|A0A1N7ABB5|A0A1N7ABB5_9ACTN Leucine rich repeat-containing protein [Microbispora rosea]
+Length: 5 residues - nb: 4  from  2 to 21 - Psim:0.7 region Length:20 
+PDLGL
+PDPGV
+PDPGE
+PDLRW
+**********************
+
+>uniprot|A0A1T4SWX9|A0A1T4SWX9_9ACTN Uncharacterized protein [Marinactinospora thermotolerans DSM 45154]
+Length: 4 residues - nb: 3  from  207 to 220 - Psim:0.6666666666666666 region Length:14 
+LR-LSG
+LRELI-
+LR--GT
+**********************
+
+Length: 5 residues - nb: 3  from  207 to 221 - Psim:0.6666666666666666 region Length:15 
+LR-LSG
+LRELI-
+LR-GTK
+**********************
+
+Length: 23 residues - nb: 4  from  298 to 384 - Psim:0.6847826086956522 region Length:87 
+LGGLPQLAELEIDAGPELRTLEG
+LGGLPRLTKLTIRA-PELRTLEG
+LGELPALRKLTLTSCPALADLTG
+LGRLPALRSLLING-TAVR--D-
+**********************
+
+>uniprot|A0A133JX99|A0A133JX99_9ACTO Leucine Rich repeat-containing domain protein [Actinomyces neuii]
+Length: 4 residues - nb: 4  from  527 to 542 - Psim:0.65 region Length:16 
+TDW--
+TDAPQ
+TDA-K
+-DCTK
+**********************
+
+>uniprot|A0A1G9G029|A0A1G9G029_9ACTN Leucine-rich repeat (LRR) protein [Nonomuraea maritima]
+Length: 5 residues - nb: 3  from  268 to 282 - Psim:0.7222222222222222 region Length:15 
+LRV-LD
+LRGNL-
+LRE-LP
+**********************
+
+Length: 7 residues - nb: 3  from  301 to 322 - Psim:0.7037037037037037 region Length:22 
+DLP--ESLG
+DLPALEKL-
+DL-RWNKL-
+**********************
+
+>uniprot|A0A1A8Z8B1|A0A1A8Z8B1_9ACTN Leucine Rich repeat [Micromonospora auratinigra]
+Length: 7 residues - nb: 2  from  14 to 27 - Psim:0.7857142857142857 region Length:14 
+ADPTAGL
+ADPTDFD
+**********************
+
+>uniprot|A0A094PT88|A0A094PT88_9ACTN Uncharacterized protein [actinobacterium acAcidi]
+Length: 3 residues - nb: 5  from  195 to 208 - Psim:0.6666666666666666 region Length:14 
+LTS
+LTV
+-AG
+LTN
+LTS
+**********************
+
+Length: 7 residues - nb: 2  from  1188 to 1201 - Psim:0.8125 region Length:14 
+SLSA-NRN
+SLSAINL-
+**********************
+
+Length: 10 residues - nb: 3  from  111 to 141 - Psim:0.6666666666666666 region Length:31 
+LTTLDVSGATS
+LTTISVSG-ND
+LTSIKLTG-LT
+**********************
+
+Length: 10 residues - nb: 3  from  206 to 236 - Psim:0.696969696969697 region Length:31 
+LTSLNVSD-NK
+LTSLDVSTATA
+LTVVNVTN-NL
+**********************
+
+Length: 10 residues - nb: 3  from  894 to 924 - Psim:0.7575757575757576 region Length:31 
+SLEVSG-NKLT
+SLSAKGLSKLT
+SLSANS-NVLT
+**********************
+
+Length: 11 residues - nb: 3  from  111 to 142 - Psim:0.696969696969697 region Length:32 
+LTTLDVSGATS
+LTTISVSG-ND
+LTSIKLTGLTS
+**********************
+
+Length: 11 residues - nb: 3  from  206 to 237 - Psim:0.6944444444444444 region Length:32 
+LTSLNVSD-NK-
+LTSLDVSTATA-
+LTVVNVTN-NLL
+**********************
+
+Length: 11 residues - nb: 3  from  894 to 925 - Psim:0.75 region Length:32 
+SLEVSG-NKLT-
+SLSAKGLSKLT-
+SLSANS-NVLTS
+**********************
+
+Length: 11 residues - nb: 2  from  1135 to 1156 - Psim:0.7083333333333334 region Length:22 
+SLKVSGLSKL-T
+SL-VANSNSLKT
+**********************
+
+Length: 18 residues - nb: 3  from  1235 to 1294 - Psim:0.6666666666666666 region Length:60 
+ANNLSRLSLTKNTRLDNVSAD
+ANNLKSLDLSKNVSLVTVSAK
+ANQLQKLDVSK---LVDLQYL
+**********************
+
+>uniprot|A0A229HIF7|A0A229HIF7_9ACTN Uncharacterized protein [Streptomyces sp. NBS 14/10]
+Length: 5 residues - nb: 4  from  181 to 201 - Psim:0.6666666666666666 region Length:21 
+LRGLPL
+LRHLD-
+LRS-NR
+LRGIP-
+**********************
+
+>uniprot|A0A1G6SQ91|A0A1G6SQ91_9ACTN Leucine rich repeat-containing protein [Glycomyces harbinensis]
+Length: 3 residues - nb: 5  from  174 to 187 - Psim:0.7 region Length:14 
+LTG-
+LTR-
+LEM-
+-TR-
+-TRL
+**********************
+
+>uniprot|A0A0M8SV58|A0A0M8SV58_9ACTN Uncharacterized protein [Streptomyces sp. WM4235]
+Length: 23 residues - nb: 4  from  208 to 299 - Psim:0.6956521739130435 region Length:92 
+NNRIDRLPDELGDLSNLRELHLM
+NNRLATLPETLGNLSELRHLDVR
+NNPLRELPESIGRLERLTHLDLR
+ASRLTELPESVGSLPRLEKLDLR
+**********************
+
+>uniprot|A0A1Q2D1J5|A0A1Q2D1J5_9ACTN Uncharacterized protein [Tessaracoccus flavescens]
+Length: 5 residues - nb: 4  from  699 to 719 - Psim:0.6785714285714286 region Length:21 
+-TPKPTV
+-TPSPT-
+-G-SPV-
+PTRTPR-
+**********************
+
+Length: 5 residues - nb: 3  from  714 to 728 - Psim:0.6666666666666666 region Length:15 
+PTRTPR
+PT-AS-
+PTPTA-
+**********************
+
+Length: 7 residues - nb: 2  from  529 to 542 - Psim:0.6875 region Length:14 
+AGV-SVK-
+AGVVTYPT
+**********************
+
+Length: 7 residues - nb: 2  from  717 to 731 - Psim:0.8333333333333334 region Length:15 
+TPRPTASP-
+TP--TASPT
+**********************
+
+>uniprot|A0A101PCL2|A0A101PCL2_9ACTN Uncharacterized protein [Streptomyces canus]
+Length: 3 residues - nb: 5  from  654 to 670 - Psim:0.76 region Length:17 
+D-DDG
+D-D-A
+DID-T
+D-D-S
+D-D-E
+**********************
+
+Length: 8 residues - nb: 3  from  198 to 223 - Psim:0.7333333333333333 region Length:26 
+LVHLLRSG--
+LVPDLRSADV
+LVCDLGEA--
+**********************
+
+>uniprot|F1T6Y0|F1T6Y0_9ACTN Leucine Rich Repeat protein [Atopobium vaginae DSM 15829]
+Length: 4 residues - nb: 5  from  907 to 926 - Psim:0.9 region Length:20 
+NSKA
+NSKA
+NSKA
+NSKA
+NSNS
+**********************
+
+Length: 5 residues - nb: 3  from  252 to 266 - Psim:0.6666666666666666 region Length:15 
+LTPLEN
+LTSLE-
+-NLLF-
+**********************
+
+Length: 5 residues - nb: 3  from  821 to 836 - Psim:0.7619047619047619 region Length:16 
+VVPPTP-
+VVP-TP-
+T-P-NPV
+**********************
+
+Length: 5 residues - nb: 5  from  907 to 927 - Psim:0.88 region Length:21 
+NSKA-
+NSKA-
+NSKA-
+NSKA-
+NSNSK
+**********************
+
+Length: 5 residues - nb: 6  from  916 to 946 - Psim:0.6666666666666666 region Length:31 
+SKA-N--
+SKANSN-
+SKS-SE-
+STN-NS-
+SKT-TES
+SKS-SA-
+**********************
+
+Length: 6 residues - nb: 3  from  255 to 272 - Psim:0.6666666666666666 region Length:18 
+LENLTS
+LENLLF
+SDNKVS
+**********************
+
+Length: 6 residues - nb: 6  from  820 to 855 - Psim:0.6666666666666666 region Length:36 
+-PVVPPT--
+-PVVP-T-P
+TPNPV-T--
+-PGTE-TVT
+-PGTE-T--
+-PGHGGA--
+**********************
+
+Length: 6 residues - nb: 6  from  837 to 871 - Psim:0.6666666666666666 region Length:35 
+T--PGTETV
+T--PGTE--
+T--PGHG-G
+AVEPG-Q--
+G---GSE-Q
+G---GTENG
+**********************
+
+Length: 7 residues - nb: 4  from  255 to 279 - Psim:0.65625 region Length:25 
+LENLT-S-
+LENLLFS-
+-DNKV-SD
+LTPLE-N-
+**********************
+
+Length: 7 residues - nb: 3  from  814 to 834 - Psim:0.8518518518518519 region Length:21 
+VP-PTPDPV
+VP-PTP--V
+VPTPTP--N
+**********************
+
+Length: 7 residues - nb: 2  from  838 to 851 - Psim:0.8571428571428571 region Length:14 
+PGTETVT
+PGTETPG
+**********************
+
+Length: 8 residues - nb: 5  from  252 to 287 - Psim:0.68 region Length:36 
+LTPLEN----
+LTSLENLL--
+F-S-DNKVSD
+LTPLEN----
+LTSLKELI--
+**********************
+
+Length: 8 residues - nb: 4  from  814 to 843 - Psim:0.7222222222222222 region Length:30 
+VP-PTPDPV
+VP-PTP--V
+VPTPTPNP-
+VT-PGTETV
+**********************
+
+Length: 8 residues - nb: 2  from  837 to 851 - Psim:0.875 region Length:15 
+TPGTETV-
+TPGTETPG
+**********************
+
+Length: 8 residues - nb: 2  from  925 to 941 - Psim:0.75 region Length:17 
+NS-KSSESTN
+NSSKTTES--
+**********************
+
+Length: 9 residues - nb: 5  from  814 to 855 - Psim:0.6545454545454545 region Length:42 
+VP-PTP-DPV-
+VP-PTPVVPT-
+-PTPNPVTPG-
+--TET-VTPG-
+--TETPGHGGA
+**********************
+
+Length: 9 residues - nb: 3  from  837 to 861 - Psim:0.6666666666666666 region Length:25 
+TPGTETV---
+TPGTETPGH-
+GGAVE-PGQG
+**********************
+
+Length: 9 residues - nb: 2  from  925 to 942 - Psim:0.75 region Length:18 
+NS-KSSESTN
+NSSKTTESS-
+**********************
+
+Length: 22 residues - nb: 8  from  144 to 318 - Psim:0.7556818181818182 region Length:175 
+TPLENLTSLEELYFSGNNVSDL
+TPLENLF-LISLDFSGNQVSDL
+TPLGVLDSLEDLFFTDNKVSKL
+DTLQYLHSLKTLDFSKNKVSDL
+TPLGGLDSLTKLVFDGNKVSDL
+TPLENLTSLENLLFSDNKVSDL
+TPLENLTSLKELIFIGNQVSDL
+SPLENLKSLKELNFIGNQVSDL
+**********************
+
+Length: 22 residues - nb: 3  from  271 to 336 - Psim:0.8840579710144928 region Length:66 
+VSDLTPLENLTSLKELIFIGNQ-
+VSDLSPLENLKSLKELNFIGNQ-
+VSDLTPLENLTSLERLE-IGNQT
+**********************
+
+Length: 101 residues - nb: 3  from  426 to 746 - Psim:0.7888888888888889 region Length:321 
+AKMKYEADSSLNYQEKKVEKAAIDGTRTTYADGRNTVEVPAQDGLTKVGNVEVTHDGNKTITTTYTVDPNTGELSNPQKHTSMPIGNLTGSTKTEILKGKMKYEADSSLNYQ-EKKVEKA
+AK-----DGKKVTT------SVINGEPKVEITQPQD-GLTK-VGN-VE-VT-HD-GN-KTITTTYTVDPDTGKLSNPQKHTSMPIGNLTGSTKTEILHGAMKYEADSKLPYNTQKKISN-
+PV-----DGKKVTT------SVINGDSKVEITPAKN-GLTK-VGN-KQ-VT-HD-GN-KTITTTYTVDPDTGKLSNPQKHTSMPIGNLTGSTKTEILKGKMKYEADSSLDYNTQKKISD-
+**********************
+
+Length: 101 residues - nb: 3  from  570 to 872 - Psim:0.7767295597484277 region Length:303 
+GLTKVGNVEVTHDGNKTITTTYTVDPDTGKLSNPQKHTSMPIGNLTGSTKTEILHGA-MK-YEADSKLPYNTQKKISNPVD-GKKVTTSVINGDSKVEITPAKN--
+GLTKVGNKQVTHDGNKTITTTYTVDPDTGKLSNPQKHTSMPIGNLTGSTKTEILKGK-MK-YEADSSLDYNTQKKISDPVD-GKKVTTSVINGDSKVEITPAKN--
+GLTKVGNKQVTHDGNKTITTTYTVDPDTGKLTDP-K-TSTTTETVP-PTPDPVVPPTPVVPTPTPNPVTPGTET-VT-PGTETPGHGGAVEPGQGGSEQGGTENGV
+**********************
+
+>uniprot|A0A1H9F2A8|A0A1H9F2A8_9ACTN Leucine Rich repeat-containing protein [Streptomyces radiopugnans]
+Length: 6 residues - nb: 3  from  193 to 208 - Psim:0.6666666666666666 region Length:16 
+LRRL-D
+LRAN-R
+LRTVPD
+**********************
+
+Length: 19 residues - nb: 2  from  39 to 80 - Psim:0.782608695652174 region Length:42 
+NALTSLPPRIGRMRRLRTLDLGH
+NALTSLPEEIGE---LTDLD-GC
+**********************
+
+Length: 19 residues - nb: 2  from  137 to 178 - Psim:0.75 region Length:42 
+LPASL-GRLTALRELWLRGNALAS
+LPAAVRG-LRELRELELREN----
+**********************
+
+>uniprot|A0A1S2K2Z6|A0A1S2K2Z6_9ACTN Uncharacterized protein [Streptomyces sp. CC53]
+Length: 4 residues - nb: 3  from  183 to 196 - Psim:0.6666666666666666 region Length:14 
+LRRLD
+LRGNR
+LRTL-
+**********************
+
+>uniprot|A0A1I3W8F3|A0A1I3W8F3_9PSEU Leucine Rich Repeat [Amycolatopsis sacchari]
+Length: 3 residues - nb: 6  from  134 to 151 - Psim:0.6666666666666666 region Length:18 
+-LRE
+-LRE
+-LRL
+-YRN
+ELR-
+-ELP
+**********************
+
+Length: 5 residues - nb: 3  from  156 to 171 - Psim:0.7777777777777778 region Length:16 
+ELSKLR
+ELH-LR
+GNH-LR
+**********************
+
+Length: 6 residues - nb: 3  from  101 to 119 - Psim:0.7619047619047619 region Length:19 
+LTRLPES
+LTRL-SA
+LRYL-SA
+**********************
+
+Length: 6 residues - nb: 7  from  160 to 197 - Psim:0.6530612244897959 region Length:38 
+-LRELH-
+-LRGNH-
+-LRGNH-
+-LRELPA
+TIANLS-
+DLRYL--
+DLRENN-
+**********************
+
+Length: 7 residues - nb: 2  from  101 to 114 - Psim:0.7857142857142857 region Length:14 
+LTRLPES
+LTRLSAL
+**********************
+
+>uniprot|A0A2B8B187|A0A2B8B187_9ACTN Uncharacterized protein [Streptomyces sp. Ru87]
+Length: 6 residues - nb: 3  from  174 to 189 - Psim:0.7222222222222222 region Length:16 
+ELRVL-
+ELRDN-
+ELTGLP
+**********************
+
+>uniprot|A0A1I1PLN2|A0A1I1PLN2_9ACTN Leucine Rich repeat-containing protein [Streptomyces aidingensis]
+Length: 23 residues - nb: 5  from  68 to 186 - Psim:0.6580645161290323 region Length:119 
+LTGLGGCLYLHD-NRLARLPESLG-RL--TR
+LRYL----NV-GENPLTALPGSIGAMTGLVE
+LRAQ----HSR----LTTLPGSIG-RL--TG
+LREL----WLRG-NALTGLPGSVA-GL--RE
+LRHL----ELRE-NALATVPEALA-GL--PL
+**********************
+
+>uniprot|A0A239DP25|A0A239DP25_9ACTN Leucine rich repeat-containing protein [Actinoplanes regularis]
+Length: 8 residues - nb: 3  from  308 to 329 - Psim:0.7666666666666667 region Length:22 
+A--DR-AAL-
+A--DRLAALG
+ATLDR-RPG-
+**********************
+
+>uniprot|A0A1G6VPT4|A0A1G6VPT4_9ACTN Leucine rich repeat-containing protein [Geodermatophilus telluris]
+Length: 5 residues - nb: 3  from  7 to 22 - Psim:0.6666666666666666 region Length:16 
+ARYFDQ
+ARDE-I
+ARVA-Q
+**********************
+
+>uniprot|A0A1B9VRC5|A0A1B9VRC5_9ACTN Uncharacterized protein [Cutibacterium avidum]
+Length: 3 residues - nb: 13  from  710 to 756 - Psim:0.6923076923076923 region Length:47 
+PTVT
+PTVT
+PT--
+PT-S
+-TET
+PTVV
+PTAA
+PTET
+PTVS
+PTMT
+PTAV
+PTGT
+PTV-
+**********************
+
+Length: 3 residues - nb: 8  from  726 to 756 - Psim:0.6875 region Length:31 
+PTVV
+PTAA
+PTET
+PTVS
+PTMT
+PTAV
+PTGT
+PTV-
+**********************
+
+Length: 3 residues - nb: 4  from  742 to 756 - Psim:0.6875 region Length:15 
+PTMT
+PTAV
+PTGT
+PTV-
+**********************
+
+Length: 4 residues - nb: 12  from  710 to 757 - Psim:0.7291666666666666 region Length:48 
+PTVT
+PTVT
+PTPT
+STET
+PTVV
+PTAA
+PTET
+PTVS
+PTMT
+PTAV
+PTGT
+PTVD
+**********************
+
+Length: 4 residues - nb: 6  from  734 to 757 - Psim:0.7083333333333334 region Length:24 
+PTET
+PTVS
+PTMT
+PTAV
+PTGT
+PTVD
+**********************
+
+Length: 5 residues - nb: 3  from  711 to 724 - Psim:0.7777777777777778 region Length:14 
+-TVTP-
+-TVTPT
+PTSTE-
+**********************
+
+Length: 5 residues - nb: 8  from  726 to 758 - Psim:0.725 region Length:33 
+PTV-V
+PTA-A
+PTE-T
+PTV-S
+PTM-T
+PTA-V
+PTG-T
+PTVDP
+**********************
+
+Length: 5 residues - nb: 4  from  742 to 758 - Psim:0.7 region Length:17 
+PTMT-
+PTAV-
+PTGT-
+PTVDP
+**********************
+
+>uniprot|E0QQ14|E0QQ14_9ACTO Leucine Rich Repeat protein [Mobiluncus mulieris ATCC 35239]
+Length: 21 residues - nb: 6  from  2 to 135 - Psim:0.8012820512820513 region Length:134 
+--TSIPKEISQLQNLQTLYLWK-NQL
+--TSFPKEISQLQNLQHLYLGE-NQL
+--TSIPKEIRQLQNLQTLNLWR-NQL
+--TSFPTEILQLQNLQHLVL-RDNKL
+--TSIPKEIGQLQNLTSLDLAG-N--
+KLTSIPKEIRQLQNLQTLNLW-----
+**********************
+
+Length: 21 residues - nb: 6  from  76 to 211 - Psim:0.7916666666666666 region Length:136 
+EILQLQNLQHLVL-RDNKLTSIPK
+EIGQLQNLTSLDL-AGNKLTSIPK
+EIRQLQNLQTLNLWR-NQLTSFPT
+EILQLQNLQHLSL-GDNKLTSIPT
+EISQLKNLQYLYL-EDNKLTSIPK
+EISQLQNLQYLNL-QDNKLKA--E
+**********************
+
+Length: 21 residues - nb: 3  from  139 to 205 - Psim:0.8405797101449275 region Length:67 
+LTSFPTEILQLQNLQHLSLGDNK
+LTSIPTEISQLKNLQYLYLEDNK
+LTSIPKEISQLQNLQYLNLQD--
+**********************
+
+Length: 21 residues - nb: 2  from  165 to 208 - Psim:0.8695652173913043 region Length:44 
+IPTEISQLKNLQYLYLEDNKLTS
+IPKEISQLQNLQYLNLQDNKL--
+**********************
+
+Length: 23 residues - nb: 9  from  2 to 208 - Psim:0.8067632850241546 region Length:207 
+TSIPKEISQLQNLQTLYLWKNQL
+TSFPKEISQLQNLQHLYLGENQL
+TSIPKEIRQLQNLQTLNLWRNQL
+TSFPTEILQLQNLQHLVLRDNKL
+TSIPKEIGQLQNLTSLDLAGNKL
+TSIPKEIRQLQNLQTLNLWRNQL
+TSFPTEILQLQNLQHLSLGDNKL
+TSIPTEISQLKNLQYLYLEDNKL
+TSIPKEISQLQNLQYLNLQDNKL
+**********************
+
+Length: 23 residues - nb: 6  from  76 to 213 - Psim:0.7916666666666666 region Length:138 
+EILQLQNLQHLVL-RDNKLTSIPK
+EIGQLQNLTSLDL-AGNKLTSIPK
+EIRQLQNLQTLNLWR-NQLTSFPT
+EILQLQNLQHLSL-GDNKLTSIPT
+EISQLKNLQYLYL-EDNKLTSIPK
+EISQLQNLQYLNL-QDNKLKAELW
+**********************
+
+Length: 23 residues - nb: 3  from  139 to 207 - Psim:0.8695652173913043 region Length:69 
+LTSFPTEILQLQNLQHLSLGDNK
+LTSIPTEISQLKNLQYLYLEDNK
+LTSIPKEISQLQNLQYLNLQDNK
+**********************
+
+Length: 23 residues - nb: 2  from  165 to 210 - Psim:0.8695652173913043 region Length:46 
+IPTEISQLKNLQYLYLEDNKLTS
+IPKEISQLQNLQYLNLQDNKLKA
+**********************
+
+>uniprot|A0A1X7LA24|A0A1X7LA24_9MICO Conserved repeat domain-containing protein [Plantibacter flavus]
+Length: 5 residues - nb: 3  from  92 to 108 - Psim:0.6666666666666666 region Length:17 
+SLDGIE
+SLTNLE
+SLA-LS
+**********************
+
+Length: 7 residues - nb: 2  from  689 to 702 - Psim:0.8571428571428571 region Length:14 
+PAPGTVE
+PAPGTSS
+**********************
+
+Length: 9 residues - nb: 2  from  689 to 704 - Psim:0.7777777777777778 region Length:16 
+PAPGTV--E
+PAPGTSSGD
+**********************
+
+>uniprot|A0A233T304|A0A233T304_9ACTN Uncharacterized protein [Streptomyces sp. 2R]
+Length: 6 residues - nb: 3  from  45 to 62 - Psim:0.6666666666666666 region Length:18 
+ALKLAA
+ALAPVA
+ALASDT
+**********************
+
+Length: 7 residues - nb: 3  from  45 to 63 - Psim:0.6666666666666666 region Length:19 
+ALKL-AA
+ALAP-VA
+ALASDTL
+**********************
+
+>uniprot|A0A133YZ69|A0A133YZ69_9ACTN Leucine Rich repeat-containing domain protein [Coriobacteriales bacterium DNF00809]
+Length: 2 residues - nb: 12  from  799 to 822 - Psim:0.875 region Length:24 
+SG
+SG
+TG
+TG
+TG
+SG
+TG
+TG
+TG
+TG
+TG
+TG
+**********************
+
+Length: 2 residues - nb: 10  from  804 to 823 - Psim:0.9 region Length:20 
+GT
+GT
+GS
+GT
+GT
+GT
+GT
+GT
+GT
+GG
+**********************
+
+Length: 4 residues - nb: 4  from  821 to 836 - Psim:0.75 region Length:16 
+TGGD
+TGSG
+TGTG
+TGGD
+**********************
+
+Length: 4 residues - nb: 4  from  929 to 944 - Psim:0.75 region Length:16 
+GAGSA
+GA-R-
+GA-SA
+QM-SA
+**********************
+
+Length: 7 residues - nb: 2  from  887 to 901 - Psim:0.75 region Length:15 
+NEGSNAGS
+NEDDTA-S
+**********************
+
+Length: 5 residues - nb: 6  from  806 to 833 - Psim:0.7857142857142857 region Length:28 
+--GTGS-
+GTGTG--
+-TGTGTG
+-TG-GD-
+-TGSG--
+-TGTGT-
+**********************
+
+Length: 5 residues - nb: 3  from  880 to 893 - Psim:0.6666666666666666 region Length:14 
+GTDN-
+GTDNE
+GSNAG
+**********************
+
+>uniprot|A0A133Z430|A0A133Z430_9ACTN Leucine Rich repeat-containing domain protein (Fragment) [Coriobacteriales bacterium DNF00809]
+Length: 3 residues - nb: 6  from  49 to 65 - Psim:0.6666666666666666 region Length:17 
+LSP
+LAS
+LTG
+LTE
+LT-
+LTS
+**********************
+
+>uniprot|A0A1Q5DDY4|A0A1Q5DDY4_9ACTN Gala protein [Streptomyces sp. CB02058]
+Length: 5 residues - nb: 3  from  235 to 249 - Psim:0.7222222222222222 region Length:15 
+AGAAVL
+AGAA--
+AGPE-R
+**********************
+
+>uniprot|A0A133YZT2|A0A133YZT2_9ACTN LPXTG-motif protein cell wall anchor domain protein [Coriobacteriales bacterium DNF00809]
+Length: 7 residues - nb: 2  from  363 to 376 - Psim:0.7857142857142857 region Length:14 
+LNGQIST
+LNGQLEK
+**********************
+
+>uniprot|A0A133Z0G7|A0A133Z0G7_9ACTN Leucine Rich repeat-containing domain protein [Coriobacteriales bacterium DNF00809]
+Length: 6 residues - nb: 3  from  758 to 777 - Psim:0.7142857142857143 region Length:20 
+LNQKIGT
+LNGQITT
+LNQQ-AE
+**********************
+
+Length: 8 residues - nb: 2  from  795 to 812 - Psim:0.65 region Length:18 
+AQVNQLTEQV
+AQLT--TDKQ
+**********************
+
+>uniprot|A0A2E5EVN6|A0A2E5EVN6_9ACTN Uncharacterized protein (Fragment) [Actinobacteria bacterium]
+Length: 5 residues - nb: 5  from  568 to 594 - Psim:0.65 region Length:27 
+LS-DL-N-
+LSHNL---
+IS-SI-SD
+LS-QLIH-
+LS-RF-D-
+**********************
+
+Length: 6 residues - nb: 3  from  2771 to 2789 - Psim:0.6666666666666666 region Length:19 
+DLLLSDP
+DLNLSC-
+DLG-SQS
+**********************
+
+>uniprot|A0A2E5EVT3|A0A2E5EVT3_9ACTN Uncharacterized protein [Actinobacteria bacterium]
+Length: 7 residues - nb: 2  from  69 to 83 - Psim:0.6875 region Length:15 
+PITYTHIY
+PITHLSC-
+**********************
+
+>uniprot|A0A1R4GNY2|A0A1R4GNY2_9MICO Rab family protein [Agrococcus casei LMG 22410]
+Length: 5 residues - nb: 4  from  478 to 500 - Psim:0.75 region Length:23 
+DPVVTD
+DPIEAD
+DPIVAP
+DP-VAT
+**********************
+
+Length: 6 residues - nb: 4  from  478 to 501 - Psim:0.7083333333333334 region Length:24 
+DPVVTD
+DPIEAD
+DPIVAP
+DPVATD
+**********************
+
+Length: 7 residues - nb: 4  from  478 to 502 - Psim:0.7142857142857143 region Length:25 
+DPVVTD-
+DPIEAD-
+DPIVAP-
+DPVATDA
+**********************
+
+>uniprot|UPI00036E16DE|UPI00036E16DE hypothetical protein [Amycolatopsis nigrescens]
+Length: 9 residues - nb: 2  from  12 to 28 - Psim:0.6666666666666666 region Length:17 
+DLTEPPEL-
+DLTGVRRVE
+**********************
+
+>uniprot|UPI00037F324C|UPI00037F324C leucine-rich repeat domain-containing protein [Streptomyces sp. HmicA12]
+Length: 5 residues - nb: 3  from  181 to 196 - Psim:0.7222222222222222 region Length:16 
+LRGLPR
+LRRLD-
+LRG-NR
+**********************
+
+Length: 8 residues - nb: 2  from  120 to 139 - Psim:0.75 region Length:20 
+ELRAQHNRLT
+ELPDSVGRLT
+**********************
+
+Length: 10 residues - nb: 2  from  120 to 139 - Psim:0.75 region Length:20 
+ELRAQHNRLT
+ELPDSVGRLT
+**********************
+
+>uniprot|UPI00040DCB03|UPI00040DCB03 leucine-rich repeat domain-containing protein [Acidipropionibacterium jensenii]
+Length: 18 residues - nb: 2  from  314 to 353 - Psim:0.7045454545454546 region Length:40 
+APLSKTVNLLEFYADGNRISDL
+APLSNLVNLQSLSVNGNQ----
+**********************
+
+>uniprot|UPI00041939F5|UPI00041939F5 hypothetical protein [Glycomyces arizonensis]
+Length: 20 residues - nb: 2  from  45 to 87 - Psim:0.8260869565217391 region Length:43 
+LSFNELEMLPEAIGDLTALTDLN
+LSGNKLAVLPDAIGDLTALT---
+**********************
+
+Length: 23 residues - nb: 3  from  45 to 113 - Psim:0.8055555555555556 region Length:69 
+L-SFNELEMLPEAIGDLTALTDLN
+L-SGNKLAVLPDAIGDLTALTDLN
+LNSSNKLETLPEAIGNLISLGEL-
+**********************
+
+>uniprot|UPI00042A36A0|UPI00042A36A0 hypothetical protein [Amycolatopsis thermoflava]
+Length: 5 residues - nb: 3  from  180 to 194 - Psim:0.6666666666666666 region Length:15 
+LRYLD
+LRENE
+LRTLP
+**********************
+
+>uniprot|UPI0004804E9B|UPI0004804E9B leucine-rich repeat domain-containing protein [Streptomyces sp. CNH287]
+Length: 6 residues - nb: 3  from  191 to 209 - Psim:0.7083333333333334 region Length:19 
+NP--LRTL
+-PAALASL
+-PA-LEKL
+**********************
+
+>uniprot|UPI000488A2F5|UPI000488A2F5 leucine-rich repeat domain-containing protein [Streptomyces sp. CNH099]
+Length: 5 residues - nb: 3  from  160 to 174 - Psim:0.6666666666666666 region Length:15 
+LRELE
+LRENA
+LRSVP
+**********************
+
+>uniprot|UPI0004AE0C7A|UPI0004AE0C7A hypothetical protein [Actinomadura oligospora]
+Length: 5 residues - nb: 3  from  588 to 603 - Psim:0.7777777777777778 region Length:16 
+PLADLT
+PLAAL-
+PLTRL-
+**********************
+
+Length: 6 residues - nb: 3  from  588 to 604 - Psim:0.7222222222222222 region Length:17 
+PLADLT
+PLAAL-
+PLTRLF
+**********************
+
+Length: 10 residues - nb: 4  from  374 to 414 - Psim:0.6538461538461539 region Length:41 
+LGGNRLTALPE-S
+LG--RLTALTELN
+LGGNRLTRLP---
+-A-S-ISALT--G
+**********************
+
+>uniprot|UPI0004C1E665|UPI0004C1E665 leucine-rich repeat domain-containing protein [Mycetocola saprophilus]
+Length: 3 residues - nb: 8  from  338 to 361 - Psim:0.8333333333333334 region Length:24 
+PTD
+PTE
+PTD
+PTE
+PTE
+PTD
+PTD
+PTT
+**********************
+
+Length: 3 residues - nb: 6  from  404 to 421 - Psim:0.6666666666666666 region Length:18 
+-AT--
+-AT-T
+DPA-A
+-GT--
+-GTDT
+-GT-Q
+**********************
+
+Length: 4 residues - nb: 8  from  338 to 362 - Psim:0.84375 region Length:25 
+PTD-
+PTE-
+PTD-
+PTE-
+PTE-
+PTD-
+PTD-
+PTTP
+**********************
+
+Length: 5 residues - nb: 10  from  337 to 392 - Psim:0.6857142857142857 region Length:56 
+EPTDPT-
+EPTDPT-
+EPTEP--
+--TDPTD
+-PTTPVD
+-PTDSTE
+-PTTPT-
+EPTTPT-
+APVDPN-
+APAI-T-
+**********************
+
+Length: 5 residues - nb: 5  from  365 to 392 - Psim:0.6571428571428571 region Length:28 
+-PTDSTE
+-PTTPT-
+EPTTPT-
+APVDPN-
+APAI-T-
+**********************
+
+Length: 6 residues - nb: 4  from  337 to 360 - Psim:0.9166666666666666 region Length:24 
+EPTDPT
+EPTDPT
+EPTEPT
+DPTDPT
+**********************
+
+Length: 6 residues - nb: 4  from  365 to 387 - Psim:0.7142857142857143 region Length:23 
+-PTDSTE
+-PTTPTE
+-PTTPT-
+APVDPN-
+**********************
+
+Length: 8 residues - nb: 6  from  337 to 378 - Psim:0.7916666666666666 region Length:42 
+-E--PTDPT---
+-E--PTDPT---
+-E--PTEPTDP-
+TD--PTTPV--D
+----PTDST-E-
+-PTTPTEPT---
+**********************
+
+Length: 8 residues - nb: 4  from  357 to 387 - Psim:0.675 region Length:31 
+-TDPTTPVDP
+-TDSTEPT-T
+PTEPTTPT--
+-A-PVDPN--
+**********************
+
+>uniprot|UPI0004C44296|UPI0004C44296 hypothetical protein [Micromonospora chokoriensis]
+Length: 23 residues - nb: 12  from  59 to 331 - Psim:0.6909722222222222 region Length:273 
+LP-DAVAAWTSLTELSLSTNRLTA
+LP-NAVAAWTSLTELSLSNNRLTA
+LP-NAVAAWAALTHLHADRNQLSA
+LP-DTVAAWTALTQLDLDYNQLSA
+LP-DAVAAWTALTRLDVDHNRLSA
+LP-SAVAAWTRLGVLYLDDNQLTA
+LP-DAVAAWTSLTELGLESNRLTA
+LP-DAVAAWTSLTELHLAGNQLTT
+LP-DTMAAWASLMSLDLDDNQLTT
+LP-DAIDALTSLVELYLVGNQLTT
+LP-DAIGRLAGLQVLVVQEN--P-
+LPPEVLAAEVEGTKALLAFLR-DV
+**********************
+
+Length: 23 residues - nb: 8  from  111 to 294 - Psim:0.7445652173913043 region Length:184 
+AWAALTHLHADRNQLSALPDTVA
+AWTALTQLDLDYNQLSALPDAVA
+AWTALTRLDVDHNRLSALPSAVA
+AWTRLGVLYLDDNQLTALPDAVA
+AWTSLTELGLESNRLTALPDAVA
+AWTSLTELHLAGNQLTTLPDTMA
+AWASLMSLDLDDNQLTTLPDAID
+ALTSLVELYLVGNQLTTLPDAIG
+**********************
+
+Length: 23 residues - nb: 4  from  143 to 234 - Psim:0.8 region Length:92 
+LD-YN-QLSALPDAVAAWTALTR--
+LDVDHNRLSALPSAVAAWTRLGVLY
+LD-DN-QLTALPDAVAAWTSLTELG
+LE-SN-RLTALPDAVAAWTSLTELH
+**********************
+
+Length: 23 residues - nb: 6  from  177 to 314 - Psim:0.6956521739130435 region Length:138 
+AVAAWTRLGVLYLDDNQLTALPD
+AVAAWTSLTELGLESNRLTALPD
+AVAAWTSLTELHLAGNQLTTLPD
+TMAAWASLMSLDLDDNQLTTLPD
+AIDALTSLVELYLVGNQLTTLPD
+AIGRLAGLQVLVVQENPLPPEVL
+**********************
+
+Length: 23 residues - nb: 4  from  220 to 308 - Psim:0.6847826086956522 region Length:89 
+LPDAVAAWTSLTELHLAGNQLTT
+LPDTMAAWASLMSLDLDDNQLTT
+LPDAIDALTSLVELYLVGNQLTT
+LPDAIGRLAGL-QV-LVVQE-NP
+**********************
+
+>uniprot|UPI0004C614AB|UPI0004C614AB hypothetical protein [Streptomyces fulvoviolaceus]
+Length: 3 residues - nb: 5  from  93 to 106 - Psim:0.6666666666666666 region Length:14 
+LR-
+LRG
+MTS
+LRG
+LRH
+**********************
+
+Length: 8 residues - nb: 2  from  391 to 406 - Psim:0.6875 region Length:16 
+LRGHRLAD
+LRGLATHP
+**********************
+
+Length: 11 residues - nb: 3  from  544 to 576 - Psim:0.6666666666666666 region Length:33 
+L-A-LDELTDIGA
+L-AALPELTDVD-
+LDS-CLKLRDC-A
+**********************
+
+>uniprot|UPI0004C6D918|UPI0004C6D918 hypothetical protein [Streptomyces sp. NRRL S-378]
+Length: 4 residues - nb: 4  from  98 to 114 - Psim:0.75 region Length:17 
+-LA-DA
+-LATDA
+-LATD-
+GHAT--
+**********************
+
+Length: 5 residues - nb: 4  from  98 to 116 - Psim:0.75 region Length:19 
+LA-DA
+LATDA
+LATDG
+HATEG
+**********************
+
+Length: 6 residues - nb: 3  from  100 to 116 - Psim:0.7142857142857143 region Length:17 
+DALAT--
+DALATD-
+GH-ATEG
+**********************
+
+>uniprot|UPI0004C74F71|UPI0004C74F71 hypothetical protein [Streptomyces anulatus]
+Length: 8 residues - nb: 2  from  66 to 79 - Psim:0.8125 region Length:14 
+VDGDLT--
+VDGDLDWW
+**********************
+
+>uniprot|UPI0004C78A3C|UPI0004C78A3C hypothetical protein [Streptomyces sp. NRRL F-5126]
+Length: 3 residues - nb: 5  from  64 to 77 - Psim:0.65 region Length:14 
+ELT-
+ELP-
+-LTQ
+YL--
+YLH-
+**********************
+
+Length: 4 residues - nb: 3  from  186 to 199 - Psim:0.6666666666666666 region Length:14 
+LRHLD
+LRSNR
+LRTL-
+**********************
+
+Length: 5 residues - nb: 3  from  186 to 200 - Psim:0.6666666666666666 region Length:15 
+LRHLD
+LRSNR
+LRTLP
+**********************
+
+Length: 13 residues - nb: 3  from  66 to 104 - Psim:0.7083333333333334 region Length:39 
+TELPLTQYLYLHDNLL
+TEL---PR-SLG--RL
+TEL---RYLNVGDNRL
+**********************
+
+>uniprot|UPI0005249ADB|UPI0005249ADB gala protein [Catenuloplanes japonicus]
+Length: 7 residues - nb: 3  from  170 to 190 - Psim:0.7083333333333334 region Length:21 
+GAGLRVLA
+GALKER--
+GAPLERL-
+**********************
+
+>uniprot|UPI000527B5B2|UPI000527B5B2 leucine-rich repeat domain-containing protein [Kitasatospora phosalacinea]
+Length: 7 residues - nb: 3  from  123 to 142 - Psim:0.6666666666666666 region Length:20 
+RLTALPP
+RLGALS-
+RLRELRL
+**********************
+
+>uniprot|UPI00053AAC2A|UPI00053AAC2A hypothetical protein [Kitasatospora sp. MBT63]
+Length: 7 residues - nb: 3  from  418 to 438 - Psim:0.6666666666666666 region Length:21 
+RLPD-L-A-
+RLPH-LRVL
+RLSGHT-P-
+**********************
+
+>uniprot|UPI0005421D7E|UPI0005421D7E hypothetical protein [Propionibacterium freudenreichii]
+Length: 4 residues - nb: 4  from  1226 to 1241 - Psim:0.8125 region Length:16 
+PTPS
+PTPS
+PTPT
+PSPT
+**********************
+
+Length: 4 residues - nb: 7  from  1237 to 1263 - Psim:0.6571428571428571 region Length:27 
+TPSP-
+TPSA-
+TPTP-
+TPT--
+-PSPR
+-PSAT
+-PTPT
+**********************
+
+>uniprot|UPI0005693799|UPI0005693799 leucine-rich repeat domain-containing protein [Streptomyces sp. NRRL B-1347]
+Length: 19 residues - nb: 2  from  99 to 140 - Psim:0.782608695652174 region Length:42 
+NRLTALPDTLGGLAGLVELRAQH
+NRLASLPDALGGLRSLREL----
+**********************
+
+>uniprot|UPI0005AB1B15|UPI0005AB1B15 leucine-rich repeat domain-containing protein [Streptacidiphilus melanogenes]
+Length: 19 residues - nb: 3  from  103 to 164 - Psim:0.6527777777777778 region Length:62 
+ALPEAVGRMAG-LVELRAQDCGLT
+ALPDAVGELGR-LRELHLR--GN-
+ALT-ALPDSFRALRELRVL---E-
+**********************
+
+>uniprot|UPI0005B790F8|UPI0005B790F8 ribonuclease inhibitor [Kutzneria sp. 744]
+Length: 11 residues - nb: 2  from  14 to 36 - Psim:0.7692307692307693 region Length:23 
+TGTATTE-RLDFP
+TGTALPDGRLD--
+**********************
+
+>uniprot|UPI0005BC1482|UPI0005BC1482 hypothetical protein [Streptomyces xylophagus]
+Length: 3 residues - nb: 6  from  433 to 449 - Psim:0.6666666666666666 region Length:17 
+-LPR
+-LPD
+-LA-
+RLP-
+RLR-
+VLR-
+**********************
+
+>uniprot|UPI0005F2BF1A|UPI0005F2BF1A gala protein [Actinoplanes rectilineatus]
+Length: 5 residues - nb: 3  from  168 to 182 - Psim:0.6666666666666666 region Length:15 
+TGLTV
+TGLAV
+LADAL
+**********************
+
+>uniprot|UPI0006271DAB|UPI0006271DAB hypothetical protein [Micromonospora sp. HK10]
+Length: 5 residues - nb: 3  from  148 to 162 - Psim:0.6666666666666666 region Length:15 
+TLP-V-
+TLSRLT
+TLGCL-
+**********************
+
+Length: 8 residues - nb: 3  from  182 to 209 - Psim:0.6666666666666666 region Length:28 
+LTRLALDRNR-
+LTALP-DSLRS
+LTNLT--TLW-
+**********************
+
+Length: 10 residues - nb: 2  from  235 to 255 - Psim:0.7916666666666666 region Length:21 
+GNPLTGLPDWL-
+GN-LTGLAH-LG
+**********************
+
+Length: 11 residues - nb: 2  from  235 to 256 - Psim:0.7916666666666666 region Length:22 
+GNPLTGLPDW-L
+GN-LTGLAHLGL
+**********************
+
+>uniprot|UPI00066BB67A|UPI00066BB67A gala protein [Nonomuraea sp. SBT364]
+Length: 7 residues - nb: 2  from  5 to 19 - Psim:0.75 region Length:15 
+VPVRCPAP
+VPSTAP-P
+**********************
+
+>uniprot|UPI00068A9D45|UPI00068A9D45 leucine-rich repeat domain-containing protein [Streptomyces aureocirculatus]
+Length: 5 residues - nb: 5  from  162 to 189 - Psim:0.6571428571428571 region Length:28 
+LRGN-R-
+LTALPDT
+LRHLGE-
+LREL-E-
+LREN-A-
+**********************
+
+>uniprot|UPI00068B1915|UPI00068B1915 hypothetical protein [Streptosporangium amethystogenes]
+Length: 3 residues - nb: 8  from  47 to 72 - Psim:0.7708333333333334 region Length:26 
+E-LD--
+--LTFN
+E-LT--
+E-LP--
+EWLG--
+D-LT--
+D-LT--
+R-LR--
+**********************
+
+Length: 3 residues - nb: 5  from  217 to 232 - Psim:0.65 region Length:16 
+-RLT
+-RLP
+DSMC
+-ALT
+-ALT
+**********************
+
+Length: 8 residues - nb: 2  from  231 to 250 - Psim:0.7083333333333334 region Length:20 
+LTEL-DL-HDNR
+LTELPEWLGD--
+**********************
+
+Length: 23 residues - nb: 2  from  303 to 348 - Psim:0.8478260869565217 region Length:46 
+LDLRGNRLTELPEPLRNLTALAE
+LDLRGNRLAEVPEWLPDLTALTT
+**********************
+
+>uniprot|UPI00068C36A9|UPI00068C36A9 leucine-rich repeat domain-containing protein [Actinoplanes subtropicus]
+Length: 8 residues - nb: 2  from  61 to 74 - Psim:0.8125 region Length:14 
+LAELD--R
+LAELDVTH
+**********************
+
+>uniprot|UPI00068C402E|UPI00068C402E leucine-rich repeat domain-containing protein [Arcanobacterium sp. S3PF19]
+Length: 4 residues - nb: 8  from  615 to 647 - Psim:0.6607142857142857 region Length:33 
+TP-VPP-
+-T-PPV-
+-PPTP--
+-P-APH-
+-P-AVT-
+-D-GG--
+-P-ASNP
+-P-AAS-
+**********************
+
+Length: 5 residues - nb: 3  from  42 to 56 - Psim:0.6666666666666666 region Length:15 
+PS-PA-
+PSQTGT
+PS-SAQ
+**********************
+
+Length: 5 residues - nb: 3  from  615 to 630 - Psim:0.8333333333333334 region Length:16 
+TP-VPP
+TPPVPP
+TPPAP-
+**********************
+
+Length: 6 residues - nb: 4  from  615 to 637 - Psim:0.7142857142857143 region Length:23 
+TP-VPP-
+TPPVPP-
+TPPAPH-
+-PAVTDG
+**********************
+
+Length: 8 residues - nb: 2  from  616 to 629 - Psim:0.875 region Length:14 
+PVPPTP--
+PVPPTPPA
+**********************
+
+Length: 22 residues - nb: 5  from  203 to 314 - Psim:0.672 region Length:112 
+GN-RKI-SDISALAKLTKLRDLDL-
+GRTR-QISDIGALSGLTALKNLKLS
+GN-K-I-TSAEPLKNLTALETLFLD
+GN-R-I-SDITPLKNLTALKTLAMG
+GN-K-V-GDIAALGGMTKLTELFLN
+**********************
+
+>uniprot|UPI00068D5FE6|UPI00068D5FE6 leucine-rich repeat domain-containing protein [Streptosporangium amethystogenes]
+Length: 6 residues - nb: 3  from  42 to 60 - Psim:0.7619047619047619 region Length:19 
+LTELPRF
+LTDLP-V
+LTDLD-L
+**********************
+
+>uniprot|UPI000690E638|UPI000690E638 hypothetical protein [Streptosporangium amethystogenes]
+Length: 7 residues - nb: 2  from  149 to 163 - Psim:0.875 region Length:15 
+LPPSATPE
+LPPTATP-
+**********************
+
+Length: 8 residues - nb: 2  from  149 to 164 - Psim:0.875 region Length:16 
+LPPSATPE
+LPPTATPT
+**********************
+
+Length: 10 residues - nb: 3  from  149 to 178 - Psim:0.8055555555555556 region Length:30 
+LPPSATP----E
+LPPTATPTGAPE
+LPPTATLTG--H
+**********************
+
+Length: 11 residues - nb: 2  from  155 to 177 - Psim:0.9166666666666666 region Length:23 
+PELPPTATPTGA
+PELPPTATLTG-
+**********************
+
+Length: 12 residues - nb: 2  from  155 to 178 - Psim:0.9166666666666666 region Length:24 
+PELPPTATPTGA
+PELPPTATLTGH
+**********************
+
+Length: 19 residues - nb: 3  from  54 to 118 - Psim:0.7222222222222222 region Length:65 
+LHLENNELTAVPEWLGNLSR-LST
+LHLENNQLIALPESLGNLPH-LNT
+LHLENNRLPLLPP-----PHSTDR
+**********************
+
+Length: 23 residues - nb: 3  from  54 to 122 - Psim:0.7246376811594203 region Length:69 
+LHLENNELTAVPEWLGNLSRLST
+LHLENNQLIALPESLGNLPHLNT
+LHLENNRLPLLPPPHSTDRRLPR
+**********************
+
+Length: 42 residues - nb: 5  from  236 to 429 - Psim:0.6956521739130435 region Length:194 
+LATAGGLDGTVRLWDVTGRK-TVATAT-L-TSSPVYSMAFSPDGKI
+LAT-GGSD-TVQLWDVAGRK-TIATLN-SHTSDWFHSMAFSPDGKI
+LATAGSINGEVRLWDVADRK-TATTLSGY-TGA-VSSVAFSPDGKT
+LAT-GGLDNTVRLWDVASREPTTLTSN---TEN-VYEVVFSPDGKT
+LA-AGSEDGTVRLWSTT-RP--V-TEA---T----HS---------
+**********************
+
+>uniprot|UPI000690F2C3|UPI000690F2C3 hypothetical protein [Streptosporangium amethystogenes]
+Length: 5 residues - nb: 3  from  212 to 226 - Psim:0.6666666666666666 region Length:15 
+LSGSE
+LSRSE
+LTVNR
+**********************
+
+Length: 10 residues - nb: 3  from  63 to 95 - Psim:0.717948717948718 region Length:33 
+LGDLTGLTFL-D-
+LG-YNGLTSPPEW
+LGDLTALTTL---
+**********************
+
+Length: 11 residues - nb: 3  from  284 to 317 - Psim:0.717948717948718 region Length:34 
+TALTRLDLRYNKL
+TALPE-SL-GN-L
+TALKKLDLSGN--
+**********************
+
+Length: 23 residues - nb: 9  from  57 to 268 - Psim:0.8290598290598291 region Length:212 
+-----TV--LPE---WLGDLTGLTFLDL-GYNGL-----
+-----TS--PPE---WLGDLTALTTLDLSG-NEL-----
+-----TV--LPE---WLGNLTHLTELNLYG-SEL-----
+-----TV--LPE---WLGNLTHLTRLDLFG-NEL-----
+-----TV--LPE---SLGDLTGLTFLDLGG-NEL-----
+-----TA--LPE---SLGNLTHLTDLNLYD-NKL-----
+-----TV--LPE---CLGHLTALTTLDLSG-SELSRSEL
+-----TVNRLTVLPEWLGNLTALTTLDL-----------
+SSNELTV--LPE---SLGNLTHLT--DL---N-L-----
+**********************
+
+>uniprot|UPI0006941AF5|UPI0006941AF5 leucine-rich repeat domain-containing protein [Streptomyces sp. NRRL B-24484]
+Length: 5 residues - nb: 3  from  209 to 223 - Psim:0.7333333333333333 region Length:15 
+LRVLD
+LRNNP
+LRRLP
+**********************
+
+Length: 19 residues - nb: 4  from  148 to 231 - Psim:0.6517857142857143 region Length:84 
+NRLTELPDALGGIA-NL--RELRL--YR
+NRLTALPE--GIG-RLRALCELHLA--D
+NRLTELPD--GIG-RL-AE--LRVL---
+D-LRNNP----LR-RL-PE-SLAGLTR-
+**********************
+
+>uniprot|UPI0006980F38|UPI0006980F38 hypothetical protein [Micromonospora sp. HK10]
+Length: 8 residues - nb: 2  from  198 to 215 - Psim:0.85 region Length:18 
+LTALPDRLGD
+LTALT-RL-D
+**********************
+
+Length: 10 residues - nb: 2  from  198 to 217 - Psim:0.7727272727272727 region Length:20 
+LTALPDRLG-D
+LTALT-RLDLT
+**********************
+
+Length: 11 residues - nb: 5  from  186 to 242 - Psim:0.6923076923076923 region Length:57 
+TALTWLDLAGNQL
+TALP--DRLGD-L
+TALTRLDLTGNQL
+TALP--DSLG-RL
+TALTHLLLTAN--
+**********************
+
+Length: 13 residues - nb: 5  from  186 to 244 - Psim:0.7076923076923077 region Length:59 
+TALTWLDLAGNQL
+TALP--DRLGD-L
+TALTRLDLTGNQL
+TALP--DSLG-RL
+TALTHLLLTANRL
+**********************
+
+Length: 13 residues - nb: 2  from  243 to 271 - Psim:0.7941176470588235 region Length:29 
+RLSALPASLGN-LTALT
+RLD-L-A--GNQLTALP
+**********************
+
+Length: 23 residues - nb: 9  from  57 to 263 - Psim:0.7729468599033816 region Length:207 
+GNRLTELPDWLTGLTALTRLNLT
+ANQLTELPDRLGDLTALTRLDLT
+GNRLTALPESLTGLSDLTELFVP
+GNRLAALPESLGALAALTDLFVG
+GNRLTTLPESLGDLTALTRLGLS
+GNQLTTLPDWLGRLTALTWLDLA
+GNQLTALPDRLGDLTALTRLDLT
+GNQLTALPDSLGRLTALTHLLLT
+ANRLSALPASLGNLTALTRLDLA
+**********************
+
+>uniprot|UPI0006984797|UPI0006984797 leucine-rich repeat domain-containing protein [Arthrobacter sp. IHBB 11108]
+Length: 10 residues - nb: 2  from  125 to 146 - Psim:0.7916666666666666 region Length:22 
+TDLSALKNLSNL
+TDLQLRKN--NL
+**********************
+
+>uniprot|UPI0006E17567|UPI0006E17567 hypothetical protein [Streptomyces griseoplanus]
+Length: 5 residues - nb: 3  from  162 to 177 - Psim:0.6666666666666666 region Length:16 
+LREL-E
+LREN-D
+LTRVPE
+**********************
+
+>uniprot|UPI0006E18AF5|UPI0006E18AF5 hypothetical protein [Streptomyces hirsutus]
+Length: 23 residues - nb: 3  from  141 to 214 - Psim:0.7261904761904762 region Length:74 
+RELWLRGNALTYLPESAAALTELRHLDL
+RE-----NALKELPEPLAGLPLLRHLDL
+RS-----NHLRKLPDWLTELPSLEKLDL
+**********************
+
+>uniprot|UPI0006E1BD75|UPI0006E1BD75 hypothetical protein [Nonomuraea sp. NBRC 110462]
+Length: 5 residues - nb: 3  from  841 to 855 - Psim:0.7142857142857143 region Length:15 
+RLELS-C
+RL-LD--
+RL-AGP-
+**********************
+
+Length: 10 residues - nb: 3  from  105 to 136 - Psim:0.717948717948718 region Length:32 
+SLGRLTRLTTL--
+SLYD-NQLTTLPD
+SLGDLVHLT----
+**********************
+
+Length: 23 residues - nb: 6  from  56 to 193 - Psim:0.7028985507246377 region Length:138 
+LPDWLRRLTGLTRLSLYVNQLTA
+LPDWLGDLTGLTRLSLGGNQLKS
+LPDSLGRLTRLTTLSLYDNQLTT
+LPDSLGDLVHLTSLSLSGNQLSA
+LPESLGGLVNLVELDLGFNRLRT
+LPESLGALTRLETFVLEGNDLVS
+**********************
+
+>uniprot|UPI00076588D6|UPI00076588D6 hypothetical protein [Streptomyces diastatochromogenes]
+Length: 8 residues - nb: 2  from  101 to 117 - Psim:0.8333333333333334 region Length:17 
+RGLRHLTML
+RGL-HLDRL
+**********************
+
+Length: 9 residues - nb: 2  from  315 to 334 - Psim:0.6818181818181818 region Length:20 
+LTRLYLRGSER
+LTSL--RDIAS
+**********************
+
+>uniprot|UPI000774584A|UPI000774584A hypothetical protein [Microtetraspora glauca]
+Length: 3 residues - nb: 5  from  68 to 82 - Psim:0.68 region Length:15 
+-LTT-
+--LTL
+WR-N-
+-RLT-
+-RLP-
+**********************
+
+Length: 10 residues - nb: 5  from  184 to 234 - Psim:0.6571428571428571 region Length:51 
+LTEL--W-LGL-NR
+LTEVPEW-LG--N-
+LTGL--KELYL-N-
+QNRL----TGLPDS
+LRNL--TALTTLN-
+**********************
+
+Length: 11 residues - nb: 5  from  184 to 237 - Psim:0.7125 region Length:54 
+LT---EL--W-LGLNR
+LT---EVPEW-LG-N-
+LTGLKEL--Y-LNQNR
+LT---GL--P-DSLRN
+LT---AL--TTLNLRN
+**********************
+
+>uniprot|UPI0007C57929|UPI0007C57929 leucine-rich repeat domain-containing protein [Streptomyces sp. RTd22]
+Length: 3 residues - nb: 5  from  81 to 96 - Psim:0.8 region Length:16 
+R-LP
+R-LP
+RSLG
+R-LD
+R-LG
+**********************
+
+>uniprot|UPI00082C71B2|UPI00082C71B2 gala protein [Actinomadura macra]
+Length: 5 residues - nb: 3  from  265 to 279 - Psim:0.6666666666666666 region Length:15 
+AL--AG
+ALGRIE
+ALD-LG
+**********************
+
+Length: 9 residues - nb: 2  from  278 to 295 - Psim:0.7222222222222222 region Length:18 
+LGRPPSERA
+LGAPPNATG
+**********************
+
+>uniprot|UPI00089612BF|UPI00089612BF hypothetical protein [Streptomyces sp. KS_5]
+Length: 9 residues - nb: 2  from  42 to 59 - Psim:0.8333333333333334 region Length:18 
+EVRLASWPD
+EVREASWSW
+**********************
+
+>uniprot|UPI00093F27C2|UPI00093F27C2 GTP-binding protein [Amycolatopsis sp. CB00013]
+Length: 19 residues - nb: 3  from  160 to 224 - Psim:0.6805555555555556 region Length:65 
+LSALRELHL-RKNLLTSLPSSIGD
+LSELRQLDL-WENRLTSLPESITR
+LSKLDKLDLRW-NK--ELREP-P-
+**********************
+
+>uniprot|UPI00098FD9A1|UPI00098FD9A1 hypothetical protein [Corynebacterium provencense]
+Length: 3 residues - nb: 6  from  47 to 65 - Psim:0.7916666666666666 region Length:19 
+GSL-
+GSSS
+GSW-
+GSS-
+GSS-
+GGG-
+**********************
+
+Length: 4 residues - nb: 8  from  47 to 75 - Psim:0.6875 region Length:29 
+GS--L-
+GS--SS
+GS--W-
+GS--S-
+GS--SG
+GGGEN-
+PT--P-
+PT--AE
+**********************
+
+>uniprot|D7CGV5|D7CGV5_STRBB Small GTP-binding protein domain-containing protein [Streptomyces bingchenggensis BCW-1]
+Length: 12 residues - nb: 4  from  262 to 308 - Psim:0.6666666666666666 region Length:47 
+-TALTGINL-GFNRL
+-TALPE-TL-G-GL-
+-TALTSLSLRG-NR-
+LTELPA-SMAG-LT-
+**********************
+
+Length: 13 residues - nb: 4  from  262 to 309 - Psim:0.6607142857142857 region Length:48 
+TALTGINL-GFNRL
+TALPE-TL-G-G-L
+TALTSLSLRG-NRL
+TELPA-SMAG-LTA
+**********************
+
+>uniprot|A0A1S6RC85|A0A1S6RC85_STRHY Small GTP-binding protein domain-containing protein [Streptomyces hygroscopicus]
+Length: 5 residues - nb: 5  from  39 to 65 - Psim:0.675 region Length:27 
+--LD-LGF
+--LD-LNV
+IPSS-LG-
+-ELTALT-
+-ELD-LS-
+**********************
+
+Length: 8 residues - nb: 3  from  127 to 154 - Psim:0.6666666666666666 region Length:28 
+LTELNL-EGNQ
+LTELPAWVG-E
+LTALT--ELN-
+**********************
+
+Length: 8 residues - nb: 3  from  150 to 177 - Psim:0.7272727272727273 region Length:28 
+LTELNLS-GNQ
+LTELPASLGN-
+LTAL-TEL-N-
+**********************
+
+Length: 10 residues - nb: 3  from  150 to 179 - Psim:0.7222222222222222 region Length:30 
+LTELN-LS-GNQ
+LTELP-ASLGN-
+LTALTELN-LD-
+**********************
+
+Length: 13 residues - nb: 3  from  150 to 182 - Psim:0.7619047619047619 region Length:33 
+LT---ELNLS-GNQ
+LT---ELPASLGN-
+LTALTELNLD-FNH
+**********************
+
+Length: 20 residues - nb: 4  from  130 to 215 - Psim:0.7019230769230769 region Length:86 
+L-NLEG-NQ-LTELPAWVGELTALTE
+L-NLSG-NQ-LTELPASLGNLTALTE
+L-NLDF-NH-LAQLPASVGGLGA---
+LTHLLLGSNRLSRLPASVG---G---
+**********************
+
+Length: 20 residues - nb: 7  from  172 to 326 - Psim:0.6583850931677019 region Length:155 
+ALTELNLDFNHLAQLPASVGGLG
+ALTHLLLGSNRLSRLPASVGGLG
+ALTWLNLDRNDLAVLPAWVGDLT
+ALTGLNLGGNRLTVLPESLGNLS
+ALAHFDINSNRLTELPASLGNLA
+ALKRLVLRGNRLTDLPASLRQLT
+ALTGLHLDDSEFTELP-S-----
+**********************
+
+Length: 20 residues - nb: 4  from  241 to 326 - Psim:0.6739130434782609 region Length:86 
+ALTGLNLGGNRLTVLPESLGNLS
+ALAHFDINSNRLTELPASLGNLA
+ALKRLVLRGNRLTDLPASLRQLT
+ALTGLHLDDSEFTELP-S-----
+**********************
+
+Length: 23 residues - nb: 7  from  172 to 326 - Psim:0.6583850931677019 region Length:155 
+ALTELNLDFNHLAQLPASVGGLG
+ALTHLLLGSNRLSRLPASVGGLG
+ALTWLNLDRNDLAVLPAWVGDLT
+ALTGLNLGGNRLTVLPESLGNLS
+ALAHFDINSNRLTELPASLGNLA
+ALKRLVLRGNRLTDLPASLRQLT
+ALTGLHLDDSEFTELP-S-----
+**********************
+
+Length: 23 residues - nb: 5  from  204 to 318 - Psim:0.7130434782608696 region Length:115 
+NRLSRLPASVGGLGALTWLNLDR
+NDLAVLPAWVGDLTALTGLNLGG
+NRLTVLPESLGNLSALAHFDINS
+NRLTELPASLGNLAALKRLVLRG
+NRLTDLPASLRQLTALTGLHLDD
+**********************
+
+>uniprot|UPI000997065E|UPI000997065E hypothetical protein [Streptomyces sp. PRh5]
+Length: 23 residues - nb: 2  from  208 to 258 - Psim:0.7857142857142857 region Length:51 
+RELWLRGNALHRLPESAAELTQLRHLDL
+RE-----NALTEIPKSLAELPLLRHLDL
+**********************
+
+>uniprot|UPI0009A1DDE8|UPI0009A1DDE8 hypothetical protein [Streptomyces cinnamoneus]
+Length: 13 residues - nb: 2  from  247 to 275 - Psim:0.6875 region Length:29 
+HLTELPESLSALPELT
+HL-DL-RN-NRLTELP
+**********************
+
+Length: 20 residues - nb: 3  from  241 to 306 - Psim:0.7681159420289855 region Length:66 
+LDLRNNHLTELPESLSALPELTH
+LDLRNNRLTELPESLSQLPFLEK
+LDLRWNPIASRPVWLSAL-E--H
+**********************
+
+>uniprot|UPI0009BB7834|UPI0009BB7834 hypothetical protein [Trueperella pyogenes]
+Length: 3 residues - nb: 6  from  383 to 399 - Psim:0.6666666666666666 region Length:17 
+-P-S
+PS-S
+PDAS
+AP--
+AP-Q
+AP-S
+**********************
+
+>uniprot|UPI0009D6F653|UPI0009D6F653 hypothetical protein [Mobiluncus mulieris]
+Length: 4 residues - nb: 7  from  318 to 343 - Psim:0.7142857142857143 region Length:26 
+SG-S
+SGGY
+SG-F
+SGGS
+SSSG
+SGGS
+SGGG
+**********************
+
+Length: 5 residues - nb: 3  from  328 to 343 - Psim:0.7222222222222222 region Length:16 
+SGGSSS
+SG-SGG
+SS-GGG
+**********************
+
+Length: 7 residues - nb: 3  from  322 to 343 - Psim:0.75 region Length:22 
+GGYSGF-S
+GGSSSSGS
+GGSSGG-G
+**********************
+
+Length: 9 residues - nb: 2  from  319 to 338 - Psim:0.7727272727272727 region Length:20 
+GSSGGYSGFSG
+GSSS--SGSGG
+**********************
+
+Length: 23 residues - nb: 3  from  451 to 519 - Psim:0.9130434782608695 region Length:69 
+SLPKEIGQLQNLQALNLGENQLT
+SLPKEIGQLQNLHTLNLGGNQLT
+SIPTEILQLQNLQALNLGENQLT
+**********************
+
+Length: 23 residues - nb: 3  from  540 to 604 - Psim:0.855072463768116 region Length:65 
+PV----DQHSQRNQPTPKPPNPL
+PVEKPVDQFSQRNQPTPKPPTPL
+PGGKPVDQHSQRNQTTPKPPNPQ
+**********************
+
+Length: 23 residues - nb: 3  from  565 to 628 - Psim:0.7971014492753623 region Length:64 
+DQFSQRNQPTPKPPTPLPGGKPV
+DQHSQRNQTTPKPPNPQPVEKPV
+DQFSHRNPPTPKPPTP----RP-
+**********************
+
+>uniprot|D2B3F7|D2B3F7_STRRD Uncharacterized protein [Streptosporangium roseum DSM 43021]
+Length: 10 residues - nb: 3  from  189 to 223 - Psim:0.6923076923076923 region Length:35 
+GN-LTDLTLLNLS
+GNRLT--TLPDTL
+GN-LASLTKLSLY
+**********************
+
+Length: 23 residues - nb: 11  from  161 to 413 - Psim:0.766798418972332 region Length:253 
+LPEWLGNLTDLTELDLSSNRLTA
+LPEVLGNLTDLTLLNLSGNRLTT
+LPDTLGNLASLTKLSLYGNQLTA
+LPETLGNLTDLTELDLSSNRLTT
+LPDTLGNLASLTMLSLYGNQLTA
+LPETLGNLTNLTELDLSSNRLTT
+LPEVLGNLTDLTTFIAHDNLLTA
+VPEWLGDITDLTLLGLSGNRLTT
+LPDTLGNLTSLTMLSLYGNQLTA
+LPETLGNLTDLTDLELWNNRLTA
+LPESLGDLPDLTWINLSGNPIDA
+**********************
+
+Length: 46 residues - nb: 5  from  202 to 416 - Psim:0.7652173913043478 region Length:215 
+NRLTTLPDTLGNLASLTKLSLYGNQLTALPETLGNLTDLTELDLSS
+NRLTTLPDTLGNLASLTMLSLYGNQLTALPETLGNLTNLTELDLSS
+NRLTTLPEVLGNLTDLTTFIAHDNLLTAVPEWLGDITDLTLLGLSG
+NRLTTLPDTLGNLTSLTMLSLYGNQLTALPETLGNLTDLTDLELWN
+NRLTALPESLGDLPDLTWINLSGN-----P--I----D-AD-D-R-
+**********************
+
+>uniprot|UPI0009DB70C2|UPI0009DB70C2 leucine-rich repeat domain-containing protein [Solirubrobacter sp. URHD0082]
+Length: 3 residues - nb: 5  from  195 to 208 - Psim:0.7 region Length:14 
+RA--
+RA-G
+LPDG
+RA--
+RA-L
+**********************
+
+Length: 4 residues - nb: 4  from  78 to 93 - Psim:0.8 region Length:16 
+ARGRA
+AR-R-
+ARGR-
+GHGR-
+**********************
+
+Length: 5 residues - nb: 3  from  20 to 34 - Psim:0.6666666666666666 region Length:15 
+RG-PD-
+RGLGGG
+RG-SGA
+**********************
+
+Length: 5 residues - nb: 3  from  78 to 92 - Psim:0.7222222222222222 region Length:15 
+ARGRA-
+AR-RAR
+GRGHG-
+**********************
+
+Length: 5 residues - nb: 4  from  312 to 331 - Psim:0.6666666666666666 region Length:20 
+ARDRRR
+AR-HA-
+AR-RLR
+AR-QGG
+**********************
+
+Length: 6 residues - nb: 3  from  105 to 123 - Psim:0.7142857142857143 region Length:19 
+RARGVAG
+RARGLR-
+R-RGARA
+**********************
+
+Length: 7 residues - nb: 7  from  99 to 148 - Psim:0.6666666666666666 region Length:50 
+RG-R-LGARA--
+RG-V-A-GRA--
+RGLR-R--RG--
+A--R-A--AAGP
+ADPH-A--RR-V
+AD-R-L--RA--
+AD-APL--VG--
+**********************
+
+Length: 9 residues - nb: 4  from  86 to 121 - Psim:0.75 region Length:36 
+ARG-RG-HGR-P
+AR--RQ-RGRLG
+ARA-RGVAGR--
+ARGLRR-RGA--
+**********************
+
+Length: 9 residues - nb: 3  from  105 to 130 - Psim:0.696969696969697 region Length:26 
+RAR-GVA--G--
+RAR-GLRRRGA-
+RAAAGPA--DP-
+**********************
+
+Length: 9 residues - nb: 3  from  293 to 320 - Psim:0.6666666666666666 region Length:28 
+ARGGREHRVP-
+ARPGR-LQ-HP
+ARDRRRAR-H-
+**********************
+
+>uniprot|UPI0009DC49E8|UPI0009DC49E8 hypothetical protein [Actinomadura flavalba]
+Length: 4 residues - nb: 3  from  238 to 251 - Psim:0.6666666666666666 region Length:14 
+LRHLD
+LRDNP
+LRRL-
+**********************
+
+Length: 7 residues - nb: 2  from  43 to 56 - Psim:0.7857142857142857 region Length:14 
+SLPSWLG
+SLPSLET
+**********************
+
+>uniprot|UPI0009DCDB8F|UPI0009DCDB8F leucine-rich repeat domain-containing protein [Solirubrobacterales bacterium URHD0059]
+Length: 5 residues - nb: 3  from  154 to 168 - Psim:0.8 region Length:15 
+LRTLD
+LRANP
+LRALP
+**********************
+
+Length: 23 residues - nb: 4  from  87 to 175 - Psim:0.6730769230769231 region Length:89 
+ELRV---QGNALGSLPASIGGLGALR
+ELHA---RGNGLVSLPESIG---GLG
+ELRVLDLRDNALTALPAAIG---ALP
+RLRTLDLRANPLRALPPLPE---SLE
+**********************
+
+>uniprot|UPI0009DD01CC|UPI0009DD01CC hypothetical protein [Streptosporangium roseum]
+Length: 4 residues - nb: 4  from  44 to 60 - Psim:0.7083333333333334 region Length:17 
+RL--P-
+RLE-DL
+RLDGN-
+RLR-D-
+**********************
+
+Length: 4 residues - nb: 4  from  206 to 222 - Psim:0.75 region Length:17 
+LTR---
+LTY-LN
+LTDNR-
+LTD-L-
+**********************
+
+Length: 5 residues - nb: 3  from  47 to 61 - Psim:0.7333333333333333 region Length:15 
+RLEDL
+RLDGN
+RLRDL
+**********************
+
+Length: 6 residues - nb: 3  from  47 to 62 - Psim:0.7222222222222222 region Length:16 
+RLEDL-
+RL-DGN
+RLRDLP
+**********************
+
+Length: 9 residues - nb: 3  from  233 to 261 - Psim:0.6666666666666666 region Length:29 
+REL-RLYGNRL
+RELPETIG-RL
+REL-REL-HLM
+**********************
+
+Length: 10 residues - nb: 3  from  233 to 262 - Psim:0.6944444444444444 region Length:30 
+REL-R-LYGNRL
+RELPE-TIG-RL
+REL-RELHLMN-
+**********************
+
+Length: 23 residues - nb: 3  from  262 to 330 - Psim:0.7246376811594203 region Length:69 
+NNALTGLPASVGDLSGLRLLDLR
+NNAITSLPGSLTGLSRLTHLDLR
+NNRLREIPGGLADLPALEKLDLR
+**********************
+
+>uniprot|UPI0009E0677C|UPI0009E0677C hypothetical protein [Glycomyces sp. NRRL B-16210]
+Length: 7 residues - nb: 3  from  405 to 425 - Psim:0.6666666666666666 region Length:21 
+RL-PHLER
+RL-PARWR
+RLMEELN-
+**********************
+
+Length: 8 residues - nb: 3  from  405 to 426 - Psim:0.6666666666666666 region Length:22 
+RL-PHLER
+RL-PARWR
+RLMEELNS
+**********************
+
+Length: 19 residues - nb: 3  from  40 to 101 - Psim:0.7681159420289855 region Length:62 
+NLS---RLYLSDNRLTTLPDSIG
+NLTQLTRLYVEGNQLTTLPESIG
+NLTQLTRLYLNGNRLTSFP----
+**********************
+
+Length: 19 residues - nb: 3  from  117 to 177 - Psim:0.7901234567901234 region Length:61 
+----LTTLPDSIGNLNRLNRLNLEGNQ
+----LTTLPESIGNLTQLNQLNL----
+DNNRLTTLPESIGNLTQLT--------
+**********************
+
+Length: 19 residues - nb: 3  from  143 to 207 - Psim:0.782608695652174 region Length:65 
+LPESIGNLTQLNQLNLDNNRLTT
+LPESIGNLTQLTRLYVEGNQLTT
+LPESIGNLTQLTDIDLNGN----
+**********************
+
+Length: 23 residues - nb: 3  from  44 to 112 - Psim:0.7971014492753623 region Length:69 
+LYLSDNRLTTLPDSIGNLTQLTR
+LYVEGNQLTTLPESIGNLTQLTR
+LYLNGNRLTSFPDNITKLTNLDL
+**********************
+
+Length: 23 residues - nb: 3  from  141 to 209 - Psim:0.8260869565217391 region Length:69 
+TTLPESIGNLTQLNQLNLDNNRL
+TTLPESIGNLTQLTRLYVEGNQL
+TTLPESIGNLTQLTDIDLNGNHL
+**********************
+
+>uniprot|UPI0009E4C162|UPI0009E4C162 hypothetical protein [Leucobacter musarum]
+Length: 4 residues - nb: 4  from  493 to 508 - Psim:0.6666666666666666 region Length:16 
+-AAS--
+-AAS-A
+QVAL--
+-AQGRL
+**********************
+
+Length: 5 residues - nb: 3  from  499 to 513 - Psim:0.7222222222222222 region Length:15 
+AQ-VAL
+AQ-GRL
+AQTGS-
+**********************
+
+Length: 6 residues - nb: 3  from  499 to 514 - Psim:0.7222222222222222 region Length:16 
+AQ-VAL
+AQ-GRL
+AQTGSS
+**********************
+
+Length: 7 residues - nb: 3  from  429 to 449 - Psim:0.6666666666666666 region Length:21 
+VT-NADG-
+VTGNATLT
+VTVDAAV-
+**********************
+
+>uniprot|UPI0009E65731|UPI0009E65731 leucine-rich repeat domain-containing protein [Mycobacterium kansasii]
+Length: 7 residues - nb: 2  from  32 to 45 - Psim:0.7857142857142857 region Length:14 
+CAATKSL
+CATCKSE
+**********************
+
+>uniprot|UPI0009E8FBDD|UPI0009E8FBDD hypothetical protein [Nonomuraea sp. SBT364]
+Length: 4 residues - nb: 4  from  203 to 220 - Psim:0.7083333333333334 region Length:18 
+LR-VLD
+LRGNQ-
+LR-EL-
+PA-EL-
+**********************
+
+Length: 5 residues - nb: 3  from  203 to 217 - Psim:0.6666666666666666 region Length:15 
+LRVLD
+LRGNQ
+LRELP
+**********************
+
+>uniprot|A0A0Q5FLF7|A0A0Q5FLF7_9MICO Uncharacterized protein [Microbacterium sp. Leaf320]
+Length: 7 residues - nb: 2  from  553 to 567 - Psim:0.8125 region Length:15 
+GGSIAAAA
+GG-IIAAL
+**********************
+
+Length: 8 residues - nb: 2  from  553 to 568 - Psim:0.8125 region Length:16 
+GGSIAAAA
+GGIIAALL
+**********************
+
+>uniprot|UPI0009EBB0D5|UPI0009EBB0D5 hypothetical protein [Nonomuraea sp. NBRC 110462]
+Length: 10 residues - nb: 3  from  3 to 34 - Psim:0.8055555555555556 region Length:32 
+ALR-LDGN-RLR
+ALPDLSGLTRLR
+ALH-LDGN-RLT
+**********************
+
+Length: 11 residues - nb: 3  from  3 to 35 - Psim:0.7435897435897436 region Length:33 
+ALR-LDGN-RL-R
+ALPDLSGLTR-LR
+ALH-LDGN-RLTE
+**********************
+
+Length: 12 residues - nb: 3  from  10 to 43 - Psim:0.6923076923076923 region Length:34 
+RLRALPDLS-GLT
+RLRAL-HLD-G-N
+RLTELPPLPPDL-
+**********************
+
+Length: 13 residues - nb: 3  from  10 to 44 - Psim:0.6923076923076923 region Length:35 
+RLRALPDLS-GLT
+RLRAL-HLD-G-N
+RLTELPPLPPDLE
+**********************
+
+>uniprot|A0A133Z0B7|A0A133Z0B7_9ACTN Leucine Rich repeat-containing domain protein [Coriobacteriales bacterium DNF00809]
+Length: 4 residues - nb: 3  from  568 to 581 - Psim:0.8666666666666667 region Length:14 
+DADDD
+DADDN
+DADD-
+**********************
+
+Length: 5 residues - nb: 5  from  251 to 277 - Psim:0.6571428571428571 region Length:27 
+DLSTLK-
+DLPNLK-
+DLD-LS-
+D-SNIKN
+-ASAL--
+**********************
+
+Length: 5 residues - nb: 3  from  568 to 582 - Psim:0.8666666666666667 region Length:15 
+DADDD
+DADDN
+DADDG
+**********************
+
+Length: 5 residues - nb: 3  from  976 to 990 - Psim:0.6666666666666666 region Length:15 
+NGAGGE
+NGTG--
+NG-GSS
+**********************
+
+Length: 6 residues - nb: 3  from  251 to 268 - Psim:0.7142857142857143 region Length:18 
+DLSTLK-
+DLPNLK-
+DL-DLSD
+**********************
+
+Length: 6 residues - nb: 3  from  568 to 583 - Psim:0.8888888888888888 region Length:16 
+DADD-D
+DADD-N
+DADDGD
+**********************
+
+Length: 10 residues - nb: 3  from  932 to 961 - Psim:0.6666666666666666 region Length:30 
+TNNNPNNNDT
+TNPSHNNSST
+TNDNDTNGDS
+**********************
+
+Length: 10 residues - nb: 2  from  1018 to 1038 - Psim:0.7272727272727273 region Length:21 
+ANGTNAQSNTD
+ANA-QAGSNNT
+**********************
+
+Length: 22 residues - nb: 6  from  209 to 340 - Psim:0.7971014492753623 region Length:132 
+SALKSLKNLTTLDLCGNIIK-DA
+SALASLKNLTTLDLSQNF-KLDL
+STLKDLPNLKDLDLSDSNIK-NA
+SALASLKNLTTLDLCGNIIK-DA
+SALASLTNLTTLNLCDNRIK-DA
+SALASLKNLTTLNLSDNS-KLDL
+**********************
+
+Length: 22 residues - nb: 6  from  260 to 391 - Psim:0.7028985507246377 region Length:132 
+NLKDLDLSDSNIK-NASALASLK
+NLTTLDLCGNIIK-DASALASLT
+NLTTLNLCDNRIK-DASALASLK
+NLTTLNLSDNS-KLDLSTLEGLV
+NLKDLFLYRAKIK-DASALAKVK
+NLTKLHLWQNPEL-DLSTLKDLT
+**********************
+
+Length: 22 residues - nb: 5  from  285 to 389 - Psim:0.6727272727272727 region Length:105 
+-TL-D-L-CG-N-IIK-DAS-ALA-SLT-N-LT
+-TL-N-L-CD-N-RIK-DAS-ALA-SLK-N-LT
+-TL-N-L-SD-N-S-KLDLS-TLE-GLV-N-LK
+-DL-F-L-YR-A-KIK-DAS-ALA-KVK-N---
+LTKL-H-LW-Q-N---PEL-D-L-STL-K-D--
+**********************
+
+>uniprot|UPI0009F93A4E|UPI0009F93A4E hypothetical protein [Tessaracoccus sp. ZS01]
+Length: 4 residues - nb: 3  from  77 to 90 - Psim:0.6666666666666666 region Length:14 
+SVEGW
+SVSPS
+SVFG-
+**********************
+
+Length: 5 residues - nb: 3  from  77 to 91 - Psim:0.6666666666666666 region Length:15 
+SVEGW
+SVSPS
+SVFGG
+**********************
+
+Length: 7 residues - nb: 2  from  462 to 475 - Psim:0.6875 region Length:14 
+DLSSNAIV
+DLSP--LQ
+**********************
+
+Length: 8 residues - nb: 4  from  574 to 609 - Psim:0.6666666666666666 region Length:36 
+ATAV-VT-ET--
+ATPEPAPTV--T
+ATAV-VT-HTVQ
+ATAG-RT-AP--
+**********************
+
+>uniprot|UPI0009F9C32D|UPI0009F9C32D hypothetical protein [Kitasatospora sp. CB01950]
+Length: 3 residues - nb: 5  from  108 to 123 - Psim:0.7 region Length:16 
+R-LT
+R-LP
+AALG
+R-LH
+R-LR
+**********************
+
+Length: 23 residues - nb: 3  from  167 to 238 - Psim:0.7307692307692307 region Length:72 
+RLRELLLEGNSLTALPDSLAALRELR
+RL-ELRD-NA-LTALPRTLAALPLLR
+EL-DLRA-NP-LGPLPDWLAELPALE
+**********************
+
+>uniprot|UPI000A0014AC|UPI000A0014AC hypothetical protein [Hamadaea tsunoensis]
+Length: 23 residues - nb: 4  from  160 to 253 - Psim:0.78 region Length:94 
+LGLNGNQLIQLRSEIGNLTQLTYLN
+LG--ENQLTRLPPEIGNLTQLTYLN
+LG--GNQLTGLPPEIGELSRLATLD
+LN--GNQLTKLPPEIGELSRLATLH
+**********************
+
+Length: 23 residues - nb: 5  from  194 to 307 - Psim:0.68 region Length:114 
+PPE-IGNLTQLTYLNL-GGNQLTGL
+PPE-IGELSRLATLDL-NGNQLTKL
+PPE-IGELSRLATLHL-NGNQLTGL
+PPE-CGDLTRLTELSL-GDNPLV-T
+PPPAVTAQGTQAVIEFMRG-LLTR-
+**********************
+
+Length: 23 residues - nb: 2  from  220 to 265 - Psim:0.9565217391304348 region Length:46 
+IGELSRLATLDLNGNQLTKLPPE
+IGELSRLATLHLNGNQLTGLPPE
+**********************
+
+>uniprot|UPI000A00556C|UPI000A00556C leucine-rich repeat domain-containing protein [Demequina sp. NBRC 110053]
+Length: 3 residues - nb: 5  from  173 to 186 - Psim:0.7333333333333333 region Length:14 
+SLP
+SLA
+SL-
+SLA
+STG
+**********************
+
+Length: 3 residues - nb: 5  from  215 to 228 - Psim:0.6666666666666666 region Length:14 
+LSS
+LTG
+LTD
+LT-
+LTR
+**********************
+
+Length: 4 residues - nb: 4  from  173 to 186 - Psim:0.7 region Length:14 
+-SLP-
+-SLA-
+-SLSL
+ASTG-
+**********************
+
+>uniprot|UPI000A009E10|UPI000A009E10 hypothetical protein [Streptacidiphilus jeojiense]
+Length: 7 residues - nb: 2  from  1208 to 1221 - Psim:0.7857142857142857 region Length:14 
+APGAWHR
+APGAEPY
+**********************
+
+Length: 10 residues - nb: 2  from  543 to 563 - Psim:0.7727272727272727 region Length:21 
+LELLNLTGNDL
+LELPESLGN-L
+**********************
+
+Length: 23 residues - nb: 4  from  57 to 148 - Psim:0.7608695652173914 region Length:92 
+LTAITTLDLSGNTFSALPEWLGD
+LTALATLSLSKNQISALPEWLGD
+LTSLTELHLDGNELSVLSEWLGN
+LTNLTDLDLSKNKLSALPECLAS
+**********************
+
+Length: 23 residues - nb: 4  from  369 to 455 - Psim:0.7321428571428571 region Length:87 
+-----LSALPEFLAGLTALTSLDLGGNK
+-----LSVLPEWLGNLTALTDL----D-
+LSDNKLSALPESIENLTKLLSM----D-
+ISKNDLSALPESLGNLARLTSL----S-
+**********************
+
+>uniprot|UPI000A024D95|UPI000A024D95 hypothetical protein [Catenulispora acidiphila]
+Length: 4 residues - nb: 4  from  623 to 639 - Psim:0.8 region Length:17 
+EAAV-
+EAAVE
+EAFA-
+EAAA-
+**********************
+
+Length: 4 residues - nb: 4  from  836 to 852 - Psim:0.9 region Length:17 
+AAAE-
+AAAQ-
+AAAEQ
+AAAE-
+**********************
+
+Length: 4 residues - nb: 3  from  882 to 895 - Psim:0.8666666666666667 region Length:14 
+DALQP
+DALQP
+DALE-
+**********************
+
+Length: 5 residues - nb: 3  from  561 to 575 - Psim:0.7142857142857143 region Length:15 
+AL-AADK
+ALYG---
+AL-G-DR
+**********************
+
+Length: 5 residues - nb: 5  from  627 to 651 - Psim:0.6666666666666666 region Length:25 
+-EAAVE
+-EAFA-
+-EAAAA
+AGDA-E
+PEPAAE
+**********************
+
+Length: 5 residues - nb: 3  from  647 to 661 - Psim:0.6666666666666666 region Length:15 
+EPAA--
+EPESGT
+EPEL-E
+**********************
+
+Length: 5 residues - nb: 3  from  832 to 847 - Psim:0.7777777777777778 region Length:16 
+AEAAAA
+AEAAA-
+-QAAAE
+**********************
+
+Length: 5 residues - nb: 3  from  882 to 896 - Psim:0.8666666666666667 region Length:15 
+DALQP
+DALQP
+DALEQ
+**********************
+
+Length: 5 residues - nb: 5  from  1174 to 1201 - Psim:0.65 region Length:28 
+L-A-ESRL
+L-A-ESE-
+QQA-EAF-
+A-AAQRE-
+A-A-VLA-
+**********************
+
+Length: 6 residues - nb: 3  from  646 to 663 - Psim:0.6666666666666666 region Length:18 
+PEPAAE
+PESGTE
+PELEAT
+**********************
+
+Length: 6 residues - nb: 3  from  882 to 897 - Psim:0.8888888888888888 region Length:16 
+DAL-QP
+DAL-QP
+DALEQA
+**********************
+
+Length: 6 residues - nb: 3  from  1174 to 1190 - Psim:0.6666666666666666 region Length:17 
+LAESRL
+LAESEQ
+QAEA-F
+**********************
+
+Length: 7 residues - nb: 3  from  646 to 664 - Psim:0.7142857142857143 region Length:19 
+PE-PAAE
+PE-SGTE
+PELEATA
+**********************
+
+Length: 7 residues - nb: 6  from  824 to 868 - Psim:0.65 region Length:45 
+AEANRA-D-E
+AE-AAA-A--
+AE-AAAQA-A
+AE-QAA-A-E
+AE-QVG-GYT
+AA-HGENG-V
+**********************
+
+Length: 7 residues - nb: 2  from  1207 to 1221 - Psim:0.8125 region Length:15 
+VVVEEPVA
+VV-EEPPL
+**********************
+
+Length: 13 residues - nb: 2  from  966 to 991 - Psim:0.8461538461538461 region Length:26 
+FGALQDNRVPQGG
+FGGQQDNRVPQAD
+**********************
+
+Length: 18 residues - nb: 7  from  942 to 1067 - Psim:0.782608695652174 region Length:126 
+DADQAVFGGQQDNRVPQA-----
+DADQAVFGALQDNRVPQ---G--
+-----GFGGQQDNRVPQADVDQA
+-----VFGALQDNRVQQADVDQA
+-----VFGGQQDNRVPQADVGQA
+-----VFGAQQDNRVPQADVNQA
+-----VFGGQPDPRVSQADAEQA
+**********************
+
+Length: 18 residues - nb: 5  from  984 to 1073 - Psim:0.8333333333333334 region Length:90 
+DNRVPQADVDQAVFGALQ
+DNRVQQADVDQAVFGGQQ
+DNRVPQADVGQAVFGAQQ
+DNRVPQADVNQAVFGGQP
+DPRVSQADAEQAAFGESR
+**********************
+
+Length: 18 residues - nb: 7  from  1008 to 1130 - Psim:0.6928571428571428 region Length:123 
+-ADVDQAVFGGQQ-DNRVPQ
+-ADVGQAVFGAQQ-DNRVPQ
+-ADVNQAVFGGQP-DPRVSQ
+-ADAEQAAFG-E---SRMPQ
+-ADVDQPVFGDPQ-DPRASH
+-ADVRQSVFAEPQ-DPRVPQ
+PAAV-QADEPTVVQESPA-E
+**********************
+
+>uniprot|I0H8D1|I0H8D1_ACTM4 Uncharacterized protein [Actinoplanes missouriensis 431]
+Length: 7 residues - nb: 2  from  145 to 159 - Psim:0.6875 region Length:15 
+LPR-GFSS
+LPRLTVLT
+**********************
+
+Length: 7 residues - nb: 4  from  197 to 226 - Psim:0.65 region Length:30 
+DLT-RLR-EL
+DLT-AVVVT-
+DLPTEL--A-
+DLP-HLH-T-
+**********************
+
+>uniprot|UPI000A0463F0|UPI000A0463F0 hypothetical protein [Streptosporangium amethystogenes]
+Length: 10 residues - nb: 2  from  147 to 166 - Psim:0.7727272727272727 region Length:20 
+LTALPE-SLGN
+LTALLWLNLG-
+**********************
+
+Length: 20 residues - nb: 9  from  12 to 215 - Psim:0.7439613526570048 region Length:204 
+LPESLGNLTALTELDLRHNRLTA
+LPESLGNLTALRRLDLRDNKLAA
+LPESLVRLTALTRLDLANNELTA
+LPESLGNLAGLTELDLGGNRLAA
+LPESLGDLGALLWFNLGRNQLTA
+LPESLGDLTALTTLWLSVNELTA
+LPESLGNLTALLWLNLGYNQLTA
+LPESLRNLTALNGLDLSGNQFTV
+LPEWLGSLPALSKLDLRANR---
+**********************
+
+Length: 20 residues - nb: 7  from  38 to 195 - Psim:0.7542857142857143 region Length:158 
+SLGNLTAL--RRLDLRDNKLAALPE
+SLVRLTAL--TRLDLANNELTALPE
+SLGNLAGL--TELDLGGNRLAALPE
+SLGDLGAL--LWFNLGRNQLTALPE
+SLGDLTALTTLWLSV--NELTALPE
+SLGNLTAL--LWLNLGYNQLTALPE
+SLRNLTAL--NGLDLSGNQFT-V--
+**********************
+
+Length: 21 residues - nb: 9  from  12 to 216 - Psim:0.748792270531401 region Length:205 
+LPESLGNLTALTELDLRHNRLTA
+LPESLGNLTALRRLDLRDNKLAA
+LPESLVRLTALTRLDLANNELTA
+LPESLGNLAGLTELDLGGNRLAA
+LPESLGDLGALLWFNLGRNQLTA
+LPESLGDLTALTTLWLSVNELTA
+LPESLGNLTALLWLNLGYNQLTA
+LPESLRNLTALNGLDLSGNQFTV
+LPEWLGSLPALSKLDLRANRL--
+**********************
+
+Length: 21 residues - nb: 8  from  38 to 217 - Psim:0.7268518518518519 region Length:180 
+-SL-GNLTAL--RRLDLRDNKLAALPE
+-SL-VRLTAL--TRLDLANNELTALPE
+-SL-GNLAGL--TELDLGGNRLAALPE
+-SL-GDLGAL--LWFNLGRNQLTALPE
+-SL-GDLTALTTLWLSV--NELTALPE
+-SL-GNLTAL--LWLNLGYNQLTALPE
+-SL-RNLTAL--NGLDLSGNQFTVL--
+PEWLGSLPA--LSKLDLRANRLT----
+**********************
+
+Length: 23 residues - nb: 9  from  12 to 218 - Psim:0.7536231884057971 region Length:207 
+LPESLGNLTALTELDLRHNRLTA
+LPESLGNLTALRRLDLRDNKLAA
+LPESLVRLTALTRLDLANNELTA
+LPESLGNLAGLTELDLGGNRLAA
+LPESLGDLGALLWFNLGRNQLTA
+LPESLGDLTALTTLWLSVNELTA
+LPESLGNLTALLWLNLGYNQLTA
+LPESLRNLTALNGLDLSGNQFTV
+LPEWLGSLPALSKLDLRANRLTG
+**********************
+
+>uniprot|UPI000A060FF0|UPI000A060FF0 leucine-rich repeat domain-containing protein [Streptacidiphilus rugosus]
+Length: 3 residues - nb: 5  from  107 to 122 - Psim:0.65 region Length:16 
+E-LT
+E-LP
+EEIG
+A-LT
+A-LS
+**********************
+
+>uniprot|UPI000A07DA52|UPI000A07DA52 hypothetical protein [Leucobacter sp. Ag1]
+Length: 22 residues - nb: 2  from  287 to 330 - Psim:0.8181818181818182 region Length:44 
+LAGLEDLEQLDLDYNQISDTTP
+LAGLTNLEDLHLDGNQVSDLYP
+**********************
+
+>uniprot|UPI000A1022E0|UPI000A1022E0 leucine-rich repeat domain-containing protein [Thermoactinospora rubra]
+Length: 5 residues - nb: 3  from  195 to 210 - Psim:0.6666666666666666 region Length:16 
+LTDYLY
+LTGNR-
+LTGVP-
+**********************
+
+>uniprot|UPI000A3BDAEA|UPI000A3BDAEA hypothetical protein [Streptomyces tricolor]
+Length: 4 residues - nb: 4  from  274 to 290 - Psim:0.7083333333333334 region Length:17 
+LRR---
+LRH-LD
+LRNNQ-
+LRE-L-
+**********************
+
+Length: 7 residues - nb: 2  from  57 to 70 - Psim:0.7857142857142857 region Length:14 
+GTLPESL
+GTLPALT
+**********************
+
+>uniprot|UPI000A7C3F80|UPI000A7C3F80 leucine-rich repeat domain-containing protein [Leucobacter sp. 4J7B1]
+Length: 22 residues - nb: 4  from  223 to 310 - Psim:0.6818181818181818 region Length:88 
+PLQHLTELIDLDLEDNEVSDIA
+PLQHLTELRWLSLDDNRLNDLA
+PLEHLPNLLTLNLARNHVADVT
+PLRSLTELRALNVAGNQVADFT
+**********************
+
+>uniprot|UPI000B397B56|UPI000B397B56 hypothetical protein [Gordonibacter sp. An230]
+Length: 3 residues - nb: 7  from  101 to 118 - Psim:0.75 region Length:18 
+--AG
+AGA-
+-EAA
+-GA-
+-GAA
+-GA-
+-GAG
+**********************
+
+Length: 4 residues - nb: 5  from  129 to 149 - Psim:0.68 region Length:21 
+APD--
+APD-G
+APGAG
+APD-V
+GTGAG
+**********************
+
+Length: 4 residues - nb: 4  from  339 to 353 - Psim:0.65 region Length:15 
+S-L-A
+S-LDA
+SGLPS
+--LRT
+**********************
+
+Length: 5 residues - nb: 3  from  103 to 117 - Psim:0.9333333333333333 region Length:15 
+AGAEA
+AGAGA
+AGAGA
+**********************
+
+Length: 5 residues - nb: 4  from  132 to 149 - Psim:0.7 region Length:18 
+APD-G
+APGAG
+APDVG
+T-GAG
+**********************
+
+Length: 6 residues - nb: 3  from  52 to 69 - Psim:0.6666666666666666 region Length:18 
+ALSAGLA
+ALLT--A
+ALAAP-G
+**********************
+
+Length: 6 residues - nb: 3  from  103 to 119 - Psim:0.7619047619047619 region Length:17 
+AGA-EA-
+AGAGAA-
+-GAGAGR
+**********************
+
+Length: 6 residues - nb: 3  from  650 to 668 - Psim:0.6666666666666666 region Length:19 
+PAPEPV-
+PAPDPSE
+PALAKT-
+**********************
+
+Length: 8 residues - nb: 6  from  647 to 693 - Psim:0.6547619047619048 region Length:47 
+EP-LP-AP------
+EP-VP-APDPS---
+EPALA-KT---G--
+DG-VPFAA---VAA
+AA-SL-GL------
+AA-LVVAV---R--
+**********************
+
+Length: 21 residues - nb: 3  from  261 to 326 - Psim:0.7916666666666666 region Length:66 
+LSGLPSLRTLRCNHNSLASLDVSG
+L---SALEYLQCSNNSLASLDASG
+L---PSLRTLYCSGNSLASLGLSG
+**********************
+
+Length: 21 residues - nb: 5  from  269 to 373 - Psim:0.7619047619047619 region Length:105 
+TLRCNHNSLASLDVSGLSALE
+YLQCSNNSLASLDASGLPSLR
+TLYCSGNSLASLGLSGLSALE
+TLYCDSNSLASLDASGLPSLR
+TLRCSYNSLASLDVGDCENLE
+**********************
+
+Length: 75 residues - nb: 3  from  466 to 697 - Psim:0.7078651685393258 region Length:232 
+YDPETGILTIPAGREGVDIAASDGNRYYFGEDLGDVPGPVAHAVTFVSQGETVATASVEDGGAVARPEDPRREGFAFLGWFSDEACTAA
+YD----FASPVTG-DLV-LY-AG-WEPLPAPE--PVA---RTVTFV-SQGETVATASVEDGGAVARPEDPRREGFAFLGWFSDEACTAA
+YD----FASPVTG-DLV-LY-AG-WEPLPAPE--PVP---AP-D-P-S--EP-ALAKTGDGVPFAAVAAAASLGLAALV-VAVRK-KAR
+**********************
+
+>uniprot|UPI000B5AE040|UPI000B5AE040 hypothetical protein [Micromonospora echinaurantiaca]
+Length: 4 residues - nb: 4  from  304 to 320 - Psim:0.7083333333333334 region Length:17 
+LT-A--
+LT-RLD
+LTENQ-
+LT-GL-
+**********************
+
+Length: 4 residues - nb: 3  from  330 to 343 - Psim:0.6666666666666666 region Length:14 
+LTQLF
+LTGNR
+LTAL-
+**********************
+
+Length: 5 residues - nb: 3  from  307 to 321 - Psim:0.6666666666666666 region Length:15 
+LTRLD
+LTENQ
+LTGLP
+**********************
+
+Length: 8 residues - nb: 2  from  215 to 232 - Psim:0.7 region Length:18 
+LTELRLVGND
+LTELP-DWL-
+**********************
+
+Length: 9 residues - nb: 2  from  215 to 233 - Psim:0.7272727272727273 region Length:19 
+LTELR-LVGND
+LTELPDWLG--
+**********************
+
+Length: 23 residues - nb: 5  from  246 to 360 - Psim:0.7565217391304347 region Length:115 
+NQLTTLPESLGNLTALTWLGLSG
+NQLRTVPEPIRRLTALTWLDLSG
+NQLEELPEWWGELTALTRLDLTE
+NQLTGLPESMGELTALTQLFLTG
+NRLTALPASLGALATLTRLDLAG
+**********************
+
+Length: 23 residues - nb: 5  from  282 to 394 - Psim:0.664 region Length:113 
+TALTWLDLSGNQLEE-LPEWW-GEL
+TALTRLDLTENQLTG-LPESM-GEL
+TALTQLFLTGNRLTA-LPASL-GAL
+ATLTRLDLAGNQLTA-LPEWLRNPT
+-A-GE-PTT-GPLHAWIDGTQ-RTV
+**********************
+
+>uniprot|UPI000B897DEA|UPI000B897DEA leucine-rich repeat domain-containing protein [Blastococcus sp. DSM 44268]
+Length: 3 residues - nb: 5  from  313 to 327 - Psim:0.7 region Length:15 
+VA-V
+VA-V
+LATV
+-A-G
+AG-V
+**********************
+
+Length: 3 residues - nb: 5  from  438 to 451 - Psim:0.7 region Length:14 
+L-AA
+L-AR
+LGT-
+L-T-
+L-TD
+**********************
+
+>uniprot|UPI000C1E37D8|UPI000C1E37D8 leucine-rich repeat domain-containing protein [Streptomyces sp. TRM SA0054]
+Length: 13 residues - nb: 2  from  124 to 149 - Psim:0.75 region Length:26 
+LRELPGSLGG-LTA
+LREL-WLRGNALTG
+**********************
+
+>uniprot|UPI000C2722F4|UPI000C2722F4 hypothetical protein [Streptomyces sp. CB01635]
+Length: 5 residues - nb: 6  from  181 to 213 - Psim:0.6666666666666666 region Length:33 
+LRENA--
+LTDVPGS
+LRGLP-L
+LRRLD--
+LRSNR--
+LRDLP--
+**********************
+
+Length: 6 residues - nb: 3  from  199 to 214 - Psim:0.7222222222222222 region Length:16 
+LRRL-D
+LRSN-R
+LRDLPD
+**********************
+
+Length: 7 residues - nb: 2  from  42 to 56 - Psim:0.6875 region Length:15 
+LPDNTLTR
+LPDR-IGS
+**********************
+
+>uniprot|UPI000C27E095|UPI000C27E095 hypothetical protein [Kitasatospora sp. CB02891]
+Length: 7 residues - nb: 3  from  69 to 91 - Psim:0.7407407407407407 region Length:23 
+DLPGLRRL-
+DLSG-NRLS
+DLPQ-S-LS
+**********************
+
+Length: 7 residues - nb: 2  from  120 to 134 - Psim:0.75 region Length:15 
+ELLTLYKN
+ELTTL-PD
+**********************
+
+>uniprot|UPI000C2B5E06|UPI000C2B5E06 leucine-rich repeat domain-containing protein [Streptomyces sp. 69]
+Length: 7 residues - nb: 2  from  54 to 68 - Psim:0.875 region Length:15 
+DLRENALA
+DLPE-ALA
+**********************
+
+>uniprot|UPI000C7709FF|UPI000C7709FF DUF5011 domain-containing protein [Bifidobacterium anseris]
+Length: 5 residues - nb: 3  from  881 to 894 - Psim:0.7777777777777778 region Length:14 
+KV-TAN
+KVGTA-
+TI-TA-
+**********************
+
+>uniprot|UPI000CD4312E|UPI000CD4312E leucine-rich repeat domain-containing protein [Arthrobacter sp. HLT2-12-2]
+Length: 4 residues - nb: 5  from  449 to 470 - Psim:0.6666666666666666 region Length:22 
+TVTAP-
+TVE-P-
+TVD-P-
+TLPS--
+T-TIPS
+**********************
+
+Length: 6 residues - nb: 3  from  464 to 481 - Psim:0.8095238095238095 region Length:18 
+PSTT-I-
+PSTTSAA
+PSTT-AT
+**********************
+
+Length: 7 residues - nb: 2  from  469 to 482 - Psim:0.8571428571428571 region Length:14 
+PSTTSAA
+PSTTATA
+**********************
+
+Length: 8 residues - nb: 2  from  469 to 483 - Psim:0.875 region Length:15 
+PSTTS-AA
+PSTTATAA
+**********************
+
+>uniprot|UPI000CDE9A1C|UPI000CDE9A1C hypothetical protein [Actinomadura echinospora]
+Length: 23 residues - nb: 4  from  187 to 278 - Psim:0.7916666666666666 region Length:92 
+NALTELPESLGGLSSLGTLRLAG-
+NALTRLPESIGGLGSLTTLNLTG-
+NALTELPESLGDLSSLHALHLDG-
+NSLTSLPESLGRLIRLDTL-YAGH
+**********************
+

@@ -1,0 +1,15 @@
+PaYp	anserina
+PaSp	anserina
+PcTdp	comata
+PcWa131m	comata
+PcWa132p	comata
+PcWa133m	comata
+PcWa139m	comata
+CBS237.71m	pauciseta
+CBS333.63p	pauciseta
+CBS451.62p	pauciseta
+CBS124.78p	pseudoanserina
+CBS253.71p	pseudoanserina
+CBS411.78m	pseudopauciseta
+CBS415.72m	pseudocomata
+CBS112042p	bellae-mahoneyi

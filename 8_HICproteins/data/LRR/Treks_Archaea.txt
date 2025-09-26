@@ -1,0 +1,1343 @@
+PHYLUM:ARCHAEA
+
+>uniprot|A0A0E3NFG3|A0A0E3NFG3_METTE Uncharacterized protein [Methanosarcina thermophila CHTI-55]
+Length: 11 residues - nb: 3  from  74 to 107 - Psim:0.6923076923076923 region Length:34 
+LTSLPPEISKLKN
+LTSL--NIS-CNQ
+LTSLPPKILEL--
+**********************
+
+Length: 22 residues - nb: 3  from  24 to 90 - Psim:0.8333333333333334 region Length:67 
+-SCQKLTSLPPEISKLENLKTLCM
+-SCNKLISLPPEISKLENLTEL-E
+MSENQLTSLPPEISKLKNLTSL--
+**********************
+
+Length: 22 residues - nb: 3  from  55 to 122 - Psim:0.717948717948718 region Length:68 
+PPEISKLENLTELEMSEN-QL-TSL-
+PPEISKLKNLTSLNISCN-QL-TSL-
+PPKI--LE-L-GLDIKWKYQFLQEGI
+**********************
+
+Length: 23 residues - nb: 3  from  24 to 92 - Psim:0.8405797101449275 region Length:69 
+SCQKLTSLPPEISKLENLKTLCM
+SCNKLISLPPEISKLENLTELEM
+SENQLTSLPPEISKLKNLTSLNI
+**********************
+
+Length: 23 residues - nb: 3  from  55 to 123 - Psim:0.7160493827160493 region Length:69 
+PPEISKLENLTELEMSEN-QL-TSL--
+PPEISKLKNLTSLNISCN-QL-TSL--
+PPKI--LE-L-GLDIKWKYQFLQEGIF
+**********************
+
+>uniprot|Q648Z4|Q648Z4_9ARCH Leucine-rich-repeat protein [uncultured archaeon GZfos35D7]
+Length: 23 residues - nb: 4  from  19 to 110 - Psim:0.78125 region Length:92 
+TTLDLSDNQLTALPPEI-AELKGL
+TTLDLSGNQLTALPLEI-GELKSL
+TTLYLWGNQLTALPLEI-GELKNL
+TTLDLRDNPLP-IPPEILAKIYEP
+**********************
+
+Length: 23 residues - nb: 2  from  49 to 94 - Psim:0.9130434782608695 region Length:46 
+NQLTALPLEIGELKSLTTLYLWG
+NQLTALPLEIGELKNLTTLDLRD
+**********************
+
+>uniprot|A0A075GUG2|A0A075GUG2_9EURY Uncharacterized protein [uncultured marine group II/III euryarchaeote KM3_203_F09]
+Length: 4 residues - nb: 4  from  228 to 242 - Psim:0.6875 region Length:15 
+ARR-
+ARAW
+ARSS
+ARRT
+**********************
+
+>uniprot|A0A0F8WD89|A0A0F8WD89_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 4 residues - nb: 4  from  110 to 123 - Psim:0.8 region Length:14 
+SLPR-
+SL-G-
+SL-E-
+SL-EN
+**********************
+
+>uniprot|A0A0F8Y053|A0A0F8Y053_9ARCH Leucine-rich repeat domain protein (Fragment) [Lokiarchaeum sp. GC14_75]
+Length: 3 residues - nb: 4  from  442 to 455 - Psim:0.65 region Length:14 
+--SIS
+--SIQ
+SLRI-
+-LNIS
+**********************
+
+Length: 7 residues - nb: 3  from  329 to 349 - Psim:0.7 region Length:21 
+KL---RSLK-
+KLGLGRN-K-
+KL---SKFKE
+**********************
+
+>uniprot|A0A0F8VQI5|A0A0F8VQI5_9ARCH Leucine rich repeat protein [Lokiarchaeum sp. GC14_75]
+Length: 5 residues - nb: 3  from  230 to 244 - Psim:0.7222222222222222 region Length:15 
+ES-LP-
+ESILKL
+ES-LRN
+**********************
+
+>uniprot|A0A0F8V708|A0A0F8V708_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 23 residues - nb: 3  from  319 to 387 - Psim:0.7916666666666666 region Length:69 
+SIENLKSLKVLSLRG-NELTALPE
+SIGHLSSLKVLSLRG-NELTALPE
+SIKKLGSLERLDL-GRNPLKELAE
+**********************
+
+>uniprot|A0A0F8YB14|A0A0F8YB14_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 3 residues - nb: 5  from  346 to 361 - Psim:0.76 region Length:16 
+SLK--
+SLI--
+-LKNC
+SLY--
+SLP--
+**********************
+
+Length: 4 residues - nb: 5  from  346 to 362 - Psim:0.68 region Length:17 
+SL-K-
+SLIL-
+KN-C-
+SL-Y-
+SL-PD
+**********************
+
+Length: 4 residues - nb: 4  from  455 to 468 - Psim:0.7 region Length:14 
+-SLG-
+-SLK-
+-SLQE
+LNLR-
+**********************
+
+>uniprot|A0A0F8XYM3|A0A0F8XYM3_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 8 residues - nb: 2  from  360 to 375 - Psim:0.9375 region Length:16 
+ILNQISKI
+ILNQILKI
+**********************
+
+Length: 9 residues - nb: 2  from  360 to 376 - Psim:0.8888888888888888 region Length:17 
+ILNQISKI-
+ILNQILKII
+**********************
+
+Length: 10 residues - nb: 2  from  360 to 377 - Psim:0.85 region Length:18 
+ILNQISKI--
+ILNQILKIIN
+**********************
+
+Length: 19 residues - nb: 8  from  435 to 597 - Psim:0.6590909090909091 region Length:163 
+----TLPESIS-NLKSLTYL-NLKDNQL-M---
+----TLPESIS-NLKSLTGL-SLVNNQL-T---
+----TLPESIG-NLNSLKTL--LVGS-------
+NKLMTLPESIG-NL-S-----SL-QT-L-----
+----SL--N-D-N-K-LTTLPESIT-KL-I---
+----SL-QTLSLNDNKLT---TLPES-I-----
+----T--K-LT-SLQ-I--L-YLRNNELIT--L
+------PESIG-NLKSLKTL-GLIDNNL-TTL-
+**********************
+
+Length: 19 residues - nb: 4  from  465 to 548 - Psim:0.6944444444444444 region Length:84 
+-NLKS---LTGLSLVNNQLTTLPESIG
+-NLNS---LKTLLVGSNKLMTLPESIG
+-NLSS---LQTLSLNDNKLTTLP----
+ESITKLISLQTLSLNDNKL--------
+**********************
+
+Length: 19 residues - nb: 3  from  501 to 561 - Psim:0.7901234567901234 region Length:61 
+----KLMTLPESIGNLSSLQTLSLNDN
+----KLTTLPESITKLISLQTLS----
+LNDNKLTTLPESITKLTSL--------
+**********************
+
+Length: 19 residues - nb: 4  from  528 to 613 - Psim:0.6956521739130435 region Length:86 
+LPESITKLISLQTLSLNDNKLTT
+LPESITKLTSLQILYLRNNELIT
+LPESIGNLKSLKTLGLIDNNLTT
+LPESI-K-I-LER-S-GVH-IYI
+**********************
+
+Length: 23 residues - nb: 4  from  435 to 526 - Psim:0.8020833333333334 region Length:92 
+TLPESISNLKSLTYLNLK-DNQLM
+TLPESISNLKSLTGLSLV-NNQLT
+TLPESIGNLNSLKTL-LVGSNKLM
+TLPESIGNLSSLQTLSLN-DNKLT
+**********************
+
+Length: 23 residues - nb: 4  from  465 to 556 - Psim:0.8152173913043478 region Length:92 
+NLKSLTGLSLVNNQLTTLPESIG
+NLNSLKTLLVGSNKLMTLPESIG
+NLSSLQTLSLNDNKLTTLPESIT
+KLISLQTLSLNDNKLTTLPESIT
+**********************
+
+Length: 23 residues - nb: 3  from  501 to 569 - Psim:0.8695652173913043 region Length:69 
+KLMTLPESIGNLSSLQTLSLNDN
+KLTTLPESITKLISLQTLSLNDN
+KLTTLPESITKLTSLQILYLRNN
+**********************
+
+>uniprot|A0A0F8Y3I8|A0A0F8Y3I8_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 5 residues - nb: 3  from  39 to 53 - Psim:0.6666666666666666 region Length:15 
+LDSNK-
+LDSIP-
+-ESIGN
+**********************
+
+>uniprot|A0A0F8Y284|A0A0F8Y284_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 19 residues - nb: 4  from  127 to 211 - Psim:0.7386363636363636 region Length:85 
+ITEIKGLDNLSNLKQLWLGHNK
+ITEIKGLDPLINLEILSLSYNQ
+ITEIKGLANLVKLEELYLDHNI
+ITEIEDLDNLVNLK--YLSI-E
+**********************
+
+>uniprot|A0A0F8VBP7|A0A0F8VBP7_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 3 residues - nb: 5  from  266 to 280 - Psim:0.68 region Length:15 
+-LKQ-
+-LKL-
+-QHN-
+KLK--
+--KLP
+**********************
+
+Length: 23 residues - nb: 4  from  282 to 373 - Psim:0.65625 region Length:92 
+SIGNLIQLEVLFVGNNLIEILPE-
+SIGKLTSLKDFILGNNLIEIIPE-
+SIGNMLSLKSLDIRENPIQKLPY-
+SILYLKNLRSLFL-KGLSEEFPSL
+**********************
+
+>uniprot|A0A0F8VAJ5|A0A0F8VAJ5_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 3 residues - nb: 6  from  266 to 283 - Psim:0.6666666666666666 region Length:18 
+-LK-N
+-LK-A
+-LK-L
+-SD-N
+KIK--
+--KIP
+**********************
+
+>uniprot|A0A0F8W5S4|A0A0F8W5S4_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 5 residues - nb: 3  from  163 to 179 - Psim:0.7142857142857143 region Length:17 
+LEKIEN-
+LEHL-DK
+LEVL-N-
+**********************
+
+>uniprot|A0A0F8YA61|A0A0F8YA61_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 7 residues - nb: 2  from  400 to 414 - Psim:0.6875 region Length:15 
+NLRNNEIE
+NLPST-FE
+**********************
+
+>uniprot|A0A0F8WE68|A0A0F8WE68_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 7 residues - nb: 2  from  259 to 272 - Psim:0.8125 region Length:14 
+ISGLEDL-
+IS-LEFLD
+**********************
+
+Length: 22 residues - nb: 2  from  337 to 380 - Psim:0.8863636363636364 region Length:44 
+LSLDRNYITKIEGLDNLVNLES
+LSLLENKITKIEGLDKLVNLKS
+**********************
+
+>uniprot|A0A0F8XUA5|A0A0F8XUA5_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 19 residues - nb: 4  from  124 to 208 - Psim:0.6956521739130435 region Length:85 
+NNQITEISGLDNLPNLISLNLE-
+NNNITEIKGLDSLQNLKRLNLSG
+NN-ITEIKNLDKLSSLEELYLD-
+NNQIPVIKGLGHLKKL-SV-I--
+**********************
+
+Length: 21 residues - nb: 3  from  127 to 191 - Psim:0.7575757575757576 region Length:65 
+ITEISGLDNLPNLISLNLENNN
+ITEIKGLDSLQNLKRLNLSGNN
+ITEIKNLDKLSSLEELYLD-NN
+**********************
+
+>uniprot|A0A0F8W270|A0A0F8W270_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 6 residues - nb: 4  from  241 to 264 - Psim:0.6785714285714286 region Length:24 
+NLLEKIE
+NL-EWLE
+NL-EEL-
+NL-SNNK
+**********************
+
+Length: 7 residues - nb: 3  from  241 to 260 - Psim:0.75 region Length:20 
+NLLEKIE-
+NL-EWLE-
+NL-EELNL
+**********************
+
+Length: 8 residues - nb: 3  from  241 to 261 - Psim:0.7037037037037037 region Length:21 
+NLLE-KI-E
+NL-E-WL-E
+NL-EELNLS
+**********************
+
+>uniprot|A0A0F8VL35|A0A0F8VL35_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 3 residues - nb: 5  from  82 to 96 - Psim:0.7666666666666667 region Length:15 
+-G-I--
+-G-IN-
+-GDI-I
+FG-D--
+FG-Y--
+**********************
+
+Length: 3 residues - nb: 8  from  224 to 249 - Psim:0.65 region Length:26 
+-TL-K
+-TL-N
+-FRGT
+-FL-K
+-FL-P
+NSF-K
+-NL-G
+-NL-E
+**********************
+
+>uniprot|A0A0F8XLJ1|A0A0F8XLJ1_9ARCH Leucine-rich repeat domain protein [Lokiarchaeum sp. GC14_75]
+Length: 8 residues - nb: 2  from  376 to 389 - Psim:0.6875 region Length:14 
+SLSSLNIL
+GVS-YN-L
+**********************
+
+>uniprot|A0A1Z9DLB0|A0A1Z9DLB0_9EURY Uncharacterized protein [Euryarchaeota archaeon TMED117]
+Length: 22 residues - nb: 4  from  55 to 146 - Psim:0.7788461538461539 region Length:92 
+-EL-NLGDTQITDAGLKDVAKLQNLE
+-EL-VLENTQITDEGLKEVAKLQNLK
+-EL-HLADTKVTDEGLKEVTKLQN--
+LEWLILMETQITDAGLKEVAKL----
+**********************
+
+Length: 22 residues - nb: 7  from  112 to 277 - Psim:0.7916666666666666 region Length:166 
+TDEGLKEVTKLQNLEWLILMETQI
+TDAGLKEVAKLQNLNELDLENTQI
+TDTGLKEVVKLQQLFELNLAGTQI
+TDEGLKDVAKLQNLEWLILVKTQI
+TDAGLEEVAKLQNLEELHLADTKV
+TDEGLKEVAKLQNLEELDLENTQI
+TDEGLKEVAKLQRLMYFYLHST--
+**********************
+
+Length: 22 residues - nb: 3  from  141 to 208 - Psim:0.7564102564102564 region Length:68 
+--KEVAKLQNLNELDLENTQITDTGL
+--KEVVKLQQLFELNLAGTQITDE--
+GLKDVAKLQNLEWLILVKTQIT----
+**********************
+
+Length: 22 residues - nb: 4  from  177 to 265 - Psim:0.7916666666666666 region Length:89 
+NL-----AGTQITDEGLKDVAKLQ
+NLEWLILVKTQITDAGLEEVAKLQ
+NLEELHLADTKVTDEGLKEVAKLQ
+NLEELDLENTQITDEGLKEVAK--
+**********************
+
+Length: 22 residues - nb: 3  from  214 to 283 - Psim:0.7777777777777778 region Length:70 
+EVAKLQNLEELHLADTKVTDEGLK
+EVAKLQNLEELDLENTQITDEGLK
+EVAKLQRLMYFYLHSTKVTKKG--
+**********************
+
+Length: 24 residues - nb: 6  from  50 to 201 - Psim:0.7792792792792793 region Length:152 
+LENVYELNLGDTQITDAGLKDVAKLQ-----N-----
+LE---ELVLENTQITDEGLKEVAKLQ-----N-----
+LK---ELHLADTKVTDEGLKEVTKLQ-----N-----
+LE---WLILMETQITDAGLKEVAKLQ-----NLNELD
+LE--------NTQITDTGLKEVVKLQQLFELN-----
+L------A--GTQITDEGLKDVAKLQ-----NLEWLI
+**********************
+
+Length: 24 residues - nb: 7  from  112 to 279 - Psim:0.7916666666666666 region Length:168 
+TDEGLKEVTKLQNLEWLILMETQI
+TDAGLKEVAKLQNLNELDLENTQI
+TDTGLKEVVKLQQLFELNLAGTQI
+TDEGLKDVAKLQNLEWLILVKTQI
+TDAGLEEVAKLQNLEELHLADTKV
+TDEGLKEVAKLQNLEELDLENTQI
+TDEGLKEVAKLQRLMYFYLHSTKV
+**********************
+
+Length: 24 residues - nb: 3  from  141 to 212 - Psim:0.8055555555555556 region Length:72 
+KEVAKLQNLNELDLENTQITDTGL
+KEVVKLQQLFELNLAGTQITDEGL
+KDVAKLQNLEWLILVKTQITDAGL
+**********************
+
+Length: 24 residues - nb: 4  from  177 to 267 - Psim:0.8020833333333334 region Length:91 
+NLA-----GTQITDEGLKDVAKLQ
+NLEWLILVKTQITDAGLEEVAKLQ
+NLEELHLADTKVTDEGLKEVAKLQ
+NLEELDLENTQITDEGLKEVAKLQ
+**********************
+
+Length: 24 residues - nb: 5  from  166 to 285 - Psim:0.75 region Length:120 
+EVVKLQQLFELNLAGTQITDEGLK
+DVAKLQNLEWLILVKTQITDAGLE
+EVAKLQNLEELHLADTKVTDEGLK
+EVAKLQNLEELDLENTQITDEGLK
+EVAKLQRLMYFYLHSTKVTKKGMT
+**********************
+
+Length: 27 residues - nb: 2  from  50 to 103 - Psim:0.8166666666666667 region Length:54 
+LENVYELNLGDTQITDAGLKDVAKLQN---
+LE---ELVLENTQITDEGLKEVAKLQNLKE
+**********************
+
+Length: 27 residues - nb: 7  from  112 to 282 - Psim:0.798941798941799 region Length:171 
+TDEGLKEVTKLQNLEWLILMETQI---
+TDAGLKEVAKLQNLNELDLENTQI---
+TDTGLKEVVKLQQLFELNLAGTQI---
+TDEGLKDVAKLQNLEWLILVKTQI---
+TDAGLEEVAKLQNLEELHLADTKV---
+TDEGLKEVAKLQNLEELDLENTQI---
+TDEGLKEVAKLQRLMYFYLHSTKVTKK
+**********************
+
+Length: 27 residues - nb: 5  from  141 to 269 - Psim:0.7257142857142858 region Length:129 
+KEVAKL-QNLNEL-DLENTQITDTGL---------
+-KEVVKLQQLFE-LNLAGTQITDEGLKDV------
+---AKL-QNLEWL-ILVKTQITDAGLEEVAKL---
+-------QNLEEL-HLADTKVTDEGLKEVAKL---
+-------QNLEEL-DLENTQITDEGLKEVAKLQRL
+**********************
+
+Length: 27 residues - nb: 3  from  179 to 263 - Psim:0.7207207207207207 region Length:85 
+AGTQITDEGLKDVAKLQNLEWLILVKTQITD------
+AG--LEE-VAK----LQNLEELHLADTKVTDEGL---
+-----KE-VAK----LQNLEELDLENTQITDEGLKEV
+**********************
+
+Length: 27 residues - nb: 3  from  215 to 289 - Psim:0.7777777777777778 region Length:75 
+VAKLQNLEELHLADTKVTDEG---LKE
+VAKLQNLEELDLENTQITDEG---LKE
+VAKLQRLMYFYLHSTKVTKKGMTELKK
+**********************
+
+>uniprot|A0A1Q9N007|A0A1Q9N007_9ARCH Small GTP-binding protein [Candidatus Lokiarchaeota archaeon CR_4]
+Length: 4 residues - nb: 3  from  350 to 363 - Psim:0.7777777777777778 region Length:14 
+LTALN-
+LTN-NP
+LTN-E-
+**********************
+
+Length: 5 residues - nb: 3  from  350 to 364 - Psim:0.7222222222222222 region Length:15 
+LTALN-
+LTN-NP
+LTN-EE
+**********************
+
+>uniprot|A0A1Q9MXE9|A0A1Q9MXE9_9ARCH Leucine-rich protein [Candidatus Lokiarchaeota archaeon CR_4]
+>uniprot|A0A1Q9MSI0|A0A1Q9MSI0_9ARCH Leucine-rich protein [Candidatus Lokiarchaeota archaeon CR_4]
+Length: 7 residues - nb: 2  from  288 to 301 - Psim:0.8125 region Length:14 
+LT-IEGCK
+LTKIEGL-
+**********************
+
+Length: 8 residues - nb: 2  from  321 to 337 - Psim:0.8333333333333334 region Length:17 
+EGLEHLSAL
+EGL-HLSLN
+**********************
+
+Length: 9 residues - nb: 2  from  321 to 338 - Psim:0.8 region Length:18 
+EGLEHLSA-L
+EGL-HLSLNQ
+**********************
+
+Length: 22 residues - nb: 5  from  298 to 407 - Psim:0.7 region Length:110 
+IEGLEHLQKLKVLHLEKNQITR
+IEGLEHLSALEGLHLSLNQITR
+IEGLEHLPHLKKLELDHNLITH
+IEGLEYLTSLETLYLNQNQISH
+IEGLVGCHHLKLLNLSQNFIDD
+**********************
+
+>uniprot|A0A0M0BCV7|A0A0M0BCV7_9ARCH Uncharacterized protein [miscellaneous Crenarchaeota group archaeon SMTZ-80]
+Length: 7 residues - nb: 2  from  93 to 106 - Psim:0.75 region Length:14 
+PS-SVLNL
+PSLTYLN-
+**********************
+
+>uniprot|A0A0M0BKD6|A0A0M0BKD6_9ARCH Uncharacterized protein [miscellaneous Crenarchaeota group archaeon SMTZ-80]
+Length: 8 residues - nb: 3  from  9 to 33 - Psim:0.7037037037037037 region Length:25 
+KIREDLASH
+KINK-LAAS
+KIVE-LIIS
+**********************
+
+Length: 9 residues - nb: 2  from  9 to 25 - Psim:0.7222222222222222 region Length:17 
+KIREDLASH
+KINK-LAAS
+**********************
+
+>uniprot|A0A2D6R7Y8|A0A2D6R7Y8_9ARCH Uncharacterized protein (Fragment) [archaeon]
+Length: 5 residues - nb: 3  from  164 to 178 - Psim:0.8 region Length:15 
+IGYKG
+IGYRG
+IGPQG
+**********************
+
+Length: 18 residues - nb: 2  from  270 to 306 - Psim:0.7619047619047619 region Length:37 
+IGTR--GAQHIARMKNLHTLN
+IGGNFIGATYIAQMKNLH---
+**********************
+
+Length: 22 residues - nb: 8  from  214 to 376 - Psim:0.6875 region Length:163 
+----T--LNIAWNDLEPQGAEQIARMKNLH
+----T--LNIERNGLGPYGAQQIARMRNLH
+----T--LNIRGNDIGTRGAQHIARMKNLH
+----T--LNIGGNFIG---ATYIAQMKNLH
+----T--LKIAKNSLGTRGAQQIARMKN--
+----LQRLDIGGNDIGPQGAQQIATM----
+KNLHT--LNIRGNDIRTEGAQQIATM----
+--------------------------KN--
+**********************
+
+Length: 22 residues - nb: 6  from  250 to 376 - Psim:0.7222222222222222 region Length:127 
+GAQQIARMRNLHTLNIRGNDIGTR
+GAQHIARMKNLHTLNIGGNFI---
+GATYIAQMKNLHTLKIAKNSLGTR
+GAQQIARMKNLQRLDIGGNDIGPQ
+GAQQIATMKNLHTLNIRGNDIRTE
+GAQQIA------TM--K-N-----
+**********************
+
+Length: 22 residues - nb: 3  from  319 to 376 - Psim:0.6944444444444444 region Length:58 
+GAQQIARMKNLQRLDIGGNDIGPQ
+GAQQIATMKNLHTLNIRGNDIRTE
+GAQQIATMKN--------------
+**********************
+
+Length: 24 residues - nb: 6  from  214 to 354 - Psim:0.7708333333333334 region Length:141 
+TLNIAWNDLEPQGAEQIARMKNLH
+TLNIERNGLGPYGAQQIARMRNLH
+TLNIRGNDIGTRGAQHIARMKNLH
+TLNIGGNFIG---ATYIAQMKNLH
+TLKIAKNSLGTRGAQQIARMKNLQ
+RLDIGGNDIGPQGAQQIATMKNLH
+**********************
+
+Length: 24 residues - nb: 6  from  250 to 376 - Psim:0.7222222222222222 region Length:127 
+GAQQIARMRNLHTLNIRGNDIGTR
+GAQHIARMKNLHTLNIGGNFI---
+GATYIAQMKNLHTLKIAKNSLGTR
+GAQQIARMKNLQRLDIGGNDIGPQ
+GAQQIATMKNLHTLNIRGNDIRTE
+GAQQIA------TM--K-N-----
+**********************
+
+Length: 24 residues - nb: 3  from  319 to 376 - Psim:0.6944444444444444 region Length:58 
+GAQQIARMKNLQRLDIGGNDIGPQ
+GAQQIATMKNLHTLNIRGNDIRTE
+GAQQIATMKN--------------
+**********************
+
+>uniprot|A0A0E3SP86|A0A0E3SP86_METBA Uncharacterized protein [Methanosarcina barkeri 3]
+Length: 5 residues - nb: 3  from  579 to 593 - Psim:0.6666666666666666 region Length:15 
+ELMNKF
+EL-SY-
+ELPDK-
+**********************
+
+Length: 5 residues - nb: 4  from  798 to 820 - Psim:0.7916666666666666 region Length:23 
+KQKTRT
+KQKTSV
+KQKTNV
+KQRTN-
+**********************
+
+Length: 6 residues - nb: 4  from  798 to 821 - Psim:0.8333333333333334 region Length:24 
+KQKTRT
+KQKTSV
+KQKTNV
+KQRTNV
+**********************
+
+Length: 7 residues - nb: 2  from  191 to 205 - Psim:0.75 region Length:15 
+LSHNQLTK
+LS-SEITK
+**********************
+
+Length: 7 residues - nb: 4  from  798 to 822 - Psim:0.8214285714285714 region Length:25 
+KQKTRT-
+KQKTSV-
+KQKTNV-
+KQRTNVN
+**********************
+
+>uniprot|A0A0E3QNM9|A0A0E3QNM9_METBA Uncharacterized protein [Methanosarcina barkeri str. Wiesmoor]
+Length: 11 residues - nb: 5  from  189 to 247 - Psim:0.6615384615384615 region Length:59 
+LTSLPHEISELKS
+LTQL--SISG-NQ
+LTSLPSEIANLES
+LTQL--DISR-NQ
+LTSLPLEITELKN
+**********************
+
+Length: 23 residues - nb: 4  from  24 to 115 - Psim:0.8478260869565217 region Length:92 
+SYKNLTSLPPEISELKNFTKLYI
+SYNQLTSLPPEISELKNLKQLDI
+SYNQLTSLPPDISKLKNLTQLNI
+RNNQLTSLPPGISKLKNLKQLDI
+**********************
+
+Length: 23 residues - nb: 4  from  62 to 153 - Psim:0.8478260869565217 region Length:92 
+KNLKQLDISYNQLTSLPPDISKL
+KNLTQLNIRNNQLTSLPPGISKL
+KNLKQLDISENQLTSLPSGITEL
+KDLTQLSISKNQLTSLPPEISKL
+**********************
+
+Length: 23 residues - nb: 3  from  130 to 198 - Psim:0.8405797101449275 region Length:69 
+LKDLTQLSISKNQLTSLPPEISK
+LKNLKQLSISRNQLTSLPPEILE
+LKSLTQINIYENQLTSLPHEISE
+**********************
+
+Length: 23 residues - nb: 3  from  207 to 275 - Psim:0.7361111111111112 region Length:69 
+ISGNQLTSLPSEIANLESLT-QLD
+ISRNQLTSLPLEITELKNLT-QLD
+ISSNKLTSLPPEILKL-GIDIEWG
+**********************
+
+>uniprot|A0A1Q9N3V0|A0A1Q9N3V0_9ARCH E3 ubiquitin-protein ligase sspH2 [Candidatus Heimdallarchaeota archaeon LC_3]
+Length: 3 residues - nb: 6  from  14 to 31 - Psim:0.6666666666666666 region Length:18 
+KIIF
+KIE-
+TIM-
+KI--
+KIP-
+NIQ-
+**********************
+
+Length: 5 residues - nb: 3  from  14 to 28 - Psim:0.7222222222222222 region Length:15 
+KI--IF
+KIETIM
+KIK-IP
+**********************
+
+>uniprot|A0A1Q9NIF7|A0A1Q9NIF7_9ARCH Uncharacterized protein [Candidatus Heimdallarchaeota archaeon LC_3]
+Length: 19 residues - nb: 3  from  55 to 119 - Psim:0.6956521739130435 region Length:65 
+LPDSIGLFSELKYLFLSNNNLSF
+LPDSIGLLSKLKVLFLLNNNLTE
+LPESFENLKFLRELDLMAN----
+**********************
+
+Length: 23 residues - nb: 4  from  46 to 139 - Psim:0.6517857142857143 region Length:94 
+NLTGLKISHLPDSIGLFSELKYLFLSNN
+NL-----SFLPDSIGLLSKLKVLFLLNN
+NL-----TELPESFENLKFLRELDLMAN
+KF----RNF-PKSICSLNSLEIL---NL
+**********************
+
+>uniprot|A0A1Q9NY86|A0A1Q9NY86_9ARCH Internalin-A [Candidatus Heimdallarchaeota archaeon LC_3]
+Length: 5 residues - nb: 3  from  346 to 361 - Psim:0.7777777777777778 region Length:16 
+KNLKKL
+KNLK-Y
+LNLK-F
+**********************
+
+Length: 6 residues - nb: 4  from  340 to 363 - Psim:0.6785714285714286 region Length:24 
+NLTSIPK
+NLKKL-K
+NLKYL--
+NLKFN-S
+**********************
+
+>uniprot|A0A1Q9NTA7|A0A1Q9NTA7_9ARCH Internalin-A [Candidatus Heimdallarchaeota archaeon LC_3]
+Length: 7 residues - nb: 2  from  43 to 57 - Psim:0.75 region Length:15 
+NSFGFIPL
+NSF-INSL
+**********************
+
+Length: 23 residues - nb: 3  from  127 to 195 - Psim:0.6904761904761905 region Length:69 
+DLSNNRLKSLPDNLDNLTSLRRLLLSNN
+DL---K-S-LPENVYKLKNLQ-KL----
+DLSNNKLNTLPETVLNLKNLK-YL----
+**********************
+
+>uniprot|A0A1Q9NXS4|A0A1Q9NXS4_9ARCH Uncharacterized protein [Candidatus Heimdallarchaeota archaeon LC_3]
+Length: 7 residues - nb: 2  from  339 to 352 - Psim:0.8571428571428571 region Length:14 
+IIINNGL
+IIFRNGL
+**********************
+
+>uniprot|A0A1Q9NX75|A0A1Q9NX75_9ARCH Internalin-A [Candidatus Heimdallarchaeota archaeon LC_3]
+Length: 22 residues - nb: 2  from  62 to 105 - Psim:0.8181818181818182 region Length:44 
+LDSLSGLKQLFLNSNQITEITG
+LDSLTNVDRIFLNKNQITEIKG
+**********************
+
+>uniprot|A0A1Q9NBB7|A0A1Q9NBB7_9ARCH Uncharacterized protein [Candidatus Heimdallarchaeota archaeon LC_3]
+Length: 7 residues - nb: 2  from  209 to 223 - Psim:0.8125 region Length:15 
+NLKEILLN
+NLI-ILLE
+**********************
+
+>uniprot|A0A1Q9NJD0|A0A1Q9NJD0_9ARCH E3 ubiquitin-protein ligase SlrP [Candidatus Heimdallarchaeota archaeon LC_3]
+Length: 8 residues - nb: 3  from  175 to 202 - Psim:0.6666666666666666 region Length:28 
+LTTLLLPDN--K
+LTTL--PDSIGQ
+LTQLTML-N---
+**********************
+
+Length: 10 residues - nb: 2  from  175 to 194 - Psim:0.75 region Length:20 
+LTTLLLPDN--K
+LTTL--PDSIGQ
+**********************
+
+Length: 11 residues - nb: 3  from  223 to 256 - Psim:0.6666666666666666 region Length:34 
+TL--SLIDNKLT--
+TLPDSLGQLKQL-T
+TL--NL-DNNLIGQ
+**********************
+
+>uniprot|A0A2A2HXJ7|A0A2A2HXJ7_9EURY Uncharacterized protein (Fragment) [Methanosarcina spelaei]
+Length: 14 residues - nb: 3  from  3 to 50 - Psim:0.8235294117647058 region Length:48 
+LKKIKDWIIKAKENNMK
+LKRIKDPIIKAKENNME
+LKEIKDLIIKAEEN---
+**********************
+
+Length: 15 residues - nb: 3  from  3 to 51 - Psim:0.8431372549019608 region Length:49 
+LKKIKDWIIKAKENNMK
+LKRIKDPIIKAKENNME
+LKEIKDLIIKAEENN--
+**********************
+
+Length: 17 residues - nb: 3  from  3 to 53 - Psim:0.8431372549019608 region Length:51 
+LKKIKDWIIKAKENNMK
+LKRIKDPIIKAKENNME
+LKEIKDLIIKAEENNVT
+**********************
+
+Length: 23 residues - nb: 3  from  55 to 123 - Psim:0.8260869565217391 region Length:69 
+LDLSFKGLTSLPSEILKLKNLTQ
+LDLSRNQLTALPSEILELKNLTT
+LNVSRNQLTILPPEISKLKNLTE
+**********************
+
+Length: 23 residues - nb: 7  from  83 to 243 - Psim:0.7329192546583851 region Length:161 
+NQLTALPSEILELKNLTTLNVSR
+NQLTILPPEISKLKNLTELNISR
+NQLKELPHEISKLKNLTKLYIAR
+TQLTALPPEILELENLTELNISG
+NQLKELPHEIFELKNLTELYAYN
+NQLTSLPPEISKLKNLTKFSVFD
+NRFTSLPSQISELKSLAKLNVSE
+**********************
+
+>uniprot|A0A0E3L6J6|A0A0E3L6J6_9EURY Uncharacterized protein [Methanosarcina sp. MTP4]
+Length: 23 residues - nb: 10  from  60 to 285 - Psim:0.6653846153846154 region Length:226 
+ELKNLKTLYLSGN-KLK-QLP-PEII
+KIKNITTLHLPNN-QLT-QLP-PEIT
+ELKSLETLSLSGN-KIT-QLP-VEIA
+ELKNLKILSLSRN-QLT-QLP-IEIA
+ELKNLKTFYISSN-QLT-QLP-IEIT
+EFKDLKKLDLSHN-LLT-QLP-PEIS
+KLQDLTILDLSHN-QLT-QLP-PEIS
+KLKNLKTLDLSGN-PLE-MPP-PEIA
+S-KGIEAIF-T-Y--LE-QEK-ASE-
+H-NEAK-LILVGNGDVGKTCLAYRLV
+**********************
+
+Length: 23 residues - nb: 4  from  172 to 263 - Psim:0.6730769230769231 region Length:92 
+EI-TEF-KDLKK-LDLSHNLLTQLPP
+EI-SKL-QDLTI-LDLSHNQLTQLPP
+EI-SKL-KNLKT-LDLSGNPLEMPPP
+EIASKGIEAIFTYLE-QE-KASE-HN
+**********************
+
+>uniprot|A0A2H9LQT9|A0A2H9LQT9_9ARCH Uncharacterized protein [archaeon CG07_land_8_20_14_0_80_38_8]
+Length: 23 residues - nb: 3  from  225 to 293 - Psim:0.855072463768116 region Length:69 
+IPETIEQLKNLKYLDLGSNQITT
+IPDSITQLKNLQELYLYNNQLTQ
+IPETIEQLKNLKYLDLGSNQITT
+**********************
+
+>uniprot|A0A2H9LQQ3|A0A2H9LQQ3_9ARCH Uncharacterized protein [archaeon CG07_land_8_20_14_0_80_38_8]
+Length: 5 residues - nb: 4  from  148 to 169 - Psim:0.6666666666666666 region Length:22 
+--NLSFM--
+--NLSEI--
+--P-EQIYK
+LKDL-EI--
+**********************
+
+>uniprot|A0A0E3RI66|A0A0E3RI66_METMZ Uncharacterized protein [Methanosarcina mazei S-6]
+Length: 4 residues - nb: 4  from  153 to 167 - Psim:0.6666666666666666 region Length:15 
+-LEN--
+-LENL-
+DISN-N
+-QLT--
+**********************
+
+Length: 5 residues - nb: 3  from  259 to 273 - Psim:0.6666666666666666 region Length:15 
+TELP--
+TEIAEL
+TELKQ-
+**********************
+
+Length: 23 residues - nb: 4  from  195 to 286 - Psim:0.6847826086956522 region Length:92 
+EIGKLENLEDLDISYNQLTQIPP
+EIGKFKDLKNLYLSGNHLTQLPP
+EIKKLKKLVKLDLSENEFTELPT
+EIAELTELKQLDVSYNPLISPPP
+**********************
+
+>uniprot|A0A1D2QWK3|A0A1D2QWK3_9EURY Uncharacterized protein [Candidatus Altiarchaeales archaeon WOR_SM1_86-2]
+Length: 23 residues - nb: 7  from  89 to 249 - Psim:0.8385093167701864 region Length:161 
+TSLPKEISRLTNLTELYVYNNDL
+TSLPKEISQLTNLTRLELYGNQL
+TSLPKEISRLTNLTVLNLIYNPL
+TSLPKEISQLTNLTELYSSANQL
+TSLPKEISQLTNLTVLNLSDNQL
+TSLPKEISRLTNLTKLYLSDNQL
+TSLPKEISRLTNLTVLDVRRNPL
+**********************
+
+Length: 23 residues - nb: 5  from  145 to 259 - Psim:0.8 region Length:115 
+TNLTVLNLIYNPLTSLPKEISQL
+TNLTELYSSANQLTSLPKEISQL
+TNLTVLNLSDNQLTSLPKEISRL
+TNLTKLYLSDNQLTSLPKEISRL
+TNLTVLDVRRNPLKQPPSEIAEK
+**********************
+
+Length: 23 residues - nb: 3  from  181 to 249 - Psim:0.8840579710144928 region Length:69 
+TSLPKEISQLTNLTVLNLSDNQL
+TSLPKEISRLTNLTKLYLSDNQL
+TSLPKEISRLTNLTVLDVRRNPL
+**********************
+
+Length: 26 residues - nb: 7  from  89 to 252 - Psim:0.8406593406593407 region Length:164 
+TSLPKEISRLTNLTELYVYNNDL---
+TSLPKEISQLTNLTRLELYGNQL---
+TSLPKEISRLTNLTVLNLIYNPL---
+TSLPKEISQLTNLTELYSSANQL---
+TSLPKEISQLTNLTVLNLSDNQL---
+TSLPKEISRLTNLTKLYLSDNQL---
+TSLPKEISRLTNLTVLDVRRNPLKQP
+**********************
+
+Length: 26 residues - nb: 3  from  178 to 249 - Psim:0.8717948717948718 region Length:72 
+NQLTSLPKEISQLTNLTVLNLS-D--
+NQLTSLPKEISRLTNLTKLYLS-D--
+NQLTSLPKEISRLTNLTVLDVRRNPL
+**********************
+
+>uniprot|A0A2G9NPE1|A0A2G9NPE1_9ARCH Uncharacterized protein [Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_31_24]
+Length: 19 residues - nb: 2  from  123 to 163 - Psim:0.7727272727272727 region Length:41 
+NQVEDVSGLGDLVNLEWLGLGG
+NQIKDVSGLSNLVNLREL-V--
+**********************
+
+>uniprot|A0A0X3BJQ8|A0A0X3BJQ8_9EURY Uncharacterized protein [Methanoculleus sp. MAB1]
+Length: 22 residues - nb: 10  from  20 to 235 - Psim:0.6555555555555556 region Length:216 
+-N-LQTLVLMYN-QI-SDLR-PLAGLT
+-N-LQTLGLGAN-QI-SDLG-PLAGLT
+-N-LQNLGLGAN-QI-SDLK-PLADLT
+-N-LEWLDLMYN-QI-SNLE-PLAGLT
+-N-LEWLDLMYN-QI-SDLR-PLAGLT
+-N-LQTLGLGAN-QI-SNLE-PLAGLT
+-N-LELLYLYNN-QI-RDIS-PLVA-N
+-SGLGSCD-GV--WL-ED-N-YL-DLT
+-S--GSAAM-ADIQTLLHR-GVDVHYQ
+PQ-IQNNPPTIT-TV-TVLTDP-Q-LP
+**********************
+
+Length: 22 residues - nb: 3  from  50 to 115 - Psim:0.8636363636363636 region Length:66 
+ANQISDLGPLAGLTNLQNLGLG
+ANQISDLKPLADLTNLEWLDLM
+YNQISNLEPLAGLTNLEWLDLM
+**********************
+
+Length: 22 residues - nb: 7  from  75 to 231 - Psim:0.670995670995671 region Length:157 
+--ISDLKP-LADLTNLEWLD---LM-YNQ----
+--ISNLEP-LAGLTNLEWLD---LM-YNQ----
+--ISDLRP-LAGLTNLQTLG---LG-ANQ----
+--ISNLEP-LAGLTNLELLY---LY-NNQIRD-
+--ISPLVA-NSGLGSCDGVW---LE-DNY----
+--L-DLTSGSAAMADIQTLLHRGV-DVH---YQ
+PQIQN-NP-PT-ITTV-TV----L--TD-----
+**********************
+
+Length: 22 residues - nb: 5  from  60 to 169 - Psim:0.808695652173913 region Length:110 
+AGLTNLQNLGLGAN-QISDLKPL
+ADLTNLEWLDLMYN-QISNLEPL
+AGLTNLEWLDLMYN-QISDLRPL
+AGLTNLQTLGLGAN-QISNLEPL
+AGLTNLELLYL-YNNQIRDISPL
+**********************
+
+>uniprot|A0A0X3BHU3|A0A0X3BHU3_9EURY Uncharacterized protein [Methanoculleus sp. MAB1]
+Length: 18 residues - nb: 5  from  83 to 188 - Psim:0.8 region Length:106 
+NQISDLSPLAGLTNLQDLHLGA
+NQISDLKPLADLTKLEWLDLGV
+NQISNLEPLAGLTNLQTLVLMY
+NQISNLKPLAGLTNLQTLVLMY
+NQISNLEPLAGLTNLST---S-
+**********************
+
+Length: 18 residues - nb: 5  from  116 to 213 - Psim:0.6833333333333333 region Length:98 
+LTKLEWLDLGVNQISNLEPLAG--
+LTNLQTLVLMYNQISNLKPLAG--
+LTNLQTLVLMYNQISNLEPLAG--
+LTNLSTS-L--N-LPHLS-FC---
+LT-L--F---YHPFS--KPVAATP
+**********************
+
+Length: 18 residues - nb: 3  from  142 to 199 - Psim:0.7222222222222222 region Length:58 
+QTLVLMYNQISNLKP-LAGL-TNL
+QTLVLMYNQISNLEP-LAG-----
+LTN-LS-TSL-NL-PHLSFCLT--
+**********************
+
+Length: 22 residues - nb: 3  from  127 to 192 - Psim:0.8939393939393939 region Length:66 
+NQISNLEPLAGLTNLQTLVLMY
+NQISNLKPLAGLTNLQTLVLMY
+NQISNLEPLAGLTNLSTSLNLP
+**********************
+
+>uniprot|A0A2E9CG16|A0A2E9CG16_9ARCH Uncharacterized protein [Candidatus Heimdallarchaeota archaeon]
+Length: 7 residues - nb: 2  from  138 to 152 - Psim:0.75 region Length:15 
+SNNSMDNV
+SN-MFDNL
+**********************
+
+>uniprot|A0A0E3QXZ9|A0A0E3QXZ9_METBA Uncharacterized protein [Methanosarcina barkeri 227]
+Length: 23 residues - nb: 13  from  11 to 313 - Psim:0.811965811965812 region Length:303 
+LKAKESNATTLDLSSKRLTSLPPEIAE
+LK----NLTRLDISANQLSLLPPEIAE
+LK----NLTKLNVSGNKLTSMPPEITK
+LK----NLTTLEISVNKLTSLPPEITK
+LK----NLTTLNISSNRLTSLPSEIAE
+LK----NLTTLNISSNELTSLPSEITE
+LK----NLTILNISSNQLTSLPPGIAE
+LK----NLTTLDISWNQLISLPLGIAE
+LK----NLITLNMAWNQLTSLPPGITE
+LK----SLTTLYMFWNQLTSLPLEITE
+LK----NLTRLDISRNELTSLPSEITE
+LK----NLTRLDISRNKLTSFPPEITE
+LK----NLTTLILSDNQLSSLPPEILE
+**********************
+
+Length: 23 residues - nb: 3  from  72 to 140 - Psim:0.8985507246376812 region Length:69 
+NKLTSMPPEITKLKNLTTLEISV
+NKLTSLPPEITKLKNLTTLNISS
+NRLTSLPSEIAELKNLTTLNISS
+**********************
+
+Length: 23 residues - nb: 11  from  54 to 306 - Psim:0.8023715415019763 region Length:253 
+LPPEIAELKNLTKLNVSGNKLTS
+MPPEITKLKNLTTLEISVNKLTS
+LPPEITKLKNLTTLNISSNRLTS
+LPSEIAELKNLTTLNISSNELTS
+LPSEITELKNLTILNISSNQLTS
+LPPGIAELKNLTTLDISWNQLIS
+LPLGIAELKNLITLNMAWNQLTS
+LPPGITELKSLTTLYMFWNQLTS
+LPLEITELKNLTRLDISRNELTS
+LPSEITELKNLTRLDISRNKLTS
+FPPEITELKNLTTLILSDNQLSS
+**********************
+
+Length: 23 residues - nb: 9  from  126 to 332 - Psim:0.7511111111111111 region Length:207 
+EIAELKNLTTLNISSNELTS-LP-S
+EITELKNLTILNISSNQLTS-LP-P
+GIAELKNLTTLDISWNQLIS-LP-L
+GIAELKNLITLNMAWNQLTS-LP-P
+GITELKSLTTLYMFWNQLTS-LP-L
+EITELKNLTRLDISRNELTS-LP-S
+EITELKNLTRLDISRNKLTS-FP-P
+EITELKNLTTLILSDNQLSS-LP-P
+EILEL-GIDI-EWEGNSAEKGIFLE
+**********************
+
+Length: 23 residues - nb: 7  from  154 to 314 - Psim:0.8012422360248447 region Length:161 
+KNLTILNISSNQLTSLPPGIAEL
+KNLTTLDISWNQLISLPLGIAEL
+KNLITLNMAWNQLTSLPPGITEL
+KSLTTLYMFWNQLTSLPLEITEL
+KNLTRLDISRNELTSLPSEITEL
+KNLTRLDISRNKLTSFPPEITEL
+KNLTTLILSDNQLSSLPPEILEL
+**********************
+
+Length: 23 residues - nb: 6  from  198 to 335 - Psim:0.7066666666666667 region Length:138 
+ELKNLITLNMAWNQLTS-LPPGIT-
+ELKSLTTLYMFWNQLTS-LPLEIT-
+ELKNLTRLDISRNELTS-LPSEIT-
+ELKNLTRLDISRNKLTS-FPPEIT-
+ELKNLTTLILSDNQLSS-LPPEIL-
+EL-GID-IEWEGNSAEKGIFLEGNP
+**********************
+
+Length: 23 residues - nb: 3  from  237 to 305 - Psim:0.855072463768116 region Length:69 
+SLPLEITELKNLTRLDISRNELT
+SLPSEITELKNLTRLDISRNKLT
+SFPPEITELKNLTTLILSDNQLS
+**********************
+
+>uniprot|F4BWY7|F4BWY7_METSG Internalin-A, putative [Methanothrix soehngenii GP6]
+Length: 21 residues - nb: 11  from  120 to 356 - Psim:0.7786561264822134 region Length:237 
+SGLANLETLSLWDNH-ITNVS-L
+SGLTNLDTLLL-WGNKIINVSSL
+SGLTNLTDLDL-STNQITDASPL
+SGLTNLTDLDL-DNNQITDVSSL
+SGLINLMNLDL-SSNRITNVS-L
+SGLTNVVWLDL-WGNQITDVT-L
+SGLTNLTWLDV-SRNQIADVSSL
+SGLTNLTKLYL-GCNQITDVSSL
+SGLTNLTDLDL-STNQITDASPL
+SGLTNLTYLDL-DNNRINDVS-L
+SDLTNLTDLEL-SNNQINDVSS-
+**********************
+
+Length: 21 residues - nb: 9  from  163 to 356 - Psim:0.8080808080808081 region Length:194 
+SGLTNLTDLDLSTNQITDASPL
+SGLTNLTDLDLDNNQITDVSSL
+SGLINLMNLDLSSNRITNVS-L
+SGLTNVVWLDLWGNQITDVT-L
+SGLTNLTWLDVSRNQIADVSSL
+SGLTNLTKLYLGCNQITDVSSL
+SGLTNLTDLDLSTNQITDASPL
+SGLTNLTYLDLDNNRINDVS-L
+SDLTNLTDLELSNNQINDVSS-
+**********************
+
+Length: 21 residues - nb: 4  from  215 to 298 - Psim:0.76 region Length:84 
+-LDLSSN-RITNVS-LS-GLTNVVW
+-LDLWGN-QITDVT-LS-GLTNLTW
+-LDVSRN-QIADVSSLS-GLTNLT-
+KLYL-GCNQITDV-SSLSGLTNL--
+**********************
+
+Length: 21 residues - nb: 9  from  248 to 441 - Psim:0.7592592592592593 region Length:194 
+--LSGLTNLTWLDVSRNQIADVSS
+--LSGLTNLTKLYLGCNQITDVSS
+--LSGLTNLTDLDLSTNQITDAS-
+P-LSGLTNLTYLDLDNNRINDV--
+S-LSDLTNLTDLELSNNQINDVS-
+S-LSGLTNLKDLDLSNNQINDIS-
+S-LSGLTNLTDLELSSNEITNIS-
+S-LSSLASLRCLDLDNNQIIDV--
+SSLSALTSLKWLRLCSNHATD---
+**********************
+
+Length: 21 residues - nb: 3  from  314 to 376 - Psim:0.8636363636363636 region Length:63 
+-LSGLTNLTYLDLDNNRINDVS
+-LSDLTNLTDLELSNNQINDVS
+SLSGLTNLKDLDLSNNQINDI-
+**********************
+
+Length: 21 residues - nb: 3  from  341 to 402 - Psim:0.8333333333333334 region Length:62 
+LT---DLELSNNQINDVSSLSG
+LTNLKDLDLSNNQINDISSLSG
+LTNLTDLELSSNEITNISSLS-
+**********************
+
+Length: 21 residues - nb: 3  from  450 to 513 - Psim:0.8840579710144928 region Length:64 
+-NLRWLDLSSNQITDVSPLSGLY
+-NLGWLNLSSNQITDVSPLSGL-
+ANLTGLDLSSNQITDVSPLSN--
+**********************
+
+Length: 21 residues - nb: 2  from  480 to 522 - Psim:0.8636363636363636 region Length:43 
+SNQITDVSPLSGLANLTGLDLS
+SNQITDVSPLSNLTNLIWMDL-
+**********************
+
+Length: 22 residues - nb: 8  from  84 to 254 - Psim:0.72 region Length:171 
+NLS-LR-E-NEISDASSLSGLTGLK
+RL-EL--SSNQITDVS-LSGLA---
+NLETLSLWDNHITNVS-LSGLT---
+NLDTLLLWGNKIINVSSLSGLT---
+NLTDLDLSTNQITDASPLSGLT---
+NLTDLDLDNNQITDVSSLSGLI---
+NLMNLDLSSNRITNVS-LSGLT--N
+-VVWLDLWGNQITDVT-LSGLT-NL
+**********************
+
+Length: 22 residues - nb: 11  from  164 to 403 - Psim:0.7984189723320159 region Length:240 
+GLTNLTDLDLSTNQITDASPLS-
+GLTNLTDLDLDNNQITDVSSLS-
+GLINLMNLDLSSNRITNVS-LS-
+GLTNVVWLDLWGNQITDVT-LS-
+GLTNLTWLDVSRNQIADVSSLS-
+GLTNLTKLYLGCNQITDVSSLS-
+GLTNLTDLDLSTNQITDASPLS-
+GLTNLTYLDLDNNRINDVS-LSD
+-LTNLTDLELSNNQINDVSSLSG
+-LTNLKDLDLSNNQINDISSLSG
+-LTNLTDLELSSNEITNISSLSS
+**********************
+
+Length: 22 residues - nb: 4  from  248 to 335 - Psim:0.8181818181818182 region Length:88 
+LSGLTNLTWLDVSRNQIADVSS
+LSGLTNLTKLYLGCNQITDVSS
+LSGLTNLTDLDLSTNQITDASP
+LSGLTNLTYLDLDNNRINDVSL
+**********************
+
+Length: 22 residues - nb: 4  from  327 to 413 - Psim:0.7954545454545454 region Length:87 
+NNRINDVS-LSDLTNLTDLELS
+NNQINDVSSLSGLTNLKDLDLS
+NNQINDISSLSGLTNLTDLELS
+SNEITNISSLSSLASLRCLDLD
+**********************
+
+Length: 22 residues - nb: 3  from  351 to 416 - Psim:0.803030303030303 region Length:66 
+INDVSSLSGLTNLKDLDLSNNQ
+INDISSLSGLTNLTDLELSSNE
+ITNISSLSSLASLRCLDLDNNQ
+**********************
+
+Length: 22 residues - nb: 3  from  450 to 515 - Psim:0.8939393939393939 region Length:66 
+NLRWLDLSSNQITDVSPLSGLY
+NLGWLNLSSNQITDVSPLSGLA
+NLTGLDLSSNQITDVSPLSNLT
+**********************
+
+Length: 22 residues - nb: 2  from  481 to 524 - Psim:0.8636363636363636 region Length:44 
+NQITDVSPLSGLANLTGLDLSS
+NQITDVSPLSNLTNLIWMDLRS
+**********************
+
+>uniprot|A0A2D6V4A0|A0A2D6V4A0_9ARCH Uncharacterized protein [Thaumarchaeota archaeon]
+Length: 22 residues - nb: 3  from  183 to 248 - Psim:0.8260869565217391 region Length:66 
+LASLNNLTWINLEE-NQISDISP
+LASLTELVHLTL-GKNQISDISP
+LISLNNLTWLSLWG-NQISDISP
+**********************
+
+>uniprot|I7KDQ7|I7KDQ7_METBM Uncharacterized protein [Methanoculleus bourgensis MS2]
+Length: 5 residues - nb: 4  from  2099 to 2119 - Psim:0.6666666666666666 region Length:21 
+ATGLFT
+ATAEGS
+ATV--T
+ATA-GD
+**********************
+
+Length: 5 residues - nb: 3  from  2279 to 2293 - Psim:0.7222222222222222 region Length:15 
+ATAEGS
+ATV--T
+ATA-GE
+**********************
+
+Length: 22 residues - nb: 4  from  778 to 865 - Psim:0.72 region Length:88 
+PL-AG--LTNLSVLLLGSN-QISDIG
+PL-AG--LTDLQRLHLYDN-QIRDIG
+PL-AG--LTNLWELRLYNN-QIRDIG
+PLVANSGLGSGDEVYLQYN-YL-D--
+**********************
+
+Length: 22 residues - nb: 3  from  803 to 871 - Psim:0.7051282051282052 region Length:69 
+GLTDLQRLHL-YDNQIRDIGPL-A--
+GLTNLWELRL-YNNQIRDIGPLVANS
+GLGSGDEVYLQY-NYL-DLTPGSA--
+**********************
+
+Length: 22 residues - nb: 11  from  1525 to 1772 - Psim:0.7536656891495601 region Length:248 
+GLEYAVNLQTLYI-SNNQISDL--S-PL--A
+GL--TNL-QTLWLQD-NQVSDLSP--L-A--
+GL--TNL-QRLWLNQ-NQIRDVSP--L-A--
+GL--TNL-RELLLAV-NQISDLSP--L-A--
+GL--TNL-GYVQL-YRNQISDLSP--L-A--
+GL--TNL-GYVQL-YRNQISDLSP--L-A--
+GL--TNL-YFLDISY-NQISDLSP--L-A--
+SL--TNL-YFLDISY-NQISDISP--L-A--
+GL--TRL-SRLSLDN-NQISDISP--L-A--
+GL--INL-YVLNLNY-NQIRDISP--LVANS
+GL--AG--DDVYLQY-NYL-DLTPGSA-A--
+**********************
+
+Length: 22 residues - nb: 8  from  1553 to 1728 - Psim:0.7717391304347826 region Length:176 
+NLQTLWL-QDNQVSDLSPLAGLT
+NLQRLWL-NQNQIRDVSPLAGLT
+NLRELLL-AVNQISDLSPLAGLT
+NLGYVQL-YRNQISDLSPLAGLT
+NLGYVQL-YRNQISDLSPLAGLT
+NLYFLDISY-NQISDLSPLASLT
+NLYFLDISY-NQISDISPLAGLT
+RLSRLSL-DNNQISDISPLAGLI
+**********************
+
+Length: 22 residues - nb: 8  from  1590 to 1765 - Psim:0.75 region Length:176 
+SPL-AG--LTNLREL-L-L-A-VNQISDL
+SPL-AG--LTNLGYV-Q-L-Y-RNQISDL
+SPL-AG--LTNLGYV-Q-L-Y-RNQISDL
+SPL-AG--LTNLYFL-D-ISY--NQISDL
+SPL-AS--LTNLYFL-D-ISY--NQISDI
+SPL-AG--LTRLSRL-S-L-D-NNQISDI
+SPL-AG--LINL-YVLN-L-NY-NQIRDI
+SPLVANSGLAGDDV-Y-L-Q-Y-NYL-D-
+**********************
+
+Length: 22 residues - nb: 6  from  1615 to 1746 - Psim:0.7898550724637681 region Length:132 
+AGLTNLGYVQL-YRNQISDLSPL
+AGLTNLGYVQL-YRNQISDLSPL
+AGLTNLYFLDISY-NQISDLSPL
+ASLTNLYFLDISY-NQISDISPL
+AGLTRLSRLSLDN-NQISDISPL
+AGLINLYVLNLNY-NQIRDISPL
+**********************
+
+Length: 22 residues - nb: 4  from  1640 to 1727 - Psim:0.8152173913043478 region Length:88 
+TNLGYVQL-YRNQISDLSPLAGL
+TNLYFLDISY-NQISDLSPLASL
+TNLYFLDISY-NQISDISPLAGL
+TRLSRLSLDN-NQISDISPLAGL
+**********************
+
+Length: 22 residues - nb: 3  from  1665 to 1730 - Psim:0.8484848484848485 region Length:66 
+YFLDISYNQISDLSPLASLTNL
+YFLDISYNQISDISPLAGLTRL
+SRLSLDNNQISDISPLAGLINL
+**********************
+
+Length: 22 residues - nb: 3  from  1695 to 1760 - Psim:0.6956521739130435 region Length:66 
+QISDISPLAGLTRLSRLSLDN-N
+QISDISPLAGLINLYVLNLNY-N
+QIRDISPLVANSGLAGDDV-YLQ
+**********************
+
+Length: 47 residues - nb: 3  from  87 to 236 - Psim:0.7916666666666666 region Length:150 
+SYGTGNGQFNGPQGIAVNAAGNVYVADTYNHRIQKFDSSGNLLTKWGSWGSGDGQF
+SY---------PDSVAVDAAGNVYVSDTNNGRIQKFDSDGTFLGKWGSWGSGDGQL
+RF---------SQDLVVDAAGNIYVAEYGNHRIQKFDSNGNFLWKKGSSGSGDGQF
+**********************
+
+Length: 47 residues - nb: 3  from  163 to 312 - Psim:0.7261904761904762 region Length:150 
+NGRIQKFDSDGTFLGKWGSWGSGDGQLRFSQDLVVDAAGNIYVAEYGNHRIQKFDS
+NG-----NFLWKK----GSSGSGDGQFLSPYGITVDAAGNVYVADTWNHRIQKFDS
+SG-----NFLTKW----GSRGSGNGQFSEPFGVAVDSAGNVYVTERGNDRVQMFAP
+**********************
+
+>uniprot|A0A1D2R9W6|A0A1D2R9W6_9EURY Uncharacterized protein [Candidatus Altiarchaeales archaeon WOR_SM1_79]
+Length: 23 residues - nb: 3  from  36 to 104 - Psim:0.7222222222222222 region Length:69 
+ELSKEITQLRNLQKLDLSNNQLS-
+ELPKKITQLKNLQYLNLSNNQLS-
+ELPKRIIDLENLE-IKWREDYSSE
+**********************
+
+>uniprot|A0A1Q9P3R4|A0A1Q9P3R4_9ARCH Uncharacterized protein [Candidatus Heimdallarchaeota archaeon LC_2]
+Length: 3 residues - nb: 6  from  135 to 153 - Psim:0.6666666666666666 region Length:19 
+--L-N
+L-N-E
+NKL-T
+S-LPN
+S-L-E
+S-L-D
+**********************
+
+>uniprot|A0A1Q9P219|A0A1Q9P219_9ARCH Internalin-A [Candidatus Heimdallarchaeota archaeon LC_2]
+Length: 7 residues - nb: 2  from  54 to 67 - Psim:0.7857142857142857 region Length:14 
+SNQITNV
+SNQIEDL
+**********************
+
+>uniprot|A0A1Q9P3L7|A0A1Q9P3L7_9ARCH E3 ubiquitin-protein ligase sspH2 [Candidatus Heimdallarchaeota archaeon LC_2]
+Length: 5 residues - nb: 3  from  38 to 52 - Psim:0.6666666666666666 region Length:15 
+SLDLG
+SLELI
+SLPED
+**********************
+
+>uniprot|A0A1Q9NBU7|A0A1Q9NBU7_9ARCH E3 ubiquitin-protein ligase SlrP [Candidatus Heimdallarchaeota archaeon LC_2]
+Length: 23 residues - nb: 3  from  155 to 227 - Psim:0.7037037037037037 region Length:73 
+NKIKELPESIGDLSRLQSLR-IS-H--
+NKIKELPERITDLFNLQSLQ-YG-D--
+NQAGEIPEWIGDLEQLERLYIHDNDLT
+**********************
+
+>uniprot|A0A0E3QE42|A0A0E3QE42_9EURY Uncharacterized protein [Methanosarcina sp. Kolksee]
+Length: 22 residues - nb: 8  from  29 to 210 - Psim:0.745 region Length:182 
+T-QL-PPEITELKNLTKLNLSFNHF
+T-QL-PFEITKLENLTTLDLCKNHF
+T-QL-SPKIAKLKSLTTLDLCENYL
+T-QL-PSEIIELITITTLDLSFNYL
+T-QL-PSEITKLKNLTELNLSGNKL
+T-QLLP-EVTELKNLTTLDLSENCL
+T-QL-PPEIIKLKNLTELNLSGNK-
+LKQL-PPEIAELENLTELNLYGT--
+**********************
+
+Length: 22 residues - nb: 9  from  88 to 288 - Psim:0.7326388888888888 region Length:201 
+-----T--TLD-LCENYLTQLPSEIIELIT-I
+-----T--TLD-LSFNYLTQLPSEITKL-KN-
+---L-T--ELN-LSGNKLTQLLPEVTEL-K--
+--NL-T--TLD-LSENCLTQLPPEIIKL-K--
+--NL-T--ELN-LSGNKLKQLPPEIAEL----
+-ENL-T--ELN-LYGTHLTHLPSEITK-----
+LKNL-T--ELN-LARNQLTELPSEIIK-----
+-LKTL--TTL-YLFGNQLTQLPPEI-G-----
+--EL-EKLTELELSENQLTQLPPEI-------
+**********************
+
+Length: 23 residues - nb: 8  from  29 to 212 - Psim:0.75 region Length:184 
+TQLPPEITELKNLTKLNLSFNHF
+TQLPFEITKLENLTTLDLCKNHF
+TQLSPKIAKLKSLTTLDLCENYL
+TQLPSEIIELITITTLDLSFNYL
+TQLPSEITKLKNLTELNLSGNKL
+TQLLPEVTELKNLTTLDLSENCL
+TQLPPEIIKLKNLTELNLSGNKL
+KQLPPEIAELENLTELNLYGTHL
+**********************
+
+Length: 23 residues - nb: 3  from  88 to 156 - Psim:0.8055555555555556 region Length:69 
+TTLDLCENYLTQL-PSEIIELITI
+TTLDLSFNYLTQL-PSEITKLKNL
+TELNLSGNKLTQLLP-EVTELKNL
+**********************
+
+>uniprot|A0A0E3R0M6|A0A0E3R0M6_METBA Uncharacterized protein [Methanosarcina barkeri 227]
+Length: 19 residues - nb: 2  from  162 to 202 - Psim:0.6521739130434783 region Length:41 
+---Q-LPPEMGKLRNLVKLSLCH
+NNLEELPPEISELTKLKQLDIS-
+**********************
+
+>uniprot|UPI00069747E0|UPI00069747E0 hypothetical protein [Methanosarcina mazei]
+Length: 21 residues - nb: 3  from  34 to 102 - Psim:0.7246376811594203 region Length:69 
+EILELKNLETLSLYHNRLKILPP
+EIMELKNLKTLNISKNKLTRLPP
+EIKELKSLELLDAGLNQLAQLPP
+**********************
+
+Length: 23 residues - nb: 3  from  34 to 102 - Psim:0.7246376811594203 region Length:69 
+EILELKNLETLSLYHNRLKILPP
+EIMELKNLKTLNISKNKLTRLPP
+EIKELKSLELLDAGLNQLAQLPP
+**********************
+
+>uniprot|UPI000BE2DEA9|UPI000BE2DEA9 GTP-binding protein [Candidatus Methanoperedens sp. BLZ2]
+Length: 5 residues - nb: 3  from  482 to 496 - Psim:0.6666666666666666 region Length:15 
+ELMNKF
+ELV-Y-
+ELPDK-
+**********************
+
+Length: 23 residues - nb: 3  from  25 to 93 - Psim:0.9130434782608695 region Length:69 
+QLSSLPPEIGNLTNLTELNLMEN
+QLSSLPPEIGNLTNLTELNLYEN
+KLSSLPPEIGNLTNLIGLSLGEN
+**********************
+
+Length: 23 residues - nb: 5  from  51 to 165 - Psim:0.825 region Length:115 
+SLPPEIGNLTNLTELNLYE-NKLS
+SLPPEIGNLTNLIGLSL-GENKLS
+SLPPEIGNLTNLTGLFLEG-NQLS
+SLPPEIGNLTNLTGLYLYG-NKLR
+SLPPELSKLMNLTMLDLEN-NPLE
+**********************
+
+Length: 23 residues - nb: 5  from  77 to 186 - Psim:0.7166666666666667 region Length:110 
+PEIGNLTNLIGLSL-GENKLSSLP
+PEIGNLTNLTGLFLEG-NQLSSLP
+PEIGNLTNLTGLYLYG-NKLRSLP
+PELSKLMNLTMLDLEN-NPLESPP
+PEIVE-RGIKAIF-E---YLKQL-
+**********************
+

@@ -1,0 +1,15 @@
+channels:
+  - bioconda
+  - conda-forge
+  - r
+dependencies:
+  - r-dplyr=0.8.3
+  - r-tidyverse=1.2.1 # It comes with ggplot 3.0.0
+  - r-cowplot=1.0.0
+  - r-stringr=1.4.0
+  - r-reshape2=1.4.3
+  - r-hmisc=4.2_0
+  - r-popgenome=2.6.1
+  - r-vcfr=1.8.0
+  - r-gridextra=2.3 # It includes grid
+  - r-emt=1.1 # for multivariate testing

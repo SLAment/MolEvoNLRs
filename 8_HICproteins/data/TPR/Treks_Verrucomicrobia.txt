@@ -1,0 +1,5219 @@
+PHYLUM:VERRUCOMICROBIA
+>uniprot|A0A1V5Q1B3|A0A1V5Q1B3_9BACT Lipoprotein NlpI [Verrucomicrobia bacterium ADurb.Bin345]
+Length: 5 residues - nb: 3  from  22 to 36 - Psim:0.7142857142857143 region Length:15 
+ALIVF--
+AL--FAP
+ALR-F-D
+**********************
+
+>uniprot|A0A1V5Q9H6|A0A1V5Q9H6_9BACT Tol-pal system protein YbgF [Verrucomicrobia bacterium ADurb.Bin345]
+Length: 3 residues - nb: 5  from  926 to 941 - Psim:0.65 region Length:16 
+AAQQ
+AAA-
+SAQ-
+PAA-
+PAG-
+**********************
+
+Length: 4 residues - nb: 4  from  554 to 569 - Psim:0.65 region Length:16 
+ALAQF
+ALAE-
+SLRQ-
+-LNR-
+**********************
+
+>uniprot|A0A1V5Q1A6|A0A1V5Q1A6_9BACT Photosystem I assembly protein Ycf3 [Verrucomicrobia bacterium ADurb.Bin345]
+Length: 3 residues - nb: 5  from  532 to 546 - Psim:0.65 region Length:15 
+RADV
+RAN-
+Y-E-
+RAL-
+RAR-
+**********************
+
+>uniprot|A0A1V5Q865|A0A1V5Q865_9BACT Cellulose synthase subunit BcsC [Verrucomicrobia bacterium ADurb.Bin345]
+Length: 5 residues - nb: 3  from  33 to 47 - Psim:0.6666666666666666 region Length:15 
+AVAWL
+AVALA
+LAAIL
+**********************
+
+>uniprot|A0A1V5QHE1|A0A1V5QHE1_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin345]
+Length: 7 residues - nb: 2  from  254 to 268 - Psim:0.6875 region Length:15 
+VLDPANAR
+VLDTLGF-
+**********************
+
+>uniprot|A0A1V5Q7Q1|A0A1V5Q7Q1_9BACT TPR repeat-containing protein YrrB [Verrucomicrobia bacterium ADurb.Bin345]
+Length: 3 residues - nb: 5  from  129 to 143 - Psim:0.7 region Length:15 
+-SPS
+-SPS
+TSDV
+-S-S
+-SSE
+**********************
+
+>uniprot|A0A1V5Q1E0|A0A1V5Q1E0_9BACT Thermonuclease [Verrucomicrobia bacterium ADurb.Bin345]
+Length: 5 residues - nb: 3  from  189 to 205 - Psim:0.7777777777777778 region Length:17 
+EEVAEA
+EEEAPA
+EEEGP-
+**********************
+
+Length: 6 residues - nb: 3  from  189 to 206 - Psim:0.7777777777777778 region Length:18 
+EEVAEA
+EEEAPA
+EEEGPP
+**********************
+
+>uniprot|A0A1V6GL57|A0A1V6GL57_9BACT Lipoprotein NlpI [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 4 residues - nb: 5  from  27 to 45 - Psim:0.72 region Length:19 
+AGL--
+AGLL-
+A-LL-
+AGCTP
+AGPH-
+**********************
+
+Length: 4 residues - nb: 3  from  408 to 421 - Psim:0.7333333333333333 region Length:14 
+TPPQP
+TPLGP
+TP-GT
+**********************
+
+Length: 5 residues - nb: 3  from  408 to 422 - Psim:0.7222222222222222 region Length:15 
+TPPQP-
+TPLGP-
+TP-GTE
+**********************
+
+>uniprot|A0A1V6GKN5|A0A1V6GKN5_9BACT Photosystem I assembly protein Ycf3 [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 9 residues - nb: 2  from  49 to 67 - Psim:0.75 region Length:19 
+LAGLTWRQAG
+LAFRT-SCAG
+**********************
+
+>uniprot|A0A1V6GDZ7|A0A1V6GDZ7_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 4 residues - nb: 5  from  238 to 257 - Psim:0.7 region Length:20 
+LA-LCG
+LAGL--
+SL-L--
+LL-L-P
+LL-A-H
+**********************
+
+Length: 5 residues - nb: 3  from  234 to 249 - Psim:0.6666666666666666 region Length:16 
+LCLRLA
+LC-GLA
+-GLSLL
+**********************
+
+>uniprot|A0A1V6GEU7|A0A1V6GEU7_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 3 residues - nb: 5  from  460 to 474 - Psim:0.7 region Length:15 
+--A-AD
+--AAR-
+IKE-L-
+--E-R-
+--E-RD
+**********************
+
+Length: 7 residues - nb: 2  from  89 to 103 - Psim:0.8125 region Length:15 
+SAWAPPAA
+SA-APPGS
+**********************
+
+Length: 48 residues - nb: 4  from  178 to 376 - Psim:0.8318181818181818 region Length:199 
+AQEKNKPVAAPDTQALDEARQSLEEANRKLAEQARLAETLTSEKAALQSKLDSLA
+AQTVN--TAEL--ATAR-QAL--EEANRKLAEQTRLAETLTSEKAALQSKLDSLA
+AQTVN--TAEL--ETAR-QAL--EEANRKLAEQTRLAEALASEKAALQSKLDNLP
+AQPAN--TAEL--ETAR-QAL--EEANRKLAEQTRLAEALTGEKESLQARVTALR
+**********************
+
+Length: 48 residues - nb: 3  from  237 to 380 - Psim:0.8611111111111112 region Length:144 
+NTAELATARQALEEANRKLAEQTRLAETLTSEKAALQSKLDSLAAQTV
+NTAELETARQALEEANRKLAEQTRLAEALASEKAALQSKLDNLPAQPA
+NTAELETARQALEEANRKLAEQTRLAEALTGEKESLQARVTALRTDAE
+**********************
+
+>uniprot|A0A1V6GGW2|A0A1V6GGW2_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 42 residues - nb: 5  from  25 to 234 - Psim:0.7674418604651163 region Length:210 
+NLAQLLQATNRLPEAEPLMRRALAIDEA-SYEPKHRKVAACLN
+NLATLLQDTNRLPEAELLMRQALKITKA-SYGPKHPNVATCLN
+NLAILLQATNRLQKAELLMRQALKITKA-SYEPKHPNVATCLN
+NLATLLQATNRLQEAEPLILEALAIDEV-RYGPEHPNVATDLN
+NLGQLLKATNRLEEAEPLMRRGLEILVAFTRTTRHRH-PHLQA
+**********************
+
+Length: 42 residues - nb: 3  from  72 to 197 - Psim:0.8571428571428571 region Length:126 
+LQDTNRLPEAELLMRQALKITKASYGPKHPNVATCLNNLAIL
+LQATNRLQKAELLMRQALKITKASYEPKHPNVATCLNNLATL
+LQATNRLQEAEPLILEALAIDEVRYGPEHPNVATDLNNLGQL
+**********************
+
+>uniprot|A0A1V6GKL6|A0A1V6GKL6_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 4 residues - nb: 4  from  92 to 108 - Psim:0.6666666666666666 region Length:17 
+LTL---
+LTL-A-
+RTV-AL
+LPHDR-
+**********************
+
+>uniprot|A0A1V6GHK9|A0A1V6GHK9_9BACT Photosystem I assembly protein Ycf3 [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 3 residues - nb: 5  from  715 to 728 - Psim:0.68 region Length:14 
+A--L-
+A--LQ
+QHPR-
+A--A-
+A--AH
+**********************
+
+>uniprot|A0A1V6GDU1|A0A1V6GDU1_9BACT TPR repeat-containing protein YrrB [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 5 residues - nb: 3  from  35 to 48 - Psim:0.7333333333333333 region Length:14 
+AAFLV
+AATL-
+AAYLP
+**********************
+
+Length: 7 residues - nb: 2  from  412 to 425 - Psim:0.8571428571428571 region Length:14 
+SAFGFSL
+SAFGLVL
+**********************
+
+>uniprot|A0A1V6GK46|A0A1V6GK46_9BACT TPR repeat-containing protein YrrB [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 4 residues - nb: 4  from  135 to 150 - Psim:0.65 region Length:16 
+ALWRS
+ALV-A
+ALF--
+ALH-P
+**********************
+
+Length: 5 residues - nb: 3  from  135 to 148 - Psim:0.6666666666666666 region Length:14 
+ALWRS
+ALVA-
+ALFAL
+**********************
+
+Length: 5 residues - nb: 3  from  199 to 213 - Psim:0.6666666666666666 region Length:15 
+ANYLL
+ALGCF
+ALGLM
+**********************
+
+>uniprot|A0A1V6GI82|A0A1V6GI82_9BACT Tol-pal system protein YbgF [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 5 residues - nb: 3  from  11 to 25 - Psim:0.7222222222222222 region Length:15 
+LAV-L-
+LAAGAR
+LAA-AS
+**********************
+
+Length: 5 residues - nb: 5  from  482 to 503 - Psim:0.6857142857142857 region Length:22 
+A-G-LA-
+A-GDLA-
+A-A-TN-
+A---LQK
+ALD-WY-
+**********************
+
+Length: 5 residues - nb: 3  from  845 to 859 - Psim:0.6666666666666666 region Length:15 
+EA-GI-
+EAFGLA
+EAMQ-A
+**********************
+
+>uniprot|A0A1V6GGD4|A0A1V6GGD4_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 6 residues - nb: 3  from  36 to 54 - Psim:0.7619047619047619 region Length:19 
+RSANAA-
+RSAKAAA
+RSFERA-
+**********************
+
+Length: 7 residues - nb: 3  from  36 to 55 - Psim:0.7142857142857143 region Length:20 
+RSANAA-
+RSAKAAA
+RSFERAV
+**********************
+
+Length: 8 residues - nb: 3  from  36 to 56 - Psim:0.7083333333333334 region Length:21 
+RS-ANAA-
+RS-AKAAA
+RSFERAVE
+**********************
+
+>uniprot|A0A1V6GHA5|A0A1V6GHA5_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin063]
+Length: 5 residues - nb: 3  from  111 to 124 - Psim:0.7222222222222222 region Length:14 
+AAE-E-
+AAA-ET
+ARGFE-
+**********************
+
+>uniprot|A0A1V6GZI8|A0A1V6GZI8_9BACT Serine/threonine-protein kinase PknK [Verrucomicrobia bacterium ADurb.Bin070]
+Length: 47 residues - nb: 10  from  448 to 917 - Psim:0.8191489361702128 region Length:470 
+KALAVRVLGDNRGAVALYGQAIAILERLVNLEGHRELADNLASVYMG
+KANAFRDLGDERGAVTLYDQAIAIRERLVNVEGRLKLADNLARVYMG
+KANAVSALGDKRGAVAFFDQAIAILRRLVEQEDRRELAGDLASVYMN
+KAAAVSALGDKRGAVTLFDHAIAIRERLVNLEGRRELADDLARAYMN
+KATAVSVLGDKRGAVALFDQAIAIMERLVNLEGRRELAHDLAMHYTN
+KACAVRALGDNRGAVALYDQAIAIRERLVNQEGRRELAHDLARVYTN
+KAVAVSALGENRGAVELYDLAIAIRERLVNQEGRRELAHDLARVYTN
+KANAVSDLGDHRGAVELYDQAIAIQERLVSQEGRRELADELARVYTN
+KANAVSTLGDHRGAVALYGQAIAILERLVNLEDHRELANDLATVYFN
+EATEVGDLSDNRGAVALYDQAIAIWERLVNQEGRRELAGDLSKAYTY
+**********************
+
+Length: 47 residues - nb: 9  from  559 to 981 - Psim:0.8022222222222222 region Length:423 
+FDQAIAILRRLVEQEDRRELAGDLASVYMNKAA-AVSALGDKRGAVT-L-
+FDHAIAIRERLVNLEGRRELADDLARAYMNKAT-AVSVLGDKRGAVA-L-
+FDQAIAIMERLVNLEGRRELAHDLAMHYTNKAC-AVRALGDNRGAVA-L-
+YDQAIAIRERLVNQEGRRELAHDLARVYTNKAV-AVSALGENRGAVE-L-
+YDLAIAIRERLVNQEGRRELAHDLARVYTNKAN-AVSDLGDHRGAVE-L-
+YDQAIAIQERLVSQEGRRELADELARVYTNKAN-AVSTLGDHRGAVA-L-
+YGQAIAILERLVNLEDHRELANDLATVYFNEAT-EVGDLSDNRGAVA-L-
+YDQAIAIWERLVNQEGRRELAGDLSKAYTYKAS-AVSALGDHRGAVA-L-
+YDQSIAILRRLVEQEGRNDLSGDM--M-TNELYRAVSLQGMSPLSVAECR
+**********************
+
+Length: 47 residues - nb: 9  from  520 to 942 - Psim:0.8274231678486997 region Length:423 
+ERLVNVEGRLKLADNLARVYMGKANAVSALGDKRGAVAFFDQAIAIL
+RRLVEQEDRRELAGDLASVYMNKAAAVSALGDKRGAVTLFDHAIAIR
+ERLVNLEGRRELADDLARAYMNKATAVSVLGDKRGAVALFDQAIAIM
+ERLVNLEGRRELAHDLAMHYTNKACAVRALGDNRGAVALYDQAIAIR
+ERLVNQEGRRELAHDLARVYTNKAVAVSALGENRGAVELYDLAIAIR
+ERLVNQEGRRELAHDLARVYTNKANAVSDLGDHRGAVELYDQAIAIQ
+ERLVSQEGRRELADELARVYTNKANAVSTLGDHRGAVALYGQAIAIL
+ERLVNLEDHRELANDLATVYFNEATEVGDLSDNRGAVALYDQAIAIW
+ERLVNQEGRRELAGDLSKAYTYKASAVSALGDHRGAVALYDQSIAIL
+**********************
+
+Length: 47 residues - nb: 6  from  664 to 945 - Psim:0.8475177304964538 region Length:282 
+VNLEGRRELAHDLAMHYTNKACAVRALGDNRGAVALYDQAIAIRERL
+VNQEGRRELAHDLARVYTNKAVAVSALGENRGAVELYDLAIAIRERL
+VNQEGRRELAHDLARVYTNKANAVSDLGDHRGAVELYDQAIAIQERL
+VSQEGRRELADELARVYTNKANAVSTLGDHRGAVALYGQAIAILERL
+VNLEDHRELANDLATVYFNEATEVGDLSDNRGAVALYDQAIAIWERL
+VNQEGRRELAGDLSKAYTYKASAVSALGDHRGAVALYDQSIAILRRL
+**********************
+
+Length: 47 residues - nb: 6  from  714 to 995 - Psim:0.7564102564102564 region Length:282 
+EGRRELAHDLARVYTNKA-VAVSALG-EN-RGAVELYDL-AIAIRERLVN-Q
+EGRRELAHDLARVYTNKA-NAVSDLG-DH-RGAVELYDQ-AIAIQERLVS-Q
+EGRRELADELARVYTNKA-NAVSTLG-DH-RGAVALYGQ-AIAILERLVN-L
+EDHRELANDLATVYFNEA-TEVGDLS-DN-RGAVALYDQ-AIAIWERLVN-Q
+EGRRELAGDLSKAYTYKA-SAVSALG-DH-RGAVALYDQ-SIAILRRLVE-Q
+EGRNDLSGDM--M-TNELYRAVS-LQGMSPLSVAECRHAQA-AFAGLRFESE
+**********************
+
+Length: 47 residues - nb: 4  from  764 to 951 - Psim:0.8404255319148937 region Length:188 
+RELAHDLARVYTNKANAVSDLGDHRGAVELYDQAIAIQERLVSQEGR
+RELADELARVYTNKANAVSTLGDHRGAVALYGQAIAILERLVNLEDH
+RELANDLATVYFNEATEVGDLSDNRGAVALYDQAIAIWERLVNQEGR
+RELAGDLSKAYTYKASAVSALGDHRGAVALYDQSIAILRRLVEQEGR
+**********************
+
+>uniprot|A0A1V6H5A3|A0A1V6H5A3_9BACT Tol-pal system protein YbgF [Verrucomicrobia bacterium ADurb.Bin070]
+Length: 5 residues - nb: 3  from  235 to 250 - Psim:0.7222222222222222 region Length:16 
+RAPQHA
+RAAE-A
+RARR-A
+**********************
+
+Length: 6 residues - nb: 3  from  235 to 251 - Psim:0.7142857142857143 region Length:17 
+RAPQHA-
+RAAE-A-
+RARR-AE
+**********************
+
+Length: 7 residues - nb: 2  from  167 to 180 - Psim:0.9285714285714286 region Length:14 
+AAITAEL
+AAITAAL
+**********************
+
+Length: 9 residues - nb: 2  from  47 to 66 - Psim:0.6818181818181818 region Length:20 
+ARRFAEAADGF
+ARA-A-ASTNA
+**********************
+
+Length: 9 residues - nb: 2  from  167 to 182 - Psim:0.8333333333333334 region Length:16 
+AAITAEL--
+AAITAALRA
+**********************
+
+>uniprot|A0A1V6GDV0|A0A1V6GDV0_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin070]
+Length: 5 residues - nb: 3  from  464 to 480 - Psim:0.6666666666666666 region Length:17 
+DVQPLL
+DVLLSL
+DVS-LE
+**********************
+
+Length: 6 residues - nb: 3  from  464 to 481 - Psim:0.6666666666666666 region Length:18 
+DVQPLL
+DVLLSL
+DVSLED
+**********************
+
+>uniprot|A0A1V6GXT5|A0A1V6GXT5_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin070]
+Length: 7 residues - nb: 2  from  277 to 291 - Psim:0.75 region Length:15 
+AERLGVGT
+AERLAA-M
+**********************
+
+>uniprot|A0A1V6GYB4|A0A1V6GYB4_9BACT Tol-pal system protein YbgF [Verrucomicrobia bacterium ADurb.Bin070]
+Length: 4 residues - nb: 4  from  602 to 616 - Psim:0.7 region Length:15 
+AALVW
+AAR--
+AAF--
+AAN-D
+**********************
+
+Length: 9 residues - nb: 3  from  4 to 31 - Psim:0.6666666666666666 region Length:28 
+AALAGWCCT--
+AA-AGELETAR
+AALHDQLYL--
+**********************
+
+>uniprot|A0A2E5XF50|A0A2E5XF50_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium]
+Length: 5 residues - nb: 3  from  792 to 806 - Psim:0.7222222222222222 region Length:15 
+EI-A-E
+EISAIG
+EISN-S
+**********************
+
+>uniprot|A0A2E5XDY7|A0A2E5XDY7_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium]
+Length: 34 residues - nb: 3  from  2 to 103 - Psim:0.7647058823529411 region Length:102 
+KPEYAEAHSNLGNTLKELGRLDEAIASYNQAIAL
+KPDYAEGHSNLGNTLKELGRLDEAMASYNQAISL
+KPNYAEAFSNRSYLLFEKGEYEAALQSADACILG
+**********************
+
+>uniprot|A0A2E4ADF8|A0A2E4ADF8_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium]
+Length: 9 residues - nb: 2  from  232 to 247 - Psim:0.7222222222222222 region Length:16 
+YNLG-IA-L
+YNLGRYEEC
+**********************
+
+>uniprot|A0A2E7KZW5|A0A2E7KZW5_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium]
+Length: 5 residues - nb: 3  from  463 to 478 - Psim:0.6666666666666666 region Length:16 
+AKKASA-
+AK-AAL-
+-E-AQLE
+**********************
+
+>uniprot|A0A2E5XGP3|A0A2E5XGP3_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium]
+Length: 4 residues - nb: 4  from  46 to 62 - Psim:0.75 region Length:17 
+VL-ASP
+VL--R-
+VLPLS-
+VL-LA-
+**********************
+
+>uniprot|A0A2E3HC03|A0A2E3HC03_9BACT Uncharacterized protein [Roseibacillus sp.]
+Length: 7 residues - nb: 2  from  610 to 623 - Psim:0.8571428571428571 region Length:14 
+KLAEAEQ
+KLAEALA
+**********************
+
+>uniprot|A0A2E6S5D7|A0A2E6S5D7_9BACT Type II and III secretion system protein [Roseibacillus sp.]
+Length: 1 residues - nb: 10  from  675 to 684 - Psim:1.0 region Length:10 
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+**********************
+
+Length: 3 residues - nb: 5  from  661 to 677 - Psim:0.8 region Length:17 
+GGGF
+GGN-
+GGGF
+GG-F
+GGG-
+**********************
+
+Length: 4 residues - nb: 5  from  661 to 679 - Psim:0.8 region Length:19 
+GG-GF
+GG-N-
+GG-GF
+GGFG-
+GG-GG
+**********************
+
+>uniprot|A0A2E7YSW6|A0A2E7YSW6_9BACT Uncharacterized protein [Roseibacillus sp.]
+Length: 8 residues - nb: 2  from  505 to 520 - Psim:0.8333333333333334 region Length:16 
+EAAR-KAFA
+EAARAKA-N
+**********************
+
+>uniprot|A0A2E3H8J2|A0A2E3H8J2_9BACT Uncharacterized protein [Roseibacillus sp.]
+Length: 7 residues - nb: 2  from  8 to 22 - Psim:0.75 region Length:15 
+LLLAGWVI
+LL-AGCSN
+**********************
+
+>uniprot|A0A2E7YVE9|A0A2E7YVE9_9BACT Uncharacterized protein [Roseibacillus sp.]
+Length: 5 residues - nb: 3  from  407 to 422 - Psim:0.6666666666666666 region Length:16 
+AARYEL
+AAR-AY
+AA-IDL
+**********************
+
+Length: 6 residues - nb: 3  from  407 to 423 - Psim:0.6666666666666666 region Length:17 
+AARYEL-
+AAR-AY-
+AA-IDLQ
+**********************
+
+Length: 7 residues - nb: 2  from  9 to 23 - Psim:0.75 region Length:15 
+VTLGAALA
+VTLGLS-S
+**********************
+
+Length: 7 residues - nb: 2  from  716 to 729 - Psim:0.7857142857142857 region Length:14 
+KDTERAH
+KDTEACL
+**********************
+
+Length: 8 residues - nb: 3  from  710 to 735 - Psim:0.6666666666666666 region Length:26 
+RAHLALKDTE-
+RAH---KDTEA
+-C-LSLKPQG-
+**********************
+
+>uniprot|A0A2E5QP84|A0A2E5QP84_9BACT Uncharacterized protein [Roseibacillus sp.]
+Length: 3 residues - nb: 5  from  229 to 243 - Psim:0.7 region Length:15 
+L-AQ
+L-AV
+AKAD
+A-A-
+A-AQ
+**********************
+
+>uniprot|A0A2E7AE17|A0A2E7AE17_9BACT Uncharacterized protein [Roseibacillus sp.]
+Length: 5 residues - nb: 3  from  724 to 739 - Psim:0.7222222222222222 region Length:16 
+ELTSRL
+ELLSQ-
+ELKDR-
+**********************
+
+Length: 7 residues - nb: 2  from  754 to 768 - Psim:0.7777777777777778 region Length:15 
+LSTSIRD-Q
+LS--IRQAQ
+**********************
+
+Length: 9 residues - nb: 2  from  215 to 234 - Psim:0.7272727272727273 region Length:20 
+DSRIRTQVETI
+DSRV--EAETS
+**********************
+
+>uniprot|A0A2E7PQN3|A0A2E7PQN3_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  308 to 321 - Psim:0.7857142857142857 region Length:14 
+AVEAYRH
+AVEAVPD
+**********************
+
+>uniprot|A0A2E8UM62|A0A2E8UM62_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 5 residues - nb: 3  from  458 to 473 - Psim:0.7222222222222222 region Length:16 
+DV-KYR
+DVAKKV
+DV-YYT
+**********************
+
+>uniprot|A0A2E6T1Q2|A0A2E6T1Q2_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 3 residues - nb: 4  from  1022 to 1036 - Psim:0.6666666666666666 region Length:15 
+-VPEA-
+-VP-A-
+-DE-LQ
+RVK-T-
+**********************
+
+>uniprot|A0A2E6TWF0|A0A2E6TWF0_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 42 residues - nb: 3  from  126 to 251 - Psim:0.753968253968254 region Length:126 
+VHHLIGEYDKAQGNYQKSLAINLKQFGPEHSQVALSFNNIGG
+VHLQMGEYDKALERFQKALAIQLNQLGPKHHDVAQSFNNIGG
+VHLQMGEYDMALEQYQKTLAIFLEKLDPEHPRVATCYGNLAL
+**********************
+
+>uniprot|A0A2E3EF78|A0A2E3EF78_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 5 residues - nb: 3  from  544 to 559 - Psim:0.6666666666666666 region Length:16 
+NLQP-N
+NLKAAN
+NL-AWI
+**********************
+
+>uniprot|A0A2E2HPB0|A0A2E2HPB0_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  317 to 330 - Psim:0.75 region Length:14 
+SD-ADRDI
+SDKADI-L
+**********************
+
+>uniprot|A0A2E5EJ98|A0A2E5EJ98_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 6 residues - nb: 3  from  321 to 339 - Psim:0.6666666666666666 region Length:19 
+TEVEKPG
+TEVVQR-
+TET-KPA
+**********************
+
+Length: 7 residues - nb: 3  from  321 to 340 - Psim:0.6666666666666666 region Length:20 
+TEVEKPG-
+TEVVQR--
+TET-KPAA
+**********************
+
+Length: 7 residues - nb: 2  from  371 to 384 - Psim:0.8125 region Length:14 
+PKPE-FVE
+PKPVVFV-
+**********************
+
+>uniprot|A0A2E8CQY5|A0A2E8CQY5_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 8 residues - nb: 2  from  285 to 302 - Psim:0.8 region Length:18 
+FERLVQIHEQ
+FERLEQL-E-
+**********************
+
+>uniprot|A0A2E5EHA8|A0A2E5EHA8_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  177 to 190 - Psim:0.7857142857142857 region Length:14 
+LAGINLL
+LAGISWF
+**********************
+
+Length: 8 residues - nb: 2  from  176 to 189 - Psim:0.8125 region Length:14 
+LL-AGIN-
+LLLAGISW
+**********************
+
+>uniprot|A0A2E3EDT0|A0A2E3EDT0_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 9 residues - nb: 3  from  34 to 59 - Psim:0.8888888888888888 region Length:26 
+LS-APRAEP
+LSPTPKAEP
+LSPAPKAEP
+**********************
+
+>uniprot|A0A2E3A058|A0A2E3A058_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 4 residues - nb: 3  from  76 to 89 - Psim:0.6666666666666666 region Length:14 
+LPLKL
+LPASL
+LPTA-
+**********************
+
+Length: 5 residues - nb: 3  from  76 to 90 - Psim:0.6666666666666666 region Length:15 
+LPLKL
+LPASL
+LPTAM
+**********************
+
+>uniprot|A0A2E7SSD4|A0A2E7SSD4_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 4 residues - nb: 5  from  290 to 309 - Psim:0.72 region Length:20 
+PE-PK
+PE-PK
+EE-PV
+EEKP-
+EE-VA
+**********************
+
+Length: 4 residues - nb: 5  from  391 to 410 - Psim:0.68 region Length:20 
+VEPPS
+VEP-T
+-EVIA
+VEP--
+VEP-K
+**********************
+
+Length: 5 residues - nb: 3  from  289 to 302 - Psim:0.7222222222222222 region Length:14 
+KPEP--
+KPEP-K
+E-EPVE
+**********************
+
+Length: 5 residues - nb: 3  from  371 to 384 - Psim:0.7777777777777778 region Length:14 
+EAP--E
+EAPV-E
+E-PITE
+**********************
+
+Length: 7 residues - nb: 2  from  344 to 358 - Psim:0.8125 region Length:15 
+PTEPKEEN
+PTEP-EVA
+**********************
+
+Length: 10 residues - nb: 3  from  337 to 363 - Psim:0.7333333333333333 region Length:27 
+EPEEAVAPT-
+EPKEE-NPT-
+EPEVAVVPAE
+**********************
+
+>uniprot|A0A2E6TXF8|A0A2E6TXF8_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 4 residues - nb: 5  from  735 to 754 - Psim:0.7 region Length:20 
+KAA-EY
+KAA-L-
+-AN-YQ
+-AA-L-
+-AAKA-
+**********************
+
+Length: 7 residues - nb: 2  from  741 to 754 - Psim:0.7857142857142857 region Length:14 
+AALANYQ
+AALAAKA
+**********************
+
+>uniprot|A0A2E8CT25|A0A2E8CT25_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 3 residues - nb: 5  from  468 to 481 - Psim:0.72 region Length:14 
+-D-L-
+-D-LA
+RK-L-
+-D-PN
+-DPT-
+**********************
+
+Length: 7 residues - nb: 2  from  425 to 438 - Psim:0.7857142857142857 region Length:14 
+RGDLEGG
+RGDLQTA
+**********************
+
+>uniprot|A0A2E8SR68|A0A2E8SR68_9BACT Uncharacterized protein (Fragment) [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  309 to 323 - Psim:0.6875 region Length:15 
+PPVEVIV-
+PPVTPTNR
+**********************
+
+>uniprot|A0A2E8CNC2|A0A2E8CNC2_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 9 residues - nb: 2  from  162 to 178 - Psim:0.75 region Length:17 
+NLGVAEFQLG
+NL-VAA-S-G
+**********************
+
+>uniprot|A0A2E5TT06|A0A2E5TT06_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 5 residues - nb: 3  from  372 to 386 - Psim:0.6666666666666666 region Length:15 
+TL-KD-
+TLGKYT
+TL-TNS
+**********************
+
+>uniprot|A0A2E6TSJ7|A0A2E6TSJ7_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  846 to 860 - Psim:0.75 region Length:15 
+SELATKVQ
+SELA-ELN
+**********************
+
+>uniprot|A0A2E7SPH2|A0A2E7SPH2_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  253 to 267 - Psim:0.8125 region Length:15 
+TARQSELN
+TAT-SELT
+**********************
+
+>uniprot|A0A2E7SSF1|A0A2E7SSF1_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 6 residues - nb: 4  from  41 to 65 - Psim:0.6944444444444444 region Length:25 
+AIGEYAK--
+AI-EA-CEK
+AI-EA-KE-
+-Y-DA-GW-
+**********************
+
+Length: 7 residues - nb: 3  from  41 to 61 - Psim:0.7407407407407407 region Length:21 
+AIGEYAK--
+AI-EA-CEK
+AI-EA-KEY
+**********************
+
+Length: 7 residues - nb: 3  from  407 to 427 - Psim:0.7142857142857143 region Length:21 
+GEEAALY
+GEEAIDL
+LTEARDL
+**********************
+
+>uniprot|A0A2E7QLJ7|A0A2E7QLJ7_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 3 residues - nb: 5  from  368 to 384 - Psim:0.68 region Length:17 
+TP-KP
+TP-S-
+QPVT-
+PP-D-
+PP-K-
+**********************
+
+Length: 5 residues - nb: 3  from  17 to 32 - Psim:0.6666666666666666 region Length:16 
+AVASWL-
+AVGM-A-
+AV-L-AG
+**********************
+
+Length: 5 residues - nb: 4  from  368 to 387 - Psim:0.7777777777777778 region Length:20 
+TP-K-P---
+TPSQ-P--V
+TP-PDP---
+-P-K-PVE-
+**********************
+
+Length: 5 residues - nb: 3  from  385 to 400 - Psim:0.7222222222222222 region Length:16 
+PVEPKP
+PVQPQ-
+PVEVA-
+**********************
+
+>uniprot|A0A2E5WST2|A0A2E5WST2_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 3 residues - nb: 5  from  640 to 654 - Psim:0.68 region Length:15 
+-KPAP
+-KPA-
+-EP--
+EKTA-
+-EK--
+**********************
+
+Length: 5 residues - nb: 3  from  145 to 159 - Psim:0.7142857142857143 region Length:15 
+LAV-VSQ
+LAT-V--
+LADFA--
+**********************
+
+Length: 5 residues - nb: 3  from  640 to 653 - Psim:0.7777777777777778 region Length:14 
+-KPA-P
+-KPAEP
+EKTAE-
+**********************
+
+Length: 7 residues - nb: 2  from  201 to 214 - Psim:0.7857142857142857 region Length:14 
+VLSQIAA
+VLSQAGD
+**********************
+
+>uniprot|A0A2E7SQF6|A0A2E7SQF6_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 4 residues - nb: 13  from  55 to 103 - Psim:0.6703296703296703 region Length:49 
+--P-SLE
+--P-SLE
+--P-SLE
+--P-TL-
+-EP-VA-
+-EP-SL-
+-EP-IA-
+VDP----
+--P-VE-
+--PVGT-
+-DP-LS-
+LEP-S--
+LEP-T--
+**********************
+
+Length: 4 residues - nb: 10  from  62 to 99 - Psim:0.65 region Length:38 
+-EP-SL
+-EP-TL
+-EP-VA
+-EP-SL
+-EP-IA
+VDP---
+--P-VE
+--PVGT
+-DP-LS
+LEP-S-
+**********************
+
+Length: 5 residues - nb: 6  from  51 to 77 - Psim:0.6666666666666666 region Length:27 
+--PPHSP
+SLEP---
+SLEP---
+SLEPT--
+-LEPVA-
+--EPSL-
+**********************
+
+Length: 5 residues - nb: 5  from  57 to 78 - Psim:0.8285714285714286 region Length:22 
+LEP-S--
+LEP-S--
+LEP-T--
+LEPVA--
+-EP-SLE
+**********************
+
+Length: 5 residues - nb: 4  from  66 to 82 - Psim:0.7 region Length:17 
+EP-TL
+EP-VA
+EP-SL
+EPIAV
+**********************
+
+>uniprot|A0A2E8UNJ8|A0A2E8UNJ8_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 4 residues - nb: 5  from  340 to 360 - Psim:0.68 region Length:21 
+PPVVN
+PPPK-
+PPPVV
+PPS--
+PP-VT
+**********************
+
+Length: 6 residues - nb: 5  from  378 to 408 - Psim:0.65 region Length:31 
+P-PVKPIT
+P-P-KPIA
+A-A-KP-N
+PVP-NPPA
+P-V-VLRT
+**********************
+
+Length: 7 residues - nb: 2  from  378 to 391 - Psim:0.8125 region Length:14 
+PPVKPIT-
+PP-KPIAA
+**********************
+
+Length: 8 residues - nb: 3  from  332 to 359 - Psim:0.7 region Length:28 
+VVNRLTIRPP
+VVNPPPKPPP
+VV-PP-SPPV
+**********************
+
+Length: 9 residues - nb: 9  from  332 to 411 - Psim:0.6666666666666666 region Length:80 
+VVNRLT-I-R-P-P--
+VV-NPP-PK-P-P-P-
+VV--PP-S-P-PVT--
+PK---P-K-PVA-VKQ
+PV--VP-E-P-P-P--
+PV--KPIT-P-P-K--
+PI--AA-A-K-P-N--
+PV---P-N-P-P-A--
+PV--VL-R-T-PEP--
+**********************
+
+>uniprot|A0A2E5EI55|A0A2E5EI55_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  420 to 433 - Psim:0.8571428571428571 region Length:14 
+ALQKENT
+ALQKELK
+**********************
+
+>uniprot|A0A2E7QMF9|A0A2E7QMF9_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  354 to 367 - Psim:0.7857142857142857 region Length:14 
+TAINARN
+TAQNAVG
+**********************
+
+Length: 7 residues - nb: 2  from  369 to 382 - Psim:0.7142857142857143 region Length:14 
+AQTNLEA
+AQKDEAA
+**********************
+
+Length: 7 residues - nb: 2  from  1435 to 1449 - Psim:0.75 region Length:15 
+AIDHNPLM
+AIDHSR-E
+**********************
+
+>uniprot|A0A2E8CU77|A0A2E8CU77_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  268 to 281 - Psim:0.75 region Length:14 
+ALVL-LWL
+ALVMWVW-
+**********************
+
+Length: 8 residues - nb: 2  from  268 to 282 - Psim:0.8125 region Length:15 
+ALVL-LWL
+ALVMWVWL
+**********************
+
+>uniprot|A0A2E9ZNZ0|A0A2E9ZNZ0_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 3 residues - nb: 5  from  979 to 995 - Psim:0.68 region Length:17 
+-NPL-
+ILRL-
+-LGNT
+-LGG-
+-LGQ-
+**********************
+
+>uniprot|A0A2E5WQ84|A0A2E5WQ84_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 3 residues - nb: 4  from  680 to 694 - Psim:0.65 region Length:15 
+AX-XP
+AX-A-
+QX-AL
+EXFP-
+**********************
+
+Length: 8 residues - nb: 2  from  710 to 724 - Psim:0.75 region Length:15 
+TGRGSG-G
+TGAMAGSG
+**********************
+
+Length: 9 residues - nb: 2  from  630 to 649 - Psim:0.6818181818181818 region Length:20 
+EAGAEFYLALA
+EA--RLGNRLA
+**********************
+
+Length: 9 residues - nb: 2  from  710 to 725 - Psim:0.8333333333333334 region Length:16 
+TGR--GSGG
+TGAMAGSGG
+**********************
+
+>uniprot|A0A2E5WV70|A0A2E5WV70_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 8 residues - nb: 2  from  332 to 347 - Psim:0.7777777777777778 region Length:16 
+NTRP-VPPE
+NTVVIVPP-
+**********************
+
+>uniprot|A0A2E2RAI4|A0A2E2RAI4_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 5 residues - nb: 3  from  24 to 37 - Psim:0.6666666666666666 region Length:14 
+SDQF-
+SDQAE
+SDSVM
+**********************
+
+>uniprot|A0A2E7SPA2|A0A2E7SPA2_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 7 residues - nb: 2  from  1175 to 1188 - Psim:0.8125 region Length:14 
+AEIATVL-
+AE-ATVDD
+**********************
+
+Length: 7 residues - nb: 2  from  1339 to 1353 - Psim:0.75 region Length:15 
+AIDHEPLL
+AIDHDTA-
+**********************
+
+>uniprot|A0A1V6JVL2|A0A1V6JVL2_9BACT Lipoprotein NlpI [Verrucomicrobia bacterium ADurb.Bin006]
+Length: 3 residues - nb: 5  from  402 to 416 - Psim:0.75 region Length:15 
+PT--
+PTTE
+PT--
+PTVE
+PTL-
+**********************
+
+Length: 5 residues - nb: 3  from  400 to 415 - Psim:0.8571428571428571 region Length:16 
+T-EPTPT
+T-EPTP-
+TVEPT--
+**********************
+
+Length: 6 residues - nb: 3  from  400 to 417 - Psim:0.8571428571428571 region Length:18 
+TEPT-PT
+TEPT-PT
+VEPTLP-
+**********************
+
+Length: 7 residues - nb: 2  from  315 to 328 - Psim:0.8125 region Length:14 
+PSPAQPT-
+PSPS-PTN
+**********************
+
+Length: 7 residues - nb: 3  from  394 to 415 - Psim:0.7 region Length:22 
+PTLAARTE--
+PT-PTT-EP-
+-T-PTV-EPT
+**********************
+
+>uniprot|A0A1V6JT79|A0A1V6JT79_9BACT TPR repeat-containing protein YrrB [Verrucomicrobia bacterium ADurb.Bin006]
+Length: 7 residues - nb: 2  from  777 to 790 - Psim:0.7857142857142857 region Length:14 
+EALRQFQ
+EALRLDP
+**********************
+
+>uniprot|A0A1V6JWP6|A0A1V6JWP6_9BACT von Willebrand factor type A domain protein [Verrucomicrobia bacterium ADurb.Bin006]
+Length: 5 residues - nb: 3  from  499 to 513 - Psim:0.7222222222222222 region Length:15 
+QDRQQQ
+QD-KN-
+QD-QEQ
+**********************
+
+Length: 7 residues - nb: 4  from  508 to 538 - Psim:0.6666666666666666 region Length:31 
+NQDQEQSQ-
+NQ-KDQSQP
+NQDKTDKE-
+NQHQER-Q-
+**********************
+
+>uniprot|A0A1V6JJ13|A0A1V6JJ13_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin006]
+Length: 4 residues - nb: 5  from  94 to 112 - Psim:0.7142857142857143 region Length:19 
+-P-S--T
+-P-S-PA
+TP-A---
+-P-AAGT
+-PAS--V
+**********************
+
+Length: 7 residues - nb: 2  from  202 to 215 - Psim:0.8571428571428571 region Length:14 
+EAQKALK
+EANDALK
+**********************
+
+Length: 7 residues - nb: 2  from  380 to 393 - Psim:0.9285714285714286 region Length:14 
+APTPTPA
+APSPTPA
+**********************
+
+>uniprot|A0A1V6JU46|A0A1V6JU46_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin006]
+Length: 7 residues - nb: 2  from  235 to 249 - Psim:0.75 region Length:15 
+RLLAEYEA
+RLAAEPD-
+**********************
+
+Length: 8 residues - nb: 2  from  235 to 251 - Psim:0.7222222222222222 region Length:17 
+RLLAEYE-A
+RLAAEPDNL
+**********************
+
+Length: 9 residues - nb: 2  from  235 to 251 - Psim:0.7222222222222222 region Length:17 
+RLLAEYE-A
+RLAAEPDNL
+**********************
+
+>uniprot|A0A1V6DQT4|A0A1V6DQT4_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin118]
+Length: 5 residues - nb: 4  from  92 to 111 - Psim:0.6666666666666666 region Length:20 
+PPPAPQ
+PPDT--
+PPP-PA
+PP-APV
+**********************
+
+Length: 5 residues - nb: 3  from  442 to 457 - Psim:0.7222222222222222 region Length:16 
+PA-PSR
+PAVPQS
+PA-GSA
+**********************
+
+>uniprot|A0A1V6DL99|A0A1V6DL99_9BACT Lipoprotein NlpI [Verrucomicrobia bacterium ADurb.Bin118]
+Length: 4 residues - nb: 5  from  422 to 442 - Psim:0.7428571428571429 region Length:21 
+PA--SSA
+PA--A--
+PAAVP--
+PA--PR-
+PV--PR-
+**********************
+
+Length: 5 residues - nb: 3  from  408 to 421 - Psim:0.6666666666666666 region Length:14 
+-VPP-A
+-VPPMV
+EITP-P
+**********************
+
+Length: 7 residues - nb: 2  from  322 to 335 - Psim:0.8571428571428571 region Length:14 
+SPAPVTP
+SPAPTEP
+**********************
+
+>uniprot|A0A1V6DMJ0|A0A1V6DMJ0_9BACT Lipoprotein NlpI [Verrucomicrobia bacterium ADurb.Bin118]
+Length: 3 residues - nb: 5  from  159 to 175 - Psim:0.7 region Length:17 
+-YA-G-
+YAQ---
+-RRMG-
+-AR-ER
+-AR-G-
+**********************
+
+Length: 5 residues - nb: 3  from  424 to 437 - Psim:0.6666666666666666 region Length:14 
+LAHHS
+LAFH-
+LATVG
+**********************
+
+>uniprot|A0A1V6DLI3|A0A1V6DLI3_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin118]
+Length: 13 residues - nb: 3  from  86 to 125 - Psim:0.6666666666666666 region Length:40 
+AL--LLNPRLE-PAHYDL
+AL-TLLN--LE-RY--DD
+ALATLAQ--ARER--FA-
+**********************
+
+Length: 14 residues - nb: 3  from  86 to 126 - Psim:0.6666666666666666 region Length:41 
+AL--LLNPRLE-PAHYDL
+AL-TLLN--LE-RY--DD
+ALATLAQ--ARER--FAS
+**********************
+
+>uniprot|A0A1V6E5C7|A0A1V6E5C7_9BACT TPR repeat-containing protein YrrB [Verrucomicrobia bacterium ADurb.Bin122]
+Length: 7 residues - nb: 2  from  708 to 721 - Psim:0.7857142857142857 region Length:14 
+RLAESQG
+RLAEADA
+**********************
+
+>uniprot|A0A1V6E8M9|A0A1V6E8M9_9BACT TPR repeat-containing protein YrrB [Verrucomicrobia bacterium ADurb.Bin122]
+Length: 4 residues - nb: 3  from  448 to 461 - Psim:0.8333333333333334 region Length:14 
+AP-PLS
+APDP-A
+AP-P-S
+**********************
+
+Length: 4 residues - nb: 4  from  618 to 633 - Psim:0.6875 region Length:16 
+LRTL
+LRQR
+LRDD
+LRQS
+**********************
+
+Length: 5 residues - nb: 3  from  17 to 32 - Psim:0.7222222222222222 region Length:16 
+QANRFA
+QANAL-
+YAQAL-
+**********************
+
+Length: 5 residues - nb: 3  from  448 to 462 - Psim:0.7333333333333333 region Length:15 
+APPLS
+APDPA
+APPSA
+**********************
+
+Length: 5 residues - nb: 4  from  618 to 634 - Psim:0.7 region Length:17 
+LRTL-
+LRQR-
+LRDD-
+LRQSA
+**********************
+
+Length: 6 residues - nb: 3  from  17 to 35 - Psim:0.7619047619047619 region Length:19 
+QANR-FA
+QANALYA
+QALR-IA
+**********************
+
+Length: 9 residues - nb: 2  from  482 to 497 - Psim:0.7222222222222222 region Length:16 
+LLA-I-WAR
+LLAAVPHSR
+**********************
+
+>uniprot|A0A1V6E5D3|A0A1V6E5D3_9BACT Photosystem I assembly protein Ycf3 [Verrucomicrobia bacterium ADurb.Bin122]
+Length: 3 residues - nb: 5  from  417 to 432 - Psim:0.65 region Length:16 
+PVAP
+PVA-
+PQL-
+P-AS
+P-AP
+**********************
+
+>uniprot|A0A1V6E823|A0A1V6E823_9BACT Tol-pal system protein YbgF [Verrucomicrobia bacterium ADurb.Bin122]
+Length: 3 residues - nb: 4  from  71 to 84 - Psim:0.65 region Length:14 
+GS-L-
+GS-A-
+IS-AY
+KKVS-
+**********************
+
+>uniprot|A0A2E9IPM9|A0A2E9IPM9_9BACT Uncharacterized protein [Puniceicoccaceae bacterium]
+Length: 5 residues - nb: 3  from  992 to 1006 - Psim:0.7222222222222222 region Length:15 
+QLS-P-
+QLGFIW
+QLS-PE
+**********************
+
+Length: 9 residues - nb: 2  from  984 to 1003 - Psim:0.75 region Length:20 
+SPQSQSESQL
+SPQLGFIWQL
+**********************
+
+>uniprot|A0A2E6TNJ0|A0A2E6TNJ0_9BACT Uncharacterized protein [Puniceicoccaceae bacterium]
+Length: 6 residues - nb: 3  from  66 to 83 - Psim:0.6666666666666666 region Length:18 
+GLLKVIA
+GLLG-I-
+GLDE-LK
+**********************
+
+>uniprot|A0A2E9ILJ5|A0A2E9ILJ5_9BACT Uncharacterized protein [Puniceicoccaceae bacterium]
+Length: 5 residues - nb: 3  from  312 to 325 - Psim:0.7222222222222222 region Length:14 
+EA-AI-
+EA-LPP
+EADLL-
+**********************
+
+>uniprot|A0A2E9IR10|A0A2E9IR10_9BACT Uncharacterized protein [Puniceicoccaceae bacterium]
+Length: 4 residues - nb: 4  from  54 to 71 - Psim:0.6666666666666666 region Length:18 
+DAW-L-
+DAN-EI
+DAL-E-
+VFLKQ-
+**********************
+
+>uniprot|A0A2E1SI25|A0A2E1SI25_9BACT Uncharacterized protein [Puniceicoccaceae bacterium]
+Length: 4 residues - nb: 4  from  4 to 20 - Psim:0.75 region Length:17 
+ITALL
+ITAC-
+ITAS-
+SLAS-
+**********************
+
+Length: 5 residues - nb: 3  from  4 to 17 - Psim:0.7333333333333333 region Length:14 
+ITALL
+ITAC-
+ITASS
+**********************
+
+>uniprot|A0A2E7HS64|A0A2E7HS64_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 7 residues - nb: 2  from  295 to 309 - Psim:0.8125 region Length:15 
+YFEKTLNI
+YF-KTLGT
+**********************
+
+>uniprot|A0A2E6THB8|A0A2E6THB8_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 7 residues - nb: 3  from  222 to 242 - Psim:0.7619047619047619 region Length:21 
+RNAAEDS
+RNEAEVA
+RNQAEAS
+**********************
+
+Length: 9 residues - nb: 3  from  225 to 245 - Psim:0.6666666666666666 region Length:21 
+AEDSRNE
+AEVARNQ
+AEASQQR
+**********************
+
+>uniprot|A0A2E4ZZI2|A0A2E4ZZI2_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 2 residues - nb: 9  from  277 to 294 - Psim:1.0 region Length:18 
+KP
+KP
+KP
+KP
+KP
+KP
+KP
+KP
+KP
+**********************
+
+Length: 2 residues - nb: 7  from  282 to 295 - Psim:0.9285714285714286 region Length:14 
+PK
+PK
+PK
+PK
+PK
+PK
+PQ
+**********************
+
+>uniprot|A0A2E9RVZ4|A0A2E9RVZ4_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 5 residues - nb: 3  from  209 to 223 - Psim:0.6666666666666666 region Length:15 
+AL-SGF
+AL-ATY
+ALVQG-
+**********************
+
+>uniprot|A0A2E6TH65|A0A2E6TH65_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 8 residues - nb: 2  from  56 to 70 - Psim:0.75 region Length:15 
+RLK-EKVA
+RLEAEKEI
+**********************
+
+Length: 9 residues - nb: 2  from  56 to 71 - Psim:0.7777777777777778 region Length:16 
+RLK-EK-VA
+RLEAEKEIA
+**********************
+
+Length: 42 residues - nb: 3  from  230 to 353 - Psim:0.7142857142857143 region Length:124 
+NKGEYDKAIGYYEKALTIFLKSLGADHPLVATTYVSIGAAYS
+NKGEYDKAIEYYEKALAIQLKTLGPNHPDVGITYNNIGVCYS
+NKGAKTKALAYLQKAKGIYLKKLGPNHP--STKNVQSWIDKL
+**********************
+
+>uniprot|A0A2E5A045|A0A2E5A045_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 7 residues - nb: 2  from  77 to 90 - Psim:0.7857142857142857 region Length:14 
+YEEANAT
+YEEALTL
+**********************
+
+>uniprot|A0A2E4ZV46|A0A2E4ZV46_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 5 residues - nb: 3  from  521 to 534 - Psim:0.6666666666666666 region Length:14 
+PK-AK-
+PK-TQA
+KKKAP-
+**********************
+
+Length: 6 residues - nb: 3  from  529 to 547 - Psim:0.7142857142857143 region Length:19 
+AKKK-AP
+AKKKPAT
+AKRA-NR
+**********************
+
+>uniprot|A0A2E9RTH8|A0A2E9RTH8_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 35 residues - nb: 2  from  78 to 154 - Psim:0.7738095238095238 region Length:77 
+EKALAIRLQTLGPDHPDIAMSYNNLGAEYLTKHEVGKAMQYH
+EKALAIRLRTLGAEHPDVAMSFSNLH-E-V--HR-RKR-NY-
+**********************
+
+>uniprot|A0A2E4AZP3|A0A2E4AZP3_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 5 residues - nb: 3  from  34 to 48 - Psim:0.7619047619047619 region Length:15 
+HQLTNL-
+HQ--HR-
+HQ--NLW
+**********************
+
+>uniprot|A0A2E6TEI2|A0A2E6TEI2_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 5 residues - nb: 3  from  347 to 362 - Psim:0.6666666666666666 region Length:16 
+KAQVSL
+KASVS-
+KFGAT-
+**********************
+
+>uniprot|A0A2E6TD52|A0A2E6TD52_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 7 residues - nb: 2  from  214 to 227 - Psim:0.8125 region Length:14 
+GKV-LAEE
+GKSDLAE-
+**********************
+
+Length: 9 residues - nb: 2  from  214 to 229 - Psim:0.8333333333333334 region Length:16 
+GKV-LAEE-
+GKSDLAEEH
+**********************
+
+>uniprot|A0A2E9RQM2|A0A2E9RQM2_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 7 residues - nb: 2  from  385 to 399 - Psim:0.8125 region Length:15 
+DKFDTLRT
+DKF-VLRM
+**********************
+
+>uniprot|A0A1V6IZ40|A0A1V6IZ40_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin018]
+Length: 4 residues - nb: 5  from  333 to 352 - Psim:0.68 region Length:20 
+AAA-K
+AANDE
+AAV--
+AAQ-E
+AAK-A
+**********************
+
+Length: 5 residues - nb: 3  from  333 to 346 - Psim:0.6666666666666666 region Length:14 
+AA-AK
+AANDE
+AAVAA
+**********************
+
+>uniprot|A0A1V6J833|A0A1V6J833_9BACT Tol-pal system protein YbgF [Verrucomicrobia bacterium ADurb.Bin018]
+Length: 3 residues - nb: 5  from  541 to 554 - Psim:0.75 region Length:14 
+-RL-
+-RLA
+VAL-
+QRL-
+QRL-
+**********************
+
+Length: 5 residues - nb: 3  from  482 to 497 - Psim:0.6666666666666666 region Length:16 
+DALALL
+DAL-VA
+DAPAG-
+**********************
+
+>uniprot|A0A1V6IX15|A0A1V6IX15_9BACT Tetratricopeptide repeat protein [Verrucomicrobia bacterium ADurb.Bin018]
+Length: 4 residues - nb: 5  from  724 to 744 - Psim:0.7333333333333333 region Length:21 
+AA-ELY
+AA-R--
+AA-EL-
+AAADD-
+AA-GA-
+**********************
+
+Length: 5 residues - nb: 3  from  718 to 733 - Psim:0.6666666666666666 region Length:16 
+AAALLL
+AAELY-
+AARAA-
+**********************
+
+>uniprot|A0A1V6JAB5|A0A1V6JAB5_9BACT Lipoprotein NlpI [Verrucomicrobia bacterium ADurb.Bin018]
+Length: 6 residues - nb: 3  from  60 to 79 - Psim:0.7142857142857143 region Length:20 
+APETEVP
+APPKPPP
+APP-PPV
+**********************
+
+Length: 7 residues - nb: 3  from  58 to 79 - Psim:0.7777777777777778 region Length:22 
+PAAP-ETEV
+PAPPKPP--
+PAPP-PP-V
+**********************
+
+>uniprot|A0A1V6IV29|A0A1V6IV29_9BACT Spermidine synthase [Verrucomicrobia bacterium ADurb.Bin018]
+Length: 5 residues - nb: 3  from  187 to 200 - Psim:0.6666666666666666 region Length:14 
+LAIF-
+LAAFL
+LAVAP
+**********************
+
+>uniprot|A0A1V6JAK7|A0A1V6JAK7_9BACT Tol-pal system protein YbgF [Verrucomicrobia bacterium ADurb.Bin018]
+Length: 7 residues - nb: 2  from  546 to 559 - Psim:0.8125 region Length:14 
+LAAQRLT-
+LAA-RLAW
+**********************
+
+>uniprot|A0A1C7PDH0|A0A1C7PDH0_9BACT Bacterial type ii and iii secretion system protein [Akkermansia glycaniphila]
+Length: 5 residues - nb: 3  from  269 to 283 - Psim:0.6666666666666666 region Length:15 
+ARYYTA
+ARN--S
+ARS-KA
+**********************
+
+>uniprot|A0A177RCN0|A0A177RCN0_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium SCGC AG-212-N21]
+Length: 5 residues - nb: 3  from  467 to 482 - Psim:0.6666666666666666 region Length:16 
+KSSPGA
+KSG-SS
+KSA-AA
+**********************
+
+>uniprot|A0A1Z9IFM3|A0A1Z9IFM3_9BACT Uncharacterized protein [Opitutales bacterium TMED158]
+Length: 5 residues - nb: 5  from  207 to 234 - Psim:0.7 region Length:28 
+E-LL-DY-
+EEAY-RQY
+E-LLSRL-
+E-LE-PV-
+E-LM-RV-
+**********************
+
+Length: 7 residues - nb: 2  from  9 to 23 - Psim:0.75 region Length:15 
+LSFALFGA
+LSFDLSN-
+**********************
+
+>uniprot|A0A2A2Q8I9|A0A2A2Q8I9_9BACT Uncharacterized protein [Verrucomicrobiae bacterium Tous-C4TDCM]
+Length: 7 residues - nb: 3  from  161 to 182 - Psim:0.6666666666666666 region Length:22 
+LETRRIAE
+LETR-VKE
+LEGD-LSK
+**********************
+
+>uniprot|A0A2A2QRD5|A0A2A2QRD5_9BACT Uncharacterized protein [Verrucomicrobiae bacterium Tous-C4TDCM]
+Length: 8 residues - nb: 2  from  796 to 809 - Psim:0.8125 region Length:14 
+KKL-EES-
+KKLFEEIV
+**********************
+
+>uniprot|A0A2A2QX59|A0A2A2QX59_9BACT Uncharacterized protein [Verrucomicrobiae bacterium Tous-C4TDCM]
+Length: 4 residues - nb: 4  from  862 to 878 - Psim:0.7 region Length:17 
+LGLLP
+LGLF-
+LGGR-
+LARR-
+**********************
+
+Length: 5 residues - nb: 3  from  862 to 875 - Psim:0.7777777777777778 region Length:14 
+LG-LLP
+LG-LF-
+LGGRL-
+**********************
+
+Length: 7 residues - nb: 2  from  717 to 731 - Psim:0.8125 region Length:15 
+ADAPLLDP
+AD-DLLFP
+**********************
+
+>uniprot|A0A2A2QM33|A0A2A2QM33_9BACT Uncharacterized protein [Verrucomicrobiae bacterium Tous-C4TDCM]
+Length: 4 residues - nb: 4  from  509 to 526 - Psim:0.6666666666666666 region Length:18 
+-EREAA
+-ER-AA
+AEE-AD
+-AK-SK
+**********************
+
+Length: 5 residues - nb: 3  from  509 to 522 - Psim:0.8 region Length:14 
+EREAA
+ERAAA
+E-EAD
+**********************
+
+>uniprot|A0A1H2GTK7|A0A1H2GTK7_9BACT Beta-barrel assembly machine subunit BamD [Verrucomicrobium sp. GAS474]
+Length: 8 residues - nb: 2  from  9 to 25 - Psim:0.65 region Length:17 
+AL-LGLG--A
+ALSFPVPAGA
+**********************
+
+>uniprot|A0A1H2GRZ5|A0A1H2GRZ5_9BACT Tetratricopeptide repeat-containing protein [Verrucomicrobium sp. GAS474]
+Length: 4 residues - nb: 4  from  220 to 236 - Psim:0.6785714285714286 region Length:17 
+S-S---L
+S-S-P-L
+SIS-KP-
+E-GRK-S
+**********************
+
+>uniprot|A0A1H2FJI6|A0A1H2FJI6_9BACT Tetratricopeptide repeat-containing protein [Verrucomicrobium sp. GAS474]
+Length: 5 residues - nb: 3  from  73 to 87 - Psim:0.7222222222222222 region Length:15 
+LNVSFA
+LN--FA
+LN-RWL
+**********************
+
+>uniprot|A0A1H2DX32|A0A1H2DX32_9BACT Tetratricopeptide repeat-containing protein [Verrucomicrobium sp. GAS474]
+Length: 3 residues - nb: 6  from  27 to 43 - Psim:0.6666666666666666 region Length:17 
+PPA
+PPA
+APA
+P-A
+PAT
+PAS
+**********************
+
+Length: 4 residues - nb: 8  from  27 to 57 - Psim:0.6666666666666666 region Length:31 
+P--PA-
+PP-AA-
+PA-PA-
+PA--T-
+PA-SS-
+AALTP-
+-A-PAS
+-A-PSD
+**********************
+
+Length: 5 residues - nb: 3  from  900 to 914 - Psim:0.8333333333333334 region Length:15 
+SAPAAT
+SAPA--
+SAPAS-
+**********************
+
+>uniprot|A0A1H2EXP7|A0A1H2EXP7_9BACT Tetratricopeptide (TPR) repeat [Verrucomicrobium sp. GAS474]
+Length: 3 residues - nb: 4  from  501 to 514 - Psim:0.85 region Length:14 
+LA-ER
+LAGE-
+LA-I-
+LA-E-
+**********************
+
+Length: 4 residues - nb: 4  from  501 to 515 - Psim:0.75 region Length:15 
+LAER
+LAGE
+LAI-
+LAEE
+**********************
+
+>uniprot|A0A1H2EPM2|A0A1H2EPM2_9BACT Tetratricopeptide repeat-containing protein [Verrucomicrobium sp. GAS474]
+Length: 4 residues - nb: 4  from  130 to 145 - Psim:0.65 region Length:16 
+ALWRS
+ALV-A
+ALF--
+ALH-P
+**********************
+
+Length: 5 residues - nb: 3  from  130 to 143 - Psim:0.6666666666666666 region Length:14 
+ALWRS
+ALVA-
+ALFAL
+**********************
+
+>uniprot|A0A1H2GUJ2|A0A1H2GUJ2_9BACT Tetratricopeptide repeat-containing protein [Verrucomicrobium sp. GAS474]
+Length: 4 residues - nb: 11  from  3 to 46 - Psim:0.6515151515151515 region Length:44 
+AR-GG-
+AR-GL-
+AP-AL-
+VL-GM-
+VL-GL-
+GRTG--
+AA-QD-
+AA-P--
+AA-SS-
+AA-GTT
+AA-TL-
+**********************
+
+Length: 4 residues - nb: 5  from  27 to 46 - Psim:0.68 region Length:20 
+AA-QD
+AA-P-
+AA-SS
+AAGTT
+AA-TL
+**********************
+
+Length: 4 residues - nb: 4  from  241 to 256 - Psim:0.75 region Length:16 
+AARAQ
+AA-SR
+AA-L-
+AA-LR
+**********************
+
+>uniprot|A0A1H2EYL9|A0A1H2EYL9_9BACT Tetratricopeptide repeat-containing protein [Verrucomicrobium sp. GAS474]
+Length: 6 residues - nb: 3  from  937 to 954 - Psim:0.7142857142857143 region Length:18 
+AQALLGF
+AQAL-E-
+AQGKL-F
+**********************
+
+>uniprot|A0A1Q7S322|A0A1Q7S322_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_20CM_4_55_9]
+Length: 5 residues - nb: 3  from  377 to 391 - Psim:0.6666666666666666 region Length:15 
+SAG-Q-
+SAPARN
+SAPIL-
+**********************
+
+Length: 6 residues - nb: 3  from  413 to 430 - Psim:0.7777777777777778 region Length:18 
+PASSSE
+PASSAT
+PEPSST
+**********************
+
+>uniprot|A0A1Q7S3V4|A0A1Q7S3V4_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_20CM_4_55_9]
+Length: 4 residues - nb: 3  from  265 to 278 - Psim:0.7333333333333333 region Length:14 
+DKGKI
+DKGMS
+DKAM-
+**********************
+
+Length: 5 residues - nb: 3  from  265 to 279 - Psim:0.7333333333333333 region Length:15 
+DKGKI
+DKGMS
+DKAMT
+**********************
+
+>uniprot|A0A1Q7S0W5|A0A1Q7S0W5_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_20CM_4_55_9]
+Length: 3 residues - nb: 5  from  391 to 404 - Psim:0.6666666666666666 region Length:14 
+L-G
+LGV
+LAG
+LAM
+LAK
+**********************
+
+>uniprot|A0A2E7VGN8|A0A2E7VGN8_9BACT Uncharacterized protein [Opitutales bacterium]
+Length: 7 residues - nb: 2  from  246 to 259 - Psim:0.7857142857142857 region Length:14 
+EIYFNVA
+EIYFSAR
+**********************
+
+>uniprot|A0A2E7VJ37|A0A2E7VJ37_9BACT Uncharacterized protein [Opitutales bacterium]
+Length: 4 residues - nb: 3  from  348 to 361 - Psim:0.6666666666666666 region Length:14 
+AEEID-
+AE-IA-
+SL-VAS
+**********************
+
+>uniprot|A0A2E7VDE8|A0A2E7VDE8_9BACT Uncharacterized protein [Opitutales bacterium]
+Length: 7 residues - nb: 2  from  147 to 160 - Psim:0.8571428571428571 region Length:14 
+HEQALEH
+HEKALEL
+**********************
+
+>uniprot|A0A2E7VH27|A0A2E7VH27_9BACT Uncharacterized protein [Opitutales bacterium]
+Length: 7 residues - nb: 2  from  11 to 24 - Psim:0.8571428571428571 region Length:14 
+IFAVASS
+IFAVPST
+**********************
+
+>uniprot|I6B2M1|I6B2M1_9BACT Putative O-linked N-acetylglucosamine transferase, SPINDLY family [Opitutaceae bacterium TAV1]
+Length: 3 residues - nb: 5  from  13 to 27 - Psim:0.72 region Length:15 
+LA-IG
+LA-D-
+-AAS-
+-A-S-
+-A-SL
+**********************
+
+Length: 3 residues - nb: 5  from  385 to 398 - Psim:0.7 region Length:14 
+P-LD
+P-LP
+PVA-
+P-A-
+P-AL
+**********************
+
+Length: 7 residues - nb: 2  from  52 to 66 - Psim:0.75 region Length:15 
+LARRGRLP
+LAR-GIAE
+**********************
+
+Length: 8 residues - nb: 2  from  52 to 67 - Psim:0.7777777777777778 region Length:16 
+LARRGRL-P
+LAR-GIAEP
+**********************
+
+>uniprot|D5EP13|D5EP13_CORAD Tetratricopeptide TPR_2 repeat protein [Coraliomargarita akajimensis DSM 45221]
+Length: 10 residues - nb: 2  from  335 to 358 - Psim:0.75 region Length:24 
+AARLEDLRAKYK
+AARLEVLLTQGF
+**********************
+
+>uniprot|I6B1J6|I6B1J6_9BACT Uncharacterized protein [Opitutaceae bacterium TAV1]
+Length: 5 residues - nb: 5  from  27 to 52 - Psim:0.65 region Length:26 
+LATLRD--
+LA--RDA-
+RF--LDAH
+AA--W-S-
+AA--VAA-
+**********************
+
+Length: 5 residues - nb: 3  from  763 to 777 - Psim:0.6666666666666666 region Length:15 
+AAWLRS
+AA--HV
+AA-ISS
+**********************
+
+Length: 9 residues - nb: 7  from  602 to 661 - Psim:0.6904761904761905 region Length:60 
+-LRA--DA-RRHPRA---
+-LRL--LA-R----V---
+-LRRDPVN-A-----D-N
+-LRT--FA-H----LLW-
+EQRA--FA-D--------
+-AAA--VY-R----L---
+-AAC--TGDK----T--E
+**********************
+
+>uniprot|A0A1G3ZGI4|A0A1G3ZGI4_9BACT Uncharacterized protein [Verrucomicrobia bacterium RIFCSPHIGHO2_12_FULL_41_10]
+Length: 5 residues - nb: 3  from  615 to 629 - Psim:0.6666666666666666 region Length:15 
+RVREA
+RVEFE
+RVARA
+**********************
+
+>uniprot|A0A1G3ZD95|A0A1G3ZD95_9BACT Uncharacterized protein [Verrucomicrobia bacterium RIFCSPHIGHO2_12_FULL_41_10]
+Length: 4 residues - nb: 5  from  383 to 401 - Psim:0.6571428571428571 region Length:19 
+--E-KA-
+--E-KAE
+SSE-K--
+--S-LID
+--SLQT-
+**********************
+
+Length: 8 residues - nb: 3  from  11 to 33 - Psim:0.7333333333333333 region Length:23 
+FFLKVSL-VA
+FFM--SL-A-
+FFT--PLEAA
+**********************
+
+>uniprot|D5EJD5|D5EJD5_CORAD Uncharacterized protein [Coraliomargarita akajimensis DSM 45221]
+Length: 5 residues - nb: 3  from  349 to 363 - Psim:0.7222222222222222 region Length:15 
+VSD-P-
+VSYNPD
+VSVLP-
+**********************
+
+Length: 8 residues - nb: 3  from  271 to 294 - Psim:0.7407407407407407 region Length:24 
+AE-AKSAVE
+AE-VAASKE
+AEPAK-AKE
+**********************
+
+>uniprot|A0A2A2RJ64|A0A2A2RJ64_9BACT Uncharacterized protein [Opitutae bacterium Tous-C8FEB]
+Length: 7 residues - nb: 2  from  622 to 635 - Psim:0.9285714285714286 region Length:14 
+AKAREYA
+AKAREVA
+**********************
+
+>uniprot|A0A257QHT6|A0A257QHT6_9BACT Uncharacterized protein [Verrucomicrobia bacterium 21-51-4]
+Length: 3 residues - nb: 8  from  437 to 461 - Psim:0.65 region Length:25 
+A-AK-
+A-AG-
+Q-KP-
+P-AAA
+P-AN-
+QTSS-
+P-A--
+P-AP-
+**********************
+
+>uniprot|A0A2A2RBB1|A0A2A2RBB1_9BACT Uncharacterized protein [Opitutae bacterium Tous-C8FEB]
+Length: 7 residues - nb: 2  from  179 to 192 - Psim:0.7142857142857143 region Length:14 
+AVASLRR
+AVAIDPK
+**********************
+
+>uniprot|A0A177Q5Q3|A0A177Q5Q3_9BACT Uncharacterized protein [Verrucomicrobia bacterium SCGC AG-212-E04]
+Length: 4 residues - nb: 5  from  619 to 637 - Psim:0.68 region Length:19 
+AAAP-
+AA-PV
+AAAP-
+PP-P-
+PP-PI
+**********************
+
+Length: 6 residues - nb: 3  from  725 to 744 - Psim:0.7619047619047619 region Length:20 
+TPAVAQS
+TPAPVVT
+TP-PAVT
+**********************
+
+Length: 7 residues - nb: 2  from  647 to 661 - Psim:0.8125 region Length:15 
+PAPPPPPM
+PAPAPMP-
+**********************
+
+Length: 7 residues - nb: 3  from  725 to 745 - Psim:0.7407407407407407 region Length:21 
+TP--AVAQS
+TPAPVVT--
+TP-PAVTK-
+**********************
+
+>uniprot|A0A2A2RF34|A0A2A2RF34_9BACT Uncharacterized protein [Opitutae bacterium Tous-C8FEB]
+Length: 5 residues - nb: 3  from  365 to 379 - Psim:0.7222222222222222 region Length:15 
+ALAAPL
+ALLA--
+ALLV-R
+**********************
+
+Length: 7 residues - nb: 2  from  551 to 565 - Psim:0.8125 region Length:15 
+EAALAAWR
+EA-LAADP
+**********************
+
+Length: 9 residues - nb: 2  from  551 to 567 - Psim:0.75 region Length:17 
+EAALAAW-R-
+EA-LAADPTF
+**********************
+
+Length: 11 residues - nb: 2  from  29 to 50 - Psim:0.75 region Length:22 
+ALL--VVLAVLP
+ALPGPLVLDDLP
+**********************
+
+>uniprot|A0A177Q3V4|A0A177Q3V4_9BACT Uncharacterized protein [Verrucomicrobia bacterium SCGC AG-212-E04]
+Length: 2 residues - nb: 9  from  325 to 343 - Psim:0.8518518518518519 region Length:19 
+AP-
+AAA
+AP-
+AP-
+AA-
+AP-
+AP-
+AP-
+AA-
+**********************
+
+Length: 5 residues - nb: 3  from  12 to 26 - Psim:0.7142857142857143 region Length:15 
+LA-GA--
+LACAA-L
+LA-PVV-
+**********************
+
+Length: 5 residues - nb: 5  from  325 to 349 - Psim:0.7714285714285715 region Length:25 
+A-PA-AA
+A-PA-PA
+AAPA-PA
+--PA-AS
+--PATPK
+**********************
+
+Length: 6 residues - nb: 3  from  320 to 338 - Psim:0.7916666666666666 region Length:19 
+AAKPGAP-
+AA--AAPA
+PA--AAPA
+**********************
+
+>uniprot|A0A2A2RI09|A0A2A2RI09_9BACT Uncharacterized protein [Opitutae bacterium Tous-C8FEB]
+Length: 7 residues - nb: 2  from  234 to 247 - Psim:0.8571428571428571 region Length:14 
+VRDWLPL
+VREKLPL
+**********************
+
+Length: 9 residues - nb: 2  from  234 to 249 - Psim:0.7777777777777778 region Length:16 
+VRDWLPL--
+VREKLPLLA
+**********************
+
+>uniprot|A0A177Q4J8|A0A177Q4J8_9BACT Uncharacterized protein [Verrucomicrobia bacterium SCGC AG-212-E04]
+Length: 8 residues - nb: 3  from  369 to 393 - Psim:0.7 region Length:25 
+PSQT--PA-Q
+PSKTIAPAVQ
+PS--VAPAPT
+**********************
+
+Length: 10 residues - nb: 3  from  373 to 399 - Psim:0.696969696969697 region Length:27 
+PA-Q-PSKTIA
+PAVQ-PS--VA
+PA-PTPALAIS
+**********************
+
+>uniprot|A0A2A2R4B6|A0A2A2R4B6_9BACT Uncharacterized protein [Opitutae bacterium Tous-C8FEB]
+Length: 3 residues - nb: 5  from  582 to 595 - Psim:0.68 region Length:14 
+--AL-
+--ALA
+GEAD-
+--RA-
+-RAC-
+**********************
+
+Length: 4 residues - nb: 3  from  310 to 323 - Psim:0.7333333333333333 region Length:14 
+AAGFL
+AAGHF
+AA-LL
+**********************
+
+Length: 5 residues - nb: 3  from  310 to 324 - Psim:0.7333333333333333 region Length:15 
+AAGFL
+AAGHF
+AALLF
+**********************
+
+Length: 5 residues - nb: 6  from  647 to 677 - Psim:0.7037037037037037 region Length:31 
+-LA--G-A-
+-LANSG-D-
+-LA--G-AV
+-TA--YLA-
+ALE--S-PA
+ALP--E-W-
+**********************
+
+>uniprot|A0A177Q6L9|A0A177Q6L9_9BACT Uncharacterized protein [Verrucomicrobia bacterium SCGC AG-212-E04]
+Length: 3 residues - nb: 5  from  30 to 44 - Psim:0.76 region Length:15 
+--PAK
+--PAA
+ATPP-
+--PA-
+--PAR
+**********************
+
+>uniprot|A0A2A2XUG8|A0A2A2XUG8_9BACT Uncharacterized protein [Spartobacteria bacterium AMD-G4]
+Length: 7 residues - nb: 2  from  197 to 210 - Psim:0.8125 region Length:14 
+LAAM-GFF
+LAAMLGK-
+**********************
+
+>uniprot|A0A2A2R962|A0A2A2R962_9BACT Uncharacterized protein [Verrucomicrobia bacterium Tous-C9LFEB]
+Length: 7 residues - nb: 2  from  200 to 213 - Psim:0.7857142857142857 region Length:14 
+EEALACY
+EEALQRQ
+**********************
+
+>uniprot|A0A2A2R1H5|A0A2A2R1H5_9BACT Uncharacterized protein [Verrucomicrobia bacterium Tous-C9LFEB]
+Length: 5 residues - nb: 3  from  384 to 397 - Psim:0.7777777777777778 region Length:14 
+PA-PT-
+PAAPE-
+PA-PSV
+**********************
+
+>uniprot|A0A2A2RA14|A0A2A2RA14_9BACT Uncharacterized protein [Verrucomicrobia bacterium Tous-C9LFEB]
+Length: 7 residues - nb: 3  from  53 to 75 - Psim:0.7037037037037037 region Length:23 
+PATRLPVT-
+PAP-LPVAV
+PAP-AP-SP
+**********************
+
+Length: 9 residues - nb: 3  from  53 to 77 - Psim:0.7333333333333333 region Length:25 
+PATRLPVT--
+PAP-LPVAV-
+PAP-APSPVI
+**********************
+
+>uniprot|A0A2A2XX97|A0A2A2XX97_9BACT Uncharacterized protein [Spartobacteria bacterium AMD-G4]
+Length: 3 residues - nb: 6  from  497 to 517 - Psim:0.7083333333333334 region Length:21 
+QKDQ
+QKDQ
+QKDK
+QKD-
+KQD-
+KQD-
+**********************
+
+Length: 3 residues - nb: 6  from  506 to 525 - Psim:0.7083333333333334 region Length:20 
+KDKQ
+KDK-
+QDK-
+QDKQ
+QD-Q
+KD-Q
+**********************
+
+Length: 4 residues - nb: 8  from  485 to 516 - Psim:0.725 region Length:32 
+QQQK-
+QQDQ-
+-KNQD
+QKDQ-
+QKDQ-
+QKDK-
+QKDK-
+QDKQ-
+**********************
+
+Length: 4 residues - nb: 6  from  492 to 516 - Psim:0.8 region Length:25 
+QKNQD
+QKDQ-
+QKDQ-
+QKDK-
+QKDK-
+QDKQ-
+**********************
+
+Length: 4 residues - nb: 9  from  500 to 534 - Psim:0.6888888888888889 region Length:35 
+QQKD-
+QQKD-
+KQKD-
+KQ-D-
+KQ-D-
+KQQD-
+Q-KDQ
+QKQDQ
+QKSD-
+**********************
+
+Length: 4 residues - nb: 7  from  507 to 533 - Psim:0.7619047619047619 region Length:27 
+D-KQK-
+D-KQ--
+D-KQ--
+D-KQQ-
+DQKD--
+QQKQ-D
+QQKS--
+**********************
+
+Length: 4 residues - nb: 4  from  514 to 529 - Psim:0.7 region Length:16 
+D-KQ-
+D-KQQ
+DQK-D
+QQKQD
+**********************
+
+Length: 5 residues - nb: 8  from  482 to 519 - Psim:0.75 region Length:38 
+K-QEQQQ
+K-QQDQ-
+KNQD-Q-
+K--DQQ-
+K--DQQ-
+K--DKQ-
+K--DKQD
+K-QDKQ-
+**********************
+
+Length: 5 residues - nb: 9  from  492 to 534 - Psim:0.8024691358024691 region Length:43 
+Q-K-N-Q-D
+Q-K-D-Q--
+Q-K-D-Q--
+Q-K-D-K--
+Q-K-DKQ--
+D-KQD-K--
+Q-Q-D-QKD
+Q-Q-K-Q-D
+QQK-S-D--
+**********************
+
+Length: 5 residues - nb: 3  from  500 to 513 - Psim:0.8333333333333334 region Length:14 
+QQKD--
+QQKDK-
+Q-KDKQ
+**********************
+
+Length: 5 residues - nb: 3  from  507 to 520 - Psim:0.8333333333333334 region Length:14 
+-DKQ-K
+-DKQDK
+QDKQ-Q
+**********************
+
+Length: 5 residues - nb: 3  from  522 to 535 - Psim:0.8 region Length:14 
+QK-DQ
+QKQDQ
+QKSDE
+**********************
+
+Length: 6 residues - nb: 3  from  64 to 81 - Psim:0.6666666666666666 region Length:18 
+SL-L-LV
+SLALAIV
+SLAQPR-
+**********************
+
+Length: 6 residues - nb: 3  from  487 to 502 - Psim:0.8333333333333334 region Length:16 
+QK-QQD
+QK-NQD
+QKDQQK
+**********************
+
+Length: 12 residues - nb: 2  from  546 to 569 - Psim:0.7916666666666666 region Length:24 
+QQKQDSEDQKED
+QQKQDSEKKDQS
+**********************
+
+>uniprot|A0A2A2XUJ0|A0A2A2XUJ0_9BACT Uncharacterized protein [Spartobacteria bacterium AMD-G4]
+Length: 7 residues - nb: 2  from  146 to 160 - Psim:0.75 region Length:15 
+RQQIESLQ
+RQ-IEEFK
+**********************
+
+>uniprot|A0A177RBQ5|A0A177RBQ5_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium SCGC AG-212-N21]
+Length: 3 residues - nb: 5  from  84 to 99 - Psim:0.65 region Length:16 
+RWNP
+RW-L
+RW-A
+TL-A
+AI-A
+**********************
+
+Length: 4 residues - nb: 4  from  83 to 98 - Psim:0.6666666666666666 region Length:16 
+PRW--N
+PRW--L
+-RWATL
+AA---I
+**********************
+
+Length: 4 residues - nb: 4  from  202 to 217 - Psim:0.65 region Length:16 
+LL--F
+LLLRH
+LL-RH
+SP-KA
+**********************
+
+Length: 7 residues - nb: 2  from  60 to 73 - Psim:0.7857142857142857 region Length:14 
+DAPAALV
+DAPAETP
+**********************
+
+Length: 9 residues - nb: 3  from  60 to 86 - Psim:0.6666666666666666 region Length:27 
+DAPA---A-LV-
+DAPAETPA-IPV
+DAPP---PPRWN
+**********************
+
+>uniprot|A0A139SL82|A0A139SL82_9BACT Uncharacterized protein [Cephaloticoccus capnophilus]
+Length: 7 residues - nb: 2  from  470 to 483 - Psim:0.9285714285714286 region Length:14 
+GAPPHAS
+GAPPHAG
+**********************
+
+Length: 7 residues - nb: 2  from  625 to 638 - Psim:0.7857142857142857 region Length:14 
+LQARMRW
+LQARLSL
+**********************
+
+>uniprot|A0A177RB34|A0A177RB34_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium SCGC AG-212-N21]
+Length: 3 residues - nb: 5  from  47 to 60 - Psim:0.8666666666666667 region Length:14 
+PA-
+PAA
+PAA
+PAA
+PAS
+**********************
+
+Length: 3 residues - nb: 5  from  757 to 770 - Psim:0.65 region Length:14 
+-AA-
+-AAT
+PP--
+PAAA
+PAV-
+**********************
+
+Length: 4 residues - nb: 5  from  48 to 65 - Psim:0.8666666666666667 region Length:18 
+AP-A--
+AP-A--
+AP-A--
+AP-ASG
+APLS--
+**********************
+
+>uniprot|A0A0C1RS29|A0A0C1RS29_9BACT Uncharacterized protein [Methylacidiphilum kamchatkense Kam1]
+Length: 5 residues - nb: 5  from  13 to 40 - Psim:0.65 region Length:28 
+LP-L-FL-
+FS-S-LAL
+SQ-NPKT-
+SQVT-KA-
+SQ-S-KA-
+**********************
+
+Length: 7 residues - nb: 2  from  54 to 67 - Psim:0.8571428571428571 region Length:14 
+SKLLINR
+SKLLIEE
+**********************
+
+Length: 9 residues - nb: 2  from  54 to 69 - Psim:0.7777777777777778 region Length:16 
+SKLLIN-R-
+SKLLIEEKK
+**********************
+
+>uniprot|A0A1Z8XPZ8|A0A1Z8XPZ8_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium TMED76]
+Length: 5 residues - nb: 3  from  86 to 100 - Psim:0.6666666666666666 region Length:15 
+ALQGL
+ALSLY
+ALKQY
+**********************
+
+Length: 7 residues - nb: 2  from  458 to 471 - Psim:0.7142857142857143 region Length:14 
+LFLKAEN
+LFLLKRT
+**********************
+
+>uniprot|A0A1Z8PC03|A0A1Z8PC03_9BACT Uncharacterized protein [Roseibacillus sp. TMED18]
+Length: 3 residues - nb: 5  from  294 to 309 - Psim:0.6857142857142857 region Length:16 
+--Q-LNQ
+--Q-LG-
+--E--A-
+RDQ-I--
+--RDL--
+**********************
+
+Length: 6 residues - nb: 3  from  307 to 325 - Psim:0.6666666666666666 region Length:19 
+RD-LRGE
+RDALLVE
+RD-QMSA
+**********************
+
+>uniprot|A0A1Z8PKX4|A0A1Z8PKX4_9BACT Uncharacterized protein [Roseibacillus sp. TMED18]
+Length: 5 residues - nb: 4  from  215 to 235 - Psim:0.65625 region Length:21 
+--PDED--
+--PDEA-A
+--RVIAKT
+GFPFPA--
+**********************
+
+>uniprot|A0A1Z8PAF7|A0A1Z8PAF7_9BACT Uncharacterized protein [Roseibacillus sp. TMED18]
+Length: 7 residues - nb: 2  from  527 to 540 - Psim:0.8125 region Length:14 
+LASAKPL-
+LAS-KPEG
+**********************
+
+>uniprot|A0A2A2YC33|A0A2A2YC33_9BACT Uncharacterized protein [Verrucomicrobiae bacterium AMD-G2]
+Length: 7 residues - nb: 2  from  776 to 789 - Psim:0.7857142857142857 region Length:14 
+EALDYYT
+EALDRKD
+**********************
+
+>uniprot|A0A2A2Y630|A0A2A2Y630_9BACT Uncharacterized protein [Verrucomicrobiae bacterium AMD-G2]
+Length: 5 residues - nb: 3  from  215 to 229 - Psim:0.6666666666666666 region Length:15 
+LLEAR
+LLDGK
+LLQAE
+**********************
+
+Length: 5 residues - nb: 3  from  465 to 480 - Psim:0.6666666666666666 region Length:16 
+SAA-RL
+SATPRS
+SAL-FN
+**********************
+
+>uniprot|A0A1Q6UMR9|A0A1Q6UMR9_9BACT Uncharacterized protein [Verrucomicrobia bacterium CAG:312_58_20]
+Length: 6 residues - nb: 6  from  266 to 301 - Psim:0.7142857142857143 region Length:36 
+LKEAEDA
+LKAAE--
+LKKAEE-
+AKKAEE-
+EKRLAE-
+EKKAAE-
+**********************
+
+Length: 6 residues - nb: 3  from  279 to 296 - Psim:0.8095238095238095 region Length:18 
+KK-AEEA
+KK-AEEE
+KRLAEE-
+**********************
+
+Length: 7 residues - nb: 4  from  274 to 299 - Psim:0.75 region Length:26 
+KAAELK-
+KAEEAK-
+KAEEEKR
+LAEEKKA
+**********************
+
+Length: 7 residues - nb: 3  from  287 to 306 - Psim:0.6666666666666666 region Length:20 
+AEEEKRL
+AEE-KKA
+AEEAAEK
+**********************
+
+Length: 8 residues - nb: 2  from  279 to 292 - Psim:0.8125 region Length:14 
+KKAEEA--
+KKAEEEKR
+**********************
+
+Length: 8 residues - nb: 2  from  290 to 304 - Psim:0.7222222222222222 region Length:15 
+EKRLAE---
+EKKAAEEAA
+**********************
+
+>uniprot|A0A2A2Y9X5|A0A2A2Y9X5_9BACT Uncharacterized protein [Verrucomicrobiae bacterium AMD-G2]
+Length: 8 residues - nb: 2  from  386 to 401 - Psim:0.7777777777777778 region Length:16 
+LRTERDDL-
+LR-ERDHMA
+**********************
+
+Length: 9 residues - nb: 2  from  386 to 402 - Psim:0.75 region Length:17 
+LRTERDDL--
+LR-ERDHMAA
+**********************
+
+>uniprot|A0A1Z9AEC5|A0A1Z9AEC5_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium TMED86]
+Length: 7 residues - nb: 2  from  148 to 162 - Psim:0.8125 region Length:15 
+AKDAVEAS
+AK-AVELT
+**********************
+
+>uniprot|A0A1Z8ZZX5|A0A1Z8ZZX5_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium TMED86]
+Length: 7 residues - nb: 2  from  308 to 322 - Psim:0.8125 region Length:15 
+LKTEREDL
+LK-ERESM
+**********************
+
+>uniprot|A0A1Z9A5D5|A0A1Z9A5D5_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium TMED86]
+Length: 3 residues - nb: 4  from  547 to 560 - Psim:0.65 region Length:14 
+RE-EK
+RE-P-
+RNIE-
+PL-T-
+**********************
+
+>uniprot|A0A1Z9A9G5|A0A1Z9A9G5_9BACT Uncharacterized protein [Verrucomicrobiaceae bacterium TMED86]
+Length: 5 residues - nb: 5  from  684 to 708 - Psim:0.7 region Length:25 
+AR-A-K--
+ARHA-K--
+RK-AER-E
+AA-A-KK-
+AA-E-EA-
+**********************
+
+>uniprot|A0A2A2RBD3|A0A2A2RBD3_9BACT Uncharacterized protein [Spartobacteria bacterium Tous-C9RFEB]
+Length: 5 residues - nb: 8  from  69 to 108 - Psim:0.875 region Length:40 
+PIEVT
+PIAPA
+PIAPA
+PIAPA
+PIAPA
+PIAPA
+PIAPA
+PIAAV
+**********************
+
+Length: 5 residues - nb: 6  from  79 to 108 - Psim:0.9333333333333333 region Length:30 
+PIAPA
+PIAPA
+PIAPA
+PIAPA
+PIAPA
+PIAAV
+**********************
+
+Length: 5 residues - nb: 4  from  89 to 108 - Psim:0.9 region Length:20 
+PIAPA
+PIAPA
+PIAPA
+PIAAV
+**********************
+
+Length: 6 residues - nb: 7  from  74 to 109 - Psim:0.9285714285714286 region Length:36 
+PIAPA-
+PIAPA-
+PIAPA-
+PIAPA-
+PIAPA-
+PIAPA-
+PIAAVP
+**********************
+
+Length: 6 residues - nb: 5  from  84 to 109 - Psim:0.9 region Length:26 
+PIAPA-
+PIAPA-
+PIAPA-
+PIAPA-
+PIAAVP
+**********************
+
+Length: 6 residues - nb: 3  from  94 to 109 - Psim:0.8333333333333334 region Length:16 
+PIAPA-
+PIAPA-
+PIAAVP
+**********************
+
+>uniprot|A0A2A2RD39|A0A2A2RD39_9BACT Uncharacterized protein [Spartobacteria bacterium Tous-C9RFEB]
+Length: 7 residues - nb: 2  from  71 to 85 - Psim:0.8125 region Length:15 
+TPAPLPPT
+TPAP-KPE
+**********************
+
+Length: 8 residues - nb: 2  from  71 to 86 - Psim:0.8125 region Length:16 
+TPAPLPPT
+TPAPKPEP
+**********************
+
+Length: 9 residues - nb: 2  from  71 to 87 - Psim:0.8888888888888888 region Length:17 
+TPAPLP-PT
+TPAPKPEPT
+**********************
+
+>uniprot|A0A2A2RHQ8|A0A2A2RHQ8_9BACT Uncharacterized protein [Spartobacteria bacterium Tous-C9RFEB]
+Length: 7 residues - nb: 2  from  289 to 302 - Psim:0.7857142857142857 region Length:14 
+EQRLGIL
+EQRLKAT
+**********************
+
+>uniprot|A0A1Q6V4K1|A0A1Q6V4K1_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_55_10]
+Length: 5 residues - nb: 3  from  459 to 473 - Psim:0.6666666666666666 region Length:15 
+ANSMST
+ANP-D-
+ANGGS-
+**********************
+
+>uniprot|A0A2A2PUL8|A0A2A2PUL8_9BACT Uncharacterized protein [Verrucomicrobiae bacterium Tous-C2TDCM]
+Length: 5 residues - nb: 3  from  513 to 527 - Psim:0.7777777777777778 region Length:15 
+AEQLDR
+AEQL--
+AESL-S
+**********************
+
+Length: 6 residues - nb: 3  from  675 to 693 - Psim:0.6666666666666666 region Length:19 
+SAAGAPE
+SAA-SEG
+SAV-EGG
+**********************
+
+>uniprot|A0A1Q6V7E1|A0A1Q6V7E1_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_55_10]
+Length: 7 residues - nb: 2  from  174 to 187 - Psim:0.8571428571428571 region Length:14 
+FYGLALV
+FYVLALS
+**********************
+
+>uniprot|A0A2A2Q3Q1|A0A2A2Q3Q1_9BACT Uncharacterized protein [Verrucomicrobiae bacterium Tous-C2TDCM]
+Length: 5 residues - nb: 3  from  395 to 411 - Psim:0.6666666666666666 region Length:17 
+FPDSAD
+FPFLLT
+FP-LAR
+**********************
+
+Length: 5 residues - nb: 3  from  610 to 623 - Psim:0.7333333333333333 region Length:14 
+EPAAP
+EPAAV
+EPKN-
+**********************
+
+Length: 6 residues - nb: 3  from  606 to 622 - Psim:0.8095238095238095 region Length:17 
+AATAEP-
+AAP-EP-
+AAV-EPK
+**********************
+
+Length: 7 residues - nb: 2  from  86 to 99 - Psim:0.8571428571428571 region Length:14 
+GRTFEAQ
+GRTEEAV
+**********************
+
+Length: 7 residues - nb: 2  from  570 to 583 - Psim:0.7142857142857143 region Length:14 
+EKAIEYL
+EKAVTLE
+**********************
+
+>uniprot|A0A0R2RJQ5|A0A0R2RJQ5_9BACT Uncharacterized protein [Verrucomicrobia subdivision 6 bacterium BACL9 MAG-120507-bin52]
+Length: 3 residues - nb: 5  from  66 to 80 - Psim:0.75 region Length:15 
+LLSA
+L-LA
+I-S-
+L-SP
+L-SA
+**********************
+
+Length: 3 residues - nb: 4  from  692 to 705 - Psim:0.65 region Length:14 
+Q-AL-
+Q-AY-
+KRAF-
+E-LFQ
+**********************
+
+>uniprot|A0A1Z8WY59|A0A1Z8WY59_9BACT Uncharacterized protein [Opitutae bacterium TMED67]
+Length: 4 residues - nb: 3  from  80 to 93 - Psim:0.6666666666666666 region Length:14 
+LPLKL
+LPAAY
+LPMA-
+**********************
+
+Length: 5 residues - nb: 3  from  80 to 94 - Psim:0.6666666666666666 region Length:15 
+LPLKL
+LPAAY
+LPMAM
+**********************
+
+>uniprot|A0A1Z8WP64|A0A1Z8WP64_9BACT Uncharacterized protein [Opitutae bacterium TMED67]
+Length: 7 residues - nb: 3  from  208 to 229 - Psim:0.6666666666666666 region Length:22 
+AALDRRNE
+AAT-RYFE
+AAIDADN-
+**********************
+
+Length: 7 residues - nb: 2  from  515 to 530 - Psim:0.6875 region Length:16 
+VASTNAIR
+VASLLPTT
+**********************
+
+Length: 37 residues - nb: 2  from  412 to 485 - Psim:0.918918918918919 region Length:74 
+KESKPAAVVNTDSIESDEVKKTKKKWADKLNPARWFD
+KESKPAAVVNADSIESNEVEKTKKKWTDGLNPVRWFD
+**********************
+
+>uniprot|A0A2A2PWS6|A0A2A2PWS6_9BACT Uncharacterized protein [Verrucomicrobiae bacterium Tous-C2TDCM]
+Length: 5 residues - nb: 3  from  47 to 61 - Psim:0.6666666666666666 region Length:15 
+ATPR--
+ATPASA
+ATED-V
+**********************
+
+>uniprot|A0A1Z8WDJ9|A0A1Z8WDJ9_9BACT Uncharacterized protein [Opitutae bacterium TMED67]
+Length: 8 residues - nb: 3  from  410 to 433 - Psim:0.6666666666666666 region Length:24 
+NSLKETTSNL
+NSL--S-SN-
+NS-K-LQNEL
+**********************
+
+>uniprot|A0A1Q6VAT6|A0A1Q6VAT6_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_55_10]
+Length: 5 residues - nb: 3  from  269 to 283 - Psim:0.7777777777777778 region Length:15 
+SPPPPP
+SPTP--
+SPTPE-
+**********************
+
+>uniprot|A0A1H1LQV4|A0A1H1LQV4_9BACT TolB amino-terminal domain-containing protein [Opitutus sp. GAS368]
+Length: 7 residues - nb: 2  from  16 to 29 - Psim:0.8571428571428571 region Length:14 
+AREDAEA
+ARRIAEA
+**********************
+
+>uniprot|A0A1H1LFB3|A0A1H1LFB3_9BACT Tetratricopeptide (TPR) repeat [Opitutus sp. GAS368]
+Length: 5 residues - nb: 3  from  406 to 421 - Psim:0.6666666666666666 region Length:16 
+LGP-AV
+LGLYAW
+LGR-RG
+**********************
+
+>uniprot|A0A1H1NV43|A0A1H1NV43_9BACT Serine/threonine protein kinase [Opitutus sp. GAS368]
+Length: 3 residues - nb: 4  from  535 to 548 - Psim:0.65 region Length:14 
+-EA-L
+-EA-A
+GRA-L
+-TLDQ
+**********************
+
+Length: 5 residues - nb: 3  from  177 to 192 - Psim:0.6666666666666666 region Length:16 
+GLGVAR
+GLAFA-
+GL-VHG
+**********************
+
+>uniprot|A0A2A2Q4D3|A0A2A2Q4D3_9BACT Uncharacterized protein [Opitutae bacterium Tous-C1TDCM]
+Length: 7 residues - nb: 2  from  315 to 328 - Psim:0.6875 region Length:14 
+ALVAATVW
+ALVRRP--
+**********************
+
+>uniprot|A0A2A2QCP0|A0A2A2QCP0_9BACT Uncharacterized protein [Opitutae bacterium Tous-C1TDCM]
+Length: 4 residues - nb: 4  from  338 to 352 - Psim:0.75 region Length:15 
+AAAK
+AAAD
+AAV-
+AAKD
+**********************
+
+>uniprot|A0A2A2QDU2|A0A2A2QDU2_9BACT Uncharacterized protein [Opitutae bacterium Tous-C1TDCM]
+Length: 5 residues - nb: 3  from  126 to 139 - Psim:0.6666666666666666 region Length:14 
+LAVLR
+LAA-S
+LAPDR
+**********************
+
+Length: 5 residues - nb: 4  from  275 to 292 - Psim:0.6666666666666666 region Length:18 
+DPLA--
+-PASPP
+-PAA-G
+-PAATS
+**********************
+
+Length: 7 residues - nb: 2  from  56 to 69 - Psim:0.8571428571428571 region Length:14 
+RAVALLE
+RAAALLP
+**********************
+
+Length: 8 residues - nb: 2  from  54 to 71 - Psim:0.7 region Length:18 
+AARAVALLER
+AA-AL-LPAN
+**********************
+
+>uniprot|A0A2G4IB01|A0A2G4IB01_9BACT Uncharacterized protein [Pedosphaera sp.]
+Length: 5 residues - nb: 3  from  351 to 364 - Psim:0.7333333333333333 region Length:14 
+PATTQ
+PAPT-
+PAPPR
+**********************
+
+Length: 9 residues - nb: 3  from  329 to 355 - Psim:0.6666666666666666 region Length:27 
+PPAIVP-VKA
+PPLPVP-TPE
+PP-PKPATTQ
+**********************
+
+>uniprot|A0A1G4AIE4|A0A1G4AIE4_9BACT Uncharacterized protein (Fragment) [Verrucomicrobia bacterium RIFCSPLOWO2_12_FULL_64_8]
+Length: 5 residues - nb: 3  from  337 to 351 - Psim:0.6666666666666666 region Length:15 
+PAE-T-
+PAAGTA
+PAT-VP
+**********************
+
+>uniprot|A0A1G4A002|A0A1G4A002_9BACT Uncharacterized protein [Verrucomicrobia bacterium RIFCSPLOWO2_12_FULL_64_8]
+Length: 6 residues - nb: 2  from  408 to 421 - Psim:0.7142857142857143 region Length:14 
+AAVIVLV
+AAVLSRL
+**********************
+
+Length: 6 residues - nb: 5  from  593 to 623 - Psim:0.66 region Length:31 
+-EAVSRLG--
+-EAV-RLA--
+-PG--DAQ--
+ARAV--LD-D
+--AR-RLLP-
+**********************
+
+Length: 7 residues - nb: 3  from  408 to 428 - Psim:0.6666666666666666 region Length:21 
+AAVIVLV
+AAVLSRL
+AAAGSAV
+**********************
+
+Length: 7 residues - nb: 2  from  593 to 606 - Psim:0.8125 region Length:14 
+EAVSRLG-
+EAV-RLAP
+**********************
+
+Length: 9 residues - nb: 2  from  415 to 430 - Psim:0.6666666666666666 region Length:16 
+AAVLSRL--
+AAAGSAVVR
+**********************
+
+>uniprot|A0A1G3ZYD1|A0A1G3ZYD1_9BACT Uncharacterized protein [Verrucomicrobia bacterium RIFCSPLOWO2_12_FULL_64_8]
+Length: 5 residues - nb: 3  from  250 to 264 - Psim:0.7142857142857143 region Length:15 
+--LAGL-
+--LAGTG
+GNRGGT-
+**********************
+
+>uniprot|A0A1G4AIQ7|A0A1G4AIQ7_9BACT Uncharacterized protein [Verrucomicrobia bacterium RIFCSPLOWO2_12_FULL_64_8]
+Length: 5 residues - nb: 3  from  181 to 194 - Psim:0.6666666666666666 region Length:14 
+ALTT-
+ALYVA
+ALLTK
+**********************
+
+Length: 5 residues - nb: 4  from  359 to 378 - Psim:0.6666666666666666 region Length:20 
+LA-VFA
+LA-AAG
+LA-PAA
+ARLPA-
+**********************
+
+>uniprot|A0A1G3ZVL9|A0A1G3ZVL9_9BACT Uncharacterized protein [Verrucomicrobia bacterium RIFCSPLOWO2_12_FULL_64_8]
+Length: 5 residues - nb: 3  from  109 to 125 - Psim:0.6666666666666666 region Length:17 
+QAGPA-Y
+QAG-L-A
+FAA-AGK
+**********************
+
+>uniprot|B1ZYP7|B1ZYP7_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 5 residues - nb: 3  from  392 to 407 - Psim:0.6666666666666666 region Length:16 
+LLLQLA
+LLW-TL
+APL-LA
+**********************
+
+Length: 6 residues - nb: 3  from  392 to 410 - Psim:0.6666666666666666 region Length:19 
+LLLQLA-
+LLWTLAP
+LL-AARP
+**********************
+
+Length: 7 residues - nb: 3  from  392 to 411 - Psim:0.6666666666666666 region Length:20 
+LLLQLA--
+LLWTLAP-
+LL-AARPF
+**********************
+
+>uniprot|B1ZRQ8|B1ZRQ8_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 7 residues - nb: 2  from  154 to 168 - Psim:0.6875 region Length:15 
+LAARPLEA
+LACHE-RA
+**********************
+
+>uniprot|B1ZU85|B1ZU85_OPITP TPR repeat-containing protein [Opitutus terrae PB90-1]
+Length: 6 residues - nb: 3  from  479 to 497 - Psim:0.7142857142857143 region Length:19 
+KP-AIAT
+KPPAPAV
+KPPLPR-
+**********************
+
+>uniprot|B1ZZP6|B1ZZP6_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 8 residues - nb: 2  from  180 to 198 - Psim:0.75 region Length:19 
+ALMKLGQTAE
+ALDAM-QTAI
+**********************
+
+>uniprot|B2A058|B2A058_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 5 residues - nb: 3  from  36 to 49 - Psim:0.6666666666666666 region Length:14 
+PAPSA
+PA-AE
+PAVAY
+**********************
+
+>uniprot|B1ZMK4|B1ZMK4_OPITP Tetratricopeptide domain protein [Opitutus terrae PB90-1]
+Length: 5 residues - nb: 5  from  467 to 491 - Psim:0.6888888888888889 region Length:25 
+--GDL--L-
+--GDL--LL
+ETGRS--T-
+--EALAAF-
+--EAV--L-
+**********************
+
+>uniprot|B1ZRQ6|B1ZRQ6_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 5 residues - nb: 3  from  27 to 40 - Psim:0.6666666666666666 region Length:14 
+AAQPC
+AAA-V
+AAARS
+**********************
+
+Length: 6 residues - nb: 4  from  678 to 700 - Psim:0.65625 region Length:23 
+RA--LLG-
+RA--LLGL
+GQ--VAR-
+AVDYLLP-
+**********************
+
+>uniprot|B1ZN26|B1ZN26_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 7 residues - nb: 2  from  154 to 167 - Psim:0.7857142857142857 region Length:14 
+LSLVFYL
+LSALVYL
+**********************
+
+>uniprot|B1ZMY5|B1ZMY5_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 7 residues - nb: 2  from  203 to 216 - Psim:0.8125 region Length:14 
+WRRD-RLE
+WRRDVR-P
+**********************
+
+>uniprot|B1ZS37|B1ZS37_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 5 residues - nb: 3  from  378 to 391 - Psim:0.6666666666666666 region Length:14 
+VVF-E
+VVIGP
+VVAGG
+**********************
+
+>uniprot|B1ZRE8|B1ZRE8_OPITP TPR repeat-containing protein [Opitutus terrae PB90-1]
+Length: 5 residues - nb: 3  from  595 to 608 - Psim:0.7333333333333333 region Length:14 
+AAALL
+AAAT-
+AAAPA
+**********************
+
+Length: 7 residues - nb: 2  from  437 to 450 - Psim:0.7857142857142857 region Length:14 
+ALGAAVL
+ALGVAAH
+**********************
+
+>uniprot|B1ZSN0|B1ZSN0_OPITP Tetratricopeptide TPR_2 repeat protein [Opitutus terrae PB90-1]
+Length: 5 residues - nb: 3  from  361 to 376 - Psim:0.6666666666666666 region Length:16 
+VAT-AG
+VAVMRR
+VAA-RP
+**********************
+
+Length: 5 residues - nb: 3  from  526 to 539 - Psim:0.7333333333333333 region Length:14 
+LARAN
+LAQA-
+LARIP
+**********************
+
+>uniprot|A0A1Q6X1T0|A0A1Q6X1T0_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_2_54_15_9cls]
+Length: 5 residues - nb: 3  from  17 to 31 - Psim:0.6666666666666666 region Length:15 
+RLDTAK
+RLL--Q
+RLD-GT
+**********************
+
+>uniprot|R7LBK2|R7LBK2_9BACT Uncharacterized protein [Coraliomargarita sp. CAG:312]
+Length: 7 residues - nb: 2  from  893 to 906 - Psim:0.8125 region Length:14 
+ADAALAK-
+ADA-FAKL
+**********************
+
+>uniprot|A0A290Q472|A0A290Q472_9BACT Uncharacterized protein [Verrucomicrobia bacterium]
+Length: 5 residues - nb: 3  from  525 to 539 - Psim:0.6666666666666666 region Length:15 
+RPYLS
+RPYIA
+RARLH
+**********************
+
+>uniprot|A0A1Q6X1X5|A0A1Q6X1X5_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_2_54_15_9cls]
+Length: 36 residues - nb: 2  from  807 to 884 - Psim:0.8372093023255814 region Length:78 
+PTGKPSKIPAVADVAATPAMEPVAAAMAEP-PAQEQAIPQVPP
+PTEEPSALPVVAEVAATPAMEPVAAAMAEPLP-QEQA------
+**********************
+
+>uniprot|A0A290Q7I9|A0A290Q7I9_9BACT Uncharacterized protein [Verrucomicrobia bacterium]
+Length: 5 residues - nb: 4  from  3 to 22 - Psim:0.7142857142857143 region Length:20 
+QA-RA--
+QA-LL-Q
+QA-LAHH
+QAGRI--
+**********************
+
+Length: 5 residues - nb: 3  from  420 to 435 - Psim:0.6666666666666666 region Length:16 
+PPPDS-
+PPPGAT
+PP-AAR
+**********************
+
+>uniprot|A0A2E4FZH7|A0A2E4FZH7_9BACT Uncharacterized protein [Verrucomicrobia bacterium]
+Length: 7 residues - nb: 2  from  314 to 327 - Psim:0.8125 region Length:14 
+DYDKA-EV
+DYKKALE-
+**********************
+
+Length: 8 residues - nb: 3  from  314 to 336 - Psim:0.6666666666666666 region Length:23 
+DYDKA-EV-
+DYKKALEV-
+D-PKFFDAI
+**********************
+
+Length: 9 residues - nb: 2  from  314 to 329 - Psim:0.8333333333333334 region Length:16 
+DYDKA-EV-
+DYKKALEVD
+**********************
+
+>uniprot|A0A2E4G2X7|A0A2E4G2X7_9BACT Uncharacterized protein [Verrucomicrobia bacterium]
+Length: 5 residues - nb: 3  from  1252 to 1266 - Psim:0.7222222222222222 region Length:15 
+QANEEK
+QA-AL-
+QANEV-
+**********************
+
+Length: 5 residues - nb: 3  from  1618 to 1633 - Psim:0.7142857142857143 region Length:16 
+KE-EIE-
+KE-YKDI
+KEIE-E-
+**********************
+
+Length: 8 residues - nb: 2  from  1620 to 1637 - Psim:0.75 region Length:18 
+EIEKEYKDIK
+EIE-EYRM-S
+**********************
+
+>uniprot|A0A290QDB0|A0A290QDB0_9BACT Uncharacterized protein [Verrucomicrobia bacterium]
+Length: 9 residues - nb: 2  from  223 to 240 - Psim:0.7222222222222222 region Length:18 
+SYRLAEAAT
+SYAEALARD
+**********************
+
+>uniprot|A0A290QBV8|A0A290QBV8_9BACT Uncharacterized protein [Verrucomicrobia bacterium]
+Length: 9 residues - nb: 2  from  356 to 375 - Psim:0.6818181818181818 region Length:20 
+LACLPI--IAL
+LAAAATRTVAL
+**********************
+
+>uniprot|W0J1H0|W0J1H0_9BACT Uncharacterized protein [Opitutaceae bacterium TAV5]
+Length: 4 residues - nb: 4  from  18 to 33 - Psim:0.65 region Length:16 
+TASAA
+TAME-
+TAL--
+TARR-
+**********************
+
+Length: 5 residues - nb: 3  from  18 to 31 - Psim:0.6666666666666666 region Length:14 
+TASAA
+TAME-
+TALTA
+**********************
+
+>uniprot|A0A1Q7V3D1|A0A1Q7V3D1_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_20CM_3_54_17]
+Length: 5 residues - nb: 3  from  339 to 354 - Psim:0.6666666666666666 region Length:16 
+AKRVDE
+AK-AIF
+AK-VAA
+**********************
+
+>uniprot|A0A1Q7UX70|A0A1Q7UX70_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_20CM_3_54_17]
+Length: 5 residues - nb: 3  from  308 to 323 - Psim:0.6666666666666666 region Length:16 
+-ALAGLL
+-AL-WLI
+RAK-WS-
+**********************
+
+>uniprot|W0J4X5|W0J4X5_9BACT ATP-binding protein [Opitutaceae bacterium TAV5]
+Length: 3 residues - nb: 8  from  402 to 425 - Psim:0.65 region Length:24 
+A-AR-
+A-AH-
+EHAR-
+A--E-
+A-ER-
+A-A--
+R-LKS
+R-LL-
+**********************
+
+Length: 4 residues - nb: 5  from  401 to 419 - Psim:0.8 region Length:19 
+RA-A--
+RA-AH-
+EH-A--
+RAEA-E
+RA-AR-
+**********************
+
+Length: 5 residues - nb: 3  from  13 to 28 - Psim:0.7222222222222222 region Length:16 
+AA-VLF
+AAGCLF
+AA-DPV
+**********************
+
+Length: 5 residues - nb: 3  from  375 to 389 - Psim:0.7777777777777778 region Length:15 
+LAVA--
+LAVGLG
+LAAGL-
+**********************
+
+Length: 6 residues - nb: 3  from  13 to 29 - Psim:0.6666666666666666 region Length:17 
+AA-VLF
+AAGCLF
+AADPVE
+**********************
+
+Length: 7 residues - nb: 2  from  403 to 417 - Psim:0.75 region Length:15 
+ARAAHEH-
+ARAEAERA
+**********************
+
+>uniprot|W0J2P9|W0J2P9_9BACT Uncharacterized protein [Opitutaceae bacterium TAV5]
+Length: 4 residues - nb: 4  from  446 to 463 - Psim:0.65 region Length:18 
+ARIER
+ARILL
+AR-GA
+AA-EA
+**********************
+
+Length: 5 residues - nb: 3  from  446 to 460 - Psim:0.6666666666666666 region Length:15 
+ARIER
+ARILL
+ARGAA
+**********************
+
+Length: 6 residues - nb: 3  from  446 to 461 - Psim:0.6666666666666666 region Length:16 
+AR-IER
+AR-ILL
+ARGAAA
+**********************
+
+Length: 7 residues - nb: 2  from  191 to 204 - Psim:0.7857142857142857 region Length:14 
+AIAAYSE
+AIAADPL
+**********************
+
+>uniprot|A0A1Q7UZF0|A0A1Q7UZF0_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_20CM_3_54_17]
+Length: 5 residues - nb: 3  from  430 to 443 - Psim:0.6666666666666666 region Length:14 
+EALN-
+EAQNA
+EADFL
+**********************
+
+>uniprot|A0A1Q7UXC4|A0A1Q7UXC4_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_20CM_3_54_17]
+Length: 7 residues - nb: 2  from  172 to 186 - Psim:0.8125 region Length:15 
+LYYGLALI
+LYL-LALS
+**********************
+
+>uniprot|A0A1G4A176|A0A1G4A176_9BACT Uncharacterized protein [Verrucomicrobia bacterium GWF2_62_7]
+Length: 6 residues - nb: 3  from  660 to 677 - Psim:0.7142857142857143 region Length:18 
+YDRAMAY
+YDLR-A-
+YDKALA-
+**********************
+
+Length: 7 residues - nb: 2  from  659 to 672 - Psim:0.8125 region Length:14 
+YYD-RAMA
+YYDLRAY-
+**********************
+
+>uniprot|A0A1G3ZT62|A0A1G3ZT62_9BACT Uncharacterized protein [Verrucomicrobia bacterium GWF2_62_7]
+Length: 7 residues - nb: 2  from  10 to 24 - Psim:0.75 region Length:15 
+EEQQRKEQ
+EEARRK-R
+**********************
+
+>uniprot|A0A1G3ZS91|A0A1G3ZS91_9BACT Uncharacterized protein [Verrucomicrobia bacterium GWF2_62_7]
+Length: 7 residues - nb: 2  from  390 to 403 - Psim:0.8571428571428571 region Length:14 
+DYNKAIQ
+DYNSAIE
+**********************
+
+Length: 7 residues - nb: 3  from  445 to 465 - Psim:0.7407407407407407 region Length:21 
+AYSNRA--S
+AYSNKG--D
+-Y-NKAMQD
+**********************
+
+Length: 34 residues - nb: 3  from  82 to 183 - Psim:0.7745098039215687 region Length:102 
+KGDYNNAIQHYNTALELDPKSAAACNGRGYAILE
+KGDWAGALADFSRALELDPKSAAACNGRGYAKQN
+KDDADGALADFNRALELSPNYTAAYNGRGNAKRV
+**********************
+
+Length: 34 residues - nb: 7  from  60 to 297 - Psim:0.7142857142857143 region Length:238 
+RALDLNPKFAIAHANCAS-AYYNKGDYNNAIQHYN
+TALELDPKSAAA-CNGRGYAILEKGDWAGALADFS
+RALELDPKSAAA-CNGRGYAKQNKDDADGALADFN
+RALELSPNYTAA-YNGRGNAKRVKGDLDGALADFN
+RAIELNSRFAAA-YTNRGHVKRDQGSLDDAMADYN
+RAIELDSKFAAA-YNGRGNTKWAKGDLDGALADFD
+HAIQLDPNYASA-CNNRGNAKWSKADLDGALADFN
+**********************
+
+Length: 34 residues - nb: 4  from  249 to 384 - Psim:0.7142857142857143 region Length:136 
+KWA-KGDLDGALADFDHAIQLDPNYASACNNRGNA
+KWS-KADLDGALADFNRTIQLDPNHTAAYNSRGNT
+KWA-KGNAAGALADFSRALELDPKLTSAFINRGSI
+-YSHKGDFDNAIQDYSAALKLNPKLASAYGNRGSA
+**********************
+
+>uniprot|A0A2A4M1V4|A0A2A4M1V4_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 6 residues - nb: 3  from  38 to 56 - Psim:0.7619047619047619 region Length:19 
+ALGLLL-
+ALGLLAP
+ALGQ-AQ
+**********************
+
+>uniprot|A0A2A4M895|A0A2A4M895_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 3 residues - nb: 4  from  684 to 697 - Psim:0.75 region Length:14 
+AGLM-
+AG-HL
+AG-R-
+LG-R-
+**********************
+
+>uniprot|A0A2A4M0N6|A0A2A4M0N6_9BACT Uncharacterized protein [Verrucomicrobiales bacterium]
+Length: 5 residues - nb: 3  from  212 to 227 - Psim:0.6666666666666666 region Length:16 
+EPVVIV
+EPPT-E
+EPEP-E
+**********************
+
+Length: 5 residues - nb: 3  from  241 to 255 - Psim:0.7222222222222222 region Length:15 
+PEPLPV
+PE-A-K
+PEEA-V
+**********************
+
+>uniprot|A0A1W9LAP2|A0A1W9LAP2_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 7 residues - nb: 3  from  21 to 43 - Psim:0.6666666666666666 region Length:23 
+ERT-QTEAD
+ERWFRA-TQ
+ERW-KT-AL
+**********************
+
+>uniprot|A0A146G610|A0A146G610_9BACT Outer membrane protein assembly factor BamD, BamD/ComL family [Terrimicrobium sacchariphilum]
+Length: 7 residues - nb: 2  from  558 to 573 - Psim:0.6875 region Length:16 
+AALLGDTY
+AALERFPE
+**********************
+
+>uniprot|A0A1W9LGK6|A0A1W9LGK6_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 3 residues - nb: 5  from  79 to 96 - Psim:0.8 region Length:18 
+AALK-
+AAAP-
+AA-PV
+AA-P-
+VA-P-
+**********************
+
+Length: 3 residues - nb: 4  from  89 to 102 - Psim:0.8 region Length:14 
+-PVAA
+-PVAP
+-PVA-
+AP-A-
+**********************
+
+Length: 3 residues - nb: 5  from  101 to 115 - Psim:0.7 region Length:15 
+-PA-
+-PAA
+APQK
+-PAE
+-PAV
+**********************
+
+Length: 4 residues - nb: 7  from  79 to 107 - Psim:0.7857142857142857 region Length:29 
+AA-LK-
+AAAP--
+AA-PV-
+AA-PV-
+AP-PV-
+AA-PAP
+AAAP--
+**********************
+
+Length: 4 residues - nb: 5  from  88 to 107 - Psim:0.72 region Length:20 
+AP-VA
+AP-V-
+APPVA
+AP-AP
+AA-AP
+**********************
+
+Length: 4 residues - nb: 8  from  369 to 402 - Psim:0.75 region Length:34 
+ATP-A-P
+A-T-P-P
+V-A-E-T
+A-P-A--
+A-P-VMP
+A-PET-P
+A-P-A-P
+V-P-P-P
+**********************
+
+Length: 5 residues - nb: 4  from  79 to 95 - Psim:0.7916666666666666 region Length:17 
+AA-LK-
+AAAP--
+AA-PV-
+AA-PVA
+**********************
+
+Length: 5 residues - nb: 4  from  89 to 106 - Psim:0.8333333333333334 region Length:18 
+-PVAA-
+-PVAP-
+-PVAAP
+APAAA-
+**********************
+
+Length: 5 residues - nb: 6  from  369 to 398 - Psim:0.6666666666666666 region Length:30 
+-ATPAP-
+-ATP-PV
+-AETA--
+PAAPVM-
+-PAPET-
+-PAPAP-
+**********************
+
+Length: 5 residues - nb: 3  from  396 to 412 - Psim:0.7222222222222222 region Length:17 
+PAPVPP
+PAPQPP
+PA-WKA
+**********************
+
+Length: 6 residues - nb: 6  from  373 to 405 - Psim:0.6666666666666666 region Length:33 
+PATPPV-
+-AET-A-
+PA-APVM
+PAPE-T-
+PAPAPV-
+PPPAPQ-
+**********************
+
+Length: 6 residues - nb: 3  from  397 to 414 - Psim:0.6666666666666666 region Length:18 
+A-PVPPP
+A-PQPPP
+AWKAD-A
+**********************
+
+Length: 9 residues - nb: 3  from  184 to 209 - Psim:0.7 region Length:26 
+AA-AKQ-DVD
+AA-RKAGDVD
+AATAPLRD-E
+**********************
+
+>uniprot|A0A1Q7S6J9|A0A1Q7S6J9_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_20CM_54_28]
+Length: 5 residues - nb: 3  from  52 to 67 - Psim:0.6666666666666666 region Length:16 
+VALGFP
+VALVL-
+-AWVFD
+**********************
+
+Length: 5 residues - nb: 3  from  662 to 675 - Psim:0.6666666666666666 region Length:14 
+DPLW-
+DPLRA
+DPAFQ
+**********************
+
+>uniprot|A0A1W9L8V2|A0A1W9L8V2_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 5 residues - nb: 3  from  438 to 452 - Psim:0.6666666666666666 region Length:15 
+AAAL--
+AAGTRH
+AAQIR-
+**********************
+
+>uniprot|A0A0E3YVJ0|A0A0E3YVJ0_9BACT Uncharacterized protein [Verrucomicrobia bacterium IMCC26134]
+Length: 7 residues - nb: 2  from  63 to 77 - Psim:0.8333333333333334 region Length:15 
+DEAA-LAKR
+DEAARLA--
+**********************
+
+Length: 8 residues - nb: 2  from  63 to 78 - Psim:0.8333333333333334 region Length:16 
+DEAA-LAKR
+DEAARLAE-
+**********************
+
+Length: 9 residues - nb: 2  from  63 to 79 - Psim:0.8888888888888888 region Length:17 
+DEAA-LAKR
+DEAARLAER
+**********************
+
+>uniprot|A0A1W9LD23|A0A1W9LD23_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 5 residues - nb: 3  from  212 to 226 - Psim:0.6666666666666666 region Length:15 
+AAET--
+AASSNV
+AAEA-W
+**********************
+
+>uniprot|A0A1W9LH28|A0A1W9LH28_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 3 residues - nb: 11  from  178 to 210 - Psim:0.7012987012987013 region Length:33 
+-A--A--
+-A--A-P
+-VLLA--
+-W--L--
+WL--C--
+FP--A--
+-A--RPR
+-A-RT--
+-A--ATM
+-I--S--
+-I--S-L
+**********************
+
+>uniprot|A0A1W9LGY8|A0A1W9LGY8_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 3 residues - nb: 5  from  37 to 53 - Psim:0.68 region Length:17 
+PG-AP
+PG-A-
+P--AT
+-GTAP
+-G-TA
+**********************
+
+Length: 4 residues - nb: 5  from  35 to 55 - Psim:0.68 region Length:21 
+PPPGA
+P-PGA
+PATG-
+TAPG-
+TAPS-
+**********************
+
+Length: 5 residues - nb: 3  from  38 to 51 - Psim:0.7777777777777778 region Length:14 
+G-APP-
+G-APAT
+GTAPG-
+**********************
+
+>uniprot|A0A146G8A2|A0A146G8A2_9BACT TolA-binding protein [Terrimicrobium sacchariphilum]
+Length: 5 residues - nb: 4  from  145 to 163 - Psim:0.6785714285714286 region Length:19 
+LAK-NGP
+LAP-E--
+LAL-K--
+LAEIR--
+**********************
+
+>uniprot|A0A1W9L9J6|A0A1W9L9J6_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 5 residues - nb: 3  from  377 to 390 - Psim:0.7333333333333333 region Length:14 
+SAWAH
+SA-LG
+SAWMG
+**********************
+
+Length: 7 residues - nb: 2  from  179 to 192 - Psim:0.8571428571428571 region Length:14 
+EQLRREN
+EQLRAEL
+**********************
+
+>uniprot|A0A1W9L9C8|A0A1W9L9C8_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 3 residues - nb: 9  from  2 to 27 - Psim:0.6944444444444444 region Length:26 
+A-AL
+A-AA
+W-AL
+A-A-
+A-AG
+A-Q-
+APGA
+A-PA
+A-GA
+**********************
+
+Length: 5 residues - nb: 3  from  3 to 18 - Psim:0.8333333333333334 region Length:16 
+ALAAAW
+ALAAA-
+AGAQA-
+**********************
+
+Length: 6 residues - nb: 3  from  3 to 20 - Psim:0.6666666666666666 region Length:18 
+ALAAAW
+ALAAAA
+GAQAPG
+**********************
+
+>uniprot|A0A1W9LBM4|A0A1W9LBM4_9BACT Uncharacterized protein [Verrucomicrobia bacterium A1]
+Length: 4 residues - nb: 4  from  327 to 342 - Psim:0.65 region Length:16 
+RA--L
+RALAW
+RA-GP
+FA-FP
+**********************
+
+Length: 7 residues - nb: 3  from  137 to 158 - Psim:0.7037037037037037 region Length:22 
+LLPAGLAA-
+LL-IL-AAF
+LL-FL-RAL
+**********************
+
+>uniprot|A0A1G3ZCF4|A0A1G3ZCF4_9BACT Uncharacterized protein [Verrucomicrobia bacterium GWC2_42_7]
+Length: 5 residues - nb: 3  from  170 to 183 - Psim:0.7333333333333333 region Length:14 
+KQDQQ
+KQDP-
+KQGDQ
+**********************
+
+>uniprot|A0A1H6K5G8|A0A1H6K5G8_9BACT Tetratricopeptide repeat [Akkermansia glycaniphila]
+Length: 5 residues - nb: 5  from  100 to 125 - Psim:0.6888888888888889 region Length:26 
+-L--AE-N-
+-L--AEYR-
+-KKQAE-N-
+PL--PP-SV
+PL--RG-V-
+**********************
+
+>uniprot|A0A1G3Z1Z5|A0A1G3Z1Z5_9BACT Uncharacterized protein [Verrucomicrobia bacterium GWC2_42_7]
+Length: 68 residues - nb: 6  from  112 to 519 - Psim:0.8578431372549019 region Length:408 
+NEGKYDEAIPYLKKGAELGDSESQNLLGLCYIKGWGVMQDSVEGIRLFELAARQGHSRAIANLGTILS
+NEDKYAEAVPYLQKGAELGDSEAQFGLGLCYIKGWGVMQDSAEGIRLFELAARQGNPRAIATLGAVFY
+NEDKYAEAIPYLKRVAELGDSESLYLLGVCYIKGWGVMQDRAEGIRLFELAARQGHPKAIGNLGVALY
+NEHKYTEAIPYLKRGVELGQSEALNSLGVCYIKGLGVMQDSAEGIRLFELAARQGHSRAIANLGAVLS
+NEHKYAEAIPYLKRGAELGQSESLNSLGLCYINGWGVMQDSAEGIRLFKLAAEQGHPKAIANLGTILS
+NEHKYAEAIPYLKRGAELGDSEAQFGLGLCYINGWGVIQDSVEGIRLFELAARQGNPRAIANLGEASF
+**********************
+
+Length: 68 residues - nb: 5  from  209 to 523 - Psim:0.8029411764705883 region Length:315 
+CYIKGWGVMQDSAEGIRLFELAARQGNPRAIATLGAVFYNEDKYAEAIPYLKRVAELGDSESLYLLGV
+CYIKGWGVMQDRAEGIRLFELAARQGHPKAIGNLGVALYNEHKYTEAIPYLKRGVELGQSEALNSLGV
+CYIKGLGVMQDSAEGIRLFELAARQGHSRAIANLGAVLSNEHKYAEAIPYLKRGAELGQSESLNSLGL
+CYINGWGVMQDSAEGIRLFKLAAEQGHPKAIANLGTILSNEHKYAEAIPYLKRGAELGDSEAQFGLGL
+CYINGWGVIQDSVEGIRLFELAARQGNPRAIANLG-----E---A-S--F-----D----E--HK---
+**********************
+
+Length: 68 residues - nb: 3  from  280 to 483 - Psim:0.8970588235294118 region Length:204 
+KGWGVMQDRAEGIRLFELAARQGHPKAIGNLGVALYNEHKYTEAIPYLKRGVELGQSEALNSLGVCYI
+KGLGVMQDSAEGIRLFELAARQGHSRAIANLGAVLSNEHKYAEAIPYLKRGAELGQSESLNSLGLCYI
+NGWGVMQDSAEGIRLFKLAAEQGHPKAIANLGTILSNEHKYAEAIPYLKRGAELGDSEAQFGLGLCYI
+**********************
+
+Length: 68 residues - nb: 2  from  352 to 487 - Psim:0.9191176470588235 region Length:136 
+VMQDSAEGIRLFELAARQGHSRAIANLGAVLSNEHKYAEAIPYLKRGAELGQSESLNSLGLCYINGWG
+VMQDSAEGIRLFKLAAEQGHPKAIANLGTILSNEHKYAEAIPYLKRGAELGDSEAQFGLGLCYINGWG
+**********************
+
+>uniprot|A0A1G3Z236|A0A1G3Z236_9BACT Uncharacterized protein [Verrucomicrobia bacterium GWC2_42_7]
+Length: 5 residues - nb: 3  from  318 to 331 - Psim:0.6666666666666666 region Length:14 
+EKEEA
+EKLK-
+EKAEQ
+**********************
+
+Length: 10 residues - nb: 2  from  287 to 307 - Psim:0.8181818181818182 region Length:21 
+QKKLEEERVAK
+QK-LEQELIAK
+**********************
+
+>uniprot|A0A1H6MK96|A0A1H6MK96_9BACT Kinesin light chain signature [Akkermansia glycaniphila]
+Length: 42 residues - nb: 3  from  432 to 557 - Psim:0.8253968253968254 region Length:126 
+YTRALPLFEKALRIREDALGDSHPDTVISYNNLASLYNCQGD
+YTRAQPFYEKALQIREDALGECHPDTATSYNNLAGLYNSQGD
+DERAKSLYEKALRIREAALGDGHPDTAASYNNLALLYKNQEN
+**********************
+
+Length: 42 residues - nb: 4  from  538 to 701 - Psim:0.6569767441860465 region Length:164 
+HPDTAASYNN-LALLYKNQENYAQAQTLYEKALRISEACLGEN
+HPDTATSYNN-LASLYDSQGDYTRAQPFYEKALRIREDAFGEN
+HPDTAASYNN-LASLYYGQDNYDKASPLFQKALNICRDILGEQ
+HPTTQTILGNTIYCLYR-QSG-AVC-S-FEEWLE-QQTPSTEE
+**********************
+
+>uniprot|A0A1Q6VN79|A0A1Q6VN79_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_54_12]
+Length: 5 residues - nb: 3  from  535 to 548 - Psim:0.8 region Length:14 
+LLWR-
+LLPRS
+LLPRL
+**********************
+
+>uniprot|A0A1D8AXH3|A0A1D8AXH3_9BACT Lipoprotein NlpI [Lacunisphaera limnophila]
+Length: 5 residues - nb: 3  from  117 to 132 - Psim:0.6666666666666666 region Length:16 
+LRRTLT
+LRRG-P
+ARLR-P
+**********************
+
+Length: 6 residues - nb: 3  from  117 to 135 - Psim:0.75 region Length:19 
+LRR-T-LT
+LRRGP-AR
+LR--PLAR
+**********************
+
+>uniprot|A0A1D8ASH3|A0A1D8ASH3_9BACT Tetratricopeptide repeat protein [Lacunisphaera limnophila]
+Length: 5 residues - nb: 3  from  6 to 19 - Psim:0.6666666666666666 region Length:14 
+LL-PF
+LLLPV
+LLAAQ
+**********************
+
+>uniprot|A0A1I7PHT7|A0A1I7PHT7_9BACT TPR repeat-containing protein YrrB [Lacunisphaera limnophila]
+Length: 5 residues - nb: 3  from  391 to 406 - Psim:0.7222222222222222 region Length:16 
+LV-APV
+LVVAGG
+LV-AAL
+**********************
+
+Length: 6 residues - nb: 3  from  391 to 407 - Psim:0.7222222222222222 region Length:17 
+LV-APV
+LVVAGG
+LVAALG
+**********************
+
+Length: 7 residues - nb: 2  from  534 to 548 - Psim:0.8125 region Length:15 
+AEEAGRLY
+AE-AVRLQ
+**********************
+
+>uniprot|A0A1I7PHH1|A0A1I7PHH1_9BACT Tetratricopeptide repeat protein [Lacunisphaera limnophila]
+Length: 5 residues - nb: 3  from  57 to 71 - Psim:0.6666666666666666 region Length:15 
+PDLAGR
+PDELG-
+R-LL-R
+**********************
+
+Length: 8 residues - nb: 2  from  381 to 398 - Psim:0.75 region Length:18 
+ALAASERSDE
+ALAAY-R-EA
+**********************
+
+>uniprot|A0A2A2RX65|A0A2A2RX65_9BACT Uncharacterized protein [Pedosphaera sp. Tous-C6FEB]
+Length: 6 residues - nb: 3  from  290 to 308 - Psim:0.75 region Length:19 
+-KALEQKN
+-KALET-S
+VKTLET--
+**********************
+
+Length: 7 residues - nb: 3  from  290 to 310 - Psim:0.7619047619047619 region Length:21 
+KALEQKN
+KALETSV
+KTLETQV
+**********************
+
+Length: 7 residues - nb: 2  from  330 to 343 - Psim:0.9285714285714286 region Length:14 
+LQKQLIE
+LQKQLNE
+**********************
+
+Length: 8 residues - nb: 3  from  330 to 350 - Psim:0.6666666666666666 region Length:21 
+LQKQLIE-
+LQKQLNEK
+-KKVSSN-
+**********************
+
+>uniprot|A0A2A2R4Q2|A0A2A2R4Q2_9BACT Uncharacterized protein [Pedosphaera sp. Tous-C6FEB]
+Length: 4 residues - nb: 4  from  111 to 127 - Psim:0.75 region Length:17 
+LARAK-
+LAAIE-
+LA--K-
+LA--KT
+**********************
+
+Length: 4 residues - nb: 4  from  348 to 363 - Psim:0.65 region Length:16 
+LA-LL
+LA-AL
+-S-PL
+SARAS
+**********************
+
+Length: 4 residues - nb: 4  from  501 to 517 - Psim:0.8 region Length:17 
+DDPKQ
+DD-KK
+DD-QQ
+ND-KQ
+**********************
+
+Length: 4 residues - nb: 3  from  584 to 597 - Psim:0.6666666666666666 region Length:14 
+QPKP-G
+QPGE--
+Q-GEKD
+**********************
+
+Length: 5 residues - nb: 3  from  13 to 26 - Psim:0.6666666666666666 region Length:14 
+LL-VP
+LLAVF
+LLWAW
+**********************
+
+Length: 5 residues - nb: 3  from  501 to 514 - Psim:0.6666666666666666 region Length:14 
+DDPKQ
+DD-KK
+DDQQN
+**********************
+
+Length: 5 residues - nb: 3  from  565 to 578 - Psim:0.7222222222222222 region Length:14 
+DQ--PG
+DQKQP-
+DPKKP-
+**********************
+
+>uniprot|A0A1D8ARR3|A0A1D8ARR3_9BACT Tetratricopeptide repeat protein [Lacunisphaera limnophila]
+Length: 7 residues - nb: 2  from  10 to 24 - Psim:0.7777777777777778 region Length:15 
+LALVALLG-
+LA--AWLGY
+**********************
+
+>uniprot|A0A2A2RB30|A0A2A2RB30_9BACT Uncharacterized protein [Pedosphaera sp. Tous-C6FEB]
+Length: 8 residues - nb: 2  from  358 to 375 - Psim:0.7 region Length:18 
+TNL-LTTAL-
+TNLNLALLNY
+**********************
+
+>uniprot|A0A1I7PI15|A0A1I7PI15_9BACT CHAT domain protein [Lacunisphaera limnophila]
+Length: 3 residues - nb: 4  from  464 to 477 - Psim:0.7 region Length:14 
+-A-LP
+-A-LA
+-GKLP
+LA-DV
+**********************
+
+Length: 4 residues - nb: 3  from  460 to 473 - Psim:0.6666666666666666 region Length:14 
+LPLAA-
+LP-AL-
+AG-KLP
+**********************
+
+Length: 5 residues - nb: 4  from  462 to 482 - Psim:0.6785714285714286 region Length:21 
+LAA-LPA
+LAGKLP-
+LAD-V--
+LAA--QK
+**********************
+
+Length: 6 residues - nb: 4  from  455 to 479 - Psim:0.75 region Length:25 
+LAAVRLP-
+LAA--LPA
+LAG-KLP-
+LADV-LA-
+**********************
+
+Length: 7 residues - nb: 4  from  455 to 480 - Psim:0.75 region Length:26 
+LA-AVRLP-
+LA-A--LPA
+LA-G-KLP-
+LADV--LAA
+**********************
+
+>uniprot|A0A1I7PHS8|A0A1I7PHS8_9BACT Cellulose synthase subunit BcsC [Lacunisphaera limnophila]
+Length: 8 residues - nb: 2  from  384 to 398 - Psim:0.75 region Length:15 
+AA-GLVLT
+AAAGLTWR
+**********************
+
+>uniprot|A0A1Z9K3Y2|A0A1Z9K3Y2_9BACT Uncharacterized protein [Verrucomicrobia bacterium TMED175]
+Length: 5 residues - nb: 3  from  72 to 85 - Psim:0.6666666666666666 region Length:14 
+LRK-K
+LRALQ
+LRMAQ
+**********************
+
+>uniprot|A0A2A2RW50|A0A2A2RW50_9BACT Uncharacterized protein [Pedosphaera sp. Tous-C6FEB]
+Length: 7 residues - nb: 2  from  91 to 104 - Psim:0.8125 region Length:14 
+AN-VLLHC
+ANTVLLF-
+**********************
+
+>uniprot|A0A258AKG9|A0A258AKG9_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 36 residues - nb: 3  from  85 to 198 - Psim:0.7063492063492064 region Length:114 
+----AE--PLIRRSLAINEAGGGDNHPMVAKDLNSLAQLLQG
+TNRFAEAEPLMLRALAIDEASFGYNHPTVALRAHNLAQLLQA
+TNRLSEAEPLMRRALAIDETNYGTEHPNVA-R--DLSGL---
+**********************
+
+Length: 36 residues - nb: 3  from  314 to 433 - Psim:0.7674418604651163 region Length:120 
+HPSVAIR-LNNLAALMQNFGRSDEAEPLMRQALTIDEASFGPD
+HPTVA-RDLNNLAHLLQATGRDNEAEVLMRRALAIDEASFGPD
+HPSVA-RDLNNIARLLQSAKRLDEAEPVMRR-M-M-EIIL---
+**********************
+
+Length: 42 residues - nb: 3  from  321 to 446 - Psim:0.7407407407407407 region Length:126 
+LNNLAALMQNFGRSDEAEPLMRQALTID-EASF--GPDHPTVARD
+LNNLAHLLQATGRDNEAEVLMRRALAID-EASF--GPDHPSVARD
+LNNIARLLQSAKRLDEAEPVMRRMMEIILRITRDTGHQHPKL---
+**********************
+
+>uniprot|A0A1T4WUD1|A0A1T4WUD1_9BACT Tetratricopeptide repeat-containing protein [Prosthecobacter debontii]
+Length: 3 residues - nb: 5  from  182 to 197 - Psim:0.68 region Length:16 
+EA-L-
+EA-LD
+EA-L-
+HT---
+RPWF-
+**********************
+
+>uniprot|A0A258ATK9|A0A258ATK9_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 5 residues - nb: 3  from  143 to 158 - Psim:0.6666666666666666 region Length:16 
+APRENP
+APTTA-
+APPSN-
+**********************
+
+Length: 36 residues - nb: 10  from  572 to 973 - Psim:0.8022727272727272 region Length:402 
+LLLKTKSLYAQAEPLIRRALQIDQDSYGAEHPDV-AIRLNNLAT
+LLQATNRL-AEAEPLMRRALQIDEASYGPEHPDV-AIDLNNLAQ
+LLQARNRL-AEAEPLMRRALQIDEASYGPEHPNV-AIRLNNLAQ
+LLKVTNRL-AEAEPLMRRALQIDEASFGAEHPKV-AIRLNNLAQ
+LLQATNRL-AEAEPLMRRALEIDEASYGPEHPMV-AIRLNNLAQ
+LLKDTNRL-AEAEPLMRRALQIDEASYGPEHPNV-AIRLNNLAQ
+LLQATNRL-AEAEPLMRRALQIDEASYGPEHPMV-AIRLNNLAQ
+LLKVTNRL-AEAEPLMARVVTIFEAAYGKNHPNV-ATALNNLAR
+LLQDTNRL-AEAEPLMRRALGIFVRSLALEHPYSQGVR-GNYTR
+LLQA---L--EL-P--Q-A-EI-Q-----QR--V-AAAMGG--E
+**********************
+
+Length: 36 residues - nb: 7  from  621 to 883 - Psim:0.6890756302521008 region Length:263 
+RLAEAE-PLMRRALQIDE-ASYGPEHPDVAIDLNNLAQ-LLQA------RN
+RLAEAE-PLM--R-RA--L-QI-DEASYGPE--HPNV--A--I--------
+--------------RLNNLAQLLKVTNRLAEA-EPLMRRALQIDEASFGAE
+------HPKV--AIRLNNLAQLLQATNRLAEA-EPLMRRALEIDE------
+ASYGPEHPMV--AIRLNNLAQLLKDTNRLAEA-EPLMRRALQIDE------
+ASYGPEHPNV--AIRLNNLAQLLQATNRLAEA-EPLMRRALQIDE------
+ASYGPEHPMV--AIRLNNLAQLLKVTNRLAEA-EPLM--A-R---------
+**********************
+
+Length: 36 residues - nb: 7  from  668 to 955 - Psim:0.8438538205980066 region Length:288 
+EPLMRRALQIDEASYGPEHP-NVAIRLNNLAQLLKVTNRLAEA
+EPLMRRALQIDEASFGAEHP-KVAIRLNNLAQLLQATNRLAEA
+EPLMRRALEIDEASYGPEHP-MVAIRLNNLAQLLKDTNRLAEA
+EPLMRRALQIDEASYGPEHP-NVAIRLNNLAQLLQATNRLAEA
+EPLMRRALQIDEASYGPEHP-MVAIRLNNLAQLLKVTNRLAEA
+EPLMARVVTIFEAAYGKNHP-NVATALNNLARLLQDTNRLAEA
+EPLMRRALGIFVRSLALEHPYSQGVR-GNYTRLLQA---L---
+**********************
+
+Length: 36 residues - nb: 4  from  713 to 874 - Psim:0.9107142857142857 region Length:162 
+MRRALQIDEASFGAEHPKVAIRLNNLAQLLQATNRLAEAEPL
+MRRALEIDEASYGPEHPMVAIRLNNLAQLLKDTNRLAEAEPL
+MRRALQIDEASYGPEHPNVAIRLNNLAQLLQATNRLAEAEPL
+MRRALQIDEASYGPEHPMVAIRLNNLAQLLKVTNRL------
+**********************
+
+Length: 36 residues - nb: 4  from  758 to 913 - Psim:0.7708333333333334 region Length:156 
+A-LE--IDEA-SY--GPEHPMVAIRLNNLAQLLKDTNRLAEAEPLMRR
+A-LQ--IDEA-SY--GPEHPNVAIRLNNLAQLLQATNRLAEAEPLMRR
+A-LQ--IDEA-SY--GPEHPMVAIRLNNLAQLLKVTNRLAEA------
+EPLMARVVTIFEAAYGKNHPNVATALNNLARLLQDT------------
+**********************
+
+Length: 36 residues - nb: 2  from  804 to 881 - Psim:0.8928571428571429 region Length:78 
+DEASYGPEHPNVAIRLNNLAQLLQATNRLAEAEPLMRRALQI
+DEASYGPEHPMVAIRLNNLAQLLKVTNRLAEAEPLM------
+**********************
+
+Length: 42 residues - nb: 10  from  572 to 973 - Psim:0.8022727272727272 region Length:402 
+LLLKTKSLYAQAEPLIRRALQIDQDSYGAEHPDV-AIRLNNLAT
+LLQATNRL-AEAEPLMRRALQIDEASYGPEHPDV-AIDLNNLAQ
+LLQARNRL-AEAEPLMRRALQIDEASYGPEHPNV-AIRLNNLAQ
+LLKVTNRL-AEAEPLMRRALQIDEASFGAEHPKV-AIRLNNLAQ
+LLQATNRL-AEAEPLMRRALEIDEASYGPEHPMV-AIRLNNLAQ
+LLKDTNRL-AEAEPLMRRALQIDEASYGPEHPNV-AIRLNNLAQ
+LLQATNRL-AEAEPLMRRALQIDEASYGPEHPMV-AIRLNNLAQ
+LLKVTNRL-AEAEPLMARVVTIFEAAYGKNHPNV-ATALNNLAR
+LLQDTNRL-AEAEPLMRRALGIFVRSLALEHPYSQGVR-GNYTR
+LLQA---L--EL-P--Q-A-EI-Q-----QR--V-AAAMGG--E
+**********************
+
+Length: 42 residues - nb: 3  from  621 to 746 - Psim:0.9365079365079365 region Length:126 
+RLAEAEPLMRRALQIDEASYGPEHPDVAIDLNNLAQLLQARN
+RLAEAEPLMRRALQIDEASYGPEHPNVAIRLNNLAQLLKVTN
+RLAEAEPLMRRALQIDEASFGAEHPKVAIRLNNLAQLLQATN
+**********************
+
+Length: 42 residues - nb: 7  from  669 to 962 - Psim:0.8474025974025974 region Length:294 
+PLMRRALQIDEASYGPEHP-NVAIRLNNLAQLLKVTNRLAEAE-
+PLMRRALQIDEASFGAEHP-KVAIRLNNLAQLLQATNRLAEAE-
+PLMRRALEIDEASYGPEHP-MVAIRLNNLAQLLKDTNRLAEAE-
+PLMRRALQIDEASYGPEHP-NVAIRLNNLAQLLQATNRLAEAE-
+PLMRRALQIDEASYGPEHP-MVAIRLNNLAQLLKVTNRLAEAE-
+PLMARVVTIFEAAYGKNHP-NVATALNNLARLLQDTNRLAEAE-
+PLMRRALGIFVRSLALEHPYSQGVR-GNYTRLLQALE-LPQAEI
+**********************
+
+Length: 42 residues - nb: 5  from  714 to 923 - Psim:0.8952380952380953 region Length:210 
+RRALQIDEASFGAEHPKVAIRLNNLAQLLQATNRLAEAEPLM
+RRALEIDEASYGPEHPMVAIRLNNLAQLLKDTNRLAEAEPLM
+RRALQIDEASYGPEHPNVAIRLNNLAQLLQATNRLAEAEPLM
+RRALQIDEASYGPEHPMVAIRLNNLAQLLKVTNRLAEAEPLM
+ARVVTIFEAAYGKNHPNVATALNNLARLLQDTNRLAEAEPLM
+**********************
+
+Length: 42 residues - nb: 4  from  761 to 928 - Psim:0.8928571428571429 region Length:168 
+IDEASYGPEHPMVAIRLNNLAQLLKDTNRLAEAEPLMRRALQ
+IDEASYGPEHPNVAIRLNNLAQLLQATNRLAEAEPLMRRALQ
+IDEASYGPEHPMVAIRLNNLAQLLKVTNRLAEAEPLMARVVT
+IFEAAYGKNHPNVATALNNLARLLQDTNRLAEAEPLMRRALG
+**********************
+
+Length: 42 residues - nb: 3  from  807 to 932 - Psim:0.8571428571428571 region Length:126 
+SYGPEHPNVAIRLNNLAQLLQATNRLAEAEPLMRRALQIDEA
+SYGPEHPMVAIRLNNLAQLLKVTNRLAEAEPLMARVVTIFEA
+AYGKNHPNVATALNNLARLLQDTNRLAEAEPLMRRALGIFVR
+**********************
+
+>uniprot|A0A258AN95|A0A258AN95_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 9 residues - nb: 2  from  145 to 161 - Psim:0.7 region Length:17 
+RAI-S-CF-A
+RAIHEEPEDA
+**********************
+
+>uniprot|A0A258AVG7|A0A258AVG7_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 40 residues - nb: 8  from  869 to 1188 - Psim:0.75 region Length:320 
+EGNYAAAREKFGRALEISQAIGDNTVETGTLHQLASVELR
+EGDYAAAREKFGRVLEMRQAINDRAGESATLHQLASIELR
+EGDYEAAREKFGRSLEIKQATGDRAGQAATWHNLATIDVN
+VGDYAAARKKFGRSLEIEQAIGNRAGEAVSWHSLATIELN
+EGNYAAARQKFGRVLKMLQDMGDTAGEAATWHQLGTVELS
+EGDYAAAREKFSRSLGIKQAIGDRAGEAATLAQTATIDVK
+EGNYAAAREKLGHALEIVQSIGDRAGELSVWHNLATIDLN
+EVNYAAARDKFGRALEMRQAIGDRAGEATTLAQIGFVAWE
+**********************
+
+>uniprot|A0A258AKJ5|A0A258AKJ5_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 5 residues - nb: 3  from  251 to 265 - Psim:0.6666666666666666 region Length:15 
+-LSGFM
+-LSGLT
+ELLG-E
+**********************
+
+>uniprot|A0A258B3W8|A0A258B3W8_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 4 residues - nb: 4  from  38 to 55 - Psim:0.65 region Length:18 
+AKSAP
+AKPT-
+AKPAA
+AKS-D
+**********************
+
+Length: 4 residues - nb: 4  from  60 to 76 - Psim:0.6666666666666666 region Length:17 
+--DTKK
+-ADAK-
+KTDSK-
+KTDS--
+**********************
+
+Length: 5 residues - nb: 3  from  37 to 51 - Psim:0.7222222222222222 region Length:15 
+PAK-SA
+PAK-PT
+-AKPAA
+**********************
+
+Length: 5 residues - nb: 5  from  53 to 77 - Psim:0.76 region Length:25 
+KSDTK
+KSDTK
+KADAK
+KTDSK
+KTDSK
+**********************
+
+Length: 5 residues - nb: 3  from  71 to 85 - Psim:0.6666666666666666 region Length:15 
+SKKTD
+SKKAA
+AKPHA
+**********************
+
+>uniprot|A0A1T4WHW0|A0A1T4WHW0_9BACT TPR repeat-containing protein [Prosthecobacter debontii]
+Length: 2 residues - nb: 8  from  117 to 132 - Psim:1.0 region Length:16 
+AP
+AP
+AP
+AP
+AP
+AP
+AP
+AP
+**********************
+
+Length: 4 residues - nb: 4  from  102 to 118 - Psim:0.8 region Length:17 
+PAAA-
+PAAAA
+PAAV-
+AAAP-
+**********************
+
+Length: 5 residues - nb: 3  from  102 to 115 - Psim:0.8666666666666667 region Length:14 
+PAAA-
+PAAAA
+PAAVA
+**********************
+
+Length: 6 residues - nb: 4  from  105 to 128 - Psim:0.8214285714285714 region Length:24 
+APAA-A-
+APAAVAA
+APAP-AP
+APAP-AP
+**********************
+
+Length: 6 residues - nb: 3  from  300 to 320 - Psim:0.6666666666666666 region Length:21 
+RDTAVKQ
+RDEAVTA
+RDGLQKE
+**********************
+
+Length: 7 residues - nb: 3  from  300 to 320 - Psim:0.6666666666666666 region Length:21 
+RDTAVKQ
+RDEAVTA
+RDGLQKE
+**********************
+
+Length: 9 residues - nb: 3  from  300 to 320 - Psim:0.6666666666666666 region Length:21 
+RDTAVKQ
+RDEAVTA
+RDGLQKE
+**********************
+
+>uniprot|A0A258ANE8|A0A258ANE8_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 5 residues - nb: 3  from  153 to 168 - Psim:0.6666666666666666 region Length:16 
+AQK-VI
+AQYFKV
+AQG-KD
+**********************
+
+>uniprot|A0A258AZL8|A0A258AZL8_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 48 residues - nb: 3  from  245 to 393 - Psim:0.8113207547169812 region Length:149 
+VAASYLELGHSHAALRHYEESHAIAERLAASDPANAAWQRDLSVSLEKLGNLA
+VAQG--DLAG--ALR-SFSESKSIRERLAASDPANAEWQRDLSVSLNKLGELA
+VAQG--DLAG--ALR-SFSESKSIAERLAASDPANAAWQRDLSYSCWLIAAKV
+**********************
+
+Length: 48 residues - nb: 2  from  301 to 396 - Psim:0.8571428571428571 region Length:96 
+GDLAGALRSFSESKSIRERLAASDPANAEWQRDLSVSLNKLGELAVAQ-
+GDLAGALRSFSESKSIAERLAASDPANAAWQRDLSYSCWLIAA-KVHEP
+**********************
+
+>uniprot|A0A258AXA3|A0A258AXA3_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 4 residues - nb: 3  from  468 to 481 - Psim:0.7333333333333333 region Length:14 
+LRSSG
+LRSNA
+LRV-G
+**********************
+
+Length: 5 residues - nb: 3  from  468 to 482 - Psim:0.7222222222222222 region Length:15 
+LRSSG-
+LRSNA-
+LRV-GI
+**********************
+
+Length: 6 residues - nb: 3  from  468 to 483 - Psim:0.6666666666666666 region Length:16 
+LRSS-G
+LRSN-A
+LRVGIP
+**********************
+
+>uniprot|A0A1T4YS10|A0A1T4YS10_9BACT Tetratricopeptide repeat-containing protein [Prosthecobacter debontii]
+Length: 5 residues - nb: 3  from  380 to 393 - Psim:0.6666666666666666 region Length:14 
+-IAG-A
+-IAGFG
+AVYL-A
+**********************
+
+Length: 6 residues - nb: 3  from  60 to 77 - Psim:0.6666666666666666 region Length:18 
+AAQ-AVD
+AAQRAV-
+GLE-PED
+**********************
+
+>uniprot|A0A258AIB4|A0A258AIB4_9BACT Uncharacterized protein [Verrucomicrobia bacterium 12-59-8]
+Length: 7 residues - nb: 2  from  109 to 123 - Psim:0.8125 region Length:15 
+AAEPAPAP
+AAVAAPA-
+**********************
+
+Length: 7 residues - nb: 3  from  282 to 302 - Psim:0.7142857142857143 region Length:21 
+KERDKIL
+KEREQIV
+KERDAAI
+**********************
+
+Length: 7 residues - nb: 3  from  299 to 320 - Psim:0.7916666666666666 region Length:22 
+DAAISQRD
+DA-VKQRD
+VA-VKERD
+**********************
+
+>uniprot|A0A1Q7FKT4|A0A1Q7FKT4_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_40CM_4_54_4]
+Length: 5 residues - nb: 3  from  495 to 510 - Psim:0.6666666666666666 region Length:16 
+HLALGK
+HLYWG-
+HLDYT-
+**********************
+
+>uniprot|A0A1Q7FQP2|A0A1Q7FQP2_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_40CM_4_54_4]
+Length: 7 residues - nb: 2  from  145 to 158 - Psim:0.7857142857142857 region Length:14 
+HELGRLY
+HELGEND
+**********************
+
+>uniprot|A0A1Q7FKM3|A0A1Q7FKM3_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_1_40CM_4_54_4]
+Length: 34 residues - nb: 4  from  233 to 368 - Psim:0.7132352941176471 region Length:136 
+CYDQALAIESQDAVAWYNKGATLAQLKRHEEAIG
+CYDRALALDPENAFAWNNKGTTLTQLKRHEEAIG
+CYDRALAVDPRDTFAWTNKGIELHALGRREEAIS
+CYCSALAIDQRHTLAWLNKAYSEDALGRKREAAV
+**********************
+
+>uniprot|A0A178IHM8|A0A178IHM8_9BACT Uncharacterized protein [Opitutaceae bacterium TSB47]
+Length: 7 residues - nb: 2  from  154 to 168 - Psim:0.6875 region Length:15 
+ALLGQLSK
+AL-GCHER
+**********************
+
+>uniprot|A0A178II75|A0A178II75_9BACT Uncharacterized protein [Opitutaceae bacterium TSB47]
+Length: 7 residues - nb: 2  from  111 to 125 - Psim:0.7222222222222222 region Length:15 
+ALMLDP-RA
+AL--DAVAA
+**********************
+
+Length: 11 residues - nb: 2  from  202 to 225 - Psim:0.7307692307692307 region Length:24 
+AALLVADGREAEG
+AALL-REALAAE-
+**********************
+
+>uniprot|A0A1Q6YY45|A0A1Q6YY45_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_2_54_15]
+Length: 7 residues - nb: 2  from  215 to 228 - Psim:0.7857142857142857 region Length:14 
+LLIAAGA
+LLIAVAT
+**********************
+
+>uniprot|A0A1Q6YYH0|A0A1Q6YYH0_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_2_54_15]
+Length: 7 residues - nb: 2  from  318 to 332 - Psim:0.75 region Length:15 
+SRRGDIKK
+SR-GDLWG
+**********************
+
+>uniprot|A0A1Q6Z2L2|A0A1Q6Z2L2_9BACT Uncharacterized protein [Verrucomicrobia bacterium 13_2_20CM_2_54_15]
+Length: 3 residues - nb: 7  from  397 to 418 - Psim:0.7142857142857143 region Length:22 
+-STSS-
+-S-TL-
+PT-SE-
+-A-S--
+-A-SPG
+-A-S--
+-A-SP-
+**********************
+
+>uniprot|A0A0R2XK81|A0A0R2XK81_9BACT Uncharacterized protein [Opitutaceae bacterium BACL24 MAG-120322-bin51]
+Length: 7 residues - nb: 2  from  592 to 605 - Psim:0.7857142857142857 region Length:14 
+SRLLEAN
+SRLEEII
+**********************
+
+>uniprot|A0A0R2XNK4|A0A0R2XNK4_9BACT Uncharacterized protein [Opitutaceae bacterium BACL24 MAG-120322-bin51]
+Length: 5 residues - nb: 3  from  38 to 53 - Psim:0.6666666666666666 region Length:16 
+AAQ-QR
+AAGDET
+AAL-AT
+**********************
+
+>uniprot|A0A1M3D5T3|A0A1M3D5T3_9BACT Uncharacterized protein [Verrucomicrobia bacterium 61-8]
+Length: 5 residues - nb: 6  from  209 to 236 - Psim:0.6904761904761905 region Length:28 
+AA-VK--
+AA-AL--
+AA-EM-G
+DQ-KR--
+AA-SLFD
+AALAL--
+**********************
+
+>uniprot|A0A1M3C6L0|A0A1M3C6L0_9BACT Uncharacterized protein [Verrucomicrobia bacterium 61-8]
+Length: 9 residues - nb: 2  from  219 to 238 - Psim:0.7727272727272727 region Length:20 
+LDQAASLGGDK
+LDVASKLG-D-
+**********************
+
+>uniprot|A0A1Z9BQE9|A0A1Z9BQE9_9BACT Uncharacterized protein (Fragment) [Opitutae bacterium TMED102]
+Length: 6 residues - nb: 2  from  459 to 472 - Psim:0.7142857142857143 region Length:14 
+NAGTIAT
+NAIAKAA
+**********************
+
+Length: 7 residues - nb: 3  from  466 to 486 - Psim:0.7619047619047619 region Length:21 
+NAIAKAA
+NAIDLSA
+NCTDLAA
+**********************
+
+>uniprot|A0A1M3CPV5|A0A1M3CPV5_9BACT Uncharacterized protein [Verrucomicrobia bacterium 61-8]
+Length: 5 residues - nb: 3  from  27 to 42 - Psim:0.6666666666666666 region Length:16 
+TPPPAP
+TPLPSA
+TPE-A-
+**********************
+
+>uniprot|A0A1M3C601|A0A1M3C601_9BACT Uncharacterized protein [Verrucomicrobia bacterium 61-8]
+Length: 5 residues - nb: 3  from  1748 to 1762 - Psim:0.6666666666666666 region Length:15 
+ARRLDL
+ARF--Y
+ART-DQ
+**********************
+
+>uniprot|A0A1Z9C106|A0A1Z9C106_9BACT Uncharacterized protein [Opitutae bacterium TMED102]
+Length: 5 residues - nb: 4  from  15 to 33 - Psim:0.75 region Length:19 
+LG-LMLS
+LG-L-L-
+LG-P-T-
+LGQA-A-
+**********************
+
+Length: 7 residues - nb: 3  from  371 to 391 - Psim:0.7037037037037037 region Length:21 
+EA-RAALLV
+EA-RET--V
+EALKGA--E
+**********************
+
+>uniprot|A0A1M3D4M6|A0A1M3D4M6_9BACT Uncharacterized protein [Verrucomicrobia bacterium 61-8]
+Length: 5 residues - nb: 3  from  317 to 333 - Psim:0.7142857142857143 region Length:17 
+AD-ALGY
+ADRALS-
+ADPR-S-
+**********************
+
+Length: 6 residues - nb: 3  from  317 to 334 - Psim:0.75 region Length:18 
+AD--ALGY
+AD-RALS-
+ADPRS-S-
+**********************
+
+Length: 7 residues - nb: 3  from  317 to 335 - Psim:0.75 region Length:19 
+AD-ALG-Y
+ADRALS--
+AD-PRSSY
+**********************
+
+>uniprot|A0A1M3CCS6|A0A1M3CCS6_9BACT Uncharacterized protein [Verrucomicrobia bacterium 61-8]
+Length: 7 residues - nb: 3  from  7 to 28 - Psim:0.7037037037037037 region Length:22 
+FALIVTAS-
+FA--MLASA
+FA--EDASD
+**********************
+
+>uniprot|B3DYB2|B3DYB2_METI4 TPR repeats containing protein [Methylacidiphilum infernorum V4]
+Length: 5 residues - nb: 3  from  358 to 372 - Psim:0.7222222222222222 region Length:15 
+LL-DQ-
+LLVDES
+LL-GKS
+**********************
+
+>uniprot|A0A2A2RL28|A0A2A2RL28_9BACT Uncharacterized protein [Opitutae bacterium Tous-C10FEB]
+Length: 5 residues - nb: 3  from  241 to 256 - Psim:0.7222222222222222 region Length:16 
+GTAGRG
+GTAGF-
+GTEVS-
+**********************
+
+Length: 6 residues - nb: 3  from  241 to 257 - Psim:0.6666666666666666 region Length:17 
+GTAGRG
+GTAGF-
+GTEVSV
+**********************
+
+>uniprot|A0A2A2RWF6|A0A2A2RWF6_9BACT Uncharacterized protein [Opitutae bacterium Tous-C10FEB]
+Length: 7 residues - nb: 2  from  33 to 46 - Psim:0.75 region Length:14 
+AQRKPIE-
+AQRA-FEA
+**********************
+
+>uniprot|A0A1Z8SVC0|A0A1Z8SVC0_9BACT Uncharacterized protein [Verrucomicrobia bacterium TMED44]
+Length: 7 residues - nb: 2  from  211 to 224 - Psim:0.7857142857142857 region Length:14 
+SKTDYKK
+SKTLLLK
+**********************
+
+>uniprot|A0A2A2QJ39|A0A2A2QJ39_9BACT Uncharacterized protein [Opitutae bacterium Tous-C5TDCM]
+Length: 4 residues - nb: 4  from  259 to 275 - Psim:0.7 region Length:17 
+AAGR-
+AAEAI
+AAYE-
+AALR-
+**********************
+
+Length: 5 residues - nb: 3  from  111 to 125 - Psim:0.7142857142857143 region Length:15 
+AVVAAS-
+AVV--T-
+AVR--NR
+**********************
+
+>uniprot|A0A2A2QA24|A0A2A2QA24_9BACT Uncharacterized protein [Verrucomicrobiae bacterium Tous-C5FEB]
+Length: 5 residues - nb: 3  from  167 to 181 - Psim:0.7222222222222222 region Length:15 
+AEKIAP
+AE--PK
+AE-IPA
+**********************
+
+Length: 7 residues - nb: 2  from  172 to 186 - Psim:0.75 region Length:15 
+PAEPKAEI
+PASP-APS
+**********************
+
+>uniprot|B4D6K5|B4D6K5_9BACT Sulfotransferase [Chthoniobacter flavus Ellin428]
+Length: 3 residues - nb: 5  from  318 to 333 - Psim:0.68 region Length:16 
+-LG--
+-LGN-
+ALWE-
+-EGEA
+-EGA-
+**********************
+
+>uniprot|B4D5R0|B4D5R0_9BACT TPR repeat-containing protein [Chthoniobacter flavus Ellin428]
+Length: 6 residues - nb: 3  from  203 to 222 - Psim:0.6666666666666666 region Length:20 
+IAAL-QQA
+IA-L-QPD
+LA-LAHNN
+**********************
+
+>uniprot|B4CV49|B4CV49_9BACT TPR repeat-containing protein [Chthoniobacter flavus Ellin428]
+Length: 8 residues - nb: 2  from  3 to 20 - Psim:0.7 region Length:18 
+AVPLDQAFRL
+AVAHHQA-G-
+**********************
+
+Length: 10 residues - nb: 2  from  2 to 23 - Psim:0.7916666666666666 region Length:22 
+VAVPLDQAFRLA
+VA-H-HQAGRLA
+**********************
+
+Length: 11 residues - nb: 2  from  2 to 24 - Psim:0.7692307692307693 region Length:23 
+VAVPLDQAFRLA-
+VA-H-HQAGRLAE
+**********************
+
+>uniprot|B4CWP2|B4CWP2_9BACT Tetratricopeptide TPR_2 repeat protein [Chthoniobacter flavus Ellin428]
+Length: 7 residues - nb: 2  from  634 to 648 - Psim:0.8125 region Length:15 
+VVSRAGEA
+VVSRGG-L
+**********************
+
+>uniprot|B4D6D9|B4D6D9_9BACT TPR repeat-containing protein [Chthoniobacter flavus Ellin428]
+Length: 7 residues - nb: 2  from  583 to 597 - Psim:0.75 region Length:15 
+SRAGRGPL
+SRAGWSQ-
+**********************
+
+Length: 8 residues - nb: 2  from  583 to 598 - Psim:0.8125 region Length:16 
+SRAGRGPL
+SRAGWSQL
+**********************
+
+Length: 9 residues - nb: 2  from  583 to 599 - Psim:0.7777777777777778 region Length:17 
+SRAGRGPL-
+SRAGWSQLS
+**********************
+
+>uniprot|B4CUH3|B4CUH3_9BACT Tetratricopeptide TPR_2 repeat protein [Chthoniobacter flavus Ellin428]
+Length: 5 residues - nb: 3  from  138 to 151 - Psim:0.7333333333333333 region Length:14 
+APRT-
+APVSA
+APRTS
+**********************
+
+Length: 5 residues - nb: 7  from  540 to 579 - Psim:0.7321428571428571 region Length:40 
+SA-P-APA
+SA-P-A-P
+AT-PDV-A
+PAAP-T-V
+PA-PQA-A
+PAVP-Q-Q
+PA-P-A-A
+**********************
+
+Length: 5 residues - nb: 3  from  563 to 579 - Psim:0.8095238095238095 region Length:17 
+PA-PQAA
+PAVPQQ-
+PA-P-AA
+**********************
+
+Length: 6 residues - nb: 4  from  557 to 580 - Psim:0.7142857142857143 region Length:24 
+PA-APTV
+PA-PQAA
+PAVPQQ-
+PA-PAAA
+**********************
+
+Length: 9 residues - nb: 3  from  558 to 586 - Psim:0.696969696969697 region Length:29 
+AAPTVPA-PQ-
+AAPAVPQQPAP
+AAAPVST-PI-
+**********************
+
+Length: 7 residues - nb: 3  from  563 to 581 - Psim:0.7916666666666666 region Length:19 
+PA-PQAA-
+PAVPQQ--
+PA-PAAAP
+**********************
+
+>uniprot|B4CTV0|B4CTV0_9BACT TPR repeat-containing protein [Chthoniobacter flavus Ellin428]
+Length: 7 residues - nb: 2  from  113 to 127 - Psim:0.8125 region Length:15 
+TAELALSM
+TAQ-ALSA
+**********************
+
+>uniprot|B4D4E6|B4D4E6_9BACT TPR repeat-containing protein [Chthoniobacter flavus Ellin428]
+Length: 5 residues - nb: 3  from  248 to 262 - Psim:0.7619047619047619 region Length:15 
+LA-ARRN
+LA-AF--
+LAKAQ--
+**********************
+
+Length: 6 residues - nb: 3  from  242 to 260 - Psim:0.6666666666666666 region Length:19 
+AANPDNL
+AARR-NL
+AAFL-AK
+**********************
+
+>uniprot|A0A2G4GBC2|A0A2G4GBC2_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 6 residues - nb: 2  from  143 to 156 - Psim:0.7142857142857143 region Length:14 
+ARGSLAL
+ARGQVSA
+**********************
+
+Length: 7 residues - nb: 2  from  141 to 154 - Psim:0.8571428571428571 region Length:14 
+ALARGSL
+ALARGQV
+**********************
+
+Length: 7 residues - nb: 2  from  215 to 229 - Psim:0.8125 region Length:15 
+ALFASPAD
+AL-RSLAD
+**********************
+
+>uniprot|A0A2G4HIP5|A0A2G4HIP5_9BACT Uncharacterized protein [Opitutae bacterium]
+Length: 7 residues - nb: 4  from  599 to 625 - Psim:0.65625 region Length:27 
+EAMGRVLL
+EA-GR-RT
+EAMEQ-F-
+EAILR-LD
+**********************
+
+>uniprot|B5JPL6|B5JPL6_9BACT Tetratricopeptide repeat domain protein [Verrucomicrobiae bacterium DG1235]
+Length: 5 residues - nb: 3  from  545 to 559 - Psim:0.6666666666666666 region Length:15 
+SLGAFA
+SL--YA
+SLGE-K
+**********************
+
+>uniprot|B9XBT7|B9XBT7_PEDPL TPR repeat-containing protein [Pedosphaera parvula Ellin514]
+Length: 7 residues - nb: 2  from  379 to 393 - Psim:0.8333333333333334 region Length:15 
+LLAVGSIC-
+LL-VGS-CL
+**********************
+
+>uniprot|B5JRE8|B5JRE8_9BACT Tetratricopeptide repeat family [Verrucomicrobiae bacterium DG1235]
+Length: 6 residues - nb: 3  from  599 to 615 - Psim:0.7222222222222222 region Length:17 
+NLAP-Q
+NLAALN
+NLAYLI
+**********************
+
+>uniprot|B9XGB9|B9XGB9_PEDPL Tetratricopeptide TPR_2 repeat protein [Pedosphaera parvula Ellin514]
+Length: 7 residues - nb: 2  from  132 to 145 - Psim:0.8571428571428571 region Length:14 
+VYARLGM
+VYSRLGQ
+**********************
+
+>uniprot|B5JCK2|B5JCK2_9BACT Tetratricopeptide repeat domain protein [Verrucomicrobiae bacterium DG1235]
+>uniprot|B9XRB7|B9XRB7_PEDPL Tetratricopeptide TPR_2 repeat protein [Pedosphaera parvula Ellin514]
+Length: 5 residues - nb: 3  from  102 to 116 - Psim:0.7222222222222222 region Length:15 
+NAPVPV
+NAAT--
+NAPTE-
+**********************
+
+Length: 7 residues - nb: 2  from  129 to 142 - Psim:0.8125 region Length:14 
+PVA-VPSE
+PVAPVPA-
+**********************
+
+Length: 8 residues - nb: 3  from  100 to 126 - Psim:0.7272727272727273 region Length:27 
+AT-NAPVPVNA
+AT-NAPTET-P
+ATTNEPT-T--
+**********************
+
+Length: 8 residues - nb: 2  from  128 to 145 - Psim:0.7 region Length:18 
+APVAVPSEPV
+APV--PATTN
+**********************
+
+Length: 10 residues - nb: 2  from  110 to 128 - Psim:0.8181818181818182 region Length:19 
+AT-NAPTETP-
+ATTNEPT-TPA
+**********************
+
+>uniprot|B9XH02|B9XH02_PEDPL Uncharacterized protein [Pedosphaera parvula Ellin514]
+Length: 9 residues - nb: 2  from  154 to 171 - Psim:0.6818181818181818 region Length:18 
+LLAIFAGPLAN
+LL-L-AG-VT-
+**********************
+
+>uniprot|B9XAC5|B9XAC5_PEDPL Tetratricopeptide TPR_2 repeat protein [Pedosphaera parvula Ellin514]
+Length: 8 residues - nb: 2  from  656 to 672 - Psim:0.8 region Length:17 
+QAV-EAAKKA
+QAMAEAAK--
+**********************
+
+Length: 9 residues - nb: 2  from  656 to 673 - Psim:0.8 region Length:18 
+QAV-EAAKKA
+QAMAEAAKM-
+**********************
+
+>uniprot|B9XHX0|B9XHX0_PEDPL Tetratricopeptide TPR_2 repeat protein [Pedosphaera parvula Ellin514]
+Length: 7 residues - nb: 2  from  490 to 504 - Psim:0.75 region Length:15 
+LNPNNSRA
+LN-NLGTA
+**********************
+
+>uniprot|A0A2A5VY44|A0A2A5VY44_9BACT Uncharacterized protein [Puniceicoccaceae bacterium MED-G30]
+Length: 6 residues - nb: 3  from  71 to 89 - Psim:0.6666666666666666 region Length:19 
+SA-LSSFK
+SA-LE-LD
+SADLSA--
+**********************
+
+Length: 7 residues - nb: 3  from  71 to 90 - Psim:0.7083333333333334 region Length:20 
+SA-LSSFK
+SA-LE-LD
+SADLSAL-
+**********************
+
+>uniprot|B9XHE3|B9XHE3_PEDPL TPR repeat-containing protein [Pedosphaera parvula Ellin514]
+Length: 34 residues - nb: 2  from  176 to 250 - Psim:0.7804878048780488 region Length:75 
+RDWDKAIADYDQVVKLNPKQVSAYNSRGLAYAMKGDMDKAI
+RD----LSE---VIKLNPKDAPAYGSRGLSYAMKGDWDKAV
+**********************
+
+>uniprot|UPI000174513B|UPI000174513B outer membrane protein assembly factor BamD [Verrucomicrobium spinosum]
+Length: 4 residues - nb: 4  from  709 to 724 - Psim:0.7 region Length:16 
+PAGDQ
+PA--P
+PA-EP
+PP-PP
+**********************
+
+>uniprot|UPI0001745C0D|UPI0001745C0D hypothetical protein [Verrucomicrobium spinosum]
+Length: 3 residues - nb: 5  from  1387 to 1401 - Psim:0.68 region Length:15 
+RL-L-
+-R-LC
+ETPV-
+ER---
+ER-L-
+**********************
+
+>uniprot|UPI000196544E|UPI000196544E tetratricopeptide repeat protein [Didymococcus colitermitum]
+Length: 5 residues - nb: 3  from  110 to 125 - Psim:0.6666666666666666 region Length:16 
+ASAGNN
+ASL-LT
+ASA-DV
+**********************
+
+Length: 6 residues - nb: 3  from  116 to 133 - Psim:0.6666666666666666 region Length:18 
+ASL-LT-
+ASADVST
+ASL-LAH
+**********************
+
+>uniprot|UPI00019655FF|UPI00019655FF tetratricopeptide repeat protein [Didymococcus colitermitum]
+Length: 4 residues - nb: 7  from  254 to 281 - Psim:0.7142857142857143 region Length:28 
+-AP-RR-
+-AP-LL-
+-AP-D--
+-APAP--
+-ASTD-N
+TAH-A--
+TAP-Q--
+**********************
+
+>uniprot|B4CU03|B4CU03_9BACT Tetratricopeptide TPR_2 repeat protein [Chthoniobacter flavus Ellin428]
+Length: 4 residues - nb: 4  from  34 to 50 - Psim:0.75 region Length:17 
+IP-RA
+IPVKP
+IP-RA
+IP-VQ
+**********************
+
+Length: 5 residues - nb: 8  from  34 to 73 - Psim:0.65625 region Length:40 
+IP-R-A--
+IPVK-P--
+IP-R-A--
+IPVQ-R--
+-PTATP--
+APESVP--
+AP-K-PMA
+AP-E-P-G
+**********************
+
+Length: 5 residues - nb: 3  from  57 to 73 - Psim:0.75 region Length:17 
+APESVP--
+APK--PMA
+APE--P-G
+**********************
+
+Length: 9 residues - nb: 2  from  32 to 49 - Psim:1.0 region Length:18 
+KPIPRAIPV
+KPIPRAIPV
+**********************
+
+>uniprot|UPI000304F890|UPI000304F890 tetratricopeptide repeat protein [Verrucomicrobia bacterium SCGC AAA168-F10]
+Length: 35 residues - nb: 2  from  386 to 455 - Psim:0.8857142857142857 region Length:70 
+WEKAIACYREIIEIDKDNSLKYLLTIAGCYKTQSE
+WEKAIACYREIIEIDGDNSGEYLWSIAGCHETQSD
+**********************
+
+>uniprot|UPI00030F639C|UPI00030F639C tetratricopeptide repeat-containing protein [Verrucomicrobia bacterium SCGC AAA168-F10]
+Length: 7 residues - nb: 4  from  26 to 51 - Psim:0.6666666666666666 region Length:26 
+D-DL-RKLA
+D-DLVRK-A
+RAEL--E-T
+D--LLSK-Q
+**********************
+
+>uniprot|UPI0003114991|UPI0003114991 tetratricopeptide repeat protein [Verrucomicrobia bacterium SCGC AAA168-F10]
+Length: 7 residues - nb: 2  from  480 to 493 - Psim:0.8125 region Length:14 
+MELTIEE-
+MEL-IEKT
+**********************
+
+>uniprot|UPI0003697256|UPI0003697256 tetratricopeptide repeat protein [Verrucomicrobium sp. 3C]
+Length: 9 residues - nb: 2  from  243 to 262 - Psim:0.7272727272727273 region Length:20 
+RAALRQENLLL
+RAALA-D-LSD
+**********************
+
+>uniprot|UPI00036B0B45|UPI00036B0B45 tetratricopeptide repeat protein [Verrucomicrobium sp. 3C]
+Length: 34 residues - nb: 3  from  231 to 324 - Psim:0.7647058823529411 region Length:94 
+AEAIDAYHRALKISPQLAGAWYNLGIAYEDAGRN
+AEAIEAYRQALKINRQLAAAWINLGGACSRAGRN
+AEAIETYHQALKIDPQDPKAWYNLG-------R-
+**********************
+
+>uniprot|UPI00036BB74F|UPI00036BB74F tetratricopeptide repeat protein [Rubritalea marina]
+Length: 5 residues - nb: 3  from  132 to 147 - Psim:0.6666666666666666 region Length:16 
+RYNQK-
+RYTKAA
+RYFQL-
+**********************
+
+>uniprot|UPI000371EAB1|UPI000371EAB1 hypothetical protein [Rubritalea marina]
+Length: 6 residues - nb: 3  from  85 to 103 - Psim:0.6666666666666666 region Length:19 
+-EFS-LGN
+-EFSRLG-
+GEKN-AAK
+**********************
+
+>uniprot|UPI000464377B|UPI000464377B tetratricopeptide repeat protein [Verrucomicrobia bacterium LP2A]
+Length: 7 residues - nb: 2  from  74 to 87 - Psim:0.8571428571428571 region Length:14 
+SEALRLL
+SEALPSL
+**********************
+
+Length: 9 residues - nb: 2  from  282 to 299 - Psim:0.7777777777777778 region Length:18 
+FEEALLQKR
+FEEALTLLQ
+**********************
+
+>uniprot|UPI000465E777|UPI000465E777 tetratricopeptide repeat protein [Verrucomicrobia bacterium LP2A]
+Length: 5 residues - nb: 3  from  595 to 611 - Psim:0.7142857142857143 region Length:17 
+AQFYYN-
+AQDYAD-
+AQ--ADF
+**********************
+
+>uniprot|UPI0004663921|UPI0004663921 tetratricopeptide repeat-containing protein [Verrucomicrobia bacterium LP2A]
+Length: 5 residues - nb: 3  from  27 to 40 - Psim:0.7333333333333333 region Length:14 
+GSS-S
+GSRRS
+GRRES
+**********************
+
+Length: 7 residues - nb: 2  from  176 to 189 - Psim:0.7857142857142857 region Length:14 
+EAIRAYR
+EAIQKKR
+**********************
+
+>uniprot|UPI0004B898D4|UPI0004B898D4 tetratricopeptide repeat protein [Verrucomicrobia bacterium LP2A]
+Length: 39 residues - nb: 3  from  1 to 120 - Psim:0.8814814814814815 region Length:120 
+-MS--LNNLASLYQAQGFLDKAEPLYRQALEIRQQALPAGHPDIA
+-MS--LNNLASLYQAQGFLDKAEPLYRQALEIRQQALPAGHP---
+GIATSLNNLAGLYKTQGFLDKAEPLYRQALEIRQQALP------P
+**********************
+
+Length: 39 residues - nb: 10  from  47 to 463 - Psim:0.8651162790697674 region Length:417 
+NLASLYQAQGFLDKAEPLY-RQALEIRQQALPAGHPGIATSLN
+NLAGLYKTQGFLDKAEPLY-RQALEIRQQALPPGHPDIAGSLS
+NLALLYQAQGFLDKAEPLH-RQALEIRQQALPPSHPDIATSLN
+NLALLYQDQGFLDKAEPLY-RQALEIRQQALPPSHPDIATSLN
+NLALLYQDQGFLDKAEPLY-RQALDIDQQALPAGHPDIATSLN
+NLAGLYQDQGFLDKAEPLY-RQALEIRQQALPPGHPDIAGSLS
+NLALLYQAQGFLDKAEPLH-RQALEIRQQALPPGHPDIATSLN
+NLALLYQAQGFLDKAEPLH-RQALEILQQALPAGHPDIARSLN
+NLASLYRAQGRLGEAEPLY-RQALESLQQALPPNHLDIATSHF
+NLAVLYYTLRRLNEAE-LHARRALQIYQKALPVGHPYI---VQ
+**********************
+
+Length: 39 residues - nb: 8  from  97 to 429 - Psim:0.8988095238095238 region Length:333 
+QGFLDKAEPLYRQALEIRQQALPPGHPDIAGSLSNLALLYQA
+QGFLDKAEPLHRQALEIRQQALPPSHPDIATSLNNLALLYQD
+QGFLDKAEPLYRQALEIRQQALPPSHPDIATSLNNLALLYQD
+QGFLDKAEPLYRQALDIDQQALPAGHPDIATSLNNLAGLYQD
+QGFLDKAEPLYRQALEIRQQALPPGHPDIAGSLSNLALLYQA
+QGFLDKAEPLHRQALEIRQQALPPGHPDIATSLNNLALLYQA
+QGFLDKAEPLHRQALEILQQALPAGHPDIARSLNNLASLYRA
+QGRLGEAEPLYRQALESLQQALPPNHLDIATSHFNLAVL---
+**********************
+
+Length: 39 residues - nb: 7  from  142 to 423 - Psim:0.8201058201058201 region Length:282 
+---------LDKAEPLHRQALEIRQQALPPSHPDIATSLNNLA-LLYQDQGF--
+---------LDKAEPLYRQALEIRQQALPPSHPDIATSLNNLA-LLYQDQGF--
+---------LDKAEPLYRQALDIDQQALPAGHPDIATSLNNLAGLY------QD
+----Q--GFLDKAEPLYRQALEIRQQALPPGHPDIAGSLSNLA-LL--------
+---YQAQGFLDKAEPLHRQALEIRQQALPPGHPDIATSLNNLA-LL--------
+---YQAQGFLDKAEPLHRQALEILQQALPAGHPDIARSLNNL------------
+ASLYRAQGRLGEAEPLYRQALESLQQALPPNHLDIATS-H--------------
+**********************
+
+Length: 39 residues - nb: 7  from  187 to 474 - Psim:0.8073089700996677 region Length:288 
+AEPLY-RQALEIRQQALPPSHPDIATSLNNLALLYQDQGFLDK
+AEPLY-RQALDIDQQALPAGHPDIATSLNNLAGLYQDQGFLDK
+AEPLY-RQALEIRQQALPPGHPDIAGSLSNLALLYQAQGFLDK
+AEPLH-RQALEIRQQALPPGHPDIATSLNNLALLYQAQGFLDK
+AEPLH-RQALEILQQALPAGHPDIARSLNNLASLYRAQGRLGE
+AEPLY-RQALESLQQALPPNHLDIATSHFNLAVLYYTLRRLNE
+AE-LHARRALQIYQKALPVGHPYIVQTKQLLDSIHQA------
+**********************
+
+Length: 39 residues - nb: 3  from  233 to 352 - Psim:0.8740740740740741 region Length:120 
+---YRQALDIDQQALPAGHPDIATSLNNLAGLYQDQGFLDKAEPL
+---YRQALEIRQQALPPGHPDIAGSLSNLALLYQAQGFLDKA---
+EPLHRQALEIRQQALPPGHPDIATSLNNLALLYQAQGFL------
+**********************
+
+Length: 39 residues - nb: 3  from  281 to 400 - Psim:0.8444444444444444 region Length:120 
+-IRQ--QALPPGHPDIAGSLSNLALLYQAQGFLDKAEPLHRQALE
+-IRQ--QALPPGHPDIATSLNNLALLYQAQGFLDKAEPLHRQ---
+ALEILQQALPAGHPDIARSLNNLASLYRAQGRLGEAEPL------
+**********************
+
+Length: 39 residues - nb: 4  from  328 to 474 - Psim:0.6802325581395349 region Length:147 
+LPPGHPDIATSLNNLALLYQAQGFLDKAEPLH-RQALEILQQA
+LPAGHPDIARSLNNLASLYRAQGRLGEAEPLY-RQALESLQQA
+LPPNHLDIATSHFNLAVLYYTLRRLNEAE-LHARRALQIYQKA
+LPVGHPYI---VQT-----K-Q-LLD-S--IH--QA-------
+**********************
+
+Length: 42 residues - nb: 3  from  1 to 126 - Psim:0.9523809523809523 region Length:126 
+MSLNNLASLYQAQGFLDKAEPLYRQALEIRQQALPAGHPDIA
+MSLNNLASLYQAQGFLDKAEPLYRQALEIRQQALPAGHPGIA
+TSLNNLAGLYKTQGFLDKAEPLYRQALEIRQQALPPGHPDIA
+**********************
+
+Length: 42 residues - nb: 10  from  47 to 466 - Psim:0.8651162790697674 region Length:420 
+NLASLYQAQGFLDKAEPLY-RQALEIRQQALPAGHPGIATSLN
+NLAGLYKTQGFLDKAEPLY-RQALEIRQQALPPGHPDIAGSLS
+NLALLYQAQGFLDKAEPLH-RQALEIRQQALPPSHPDIATSLN
+NLALLYQDQGFLDKAEPLY-RQALEIRQQALPPSHPDIATSLN
+NLALLYQDQGFLDKAEPLY-RQALDIDQQALPAGHPDIATSLN
+NLAGLYQDQGFLDKAEPLY-RQALEIRQQALPPGHPDIAGSLS
+NLALLYQAQGFLDKAEPLH-RQALEIRQQALPPGHPDIATSLN
+NLALLYQAQGFLDKAEPLH-RQALEILQQALPAGHPDIARSLN
+NLASLYRAQGRLGEAEPLY-RQALESLQQALPPNHLDIATSHF
+NLAVLYYTLRRLNEAE-LHARRALQIYQKALPVGHPYIVQTKQ
+**********************
+
+Length: 42 residues - nb: 8  from  97 to 432 - Psim:0.9017857142857143 region Length:336 
+QGFLDKAEPLYRQALEIRQQALPPGHPDIAGSLSNLALLYQA
+QGFLDKAEPLHRQALEIRQQALPPSHPDIATSLNNLALLYQD
+QGFLDKAEPLYRQALEIRQQALPPSHPDIATSLNNLALLYQD
+QGFLDKAEPLYRQALDIDQQALPAGHPDIATSLNNLAGLYQD
+QGFLDKAEPLYRQALEIRQQALPPGHPDIAGSLSNLALLYQA
+QGFLDKAEPLHRQALEIRQQALPPGHPDIATSLNNLALLYQA
+QGFLDKAEPLHRQALEILQQALPAGHPDIARSLNNLASLYRA
+QGRLGEAEPLYRQALESLQQALPPNHLDIATSHFNLAVLYYT
+**********************
+
+Length: 42 residues - nb: 7  from  142 to 435 - Psim:0.8843537414965986 region Length:294 
+LDKAEPLHRQALEIRQQALPPSHPDIATSLNNLALLYQDQGF
+LDKAEPLYRQALEIRQQALPPSHPDIATSLNNLALLYQDQGF
+LDKAEPLYRQALDIDQQALPAGHPDIATSLNNLAGLYQDQGF
+LDKAEPLYRQALEIRQQALPPGHPDIAGSLSNLALLYQAQGF
+LDKAEPLHRQALEIRQQALPPGHPDIATSLNNLALLYQAQGF
+LDKAEPLHRQALEILQQALPAGHPDIARSLNNLASLYRAQGR
+LGEAEPLYRQALESLQQALPPNHLDIATSHFNLAVLYYTLRR
+**********************
+
+Length: 42 residues - nb: 7  from  187 to 474 - Psim:0.8073089700996677 region Length:288 
+AEPLY-RQALEIRQQALPPSHPDIATSLNNLALLYQDQGFLDK
+AEPLY-RQALDIDQQALPAGHPDIATSLNNLAGLYQDQGFLDK
+AEPLY-RQALEIRQQALPPGHPDIAGSLSNLALLYQAQGFLDK
+AEPLH-RQALEIRQQALPPGHPDIATSLNNLALLYQAQGFLDK
+AEPLH-RQALEILQQALPAGHPDIARSLNNLASLYRAQGRLGE
+AEPLY-RQALESLQQALPPNHLDIATSHFNLAVLYYTLRRLNE
+AE-LHARRALQIYQKALPVGHPYIVQTKQLLDSIHQA------
+**********************
+
+Length: 42 residues - nb: 3  from  233 to 358 - Psim:0.9365079365079365 region Length:126 
+YRQALDIDQQALPAGHPDIATSLNNLAGLYQDQGFLDKAEPL
+YRQALEIRQQALPPGHPDIAGSLSNLALLYQAQGFLDKAEPL
+HRQALEIRQQALPPGHPDIATSLNNLALLYQAQGFLDKAEPL
+**********************
+
+Length: 42 residues - nb: 5  from  197 to 406 - Psim:0.9095238095238095 region Length:210 
+IRQQALPPSHPDIATSLNNLALLYQDQGFLDKAEPLYRQALD
+IDQQALPAGHPDIATSLNNLAGLYQDQGFLDKAEPLYRQALE
+IRQQALPPGHPDIAGSLSNLALLYQAQGFLDKAEPLHRQALE
+IRQQALPPGHPDIATSLNNLALLYQAQGFLDKAEPLHRQALE
+ILQQALPAGHPDIARSLNNLASLYRAQGRLGEAEPLYRQALE
+**********************
+
+Length: 42 residues - nb: 4  from  328 to 474 - Psim:0.6802325581395349 region Length:147 
+LPPGHPDIATSLNNLALLYQAQGFLDKAEPLH-RQALEILQQA
+LPAGHPDIARSLNNLASLYRAQGRLGEAEPLY-RQALESLQQA
+LPPNHLDIATSHFNLAVLYYTLRRLNEAE-LHARRALQIYQKA
+LPVGHPYI---VQT-----K-Q-LLD-S--IH--QA-------
+**********************
+
+Length: 48 residues - nb: 10  from  1 to 438 - Psim:0.8066666666666666 region Length:438 
+MSLNNLASLYQAQGFLDKAEPLYRQALEIRQQALPAGHPDIA------------------
+MSLNNLASLYQAQGFLDKAEPLYRQALEIRQQALPAGHPGIA---TSLNN---L------
+----AGLYKTQGFLDKAEPLY--RQALEIRQQALPPGHPDIAGSLSNLALLY---QA---
+----------QGFLDKAEPLH--RQALEIRQQALPPSHPDIATSLNNLALLY---QD---
+----------QGFLDKAEPLY--RQALEIRQQALPPSHPDIATSLNNLALLY---QD---
+----------QGFLDKAEPLY--RQALDIDQQALPAGHPDIATSLNNLAGLY---QD---
+----------QGFLDKAEPLY--RQALEIRQQALPPGHPDIAGSLSNLALLY---QA---
+----------QGFLDKAEPLH--RQALEIRQQALPPGHPDIATSLNNLALLY---QA---
+----------QGFLDKAEPLH--RQALEILQQALPAGHPDIARSLNNLASLY---RA---
+----------QGRLGEAEPLY--RQALESLQQALPPNHLDIATSHFNLAVLYYTLRRLNE
+**********************
+
+Length: 48 residues - nb: 8  from  97 to 438 - Psim:0.8984375 region Length:342 
+QGFLDKAEPLYRQALEIRQQALPPGHPDIAGSLSNLALLY---QA---
+QGFLDKAEPLHRQALEIRQQALPPSHPDIATSLNNLALLY---QD---
+QGFLDKAEPLYRQALEIRQQALPPSHPDIATSLNNLALLY---QD---
+QGFLDKAEPLYRQALDIDQQALPAGHPDIATSLNNLAGLY---QD---
+QGFLDKAEPLYRQALEIRQQALPPGHPDIAGSLSNLALLY---QA---
+QGFLDKAEPLHRQALEIRQQALPPGHPDIATSLNNLALLY---QA---
+QGFLDKAEPLHRQALEILQQALPAGHPDIARSLNNLASLY---RA---
+QGRLGEAEPLYRQALESLQQALPPNHLDIATSHFNLAVLYYTLRRLNE
+**********************
+
+Length: 48 residues - nb: 7  from  142 to 459 - Psim:0.7142857142857143 region Length:318 
+LDKAEPLHRQALEIR-QQAL-PPSHPDIATSLNNLALLYQDQGF---------------------
+LDKAEPLYRQALEIR-QQAL-PPSHPDIATSLNNLALLYQDQGF---------------------
+LDKAEPLYRQALDID-QQAL-PAGHPDIATSLNNLAGLYQDQGFLD-KA-EP-------------
+L------YRQALEIR-QQAL-PPGHPDIAGSLSNLALLYQAQGFLD-KA-EPLHRQA-L------
+------------EIR-QQAL-PPGHPDIATSLNNLALLYQAQGFLD-KA-EPLHRQA-L------
+------------EIL-QQAL-PAGHPDIARSLNNLASLYRAQGRLG-EA-EPLYRQA-LESLQQA
+L------PPNHLDIATSHFNLAVLYYTLR-RL-NEAELHARRALQIYQKALPVGH-------P--
+**********************
+
+Length: 48 residues - nb: 7  from  187 to 474 - Psim:0.8073089700996677 region Length:288 
+AEPLY-RQALEIRQQALPPSHPDIATSLNNLALLYQDQGFLDK
+AEPLY-RQALDIDQQALPAGHPDIATSLNNLAGLYQDQGFLDK
+AEPLY-RQALEIRQQALPPGHPDIAGSLSNLALLYQAQGFLDK
+AEPLH-RQALEIRQQALPPGHPDIATSLNNLALLYQAQGFLDK
+AEPLH-RQALEILQQALPAGHPDIARSLNNLASLYRAQGRLGE
+AEPLY-RQALESLQQALPPNHLDIATSHFNLAVLYYTLRRLNE
+AE-LHARRALQIYQKALPVGHPYIVQTKQLLDSIHQA------
+**********************
+
+Length: 48 residues - nb: 5  from  241 to 456 - Psim:0.8367346938775511 region Length:216 
+QQALPAGHPDIATSLNNLAGLYQDQGFLDKAEPLY-RQALEIR------
+QQALPPGHPDIAGSLSNLALLYQAQGFLDKAEPLH-RQALEIR------
+QQALPPGHPDIATSLNNLALLYQAQGFLDKAEPLH-RQALEIL------
+QQALPAGHPDIARSLNNLASLYRAQGRLGEAEPLY-RQALESL------
+QQALPPNHLDIATSHFNLAVLYYTLRRLNEAE-LHARRALQIYQKALPV
+**********************
+
+Length: 48 residues - nb: 3  from  288 to 425 - Psim:0.8024691358024691 region Length:138 
+PGHPDIAGSLSNLALLYQAQGFLDKAEPLHRQALEIRQQALP------------
+PGHPDIATSLNNLALLYQAQGFLDKAEPLHRQALEILQQALPAGHPDI------
+------ARSLNNLASLYRAQGRLGEAEPLYRQALESLQQALPPNHLDIATSHFN
+**********************
+
+>uniprot|UPI00054E95C7|UPI00054E95C7 hypothetical protein [Haloferula sp. BvORR071]
+Length: 5 residues - nb: 3  from  40 to 56 - Psim:0.6666666666666666 region Length:17 
+EALKAM
+EANQWE
+EALK-L
+**********************
+
+>uniprot|UPI00054F4247|UPI00054F4247 hypothetical protein [Haloferula sp. BvORR071]
+Length: 9 residues - nb: 2  from  385 to 400 - Psim:0.6666666666666666 region Length:16 
+ALL-IQAE-
+ALLDAKKPA
+**********************
+
+Length: 9 residues - nb: 2  from  650 to 665 - Psim:0.8 region Length:16 
+GKS---LLAV
+GKSQEALLA-
+**********************
+
+>uniprot|UPI000550914D|UPI000550914D tetratricopeptide repeat protein [Haloferula sp. BvORR071]
+Length: 9 residues - nb: 2  from  262 to 281 - Psim:0.7272727272727273 region Length:20 
+LQAVAENYCAV
+LQAEGD-Y-AH
+**********************
+
+>uniprot|UPI000571A8DE|UPI000571A8DE tetratricopeptide repeat protein [Verrucomicrobium sp. BvORR106]
+Length: 9 residues - nb: 2  from  894 to 913 - Psim:0.7727272727272727 region Length:20 
+LTQAATAALSL
+LTLPATA-LP-
+**********************
+
+Length: 38 residues - nb: 10  from  498 to 877 - Psim:0.7631578947368421 region Length:380 
+IEDYTQLIAPKDAPTDQVAIALFNRGNTHRKQGDIAKA
+IEDYTQLIALKDAPIHQVANALCNRGVTHGQQGDITKE
+IEDYTQLIALKYVPVDLVAKVLFNRGLAHGRKDDMAKA
+IEDYTQLIALKHAPIDHVTKALFNRGRTYREQGDIAKE
+IADYTELTSLKDAPVDHVTKALFNRGVAHYQQGDITQA
+IEDYTQLIALIDAPTDQVANALFNRGIAHYQQGDHTKA
+IEDFTQSITLTDASVDQVADALFNRSLAHVRQSDFAKA
+IEDFTQLIALIDAPTDQVAKALFNRGIVHSQLGNFTKA
+IEDFTQLIALKDAPVDQVANALFYRGIAHGKLGDIAKS
+IEDFTQLIALKNAPIDQVANALFYRGNVYLKQNDTALA
+**********************
+
+Length: 38 residues - nb: 8  from  614 to 917 - Psim:0.7042682926829268 region Length:304 
+DYTQLIALKHAPID--HVTKALFNRGRTYREQGDIAKEIA-
+DYTELTSLKDAPVD--HVTKALFNRGVAHYQQGDITQAIE-
+DYTQLIALIDAPTD--QVANALFNRGIAHYQQGDHTKAIE-
+DFTQSITLTDASVD--QVADALFNRSLAHVRQSDFAKAIE-
+DFTQLIALIDAPTD--QVAKALFNRGIVHSQLGNFTKAIE-
+DFTQLIALKDAPVD--QVANALFYRGIAHGKLGDIAKSIE-
+DFTQLIALKNAPID--QVANALFYRGNVYLKQNDTALATA-
+DFSALLALPECPAELTQAATAALSL-LT-LP-ATALPAPQK
+**********************
+
+Length: 38 residues - nb: 6  from  671 to 898 - Psim:0.7478632478632479 region Length:228 
+LFNRGVAHYQQGDITQ-AIEDYTQLIALIDAPTDQVANA
+LFNRGIAHYQQGDHTK-AIEDFTQSITLTDASVDQVADA
+LFNRSLAHVRQSDFAK-AIEDFTQLIALIDAPTDQVAKA
+LFNRGIVHSQLGNFTK-AIEDFTQLIALKDAPVDQVANA
+LFYRGIAHGKLGDIAK-SIEDFTQLIALKNAPIDQVANA
+LFYRGNVYLKQ-NDTALATADFSALLALPECPAELTQAA
+**********************
+
+Length: 38 residues - nb: 3  from  785 to 898 - Psim:0.7280701754385965 region Length:114 
+LFNRGIVHSQLGNFTKAIEDFTQLIALKDAPVDQVANA
+LFYRGIAHGKLGDIAKSIEDFTQLIALKNAPIDQVANA
+LFYRGNVYLKQNDTALATADFSALLALPECPAELTQAA
+**********************
+
+>uniprot|UPI00059483E4|UPI00059483E4 tetratricopeptide repeat protein [Verrucomicrobiae bacterium DG1235]
+Length: 3 residues - nb: 5  from  851 to 864 - Psim:0.72 region Length:14 
+--AQ-
+--AQN
+RPTQ-
+--AY-
+--AYY
+**********************
+
+Length: 4 residues - nb: 4  from  43 to 56 - Psim:0.65 region Length:14 
+FACI-
+-VVS-
+-ASL-
+-ASSQ
+**********************
+
+Length: 4 residues - nb: 5  from  578 to 595 - Psim:0.68 region Length:18 
+AAI--
+AAY--
+AAI-E
+TADPE
+FAY--
+**********************
+
+Length: 5 residues - nb: 3  from  564 to 578 - Psim:0.6666666666666666 region Length:15 
+-LLQGD
+-LLQEL
+GKL-EA
+**********************
+
+Length: 5 residues - nb: 3  from  898 to 911 - Psim:0.6666666666666666 region Length:14 
+AQS-V
+AQEFL
+AQPNL
+**********************
+
+>uniprot|UPI0006785E9A|UPI0006785E9A VWA domain-containing protein [Verrucomicrobium sp. BvORR034]
+Length: 4 residues - nb: 6  from  859 to 883 - Psim:0.6666666666666666 region Length:25 
+-QALQQ
+-QALD-
+-Q-LD-
+--ALRA
+--ALDQ
+KQNQG-
+**********************
+
+Length: 5 residues - nb: 4  from  860 to 879 - Psim:0.7083333333333334 region Length:20 
+ALQQ-Q
+ALDQLD
+AL-R-A
+ALDQ-K
+**********************
+
+>uniprot|UPI000678AB4F|UPI000678AB4F tetratricopeptide repeat protein [Verrucomicrobium sp. BvORR034]
+Length: 3 residues - nb: 5  from  376 to 389 - Psim:0.72 region Length:14 
+P-A--
+P-AD-
+PFA-A
+G-G--
+GGA--
+**********************
+
+Length: 5 residues - nb: 3  from  369 to 382 - Psim:0.6666666666666666 region Length:14 
+GAA-G
+GAAPA
+PADPF
+**********************
+
+Length: 7 residues - nb: 2  from  76 to 90 - Psim:0.75 region Length:15 
+TASLRDAA
+TARYCDA-
+**********************
+
+>uniprot|UPI000678CD9B|UPI000678CD9B outer membrane protein assembly factor BamD [Verrucomicrobium sp. BvORR034]
+Length: 7 residues - nb: 2  from  583 to 596 - Psim:0.7857142857142857 region Length:14 
+KAIEPLR
+KAIEQDP
+**********************
+
+>uniprot|UPI00068A2905|UPI00068A2905 serine/threonine protein kinase [Verrucomicrobium sp. BvORR106]
+Length: 3 residues - nb: 7  from  1019 to 1038 - Psim:0.7714285714285715 region Length:20 
+--P-A
+PAP--
+-PA-A
+-A--G
+-AP-A
+-APVA
+-AP-A
+**********************
+
+Length: 5 residues - nb: 3  from  1025 to 1039 - Psim:0.7222222222222222 region Length:15 
+AAAGAP
+AAP-V-
+AAP-AQ
+**********************
+
+Length: 7 residues - nb: 3  from  1022 to 1042 - Psim:0.75 region Length:21 
+APPAAAG-
+AP-AAPVA
+AP-AQPGD
+**********************
+
+>uniprot|UPI00068CA172|UPI00068CA172 tetratricopeptide repeat-containing protein [Verrucomicrobium sp. BvORR106]
+Length: 4 residues - nb: 4  from  647 to 661 - Psim:0.75 region Length:15 
+VTKS
+VTG-
+VTGA
+VSGA
+**********************
+
+Length: 4 residues - nb: 6  from  657 to 679 - Psim:0.7916666666666666 region Length:23 
+AVSG
+AVTG
+AVSG
+ATD-
+AVSG
+AVTG
+**********************
+
+Length: 5 residues - nb: 3  from  490 to 505 - Psim:0.7222222222222222 region Length:16 
+KAA-QA
+KAAAEE
+KAR-LA
+**********************
+
+Length: 5 residues - nb: 3  from  533 to 548 - Psim:0.7222222222222222 region Length:16 
+KAA-EE
+KALKEE
+KAR-VA
+**********************
+
+Length: 5 residues - nb: 4  from  656 to 672 - Psim:0.8 region Length:17 
+GAV-S
+GAV-T
+GAV-S
+GATDA
+**********************
+
+Length: 6 residues - nb: 4  from  475 to 498 - Psim:0.7222222222222222 region Length:24 
+KA-A-AE--
+KA-K-LEEE
+KA-MKAA--
+QAKA-AA--
+**********************
+
+Length: 6 residues - nb: 4  from  517 to 541 - Psim:0.65625 region Length:25 
+AK-KAAEE
+AK-MA-EA
+AAAKAA--
+EE-KALK-
+**********************
+
+Length: 7 residues - nb: 2  from  396 to 411 - Psim:0.75 region Length:16 
+KAMVVAEQ
+KARIAAEE
+**********************
+
+Length: 7 residues - nb: 6  from  427 to 470 - Psim:0.75 region Length:44 
+EKAR-V-AAA
+EKAR-I-EE-
+EKAQ-L-AM-
+-KAK-QEAE-
+EKVRKA-AE-
+EKAM-L-AE-
+**********************
+
+Length: 7 residues - nb: 4  from  454 to 482 - Psim:0.75 region Length:29 
+AE-EKVRK-A
+AE-EKA-ML-
+AEAAAA-K--
+AAAEKA-K--
+**********************
+
+Length: 7 residues - nb: 2  from  498 to 512 - Psim:0.8125 region Length:15 
+AEEKARLA
+AEEKTRM-
+**********************
+
+Length: 7 residues - nb: 6  from  521 to 563 - Psim:0.6666666666666666 region Length:43 
+AEE-AKM-
+AEAAAAKA
+AEEKA-LK
+-EEKARVA
+AEEKAKVA
+AEQKARM-
+**********************
+
+Length: 7 residues - nb: 4  from  538 to 566 - Psim:0.71875 region Length:29 
+KA-LK-EE
+KARVAAEE
+KAKVAAEQ
+KARMAAA-
+**********************
+
+Length: 7 residues - nb: 2  from  549 to 563 - Psim:0.75 region Length:15 
+AEEKAKVA
+AEQKARM-
+**********************
+
+Length: 7 residues - nb: 3  from  654 to 675 - Psim:0.875 region Length:22 
+VTGAVSGA
+VTGAVSG-
+ATDAVSG-
+**********************
+
+Length: 8 residues - nb: 7  from  387 to 441 - Psim:0.6571428571428571 region Length:55 
+AEREQA-MK-
+-E--KAMVV-
+AE-QKARIA-
+AE-EKAKADA
+AE--KVRME-
+AE-EKARVAA
+AE--KARIEE
+**********************
+
+Length: 8 residues - nb: 4  from  409 to 441 - Psim:0.6666666666666666 region Length:33 
+AEEKAK-AD
+AAEKVRME-
+AEEKARVAA
+AE-KARIEE
+**********************
+
+Length: 8 residues - nb: 15  from  454 to 571 - Psim:0.68 region Length:118 
+-AE-E-KV-R-KA--
+-A-----E-E-KAML
+-AE-A-AA-A-KA-A
+-AE-K-AK-L-EE--
+-EK-A-MK-AAQA--
+--K-A-AA-E-E---
+KAR-LAA-E-E----
+-KT-R-ME-E-AK--
+-AKKA-AE-E-----
+-AK-M-AE-A-AA--
+-AK-A-AE-E-KA--
+-LK-E-EK-A-RV--
+-A--A-EE-KAKV--
+-A--A--E-Q-KARM
+-A--A-AEAE-KE--
+**********************
+
+Length: 8 residues - nb: 10  from  495 to 571 - Psim:0.6933333333333334 region Length:77 
+--K-A-AA-E-E---
+KAR-LAA-E-E----
+-KT-R-ME-E-AK--
+-AKKA-AE-E-----
+-AK-M-AE-A-AA--
+-AK-A-AE-E-KA--
+-LK-E-EK-A-RV--
+-A--A-EE-KAKV--
+-A--A--E-Q-KARM
+-A--A-AEAE-KE--
+**********************
+
+Length: 8 residues - nb: 3  from  514 to 538 - Psim:0.7407407407407407 region Length:25 
+EAKAKKAAE
+EAKMAEAA-
+AAKAAEEK-
+**********************
+
+Length: 8 residues - nb: 8  from  522 to 581 - Psim:0.6931818181818182 region Length:60 
+E-E-AKMAEA-
+A-A-AK-A-A-
+E-EKA-LK---
+E-EKARVA-A-
+E-EKAKVA-A-
+E-QKARMA-AA
+EAEKEK-E---
+E-AAAPAP-K-
+**********************
+
+Length: 8 residues - nb: 2  from  547 to 562 - Psim:0.875 region Length:16 
+VAAEEKAK
+VAAEQKAR
+**********************
+
+Length: 8 residues - nb: 3  from  654 to 677 - Psim:0.8888888888888888 region Length:24 
+VTGAVSGA-
+VTGAVSGA-
+-TDAVSGAV
+**********************
+
+>uniprot|UPI0006901422|UPI0006901422 tetratricopeptide repeat protein [Methylacidiphilum kamchatkense]
+Length: 7 residues - nb: 2  from  224 to 237 - Psim:0.875 region Length:14 
+KAIESLR-
+KAIE-LRP
+**********************
+
+Length: 8 residues - nb: 2  from  224 to 238 - Psim:0.8333333333333334 region Length:15 
+KAIESLR--
+KAIE-LRPD
+**********************
+
+>uniprot|UPI0006949FC0|UPI0006949FC0 tetratricopeptide repeat protein [Didymococcus colitermitum]
+Length: 7 residues - nb: 2  from  20 to 33 - Psim:0.9285714285714286 region Length:14 
+PASTAAT
+PASTLAT
+**********************
+
+Length: 8 residues - nb: 2  from  20 to 34 - Psim:0.875 region Length:15 
+PASTAAT-
+PASTLATS
+**********************
+
+Length: 8 residues - nb: 2  from  145 to 162 - Psim:0.7727272727272727 region Length:18 
+RGDTPYVWLA-
+RGD---VLLAR
+**********************
+
+>uniprot|UPI0006974922|UPI0006974922 two-component sensor histidine kinase [Verrucomicrobia bacterium IMCC26134]
+Length: 7 residues - nb: 3  from  393 to 414 - Psim:0.7083333333333334 region Length:22 
+AE-RAAHH
+AEERARVE
+AE-QAARL
+**********************
+
+Length: 8 residues - nb: 3  from  393 to 415 - Psim:0.6666666666666666 region Length:23 
+AE-RAAHH
+AEERARVE
+AEQAARLK
+**********************
+
+>uniprot|UPI000698C8DC|UPI000698C8DC serine/threonine protein kinase [Haloferula sp. BvORR071]
+Length: 7 residues - nb: 3  from  733 to 753 - Psim:0.7037037037037037 region Length:21 
+AGDAKLK--
+AGDA-LRD-
+AG-R-LAEA
+**********************
+
+>uniprot|UPI0008329E68|UPI0008329E68 tetratricopeptide repeat-containing protein [Akkermansia sp. KLE1797]
+Length: 34 residues - nb: 4  from  2 to 136 - Psim:0.7357142857142858 region Length:135 
+ESYNKGLEIKPDNDAAYCNRGIVL-NALGRKKEAL
+ESYDRALEIKPDNDAAYFNRGIVL-NALGRKEEAL
+ESYDKALEIKPDNDAAWNNKGVSLSNS-GRKEEAL
+ECYIKAIKINANNGKAKQNRRALI-GS-DQFWDSL
+**********************
+
+>uniprot|UPI0009DA802C|UPI0009DA802C tetratricopeptide repeat protein [Verrucomicrobium sp. 3C]
+Length: 7 residues - nb: 2  from  101 to 114 - Psim:0.7857142857142857 region Length:14 
+SEALRLF
+SEALPSL
+**********************
+
+>uniprot|UPI0009DB5AE8|UPI0009DB5AE8 tetratricopeptide repeat protein [Verrucomicrobium sp. 3C]
+Length: 32 residues - nb: 3  from  15 to 112 - Psim:0.7352941176470589 region Length:98 
+AYANVGQHAEAIEACQQALKLNPQDAVAWCLLGL
+AYVGTGQHAEAIDACRQALKINPQDPKAWCGLGG
+AYSLAGRYAEAIEACHQALKIEETSLSA-CP---
+**********************
+
+Length: 34 residues - nb: 3  from  15 to 112 - Psim:0.7352941176470589 region Length:98 
+AYANVGQHAEAIEACQQALKLNPQDAVAWCLLGL
+AYVGTGQHAEAIDACRQALKINPQDPKAWCGLGG
+AYSLAGRYAEAIEACHQALKIEETSLSA-CP---
+**********************
+
+Length: 38 residues - nb: 3  from  15 to 112 - Psim:0.7352941176470589 region Length:98 
+AYANVGQHAEAIEACQQALKLNPQDAVAWCLLGL
+AYVGTGQHAEAIDACRQALKINPQDPKAWCGLGG
+AYSLAGRYAEAIEACHQALKIEETSLSA-CP---
+**********************
+
+>uniprot|UPI0009DD52FB|UPI0009DD52FB tetratricopeptide repeat protein [Verrucomicrobium sp. BvORR106]
+Length: 7 residues - nb: 2  from  318 to 331 - Psim:0.7857142857142857 region Length:14 
+ELYSTRG
+ELYSELR
+**********************
+
+Length: 8 residues - nb: 2  from  318 to 332 - Psim:0.8125 region Length:15 
+ELYST-RG
+ELYSELRD
+**********************
+
+>uniprot|UPI0009DF6E65|UPI0009DF6E65 CHAT domain-containing protein [Haloferula sp. BvORR071]
+Length: 5 residues - nb: 4  from  356 to 376 - Psim:0.6875 region Length:21 
+HLPR--V-
+HL-R--VA
+ETAR--N-
+-LARNSL-
+**********************
+
+>uniprot|UPI0009E02B01|UPI0009E02B01 tetratricopeptide repeat-containing protein [Verrucomicrobium sp. BvORR034]
+Length: 4 residues - nb: 5  from  24 to 44 - Psim:0.68 region Length:21 
+PPAPA
+PPAP-
+A-TPA
+P-APT
+PAA-A
+**********************
+
+Length: 9 residues - nb: 2  from  33 to 52 - Psim:0.8181818181818182 region Length:20 
+ATPAPAPTPAA
+AT-AHT-TPAA
+**********************
+
+>uniprot|B4CYG9|B4CYG9_9BACT TPR repeat-containing protein [Chthoniobacter flavus Ellin428]
+Length: 7 residues - nb: 3  from  96 to 116 - Psim:0.7142857142857143 region Length:21 
+QLVNDPE
+QLLNYGE
+QLLREGY
+**********************
+
+>uniprot|B4D9E0|B4D9E0_9BACT TPR repeat-containing protein [Chthoniobacter flavus Ellin428]
+Length: 8 residues - nb: 2  from  264 to 279 - Psim:0.6875 region Length:16 
+PLALGVFE
+PLGVGEPY
+**********************
+
+>uniprot|UPI000B875E70|UPI000B875E70 tetratricopeptide repeat protein [Verrucomicrobium sp. GAS474]
+Length: 5 residues - nb: 3  from  40 to 53 - Psim:0.7222222222222222 region Length:14 
+-GFALA
+LG--LC
+LGF-IA
+**********************
+
+Length: 8 residues - nb: 3  from  91 to 112 - Psim:0.6666666666666666 region Length:22 
+PAPSSALP
+PAPVP-S-
+PAPPPVSA
+**********************
+
+>uniprot|A0A1H2EXS3|A0A1H2EXS3_9BACT Tetratricopeptide repeat-containing protein [Verrucomicrobium sp. GAS474]
+Length: 5 residues - nb: 3  from  272 to 285 - Psim:0.7333333333333333 region Length:14 
+VSARG
+VS-EV
+VSREG
+**********************
+
+>uniprot|UPI000C9A3EC5|UPI000C9A3EC5 tetratricopeptide repeat protein [Akkermansia muciniphila]
+Length: 5 residues - nb: 3  from  336 to 349 - Psim:0.7333333333333333 region Length:14 
+PAAVT
+PAA-P
+PAEDP
+**********************
+
+Length: 5 residues - nb: 3  from  665 to 680 - Psim:0.7777777777777778 region Length:16 
+TAPS-V
+TAKSGE
+TAKI-E
+**********************
+
+>uniprot|UPI000C9B6C60|UPI000C9B6C60 tetratricopeptide repeat-containing protein [Akkermansia muciniphila]
+Length: 48 residues - nb: 4  from  580 to 771 - Psim:0.84375 region Length:192 
+QGRKDEAESLYREILDIMRELVARDESNAGWRRDLTVSLDRMGDLRMS
+QGKEGEAEELYREGLGIMRELVDSDGSNAGWKRDLTVFLNRMGDLRMS
+QGKEGEAEELYREGLGIMRELVTRDGSNAGWKRDLTVSLDRMGDLRLS
+EGRKAEAEEYFRESLCIMRELVERDGSNAGWKKDLIISLQRMANLRML
+**********************
+
+Length: 48 residues - nb: 3  from  632 to 775 - Psim:0.8472222222222222 region Length:144 
+GEAEELYREGLGIMRELVDSDGSNAGWKRDLTVFLNRMGDLRMSQGKE
+GEAEELYREGLGIMRELVTRDGSNAGWKRDLTVSLDRMGDLRLSEGRK
+AEAEEYFRESLCIMRELVERDGSNAGWKKDLIISLQRMANLRMLQGQE
+**********************
+
+>uniprot|UPI000C9C873F|UPI000C9C873F hypothetical protein [Akkermansia muciniphila]
+Length: 4 residues - nb: 4  from  155 to 171 - Psim:0.7 region Length:17 
+QLK-A
+QLA-R
+QLQDR
+QLL-V
+**********************
+
+Length: 4 residues - nb: 4  from  867 to 883 - Psim:0.7083333333333334 region Length:17 
+PEK-AA
+PEAGK-
+PE--T-
+PEQ-T-
+**********************
+

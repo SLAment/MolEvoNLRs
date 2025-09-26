@@ -1,0 +1,7 @@
+channels:
+  - r
+dependencies:
+  - r-scales=1.4.0
+  - r-ggnewscale=0.5.2
+  - r-dplyr=1.1.4
+  - r-cowplot=1.2.0

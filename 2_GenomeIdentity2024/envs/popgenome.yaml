@@ -1,0 +1,11 @@
+channels:
+  - bioconda
+  - conda-forge
+  - r
+dependencies:
+  - r-ggplot2=3.3.0
+  - r-dplyr=0.8.5
+  - r-popgenome=2.6.1
+  - r-vcfr=1.10.0
+  - r-reshape2=1.4.4
+  - r-hmisc=4.2_0

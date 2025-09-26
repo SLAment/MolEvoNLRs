@@ -1,0 +1,9 @@
+channels:
+  - bioconda
+  - conda-forge
+  - r
+dependencies:
+  - r-dplyr=0.8.3
+  - r-tidyverse=1.2.1 # It comes with ggplot 3.0.0
+  - r-cowplot=1.0.0
+  - r-RColorBrewer

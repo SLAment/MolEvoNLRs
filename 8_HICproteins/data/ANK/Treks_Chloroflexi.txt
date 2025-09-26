@@ -1,0 +1,92 @@
+>uniprot|A0A2E2AKT9|A0A2E2AKT9_9CHLR Uncharacterized protein (Fragment) [Chloroflexi bacterium]
+Length: 5 residues - nb: 3  from  186 to 201 - Psim:0.7222222222222222 region Length:16 
+RRSR-T
+RRLVIS
+RRLQ-S
+**********************
+
+Length: 7 residues - nb: 2  from  188 to 202 - Psim:0.6875 region Length:15 
+SRTRRLVI
+SR-RLQSN
+**********************
+
+Length: 8 residues - nb: 2  from  7 to 20 - Psim:0.8125 region Length:14 
+LVL--ANL
+LVLTLANT
+**********************
+
+>uniprot|A0A2E7G4H8|A0A2E7G4H8_9CHLR Uncharacterized protein [Chloroflexi bacterium]
+Length: 5 residues - nb: 3  from  39 to 54 - Psim:0.7777777777777778 region Length:16 
+STTIK-
+STPVPT
+STPVP-
+**********************
+
+Length: 47 residues - nb: 3  from  493 to 599 - Psim:0.6944444444444444 region Length:107 
+GTNITRLTTNEDSIDTSASWSPDGSKIVFDSDMDRQLGY-NLYIIDSD
+GTNITRLTTNEDSTDANASWSPDGSKIVFDSDMDGQLGYTNIYVMDSD
+GTNITRLT---------------G-K----------L---K-------
+**********************
+
+>uniprot|A0A2E9M4S3|A0A2E9M4S3_9CHLR Uncharacterized protein [Dehalococcoidales bacterium]
+Length: 33 residues - nb: 2  from  30 to 96 - Psim:0.8235294117647058 region Length:67 
+VNAKGGDVGLTPLHCAVGNGHKEIAERLIAAGAD
+VNAKD-DLGWTPLHEAAHRESKEIAELLIANGAD
+**********************
+
+>uniprot|A0A1F8NH16|A0A1F8NH16_9CHLR Uncharacterized protein (Fragment) [Chloroflexi bacterium RBG_13_66_10]
+Length: 8 residues - nb: 2  from  25 to 40 - Psim:0.8125 region Length:16 
+ESGGVPPA
+ESGGAEPP
+**********************
+
+Length: 9 residues - nb: 2  from  25 to 41 - Psim:0.8333333333333334 region Length:17 
+ESGGV-PPA
+ESGGAEPPL
+**********************
+
+>uniprot|A0A2E9LHZ9|A0A2E9LHZ9_9CHLR Uncharacterized protein [Dehalococcoidia bacterium]
+Length: 5 residues - nb: 4  from  290 to 312 - Psim:0.9583333333333334 region Length:23 
+GGDGAA
+GGDGAA
+GGDGAA
+GGDGA-
+**********************
+
+Length: 5 residues - nb: 3  from  299 to 315 - Psim:0.8333333333333334 region Length:17 
+GAAGGD
+GAAGGD
+GAARR-
+**********************
+
+Length: 6 residues - nb: 4  from  290 to 313 - Psim:1.0 region Length:24 
+GGDGAA
+GGDGAA
+GGDGAA
+GGDGAA
+**********************
+
+Length: 6 residues - nb: 3  from  299 to 316 - Psim:0.8333333333333334 region Length:18 
+GAAGGD
+GAAGGD
+GAARRL
+**********************
+
+Length: 7 residues - nb: 4  from  290 to 314 - Psim:0.9642857142857143 region Length:25 
+GGDGAA-
+GGDGAA-
+GGDGAA-
+GGDGAAR
+**********************
+
+Length: 7 residues - nb: 3  from  299 to 317 - Psim:0.8095238095238095 region Length:19 
+GAAGG-D
+GAAGG-D
+GAARRLF
+**********************
+
+Length: 33 residues - nb: 3  from  89 to 187 - Psim:0.7171717171717171 region Length:99 
+GADIDMQSSTGSTPLMYAAAWGHLDVVEILLDA
+GADKDMRSSTGRTPLMYAAHAGNADVVRMLLAA
+GAVVNTQSSNGITALMYAAQGGGEDHKEVVKML
+**********************

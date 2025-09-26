@@ -1,0 +1,56 @@
+Name	Domain	Pfam ID	Alternartive names
+ANK	Ank	PF00023	Ankyrin repeat
+ANK	Ank_2	PF12796	Ankyrin repeat
+ANK	Ank_3	PF13606	Ankyrin repeat
+ANK	Ank_4	PF13637	Ankyrin repeat
+ANK	Ank_5	PF13857	Ankyrin repeat
+ANK	DUF4926	PF16277	SH3
+DadA	DAO	PF01266	FAD dependent oxidoreductase
+Goodbye	Goodbye	PF17109	fungal STAND N-terminal Goodbye domain
+HeLo-like	Helo_like_N	PF17111	Fungal N-terminal domain of STAND proteins
+HeLo-like	Nnf1	PF03980	
+HET	HET	PF06985	Heterokaryon incompatibility protein (HET)
+HEAT	Cohesin_HEAT	PF12765	HEAT repeat associated with sister chromatid cohesion
+HEAT	HEAT_2 	PF13646	HEAT repeats
+HEAT	HEAT	PF02985	HEAT repeat
+NACHT	NACHT	PF05729	NACHT domain P-loop_NTPase
+NACHT	AAA_16	PF13191	AAA domain P-loop_NTPase
+NACHT	AAA_18	PF13238	AAA domain P-loop_NTPase
+NACHT	AAA_22	PF13401	AAA domain P-loop_NTPase
+NACHT	AAA_24	PF13479	AAA domain P-loop_NTPase
+NACHT	AAA_33	PF13671	AAA domain P-loop_NTPase
+NACHT	NPHP3_N	PF24883	Nephrocystin 3, N-terminal
+ATPase	nSTAND2	PF20702	Novel STAND NTPase 2
+ATPase	nSTAND1	PF20703	Novel STAND NTPase 1
+ATPase	nSTAND3	PF20720	Novel STAND NTPase 3
+ATPase	ATPase_2	PF01637	ATPase domain predominantly from Archaea
+NB-ARC	NB-ARC	PF00931	NB-ARC domain
+NAD	NACHT_N	PF17100	N-terminal domain of NWD NACHT-NTPase
+PFD	HET-s_218-289	PF11558	Prion Forming Domain
+PNP_UDP	PNP_UDP_1	PF01048	Phosphorylase superfamily
+RelA_SpoT	RelA_SpoT	PF04607	Region found in RelA / SpoT proteins
+SesA	SesA	PF17107	N-terminal domain on NACHT_NTPase and P-loop NTPases
+SesA	Perilipin_2	PF17316	Perilipin protein
+SesB	PGAP1	PF07819	alpha/beta hydrolases
+SesB	Abhydrolase_6	PF12697	AB_hydrolase
+SesB	DUF676	PF05057	Putative serine esterase (DUF676)
+TPR	TPR_12	PF13424	Tetratricopeptide repeat
+TPR	TPR_7	PF13176	Tetratricopeptide repeat
+TPR	TPR_10	PF13374	Tetratricopeptide repeat
+WD40	ANAPC4_WD40	PF07676	Beta_propeller
+WD40	ANAPC4_WD40	PF12894	Anaphase-promoting complex subunit 4 WD40 domain
+WD40	WD40	PF00400	Beta_propeller
+WD40	Robl_LC7	PF03259	Roadblock/LC7 domain
+WD40	SurE	PF01975	Survival protein SurE
+WD4	Calmodulin_bind	PF07887	Calmodulin binding protein-like N-terminal domain
+HeLo	HeLo	PF14479	
+Patatin	Patatin	PF01734	Patatin-like phospholipase
+C2	C2	PF00168	C2 domain
+HeLo	HeLo	PF14479	Prion-inhibition and propagation
+Patatin	Patatin	PF01734	Patatin-like phospholipase
+Peptidase S8	Peptidase_S8	PF00082	Subtilase family
+Pkinase	Pkinase	PF00069	Protein kinase domain
+LRR	LRR	PF13855	Leucine rich repeat
+LRR	LRR	PF13516	Leucine rich repeat
+LRR	LRR	PF12799	Leucine rich repeat
+LRR	LRR	PF00560	Leucine rich repeat

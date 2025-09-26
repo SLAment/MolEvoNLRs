@@ -1,0 +1,6028 @@
+PHYLUM:BASIDIOMYCETES
+
+
+>uniprot|U5H1G1|U5H1G1_USTV1 Uncharacterized protein [Microbotryum lychnidis-dioicae p1A1 Lamole]
+Length: 8 residues - nb: 2  from  794 to 811 - Psim:0.7272727272727273 region Length:18 
+LKRL-LHSTPL
+LKRLDLEG---
+**********************
+
+>uniprot|U5GZU5|U5GZU5_USTV1 Uncharacterized protein [Microbotryum lychnidis-dioicae p1A1 Lamole]
+Length: 5 residues - nb: 3  from  449 to 462 - Psim:0.7333333333333333 region Length:14 
+LSPI-
+LSVAP
+LSPSP
+**********************
+
+>uniprot|U5HGN5|U5HGN5_USTV1 Uncharacterized protein [Microbotryum lychnidis-dioicae p1A1 Lamole]
+Length: 5 residues - nb: 3  from  22 to 36 - Psim:0.6666666666666666 region Length:15 
+PSASSS
+PSP-P-
+PSPHA-
+**********************
+
+>uniprot|M5ERN4|M5ERN4_MALS4 Uncharacterized protein [Malassezia sympodialis ATCC 42132]
+Length: 13 residues - nb: 2  from  353 to 376 - Psim:0.6923076923076923 region Length:24 
+APMPRASRPREVA
+APAMTASK-R-AK
+**********************
+
+>uniprot|G7E316|G7E316_MIXOS Uncharacterized protein [Mixia osmundae IAM 14324]
+Length: 4 residues - nb: 5  from  159 to 179 - Psim:0.7333333333333333 region Length:21 
+EE-ESG
+EE-ST-
+VE-V--
+EEDED-
+EE-ED-
+**********************
+
+Length: 4 residues - nb: 3  from  987 to 1000 - Psim:0.7333333333333333 region Length:14 
+AERIH
+AERAQ
+AERF-
+**********************
+
+Length: 5 residues - nb: 3  from  156 to 169 - Psim:0.7333333333333333 region Length:14 
+ESAEE
+ESGE-
+ESTVE
+**********************
+
+Length: 5 residues - nb: 3  from  987 to 1001 - Psim:0.7333333333333333 region Length:15 
+AERIH
+AERAQ
+AERFN
+**********************
+
+>uniprot|G7DSL1|G7DSL1_MIXOS Uncharacterized protein [Mixia osmundae IAM 14324]
+Length: 8 residues - nb: 2  from  121 to 134 - Psim:0.6875 region Length:14 
+PAA-PKR-
+PARLNKAP
+**********************
+
+Length: 7 residues - nb: 2  from  132 to 147 - Psim:0.6875 region Length:16 
+KAPKRSIL
+KAPPAPAQ
+**********************
+
+>uniprot|G7E7N4|G7E7N4_MIXOS Uncharacterized protein [Mixia osmundae IAM 14324]
+Length: 8 residues - nb: 2  from  1037 to 1053 - Psim:0.7222222222222222 region Length:17 
+RLRNIGSL-
+RLKRFASLT
+**********************
+
+>uniprot|A0A0D2M5T1|A0A0D2M5T1_9AGAR Uncharacterized protein [Hypholoma sublateritium FD-334 SS-4]
+Length: 6 residues - nb: 3  from  717 to 734 - Psim:0.7916666666666666 region Length:18 
+SP--S-LI
+SPTTS-LE
+SP--SDLR
+**********************
+
+Length: 9 residues - nb: 2  from  681 to 698 - Psim:0.8 region Length:18 
+TPSSSYFPP-
+TPSSS-LPTS
+**********************
+
+>uniprot|A0A0J0XDC5|A0A0J0XDC5_9TREE L domain-like protein [Cutaneotrichosporon oleaginosum]
+Length: 9 residues - nb: 2  from  2 to 21 - Psim:0.7272727272727273 region Length:20 
+PSAPPAPDSSA
+PS-PD-PASER
+**********************
+
+>uniprot|A0A0J0XYZ7|A0A0J0XYZ7_9TREE Uncharacterized protein [Cutaneotrichosporon oleaginosum]
+Length: 3 residues - nb: 4  from  1162 to 1175 - Psim:0.75 region Length:14 
+P-SH
+AGSH
+AGSQ
+AGS-
+**********************
+
+Length: 3 residues - nb: 6  from  1166 to 1185 - Psim:0.6666666666666666 region Length:20 
+GSHA
+GSQA
+GS-I
+GG-F
+GG-A
+GG-L
+**********************
+
+Length: 4 residues - nb: 4  from  1152 to 1166 - Psim:0.6875 region Length:15 
+SQPG
+SQ-S
+SQPP
+SHAG
+**********************
+
+Length: 4 residues - nb: 4  from  1165 to 1180 - Psim:0.6875 region Length:16 
+AGSH
+AGSQ
+AGSI
+GGFG
+**********************
+
+Length: 9 residues - nb: 2  from  507 to 526 - Psim:0.75 region Length:20 
+APSSSDSLIP-T
+APSSL-SLP-S-
+**********************
+
+Length: 9 residues - nb: 2  from  1147 to 1166 - Psim:0.7272727272727273 region Length:20 
+SSHRPSQPGSQ
+SSQPPSHAG--
+**********************
+
+Length: 8 residues - nb: 2  from  38 to 51 - Psim:0.8125 region Length:14 
+GRLSPN--
+GRLSPAVF
+**********************
+
+>uniprot|A0A0J0XDG3|A0A0J0XDG3_9TREE Uncharacterized protein [Cutaneotrichosporon oleaginosum]
+Length: 3 residues - nb: 6  from  1085 to 1099 - Psim:0.6666666666666666 region Length:15 
+-DD-
+-DD-
+-DDD
+MPD-
+-PS-
+-PSK
+**********************
+
+Length: 7 residues - nb: 4  from  890 to 917 - Psim:0.7857142857142857 region Length:28 
+SSPERDM
+SSPERDM
+SSPEKGF
+SSPEKGF
+**********************
+
+Length: 7 residues - nb: 2  from  904 to 917 - Psim:1.0 region Length:14 
+SSPEKGF
+SSPEKGF
+**********************
+
+>uniprot|A0A0D7ANU4|A0A0D7ANU4_9AGAR Uncharacterized protein [Fistulina hepatica ATCC 64428]
+Length: 4 residues - nb: 7  from  30 to 58 - Psim:0.6666666666666666 region Length:29 
+P--PSG
+VFNYA-
+S-SPP-
+S-SPA-
+L-CID-
+S-SPA-
+S-SPV-
+**********************
+
+Length: 5 residues - nb: 4  from  25 to 42 - Psim:0.6666666666666666 region Length:18 
+S-PPS-
+S-PPSG
+VFNYA-
+S-SPP-
+**********************
+
+Length: 7 residues - nb: 2  from  43 to 57 - Psim:0.75 region Length:15 
+SSPALCID
+SSPASS-P
+**********************
+
+>uniprot|A0A0D0Z112|A0A0D0Z112_9TREE Unplaced genomic scaffold supercont2.1, whole genome shotgun sequence [Cryptococcus gattii VGIV IND107]
+Length: 7 residues - nb: 2  from  31 to 44 - Psim:0.8571428571428571 region Length:14 
+PLPPSSS
+PLDPSSQ
+**********************
+
+>uniprot|A0A0D6EJ52|A0A0D6EJ52_SPOSA SPOSA6832_01324-mRNA-1:cds (Fragment) [Sporidiobolus salmonicolor]
+Length: 1 residues - nb: 10  from  360 to 369 - Psim:1.0 region Length:10 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+Length: 3 residues - nb: 6  from  373 to 389 - Psim:0.7083333333333334 region Length:17 
+E-E-
+E-E-
+E-EE
+APSK
+E-ER
+E-EK
+**********************
+
+>uniprot|A0A0D6EH53|A0A0D6EH53_SPOSA SPOSA6832_00848-mRNA-1:cds (Fragment) [Sporidiobolus salmonicolor]
+Length: 1 residues - nb: 9  from  771 to 779 - Psim:1.0 region Length:9 
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+**********************
+
+Length: 2 residues - nb: 7  from  675 to 688 - Psim:0.7857142857142857 region Length:14 
+GA
+GA
+AP
+GA
+GA
+GA
+NA
+**********************
+
+Length: 4 residues - nb: 6  from  723 to 744 - Psim:0.7222222222222222 region Length:22 
+-T-AGV
+-T-AGG
+AG-A--
+-G-AG-
+-G-AHL
+-GPAL-
+**********************
+
+Length: 8 residues - nb: 2  from  690 to 707 - Psim:0.8 region Length:18 
+AQLAAARARL
+AQLAQAR-Q-
+**********************
+
+>uniprot|A0A0C3BM61|A0A0C3BM61_9HOMO Uncharacterized protein [Serendipita vermifera MAFF 305830]
+Length: 1 residues - nb: 9  from  526 to 534 - Psim:1.0 region Length:9 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+**********************
+
+Length: 4 residues - nb: 3  from  500 to 513 - Psim:0.6666666666666666 region Length:14 
+EAPVK
+EAWEL
+EA-EQ
+**********************
+
+>uniprot|A0A0C2XQS9|A0A0C2XQS9_9HOMO Uncharacterized protein [Serendipita vermifera MAFF 305830]
+Length: 7 residues - nb: 2  from  485 to 500 - Psim:0.75 region Length:16 
+LLISLAII
+LLLIMAIV
+**********************
+
+Length: 8 residues - nb: 2  from  485 to 500 - Psim:0.75 region Length:16 
+LLISLAII
+LLLIMAIV
+**********************
+
+>uniprot|A0A1U7KM00|A0A1U7KM00_9APHY Leucine-rich repeat-containing protein sog2 [Phlebia centrifuga]
+Length: 4 residues - nb: 4  from  719 to 734 - Psim:0.65 region Length:16 
+SS-T-
+SSFMP
+SS-SS
+SP-SI
+**********************
+
+>uniprot|X8J160|X8J160_9HOMO LRR protein [Rhizoctonia solani AG-3 Rhs1AP]
+Length: 5 residues - nb: 3  from  327 to 341 - Psim:0.6666666666666666 region Length:15 
+AL--RA-
+AL--RSP
+DQPPRI-
+**********************
+
+Length: 9 residues - nb: 2  from  183 to 198 - Psim:0.7 region Length:16 
+SRR---VFSQ
+SRSSSSLFS-
+**********************
+
+>uniprot|A0A1U7KMG8|A0A1U7KMG8_9APHY Uncharacterized protein [Phlebia centrifuga]
+Length: 5 residues - nb: 5  from  4 to 26 - Psim:0.6857142857142857 region Length:23 
+SS-P-P-
+SS-P-CL
+DPLD-S-
+SP-P-S-
+SP-SHE-
+**********************
+
+>uniprot|A0A1Q3EN15|A0A1Q3EN15_LENED Ran gtpase-activating protein 1 [Lentinula edodes]
+Length: 4 residues - nb: 7  from  349 to 375 - Psim:0.6785714285714286 region Length:27 
+DEEE
+DEEE
+-QED
+AEEE
+AEAR
+AEKE
+AELE
+**********************
+
+Length: 5 residues - nb: 6  from  350 to 376 - Psim:0.7619047619047619 region Length:27 
+-EEE-D-
+-EEEQE-
+DAEE-E-
+-AEA-R-
+-AEK-E-
+-AEL-EM
+**********************
+
+>uniprot|A0A1Q3DXE7|A0A1Q3DXE7_LENED Leucine rich repeat domain protein [Lentinula edodes]
+Length: 7 residues - nb: 2  from  366 to 380 - Psim:0.8125 region Length:15 
+SFTPSPTK
+SFN-SPTP
+**********************
+
+Length: 9 residues - nb: 2  from  366 to 382 - Psim:0.7222222222222222 region Length:17 
+SF-TPSPTK
+SFNSPTPNQ
+**********************
+
+>uniprot|A0A0P1BKM9|A0A0P1BKM9_9BASI NISCHARIN RELATED [Ceraceosorus bombacis]
+Length: 3 residues - nb: 5  from  397 to 412 - Psim:0.65 region Length:16 
+NLLP
+NL-K
+-LL-
+NLEG
+NLI-
+**********************
+
+Length: 4 residues - nb: 6  from  387 to 413 - Psim:0.7142857142857143 region Length:27 
+NL-LI--
+SV-PPSL
+NL-LP--
+NLKLL--
+NL-EG--
+NL-IE--
+**********************
+
+Length: 5 residues - nb: 3  from  79 to 94 - Psim:0.7222222222222222 region Length:16 
+ASR-NP
+ASSDLQ
+ASR-LR
+**********************
+
+Length: 5 residues - nb: 4  from  397 to 414 - Psim:0.7083333333333334 region Length:18 
+NL-LP-
+NLKLL-
+NL-EG-
+NL-IET
+**********************
+
+Length: 8 residues - nb: 2  from  374 to 390 - Psim:0.7777777777777778 region Length:17 
+DLLSNLTSL
+DLSSNLL-I
+**********************
+
+>uniprot|A0A0P1BIH8|A0A0P1BIH8_9BASI Protein phosphatase 1, regulatory subunit, and related proteins [Ceraceosorus bombacis]
+Length: 7 residues - nb: 2  from  228 to 242 - Psim:0.75 region Length:15 
+ANRLAKLP
+AN-LASSL
+**********************
+
+Length: 8 residues - nb: 2  from  228 to 243 - Psim:0.8333333333333334 region Length:16 
+ANRLAK-LP
+AN-LASSLP
+**********************
+
+>uniprot|A0A0P1BSB0|A0A0P1BSB0_9BASI Leucine-rich repeat protein [Ceraceosorus bombacis]
+Length: 4 residues - nb: 4  from  3 to 17 - Psim:0.6875 region Length:15 
+AALK
+AAI-
+AAQR
+AALA
+**********************
+
+Length: 5 residues - nb: 3  from  539 to 552 - Psim:0.6666666666666666 region Length:14 
+AKVR-
+AKVAD
+AKDTE
+**********************
+
+>uniprot|V2Y9V3|V2Y9V3_MONRO Leucine rich repeat domain protein [Moniliophthora roreri MCA 2997]
+Length: 8 residues - nb: 2  from  380 to 397 - Psim:0.8 region Length:18 
+VLGIYLNLGQ
+VL--YLNISQ
+**********************
+
+>uniprot|A0A0P1BR99|A0A0P1BR99_9BASI Ran GTPase-activating protein [Ceraceosorus bombacis]
+Length: 3 residues - nb: 5  from  362 to 377 - Psim:0.68 region Length:16 
+D-EAS
+D-E-E
+SGE-T
+--E-E
+E-E-T
+**********************
+
+Length: 3 residues - nb: 15  from  650 to 699 - Psim:0.6666666666666666 region Length:50 
+-AAET
+-AAE-
+-VA--
+EAAD-
+-EAP-
+-EPQV
+-AADT
+-AAE-
+-VA--
+EAAD-
+-EAP-
+-EPQV
+-AAET
+-AAE-
+-VAE-
+**********************
+
+Length: 3 residues - nb: 9  from  670 to 699 - Psim:0.6888888888888889 region Length:30 
+-AADT
+-AAE-
+-VA--
+EAAD-
+-EAP-
+-EPQV
+-AAET
+-AAE-
+-VAE-
+**********************
+
+Length: 4 residues - nb: 4  from  406 to 419 - Psim:0.8 region Length:14 
+AA-AV
+AA-P-
+AA-T-
+AAVA-
+**********************
+
+Length: 4 residues - nb: 4  from  629 to 644 - Psim:0.7 region Length:16 
+VAAET
+VA-Q-
+VA-EA
+AD-EA
+**********************
+
+Length: 4 residues - nb: 4  from  651 to 665 - Psim:0.6875 region Length:15 
+AETA
+AEV-
+AEAA
+DEAP
+**********************
+
+Length: 20 residues - nb: 5  from  641 to 740 - Psim:0.7714285714285715 region Length:100 
+ADEAPEPQVAAETAAEV-AEA
+ADEAPEPQVAADTAAEV-AEA
+ADEAPEPQVAAETAAEV-AES
+AQEVPESKVAAENASEV-ADS
+AQDALQP-AREEAIASVTADT
+**********************
+
+>uniprot|A0A0P1BAR6|A0A0P1BAR6_9BASI Leucine rich repeat proteins, some proteins contain F-box [Ceraceosorus bombacis]
+Length: 4 residues - nb: 3  from  70 to 83 - Psim:0.6666666666666666 region Length:14 
+APPAA
+APAQP
+AP-TA
+**********************
+
+Length: 5 residues - nb: 3  from  70 to 84 - Psim:0.6666666666666666 region Length:15 
+APPAA
+APAQP
+APTAS
+**********************
+
+Length: 5 residues - nb: 3  from  678 to 693 - Psim:0.6666666666666666 region Length:16 
+QGSLHE
+QGASS-
+QGSRF-
+**********************
+
+>uniprot|A0A0P1BPW2|A0A0P1BPW2_9BASI Ribonuclease inhibitor type leucine-rich repeat proteins [Ceraceosorus bombacis]
+Length: 9 residues - nb: 2  from  78 to 97 - Psim:0.7272727272727273 region Length:20 
+ASVLFAEKGWG
+AS--FARFQKG
+**********************
+
+>uniprot|A0A0L0VTZ4|A0A0L0VTZ4_9BASI Uncharacterized protein [Puccinia striiformis f. sp. tritici PST-78]
+Length: 4 residues - nb: 4  from  65 to 81 - Psim:0.7 region Length:17 
+ESDSD
+ESE-E
+ESES-
+ESD-D
+**********************
+
+Length: 5 residues - nb: 4  from  59 to 78 - Psim:0.75 region Length:20 
+ESEEPS
+ESDS-D
+ESE--E
+ESES-E
+**********************
+
+Length: 6 residues - nb: 5  from  59 to 88 - Psim:0.7142857142857143 region Length:30 
+-ESEEPS
+-ESDSD-
+-ESEEES
+-ESESDD
+SEDESDE
+**********************
+
+Length: 7 residues - nb: 2  from  52 to 66 - Psim:0.6875 region Length:15 
+SEELEFDE
+SEEPS-ES
+**********************
+
+Length: 7 residues - nb: 2  from  79 to 92 - Psim:0.8571428571428571 region Length:14 
+SDDSEDE
+SDESEDG
+**********************
+
+Length: 8 residues - nb: 2  from  78 to 92 - Psim:0.875 region Length:15 
+ESDDSED-
+ESDESEDG
+**********************
+
+Length: 9 residues - nb: 3  from  58 to 86 - Psim:0.7878787878787878 region Length:29 
+DESEEPSESDS
+DESEE--ESES
+-ESDD-SEDES
+**********************
+
+>uniprot|A0A0L0VMV1|A0A0L0VMV1_9BASI Uncharacterized protein [Puccinia striiformis f. sp. tritici PST-78]
+Length: 4 residues - nb: 4  from  857 to 871 - Psim:0.7916666666666666 region Length:15 
+NL-R--
+NL-R--
+NLNK-L
+NL-SG-
+**********************
+
+Length: 7 residues - nb: 2  from  424 to 438 - Psim:0.8125 region Length:15 
+PSKPRSII
+PSTPRSA-
+**********************
+
+Length: 7 residues - nb: 3  from  745 to 765 - Psim:0.7916666666666666 region Length:21 
+DQSFNSM-
+DQSFNSM-
+DQP-STMT
+**********************
+
+Length: 15 residues - nb: 3  from  434 to 478 - Psim:0.7777777777777778 region Length:45 
+TPRSASRPPNSNNPT
+TPKSISRASSSINPT
+TPKSVSRPSSSIKKS
+**********************
+
+>uniprot|M9MCW0|M9MCW0_PSEA3 Leucine rich repeat proteins [Moesziomyces antarcticus T-34]
+Length: 6 residues - nb: 3  from  217 to 234 - Psim:0.6666666666666666 region Length:18 
+GP-LCHRC
+GP-L-YK-
+GPGA-AG-
+**********************
+
+>uniprot|A0A2A9NQB0|A0A2A9NQB0_9AGAR Uncharacterized protein [Amanita thiersii Skay4041]
+Length: 1 residues - nb: 11  from  356 to 366 - Psim:1.0 region Length:11 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+Length: 4 residues - nb: 4  from  381 to 397 - Psim:0.7 region Length:17 
+AAG-K
+AAADK
+AA-DD
+LA-DL
+**********************
+
+Length: 5 residues - nb: 4  from  376 to 394 - Psim:0.65 region Length:19 
+AAQRP
+AAG-K
+AAADK
+AADDL
+**********************
+
+>uniprot|A0A2A9NMF1|A0A2A9NMF1_9AGAR Uncharacterized protein [Amanita thiersii Skay4041]
+Length: 3 residues - nb: 5  from  127 to 140 - Psim:0.65 region Length:14 
+EL--
+EL-S
+DL--
+PLIT
+PL-S
+**********************
+
+>uniprot|A0A0M9VMR3|A0A0M9VMR3_9BASI Uncharacterized protein [Malassezia pachydermatis]
+Length: 4 residues - nb: 4  from  42 to 57 - Psim:0.6875 region Length:16 
+PASD
+PAST
+PAPL
+PAIQ
+**********************
+
+Length: 5 residues - nb: 4  from  42 to 58 - Psim:0.7 region Length:17 
+PA-SD
+PA-ST
+PA-PL
+PAIQS
+**********************
+
+>uniprot|A0A180G4A6|A0A180G4A6_PUCT1 Uncharacterized protein [Puccinia triticina 1-1 BBBD Race 1]
+Length: 1 residues - nb: 12  from  294 to 305 - Psim:1.0 region Length:12 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+Length: 4 residues - nb: 4  from  396 to 412 - Psim:0.7 region Length:17 
+QTGQE
+QTAQH
+QTI--
+QTAD-
+**********************
+
+Length: 5 residues - nb: 6  from  380 to 410 - Psim:0.6666666666666666 region Length:31 
+Q--EDEE
+QEQTAQ-
+Q--EEEN
+Q--TGQE
+Q--TAQH
+Q--TIQT
+**********************
+
+>uniprot|A0A0M9VPE6|A0A0M9VPE6_9BASI Leucine rich repeat domain-containing protein [Malassezia pachydermatis]
+Length: 8 residues - nb: 2  from  12 to 29 - Psim:0.85 region Length:18 
+ASSSSSPPRV
+ASSSS-PPS-
+**********************
+
+Length: 9 residues - nb: 2  from  12 to 30 - Psim:0.85 region Length:19 
+ASSSSSPPRV
+ASSSS-PPSS
+**********************
+
+>uniprot|A0A0M9VPY8|A0A0M9VPY8_9BASI L domain-like protein [Malassezia pachydermatis]
+Length: 3 residues - nb: 6  from  753 to 768 - Psim:0.8 region Length:16 
+-A-A-
+-A-AL
+-ARA-
+-A-Q-
+-A-QY
+QA-A-
+**********************
+
+>uniprot|A0A1Y1UPF5|A0A1Y1UPF5_9TREE Endonuclease/exonuclease/phosphatase [Kockovaella imperatae]
+Length: 6 residues - nb: 4  from  84 to 107 - Psim:0.65625 region Length:24 
+PG--PH-L
+PGHGPH--
+PSFGNG--
+SG-GMHLG
+**********************
+
+Length: 8 residues - nb: 3  from  45 to 69 - Psim:0.7 region Length:25 
+PG-GPMPLPS
+PGYGP-P-SG
+PG-GPNG-NQ
+**********************
+
+Length: 8 residues - nb: 2  from  100 to 114 - Psim:0.8125 region Length:15 
+GSG-GMHL
+GSGAGGSL
+**********************
+
+>uniprot|A0A1Y1UA73|A0A1Y1UA73_9TREE Uncharacterized protein [Kockovaella imperatae]
+Length: 4 residues - nb: 4  from  233 to 246 - Psim:0.7 region Length:14 
+-LG-S
+-LGGS
+-LS-D
+GLL-E
+**********************
+
+Length: 5 residues - nb: 3  from  234 to 247 - Psim:0.6666666666666666 region Length:14 
+GSLG-
+GSLSD
+GLLEG
+**********************
+
+>uniprot|L8WQV8|L8WQV8_THACA Ran GTPase activator [Rhizoctonia solani AG-1 IA]
+Length: 3 residues - nb: 5  from  357 to 371 - Psim:0.7 region Length:15 
+EEFD
+EE-E
+AE-R
+EE--
+EE-A
+**********************
+
+Length: 5 residues - nb: 3  from  357 to 371 - Psim:0.7222222222222222 region Length:15 
+EEF-D-
+EEEAER
+EEE-EA
+**********************
+
+Length: 6 residues - nb: 3  from  363 to 382 - Psim:0.6666666666666666 region Length:20 
+EAEREEE
+EAELKRG
+EAS-DEE
+**********************
+
+Length: 7 residues - nb: 3  from  363 to 383 - Psim:0.7142857142857143 region Length:21 
+EAEREEE
+EAELKRG
+EASDEEE
+**********************
+
+>uniprot|A0A151VTY5|A0A151VTY5_HYPMA Leucine-rich repeat-containing protein 10B [Hypsizygus marmoreus]
+Length: 4 residues - nb: 6  from  9 to 32 - Psim:0.7222222222222222 region Length:24 
+PSF---
+PSS-P-
+PSS-P-
+TSCLD-
+SSP-P-
+-SS-PY
+**********************
+
+Length: 5 residues - nb: 5  from  12 to 34 - Psim:0.6571428571428571 region Length:23 
+PSS-P--
+PSS-P-T
+-SCLD-S
+-SP-P-S
+-SP-YLD
+**********************
+
+Length: 10 residues - nb: 2  from  15 to 36 - Psim:0.7916666666666666 region Length:22 
+PPSSPTSCLDSS
+PPSSPY--LDAA
+**********************
+
+>uniprot|A0A2G8SND4|A0A2G8SND4_9APHY Uncharacterized protein [Ganoderma sinense ZZ0214-1]
+Length: 3 residues - nb: 5  from  57 to 71 - Psim:0.65 region Length:15 
+S-LK
+S-LK
+P--R
+SPTK
+S-PA
+**********************
+
+Length: 3 residues - nb: 5  from  613 to 629 - Psim:0.68 region Length:17 
+-AP-R
+TPS-P
+-PAHT
+-PA-T
+-VA-T
+**********************
+
+Length: 4 residues - nb: 5  from  607 to 627 - Psim:0.7 region Length:21 
+--PSAP
+--PSAP
+RTPS-P
+--PAHT
+--PATV
+**********************
+
+Length: 5 residues - nb: 3  from  106 to 119 - Psim:0.6666666666666666 region Length:14 
+KAI-V
+KASPV
+KAEFE
+**********************
+
+Length: 5 residues - nb: 3  from  607 to 621 - Psim:0.7777777777777778 region Length:15 
+PSAP--
+PSAPRT
+PSPP-A
+**********************
+
+>uniprot|M2RTL4|M2RTL4_CERS8 Uncharacterized protein (Fragment) [Gelatoporia subvermispora B]
+Length: 4 residues - nb: 3  from  192 to 205 - Psim:0.6666666666666666 region Length:14 
+-SSSIP
+GSSSL-
+GSA-Y-
+**********************
+
+>uniprot|L8WVH4|L8WVH4_THACA Leucine rich repeats (2 copies) domain-containing protein [Rhizoctonia solani AG-1 IA]
+Length: 1 residues - nb: 11  from  529 to 539 - Psim:1.0 region Length:11 
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+**********************
+
+Length: 5 residues - nb: 3  from  165 to 178 - Psim:0.6666666666666666 region Length:14 
+LD-GL
+LDLKT
+LDLSF
+**********************
+
+>uniprot|M2PUS4|M2PUS4_CERS8 Uncharacterized protein [Gelatoporia subvermispora B]
+Length: 7 residues - nb: 2  from  325 to 339 - Psim:0.75 region Length:15 
+LRRLVLSG
+LRRLT-DH
+**********************
+
+>uniprot|A0A151W3T1|A0A151W3T1_HYPMA SCF E3 ubiquitin ligase complex F-box protein grrA [Hypsizygus marmoreus]
+Length: 5 residues - nb: 3  from  561 to 575 - Psim:0.6666666666666666 region Length:15 
+DDTEYE
+DD-D-E
+DDYTY-
+**********************
+
+>uniprot|L8X2T0|L8X2T0_THACA Leucine rich repeats (2 copies) domain-containing protein [Rhizoctonia solani AG-1 IA]
+Length: 9 residues - nb: 2  from  656 to 673 - Psim:0.8888888888888888 region Length:18 
+DHGHSHEGG
+DHGHSHDGP
+**********************
+
+>uniprot|A0A151W6E1|A0A151W6E1_HYPMA Tubulin-specific chaperone E (Fragment) [Hypsizygus marmoreus]
+Length: 9 residues - nb: 2  from  180 to 198 - Psim:0.8 region Length:19 
+LQRLALNRNR
+LQP-ATNRNV
+**********************
+
+>uniprot|A0A137QH70|A0A137QH70_9AGAR p53-induced protein with a death domain [Leucoagaricus sp. SymC.cos]
+Length: 4 residues - nb: 5  from  14 to 33 - Psim:0.7 region Length:20 
+SSPA
+SSPS
+LCVD
+SSPL
+SSPS
+**********************
+
+>uniprot|A0A2G8SCB5|A0A2G8SCB5_9APHY Uncharacterized protein [Ganoderma sinense ZZ0214-1]
+Length: 5 residues - nb: 3  from  175 to 189 - Psim:0.7222222222222222 region Length:15 
+PP-VL-
+PPLELM
+PP-SLD
+**********************
+
+>uniprot|R9AHL3|R9AHL3_WALI9 Adenylate cyclase [Wallemia ichthyophaga EXF-994]
+Length: 3 residues - nb: 5  from  214 to 228 - Psim:0.7333333333333333 region Length:15 
+SSN
+SSN
+RNA
+SSN
+SST
+**********************
+
+Length: 4 residues - nb: 4  from  2432 to 2445 - Psim:0.8125 region Length:14 
+NTD-
+NT-T
+NTNT
+NTNT
+**********************
+
+Length: 4 residues - nb: 4  from  2806 to 2822 - Psim:0.7 region Length:17 
+SPHT-
+SPPIT
+SPNI-
+FPNN-
+**********************
+
+>uniprot|R9ARJ1|R9ARJ1_WALI9 Ran GTPase-activating protein 1 [Wallemia ichthyophaga EXF-994]
+Length: 4 residues - nb: 4  from  348 to 363 - Psim:0.7 region Length:16 
+EEY--
+EEDDL
+EEES-
+EGED-
+**********************
+
+>uniprot|R9ABF8|R9ABF8_WALI9 Leucine-rich repeat-containing protein sog2 [Wallemia ichthyophaga EXF-994]
+Length: 4 residues - nb: 5  from  226 to 244 - Psim:0.68 region Length:19 
+-TPSN
+-TPSP
+FNPP-
+-TP-D
+-TPNN
+**********************
+
+Length: 4 residues - nb: 4  from  947 to 961 - Psim:0.7 region Length:15 
+KSA--
+KSS--
+KSTGK
+KSR-E
+**********************
+
+Length: 5 residues - nb: 3  from  259 to 275 - Psim:0.6666666666666666 region Length:17 
+ASKSSH
+ASHGRN
+AS-SSA
+**********************
+
+Length: 6 residues - nb: 3  from  555 to 572 - Psim:0.6666666666666666 region Length:18 
+SGLSSV
+SGGDRG
+GGGDRN
+**********************
+
+>uniprot|R9AE56|R9AE56_WALI9 SCF E3 ubiquitin ligase complex F-box protein grrA [Wallemia ichthyophaga EXF-994]
+Length: 7 residues - nb: 2  from  87 to 100 - Psim:0.7857142857142857 region Length:14 
+LLNNPTH
+LLNNLLV
+**********************
+
+>uniprot|A0A166FBE4|A0A166FBE4_9HOMO Uncharacterized protein [Fibularhizoctonia sp. CBS 109695]
+Length: 5 residues - nb: 4  from  443 to 463 - Psim:0.6785714285714286 region Length:21 
+DGV--K-
+DGG-GGG
+DGDVAM-
+DGD-GD-
+**********************
+
+Length: 7 residues - nb: 3  from  453 to 472 - Psim:0.8148148148148148 region Length:20 
+-DGD--VAM
+-DGDGDVA-
+MDGDGDV--
+**********************
+
+Length: 8 residues - nb: 3  from  453 to 474 - Psim:0.875 region Length:22 
+DGD--VAM
+DGDGDVAM
+DGDGDVEM
+**********************
+
+>uniprot|F4RE45|F4RE45_MELLP Uncharacterized protein [Melampsora larici-populina 98AG31]
+Length: 7 residues - nb: 2  from  83 to 97 - Psim:0.75 region Length:15 
+EPPAAEFF
+EP-AAQHQ
+**********************
+
+>uniprot|F4RAQ8|F4RAQ8_MELLP Uncharacterized protein [Melampsora larici-populina 98AG31]
+Length: 10 residues - nb: 2  from  316 to 335 - Psim:0.85 region Length:20 
+TEETDLTNSS
+TEETNLTNPP
+**********************
+
+>uniprot|F4RDG3|F4RDG3_MELLP Uncharacterized protein [Melampsora larici-populina 98AG31]
+Length: 4 residues - nb: 9  from  252 to 288 - Psim:0.6507936507936508 region Length:37 
+---EKEV
+---EKET
+ET-QKD-
+-T-EMV-
+-T-EKE-
+-T-ETE-
+-N-QM--
+-VVDEE-
+-V-VVT-
+**********************
+
+Length: 4 residues - nb: 5  from  288 to 305 - Psim:0.7666666666666667 region Length:18 
+-TK-P-
+-TK-N-
+-TKKP-
+-TK-AS
+GAK-R-
+**********************
+
+Length: 5 residues - nb: 7  from  246 to 277 - Psim:0.7321428571428571 region Length:32 
+--EKEIQV
+--EKE--V
+EKETE---
+T-QKD---
+T-EMV---
+T-EKE---
+T-ETE--N
+**********************
+
+Length: 7 residues - nb: 2  from  81 to 94 - Psim:0.8125 region Length:14 
+PNLSQSL-
+PNL-KSLV
+**********************
+
+>uniprot|F4RM84|F4RM84_MELLP Uncharacterized protein [Melampsora larici-populina 98AG31]
+Length: 4 residues - nb: 4  from  24 to 39 - Psim:0.75 region Length:16 
+EEED
+EEDD
+EEDE
+DEDG
+**********************
+
+Length: 4 residues - nb: 4  from  75 to 91 - Psim:0.75 region Length:17 
+SAC-S
+SASTS
+SAS-A
+SVS-A
+**********************
+
+Length: 5 residues - nb: 4  from  24 to 41 - Psim:0.7916666666666666 region Length:18 
+EE-ED-
+EE-DD-
+EEDED-
+ED-GDE
+**********************
+
+Length: 5 residues - nb: 3  from  72 to 87 - Psim:0.8333333333333334 region Length:16 
+SSISAC
+SSAST-
+SSASA-
+**********************
+
+>uniprot|F4S825|F4S825_MELLP Uncharacterized protein [Melampsora larici-populina 98AG31]
+Length: 5 residues - nb: 3  from  269 to 284 - Psim:0.6666666666666666 region Length:16 
+KLGNNS
+KL-ELL
+KL-SGS
+**********************
+
+>uniprot|F4SDS5|F4SDS5_MELLP Uncharacterized protein [Melampsora larici-populina 98AG31]
+Length: 3 residues - nb: 9  from  354 to 378 - Psim:0.6666666666666666 region Length:25 
+EKD-
+EKD-
+EL--
+EE--
+EEE-
+KDEL
+EEA-
+EE--
+EEV-
+**********************
+
+Length: 4 residues - nb: 4  from  353 to 366 - Psim:0.75 region Length:14 
+DE-K-
+DE-K-
+DELE-
+EE-EE
+**********************
+
+Length: 4 residues - nb: 4  from  454 to 470 - Psim:0.65 region Length:17 
+NLKEL
+NLSN-
+NLLK-
+TLWK-
+**********************
+
+Length: 5 residues - nb: 3  from  818 to 832 - Psim:0.7142857142857143 region Length:15 
+NL-VQTL
+NL-SQ--
+NLLNR--
+**********************
+
+Length: 9 residues - nb: 2  from  357 to 374 - Psim:0.9444444444444444 region Length:18 
+EKDELEEEE
+EKDELEEAE
+**********************
+
+>uniprot|A0A066VZC2|A0A066VZC2_9BASI RNI-like protein [Tilletiaria anomala UBC 951]
+Length: 3 residues - nb: 6  from  127 to 145 - Psim:0.6666666666666666 region Length:19 
+-PSN
+TSQS
+-EDG
+-EDD
+-EDD
+-EDD
+**********************
+
+Length: 4 residues - nb: 4  from  822 to 837 - Psim:0.7 region Length:16 
+GHSH-
+GH-T-
+GHYAQ
+GHQA-
+**********************
+
+>uniprot|A0A066WIB0|A0A066WIB0_9BASI Uncharacterized protein [Tilletiaria anomala UBC 951]
+Length: 1 residues - nb: 16  from  104 to 119 - Psim:1.0 region Length:16 
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+**********************
+
+Length: 1 residues - nb: 12  from  195 to 206 - Psim:1.0 region Length:12 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+**********************
+
+>uniprot|A0A066WFQ1|A0A066WFQ1_9BASI L domain-like protein [Tilletiaria anomala UBC 951]
+Length: 5 residues - nb: 3  from  77 to 90 - Psim:0.6666666666666666 region Length:14 
+NLLDV
+NLND-
+NLIVY
+**********************
+
+Length: 5 residues - nb: 3  from  346 to 359 - Psim:0.6666666666666666 region Length:14 
+NLRHL
+NLDH-
+NLFVE
+**********************
+
+Length: 6 residues - nb: 3  from  148 to 164 - Psim:0.6666666666666666 region Length:17 
+DSTQ-I
+DSINGI
+DSIATL
+**********************
+
+>uniprot|A0A066W4A3|A0A066W4A3_9BASI Uncharacterized protein [Tilletiaria anomala UBC 951]
+Length: 5 residues - nb: 3  from  133 to 147 - Psim:0.6666666666666666 region Length:15 
+QSQRAQ
+TQA-P-
+TQARA-
+**********************
+
+>uniprot|A0A066VQR2|A0A066VQR2_9BASI Uncharacterized protein [Tilletiaria anomala UBC 951]
+Length: 3 residues - nb: 5  from  1132 to 1145 - Psim:0.75 region Length:14 
+AS--
+AS--
+ASIA
+AS-T
+AA-A
+**********************
+
+>uniprot|A0A066VD82|A0A066VD82_9BASI L domain-like protein [Tilletiaria anomala UBC 951]
+Length: 4 residues - nb: 9  from  554 to 587 - Psim:0.6507936507936508 region Length:34 
+-K-G-D-
+-K-G-P-
+-K-GTN-
+-EMK-N-
+-S-A-PP
+-S-A-SG
+SK-S-D-
+-K-SAN-
+-K-SKD-
+**********************
+
+>uniprot|A0A066WFE4|A0A066WFE4_9BASI L domain-like protein [Tilletiaria anomala UBC 951]
+Length: 6 residues - nb: 3  from  300 to 318 - Psim:0.6666666666666666 region Length:19 
+KLE-NLE
+KLA-NLE
+ELYISHN
+**********************
+
+Length: 7 residues - nb: 2  from  388 to 402 - Psim:0.875 region Length:15 
+EGNPAYRK
+EG-PAYRR
+**********************
+
+Length: 8 residues - nb: 2  from  388 to 403 - Psim:0.8888888888888888 region Length:16 
+EGNPAYR-K
+EG-PAYRRK
+**********************
+
+Length: 9 residues - nb: 2  from  388 to 404 - Psim:0.85 region Length:17 
+EGNPAYR-K-
+EG-PAYRRKL
+**********************
+
+>uniprot|A0A066VY49|A0A066VY49_9BASI RNI-like protein [Tilletiaria anomala UBC 951]
+Length: 4 residues - nb: 4  from  594 to 610 - Psim:0.65 region Length:17 
+AEVA-
+AEVTH
+AEAA-
+STPI-
+**********************
+
+Length: 5 residues - nb: 3  from  594 to 607 - Psim:0.7333333333333333 region Length:14 
+AEVA-
+AEVTH
+AEAAS
+**********************
+
+Length: 6 residues - nb: 3  from  661 to 678 - Psim:0.6666666666666666 region Length:18 
+TALV--A-
+TA-EPVAI
+TASEQ-P-
+**********************
+
+Length: 9 residues - nb: 2  from  451 to 465 - Psim:0.75 region Length:15 
+ASPQPAAA
+AS-SPPAP
+**********************
+
+Length: 21 residues - nb: 2  from  396 to 441 - Psim:0.82 region Length:46 
+AAASIEPVAKTENAQPELVKEASTL
+AAASIEPAAKAEDVQPEPVKE----
+**********************
+
+>uniprot|A0A066VYV5|A0A066VYV5_9BASI L domain-like protein [Tilletiaria anomala UBC 951]
+Length: 5 residues - nb: 3  from  143 to 159 - Psim:0.7619047619047619 region Length:17 
+RVL-DFK
+RVKNA-E
+RVL-A-K
+**********************
+
+Length: 5 residues - nb: 3  from  263 to 279 - Psim:0.6666666666666666 region Length:17 
+AGKKGG
+AGKSAQ
+AGGRG-
+**********************
+
+Length: 6 residues - nb: 3  from  263 to 280 - Psim:0.7222222222222222 region Length:18 
+AGKKGG
+AGKSAQ
+AGGRGQ
+**********************
+
+Length: 8 residues - nb: 2  from  235 to 250 - Psim:0.65 region Length:16 
+LEEI--TR--
+LEEKLRLGYA
+**********************
+
+>uniprot|A0A066V8C3|A0A066V8C3_9BASI RNI-like protein [Tilletiaria anomala UBC 951]
+Length: 8 residues - nb: 2  from  148 to 163 - Psim:0.7777777777777778 region Length:16 
+RKKV-EREH
+RKKLSERR-
+**********************
+
+>uniprot|A0A0D0D2L2|A0A0D0D2L2_9AGAR Unplaced genomic scaffold GYMLUscaffold_16, whole genome shotgun sequence [Gymnopus luxurians FD-317 M1]
+Length: 4 residues - nb: 4  from  164 to 179 - Psim:0.7 region Length:16 
+SSTP-
+SSQSE
+SS-A-
+SSEA-
+**********************
+
+Length: 4 residues - nb: 3  from  447 to 460 - Psim:0.7333333333333333 region Length:14 
+TLISL
+TLDSA
+TLKS-
+**********************
+
+Length: 4 residues - nb: 3  from  760 to 773 - Psim:0.6666666666666666 region Length:14 
+LRTLD
+LRGNE
+LR-NH
+**********************
+
+Length: 4 residues - nb: 4  from  1237 to 1253 - Psim:0.65 region Length:17 
+AS-AP
+ASGDM
+AS-TA
+AT-AT
+**********************
+
+Length: 4 residues - nb: 4  from  1344 to 1358 - Psim:0.75 region Length:15 
+GD-DY
+GDG--
+GDGD-
+GDEV-
+**********************
+
+Length: 5 residues - nb: 3  from  4 to 19 - Psim:0.8333333333333334 region Length:16 
+SPIPPA
+SPIPP-
+SPSFP-
+**********************
+
+Length: 5 residues - nb: 3  from  164 to 177 - Psim:0.6666666666666666 region Length:14 
+SS-TP
+SSQSE
+SSASS
+**********************
+
+Length: 5 residues - nb: 3  from  447 to 461 - Psim:0.7333333333333333 region Length:15 
+TLISL
+TLDSA
+TLKSG
+**********************
+
+Length: 5 residues - nb: 3  from  603 to 618 - Psim:0.7142857142857143 region Length:16 
+PPPR-H-
+PPMNEH-
+PPT--HP
+**********************
+
+Length: 5 residues - nb: 5  from  980 to 1003 - Psim:0.6666666666666666 region Length:24 
+-GAGVG
+-GAGSG
+SGSG-S
+-GLGV-
+-GLGEA
+**********************
+
+Length: 5 residues - nb: 3  from  1237 to 1250 - Psim:0.6666666666666666 region Length:14 
+AS-AP
+ASGDM
+ASTAA
+**********************
+
+Length: 6 residues - nb: 3  from  4 to 20 - Psim:0.8571428571428571 region Length:17 
+SP-IPPA
+SP-IPP-
+SPSFPP-
+**********************
+
+Length: 11 residues - nb: 2  from  1430 to 1453 - Psim:0.75 region Length:24 
+SPLVGSAPSTP-LL
+SP-A-T-PSTPSML
+**********************
+
+>uniprot|B0CUE7|B0CUE7_LACBS Predicted protein [Laccaria bicolor S238N-H82]
+Length: 5 residues - nb: 5  from  10 to 33 - Psim:0.6571428571428571 region Length:24 
+SS-PP--
+SS-PA-R
+SIWED-S
+SP-PA--
+S--PIIT
+**********************
+
+>uniprot|A0A0D0BAE2|A0A0D0BAE2_9AGAR Unplaced genomic scaffold GYMLUscaffold_120, whole genome shotgun sequence [Gymnopus luxurians FD-317 M1]
+Length: 8 residues - nb: 2  from  102 to 119 - Psim:0.7 region Length:18 
+LERLSCADDG
+LERLP-GGI-
+**********************
+
+>uniprot|A0A1E3J3H6|A0A1E3J3H6_9TREE Ran GTPase-activating protein 1 [Tsuchiyaea wingfieldii CBS 7118]
+Length: 5 residues - nb: 3  from  344 to 358 - Psim:0.8333333333333334 region Length:15 
+EEPESD
+EE-ES-
+EE-EGD
+**********************
+
+>uniprot|A0A0C3PNU9|A0A0C3PNU9_PISTI Uncharacterized protein [Pisolithus tinctorius Marx 270]
+Length: 4 residues - nb: 4  from  16 to 31 - Psim:0.65 region Length:16 
+S-PLS
+S-PPL
+D-PVD
+SSPP-
+**********************
+
+Length: 5 residues - nb: 3  from  83 to 99 - Psim:0.6666666666666666 region Length:17 
+SRVSGL
+SRVAAR
+SR-SLV
+**********************
+
+Length: 6 residues - nb: 3  from  83 to 100 - Psim:0.6666666666666666 region Length:18 
+SRVSGL-
+SRVAAR-
+SR-SLVE
+**********************
+
+>uniprot|A0A1J8PZD3|A0A1J8PZD3_9HOMO Uncharacterized protein [Rhizopogon vesiculosus]
+>uniprot|A8PXI8|A8PXI8_MALGO Uncharacterized protein [Malassezia globosa CBS 7966]
+Length: 8 residues - nb: 2  from  194 to 211 - Psim:0.75 region Length:18 
+LRSLELGGNR
+LRSLE-NLS-
+**********************
+
+Length: 9 residues - nb: 2  from  194 to 212 - Psim:0.75 region Length:19 
+LRSLELGGNR
+LRSLE-NLSQ
+**********************
+
+>uniprot|A8QCT9|A8QCT9_MALGO Uncharacterized protein [Malassezia globosa CBS 7966]
+Length: 4 residues - nb: 4  from  633 to 649 - Psim:0.6666666666666666 region Length:17 
+-SETEP
+-SEY--
+-SES-P
+DSKD-G
+**********************
+
+>uniprot|A8Q2R3|A8Q2R3_MALGO Uncharacterized protein [Malassezia globosa CBS 7966]
+Length: 3 residues - nb: 15  from  344 to 389 - Psim:0.68 region Length:46 
+D-EL-
+D-EM-
+DPEG-
+E-ED-
+E-ED-
+E-ED-
+E-ED-
+E-EDD
+E-ED-
+V--G-
+E-K--
+E-KK-
+D-PE-
+A-DDL
+A-DE-
+**********************
+
+Length: 3 residues - nb: 11  from  356 to 389 - Psim:0.7454545454545455 region Length:34 
+-DEE-
+-DEE-
+-DEE-
+-DEED
+-DEE-
+-DVG-
+--EK-
+-EKK-
+-DPE-
+ADDL-
+-ADE-
+**********************
+
+Length: 3 residues - nb: 9  from  362 to 389 - Psim:0.6888888888888889 region Length:28 
+-DEE-
+-DEED
+-DEE-
+-DVG-
+--EK-
+-EKK-
+-DPE-
+ADDL-
+-ADE-
+**********************
+
+Length: 4 residues - nb: 9  from  343 to 373 - Psim:0.7962962962962963 region Length:31 
+-L-DE-
+LD-EM-
+-DPEG-
+-E-ED-
+-E-ED-
+-E-ED-
+-E-ED-
+-E-EDD
+-E-EDV
+**********************
+
+Length: 4 residues - nb: 5  from  356 to 372 - Psim:0.9 region Length:17 
+DEE-
+DEE-
+DEE-
+DEED
+DEED
+**********************
+
+>uniprot|A8Q8E2|A8Q8E2_MALGO Uncharacterized protein [Malassezia globosa CBS 7966]
+Length: 4 residues - nb: 3  from  24 to 37 - Psim:0.6666666666666666 region Length:14 
+S-SSPP
+S-S-PT
+YIR-ST
+**********************
+
+>uniprot|M5GG87|M5GG87_DACPD L domain-like protein [Dacryopinax primogenitus]
+Length: 7 residues - nb: 3  from  6 to 26 - Psim:0.75 region Length:21 
+PA-R-SRI
+PAPTGSRI
+PAPA-SKV
+**********************
+
+Length: 8 residues - nb: 3  from  6 to 27 - Psim:0.7407407407407407 region Length:22 
+PA-R-SRI-
+PAPTGSRI-
+PAPA-SKVS
+**********************
+
+>uniprot|A0A061AI44|A0A061AI44_RHOTO RHTO0S02e12574g1_1 [Rhodotorula toruloides]
+Length: 4 residues - nb: 4  from  748 to 764 - Psim:0.65 region Length:17 
+AAQQ-
+AAAN-
+AAIP-
+TQQQM
+**********************
+
+>uniprot|M5G9R8|M5G9R8_DACPD Uncharacterized protein [Dacryopinax primogenitus]
+Length: 5 residues - nb: 3  from  678 to 692 - Psim:0.7222222222222222 region Length:15 
+ALR-S-
+ALRHA-
+AQAHSP
+**********************
+
+>uniprot|A0A067NIK8|A0A067NIK8_PLEOS Uncharacterized protein (Fragment) [Pleurotus ostreatus PC15]
+Length: 8 residues - nb: 2  from  119 to 133 - Psim:0.7222222222222222 region Length:15 
+LSLASFRSS
+LS-A-M-ST
+**********************
+
+>uniprot|Q5KD68|Q5KD68_CRYNJ Ubiquitin-protein ligase, putative [Cryptococcus neoformans var. neoformans JEC21]
+Length: 5 residues - nb: 3  from  832 to 848 - Psim:0.6666666666666666 region Length:17 
+PSRRDR-
+PSG-PRV
+PSD-SY-
+**********************
+
+>uniprot|A0A0C9ZCE3|A0A0C9ZCE3_9HOMO Unplaced genomic scaffold scaffold_139, whole genome shotgun sequence [Pisolithus microcarpus 441]
+Length: 10 residues - nb: 2  from  38 to 58 - Psim:0.75 region Length:21 
+DA-DDRDDDETG
+DAVADRDDED--
+**********************
+
+Length: 11 residues - nb: 2  from  38 to 59 - Psim:0.75 region Length:22 
+DA-DDRDDDETG
+DAVADRDDEDD-
+**********************
+
+Length: 12 residues - nb: 2  from  34 to 59 - Psim:0.75 region Length:26 
+GDDHDADDRDDDET
+GDAV-AD-RDDEDD
+**********************
+
+Length: 13 residues - nb: 2  from  34 to 60 - Psim:0.7666666666666667 region Length:27 
+GDD-HDADDRDDDET
+GDAVADRDD-EDDE-
+**********************
+
+Length: 14 residues - nb: 2  from  34 to 61 - Psim:0.7666666666666667 region Length:28 
+GDD-HDADDRDDDET
+GDAVADRDD-EDDED
+**********************
+
+>uniprot|A0A286U6S1|A0A286U6S1_9HOMO RNI [Phellinus noxius]
+Length: 1 residues - nb: 10  from  443 to 452 - Psim:1.0 region Length:10 
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+**********************
+
+Length: 4 residues - nb: 4  from  501 to 514 - Psim:0.8 region Length:14 
+GGGI-
+GG-I-
+GG-L-
+GG-TA
+**********************
+
+Length: 5 residues - nb: 7  from  471 to 503 - Psim:0.6938775510204082 region Length:33 
+-GM-LS-
+-GMGPGF
+-GMAM--
+-GMGMG-
+MG-GME-
+-GLG-A-
+-GLGGG-
+**********************
+
+Length: 6 residues - nb: 3  from  430 to 447 - Psim:0.7619047619047619 region Length:18 
+SSSHS-N
+SS-HSKS
+KSSSS-S
+**********************
+
+>uniprot|A0A286UKB3|A0A286UKB3_9HOMO Uncharacterized protein [Phellinus noxius]
+Length: 4 residues - nb: 5  from  25 to 45 - Psim:0.76 region Length:21 
+SSSPP
+SS-PI
+SQ-ID
+SS-PM
+SS-PP
+**********************
+
+>uniprot|A0A286UWC0|A0A286UWC0_9HOMO Leucine-rich repeat-containing sog2 [Phellinus noxius]
+Length: 5 residues - nb: 3  from  1014 to 1027 - Psim:0.6666666666666666 region Length:14 
+ALS-T
+ALPRS
+ALPHQ
+**********************
+
+>uniprot|A0A164S9Z6|A0A164S9Z6_9HOMO RNI-like protein [Sistotremastrum niveocremeum HHB9708]
+Length: 4 residues - nb: 5  from  575 to 593 - Psim:0.7666666666666667 region Length:19 
+GD-D--
+GD-DT-
+GIIE-L
+GD-D--
+GDAE--
+**********************
+
+Length: 5 residues - nb: 4  from  654 to 673 - Psim:0.6666666666666666 region Length:20 
+SNSAA-
+SASG--
+SGTSSA
+SGSGS-
+**********************
+
+Length: 7 residues - nb: 2  from  659 to 673 - Psim:0.9375 region Length:15 
+SASGSGTS
+SASGSG-S
+**********************
+
+>uniprot|J8TJ34|J8TJ34_TRIAS Uncharacterized protein [Trichosporon asahii var. asahii CBS 2479]
+Length: 3 residues - nb: 6  from  13 to 29 - Psim:0.7083333333333334 region Length:17 
+PP--
+PP-D
+HS-S
+PPTS
+PP--
+PP-Q
+**********************
+
+Length: 3 residues - nb: 5  from  212 to 227 - Psim:0.68 region Length:16 
+P--PV
+P--PK
+V--LK
+PRLP-
+P--RT
+**********************
+
+Length: 3 residues - nb: 4  from  885 to 898 - Psim:0.65 region Length:14 
+PN-D-
+PN-L-
+AE-LS
+QSIL-
+**********************
+
+Length: 5 residues - nb: 3  from  15 to 29 - Psim:0.7142857142857143 region Length:15 
+PPDHS-S
+PP--T-S
+PP--PPQ
+**********************
+
+>uniprot|A0A1B9HJZ6|A0A1B9HJZ6_9TREE Ran GTPase-activating protein 1 [Kwoniella heveanensis CBS 569]
+Length: 3 residues - nb: 5  from  351 to 364 - Psim:0.6666666666666666 region Length:14 
+EE-
+EED
+VSD
+EEA
+EEE
+**********************
+
+Length: 5 residues - nb: 4  from  362 to 381 - Psim:0.7083333333333334 region Length:20 
+EEENDD
+EE-KEL
+EE--EG
+EE-GED
+**********************
+
+>uniprot|A0A1K0G3J1|A0A1K0G3J1_9BASI Related to SOG2-key component of the RAM signaling network [Ustilago bromivora]
+Length: 3 residues - nb: 5  from  130 to 144 - Psim:0.75 region Length:15 
+ASMP
+ASS-
+-HS-
+ASP-
+ASS-
+**********************
+
+Length: 4 residues - nb: 4  from  130 to 145 - Psim:0.75 region Length:16 
+ASM-P
+ASSHS
+ASP--
+ASS-S
+**********************
+
+>uniprot|A0A164XCT2|A0A164XCT2_9HOMO Ran GTPase activator [Sistotremastrum niveocremeum HHB9708]
+Length: 3 residues - nb: 6  from  359 to 375 - Psim:0.6666666666666666 region Length:17 
+EDE
+AEE
+DEK
+DE-
+DEE
+KEE
+**********************
+
+Length: 4 residues - nb: 4  from  346 to 361 - Psim:0.65 region Length:16 
+EEWDG
+EE-V-
+EEGE-
+DEDE-
+**********************
+
+Length: 5 residues - nb: 3  from  359 to 373 - Psim:0.7333333333333333 region Length:15 
+EDEAE
+EDEKD
+EDEEK
+**********************
+
+Length: 6 residues - nb: 4  from  359 to 379 - Psim:0.7083333333333334 region Length:21 
+EDE-AE
+EDE-KD
+EDEEKE
+EPV-VV
+**********************
+
+>uniprot|A0A164MQR0|A0A164MQR0_9HOMO L domain-like protein [Sistotremastrum niveocremeum HHB9708]
+Length: 5 residues - nb: 3  from  303 to 319 - Psim:0.7142857142857143 region Length:17 
+LS-VTRP
+LSNL-EN
+LS-L-RY
+**********************
+
+Length: 11 residues - nb: 2  from  315 to 339 - Psim:0.6923076923076923 region Length:25 
+LSLRY-QSSRDLD
+LSLRFIRDIKRLY
+**********************
+
+>uniprot|A0A164VVX5|A0A164VVX5_9HOMO Uncharacterized protein [Sistotremastrum niveocremeum HHB9708]
+Length: 3 residues - nb: 5  from  9 to 22 - Psim:0.8 region Length:14 
+PS-
+PSP
+PSS
+PSS
+PST
+**********************
+
+Length: 4 residues - nb: 5  from  11 to 27 - Psim:0.8 region Length:17 
+PS-P
+PS-S
+PS-S
+PSTS
+SSGS
+**********************
+
+>uniprot|J6F1C4|J6F1C4_TRIAS Ubiquitin-protein ligase [Trichosporon asahii var. asahii CBS 2479]
+Length: 3 residues - nb: 5  from  372 to 386 - Psim:0.65 region Length:15 
+SIT-
+RLGK
+HLH-
+HL--
+HLG-
+**********************
+
+Length: 5 residues - nb: 3  from  101 to 116 - Psim:0.6666666666666666 region Length:16 
+VSPKDL
+VSAM-L
+VS-KSW
+**********************
+
+>uniprot|A0A164SME5|A0A164SME5_9HOMO RNI-like protein [Sistotremastrum niveocremeum HHB9708]
+Length: 5 residues - nb: 3  from  224 to 239 - Psim:0.7777777777777778 region Length:16 
+PSSLIS
+PSST-S
+ISSN-S
+**********************
+
+Length: 5 residues - nb: 3  from  462 to 478 - Psim:0.6666666666666666 region Length:17 
+GGAGDE
+GG-GDE
+GFVRMF
+**********************
+
+Length: 6 residues - nb: 3  from  225 to 241 - Psim:0.7142857142857143 region Length:17 
+SSLISP-
+SST-SI-
+SSN-SYR
+**********************
+
+>uniprot|J5T4W7|J5T4W7_TRIAS Ran GTPase activator [Trichosporon asahii var. asahii CBS 2479]
+Length: 4 residues - nb: 6  from  1100 to 1122 - Psim:0.6904761904761905 region Length:23 
+-LD--D-
+LDD--M-
+-EEPCS-
+-DE--E-
+-DE-SE-
+-EE--EE
+**********************
+
+Length: 5 residues - nb: 3  from  191 to 204 - Psim:0.6666666666666666 region Length:14 
+GSA--A
+GSAP-S
+-TLPNS
+**********************
+
+Length: 5 residues - nb: 5  from  260 to 285 - Psim:0.6857142857142857 region Length:26 
+-RPPPLS
+-RPGP-S
+SRAGP-S
+-SP-P-R
+-SPQS-D
+**********************
+
+Length: 5 residues - nb: 4  from  1107 to 1127 - Psim:0.7083333333333334 region Length:21 
+EEPCSD
+EEDES-
+EEEEE-
+EEKEA-
+**********************
+
+>uniprot|A0A1K0HC11|A0A1K0HC11_9BASI Uncharacterized protein [Ustilago bromivora]
+Length: 5 residues - nb: 3  from  421 to 437 - Psim:0.6666666666666666 region Length:17 
+LESLCG
+LERLYT
+LERI-D
+**********************
+
+Length: 8 residues - nb: 2  from  420 to 436 - Psim:0.6666666666666666 region Length:17 
+RLESLCGLE
+RLYTLERI-
+**********************
+
+>uniprot|A0A1K0G178|A0A1K0G178_9BASI Uncharacterized protein [Ustilago bromivora]
+Length: 4 residues - nb: 4  from  259 to 274 - Psim:0.7 region Length:16 
+PS-T-
+PSLRL
+PS-RL
+NR-RN
+**********************
+
+Length: 4 residues - nb: 4  from  1908 to 1924 - Psim:0.7 region Length:17 
+NLRSL
+NLDH-
+NLIS-
+TLPS-
+**********************
+
+>uniprot|A0A1B9HLW7|A0A1B9HLW7_9TREE Uncharacterized protein [Kwoniella heveanensis CBS 569]
+Length: 8 residues - nb: 2  from  474 to 490 - Psim:0.8 region Length:17 
+SDISL-LRPT
+SDISENLR--
+**********************
+
+Length: 8 residues - nb: 2  from  888 to 901 - Psim:0.8125 region Length:14 
+RDR--EWE
+RDRDRERE
+**********************
+
+>uniprot|A0A0B7FFH1|A0A0B7FFH1_THACB Guanine exchange factor for Rac 30 [Rhizoctonia solani AG-1 IB]
+Length: 4 residues - nb: 8  from  505 to 538 - Psim:0.765625 region Length:34 
+-S--PSL-
+-S--PSG-
+-SRAPS--
+PS--PA--
+----PSLA
+-A-IPSL-
+-S--PIS-
+-S--PFG-
+**********************
+
+Length: 4 residues - nb: 4  from  1714 to 1730 - Psim:0.75 region Length:17 
+TP--N
+TPGTS
+TPSTN
+TPST-
+**********************
+
+Length: 6 residues - nb: 3  from  1171 to 1187 - Psim:0.6666666666666666 region Length:17 
+APPPS-
+APILSA
+APTLPE
+**********************
+
+Length: 6 residues - nb: 3  from  1722 to 1738 - Psim:0.6666666666666666 region Length:17 
+TP-ST-N
+TP-STVG
+AGLSMV-
+**********************
+
+Length: 9 residues - nb: 2  from  64 to 82 - Psim:0.85 region Length:19 
+GRGAPRPGSA
+GRGNARPGS-
+**********************
+
+Length: 9 residues - nb: 2  from  152 to 168 - Psim:0.8333333333333334 region Length:17 
+ASFRLDD-G
+ASSRLDDYS
+**********************
+
+Length: 9 residues - nb: 2  from  428 to 446 - Psim:0.9 region Length:19 
+SERMGRMTME
+SER-GRMTEE
+**********************
+
+Length: 9 residues - nb: 2  from  1217 to 1233 - Psim:0.8333333333333334 region Length:17 
+GS-ARNSTV
+GSGSRNSTG
+**********************
+
+>uniprot|A0A0B7FUQ4|A0A0B7FUQ4_THACB Uncharacterized protein [Rhizoctonia solani AG-1 IB]
+Length: 9 residues - nb: 2  from  182 to 197 - Psim:0.6666666666666666 region Length:16 
+SRRVFS--Q
+SRSTSSLFS
+**********************
+
+>uniprot|A0A0D7BFH5|A0A0D7BFH5_9AGAR Uncharacterized protein [Cylindrobasidium torrendii FP15055 ss-10]
+Length: 4 residues - nb: 4  from  120 to 135 - Psim:0.65 region Length:16 
+EDEEP
+EDP--
+EDAL-
+WDAT-
+**********************
+
+Length: 5 residues - nb: 6  from  9 to 36 - Psim:0.7407407407407407 region Length:28 
+S-S--P-A-
+SSP--P-P-
+V-I--D-S-
+S-P--P-T-
+S-P--ERSS
+S-PWLP---
+**********************
+
+Length: 7 residues - nb: 2  from  13 to 27 - Psim:0.75 region Length:15 
+SSPPPVID
+SSPP-TSP
+**********************
+
+Length: 8 residues - nb: 3  from  13 to 37 - Psim:0.6666666666666666 region Length:25 
+SSPPPVID-
+SSPPTSPER
+SSSPWLPP-
+**********************
+
+>uniprot|A0A1X6MTI4|A0A1X6MTI4_9APHY Uncharacterized protein [Postia placenta MAD-698-R-SB12]
+Length: 11 residues - nb: 2  from  83 to 105 - Psim:0.6666666666666666 region Length:23 
+TDTAILELAKLA
+TDLEAVKLNGL-
+**********************
+
+>uniprot|A0A0D7BUW2|A0A0D7BUW2_9AGAR Uncharacterized protein [Cylindrobasidium torrendii FP15055 ss-10]
+Length: 4 residues - nb: 5  from  12 to 29 - Psim:0.7333333333333333 region Length:18 
+-ST-P-
+-ST-PR
+TPT-A-
+-PT-T-
+-PTST-
+**********************
+
+Length: 13 residues - nb: 2  from  26 to 54 - Psim:0.78125 region Length:29 
+PTSTTRARGAATLSPS
+PTPRTRA--TSTLSP-
+**********************
+
+>uniprot|A0A0D7BUW3|A0A0D7BUW3_9AGAR RNI-like protein [Cylindrobasidium torrendii FP15055 ss-10]
+Length: 3 residues - nb: 6  from  805 to 820 - Psim:0.6666666666666666 region Length:16 
+E-R--
+ERS--
+Q-VDL
+G-A--
+G-A--
+G-A-T
+**********************
+
+Length: 3 residues - nb: 6  from  850 to 867 - Psim:0.7666666666666667 region Length:18 
+E-R--
+E-RD-
+RPRE-
+E-RHT
+E-R--
+E-RD-
+**********************
+
+Length: 5 residues - nb: 3  from  562 to 576 - Psim:0.7333333333333333 region Length:15 
+EEGEV
+EEGEG
+EEVYD
+**********************
+
+Length: 6 residues - nb: 3  from  562 to 577 - Psim:0.7222222222222222 region Length:16 
+EEG-EV
+EEG-EG
+EEVYDE
+**********************
+
+Length: 6 residues - nb: 3  from  851 to 869 - Psim:0.7619047619047619 region Length:19 
+RE-RDRP
+REERHTE
+RE-RDRQ
+**********************
+
+Length: 7 residues - nb: 2  from  644 to 658 - Psim:0.875 region Length:15 
+HQNGDRHR
+HQNEDRH-
+**********************
+
+Length: 7 residues - nb: 2  from  846 to 860 - Psim:0.8125 region Length:15 
+DRHGERER
+DRPRE-ER
+**********************
+
+Length: 8 residues - nb: 3  from  644 to 669 - Psim:0.7333333333333333 region Length:26 
+HQNGDRHR--
+HQNEDRHRHY
+HQTSQRPS--
+**********************
+
+>uniprot|A0A0D7BCR0|A0A0D7BCR0_9AGAR RNI-like protein [Cylindrobasidium torrendii FP15055 ss-10]
+Length: 3 residues - nb: 5  from  134 to 147 - Psim:0.65 region Length:14 
+EL--
+EL-C
+YL--
+PLLS
+PL-S
+**********************
+
+>uniprot|A0A0L6WC45|A0A0L6WC45_9AGAR Ran GTPase-activating protein 1 [Termitomyces sp. J132]
+Length: 3 residues - nb: 5  from  346 to 360 - Psim:0.75 region Length:15 
+EEDL
+EE-A
+EA-Q
+EE--
+EE-A
+**********************
+
+Length: 5 residues - nb: 3  from  346 to 360 - Psim:0.7222222222222222 region Length:15 
+EED-L-
+EEAEAQ
+EEEEA-
+**********************
+
+Length: 7 residues - nb: 3  from  353 to 373 - Psim:0.7083333333333334 region Length:21 
+EAQE--EE
+EAAEPVKE
+EATK-AKE
+**********************
+
+Length: 8 residues - nb: 2  from  352 to 368 - Psim:0.7777777777777778 region Length:17 
+AEAQEEEEA
+AEPVKEE-A
+**********************
+
+Length: 9 residues - nb: 2  from  358 to 374 - Psim:0.6666666666666666 region Length:17 
+EEAAEPVK-
+EEATKAKEP
+**********************
+
+>uniprot|A0A0L6WD65|A0A0L6WD65_9AGAR Septation initiation network scaffold protein cdc11 [Termitomyces sp. J132]
+Length: 4 residues - nb: 4  from  128 to 143 - Psim:0.65 region Length:16 
+LSSRP
+LST--
+LSTA-
+PSSY-
+**********************
+
+Length: 5 residues - nb: 3  from  111 to 125 - Psim:0.7222222222222222 region Length:15 
+SSLH--
+SSQHRT
+SSS-RT
+**********************
+
+Length: 5 residues - nb: 3  from  791 to 804 - Psim:0.6666666666666666 region Length:14 
+VHAGM
+VHAGA
+-GGGR
+**********************
+
+Length: 7 residues - nb: 2  from  814 to 828 - Psim:0.7777777777777778 region Length:15 
+AGRGVPGA-
+AG--VPGTG
+**********************
+
+>uniprot|A0A0L6WH41|A0A0L6WH41_9AGAR Protein lap1 [Termitomyces sp. J132]
+Length: 4 residues - nb: 4  from  14 to 30 - Psim:0.65 region Length:17 
+SSPP-
+SSPA-
+AFID-
+SSSPV
+**********************
+
+>uniprot|A0A1B9G0M7|A0A1B9G0M7_9TREE Ran GTPase-activating protein 1 [Kwoniella bestiolae CBS 10118]
+Length: 3 residues - nb: 10  from  344 to 372 - Psim:0.8 region Length:29 
+E-E-P
+E-S-G
+E-E--
+E-EAS
+E-E-D
+EAE-S
+E-E--
+E-E--
+E-E-K
+E-E-K
+**********************
+
+>uniprot|A0A1Y2AW79|A0A1Y2AW79_9TREE Uncharacterized protein [Naematelia encephala]
+Length: 3 residues - nb: 5  from  624 to 637 - Psim:0.65 region Length:14 
+-EK-
+-EKE
+-RKQ
+GEQ-
+GED-
+**********************
+
+Length: 7 residues - nb: 4  from  314 to 343 - Psim:0.6944444444444444 region Length:30 
+LS-LPSTTL
+LS-FPSLP-
+LSRLTSLD-
+LS-YNLLN-
+**********************
+
+Length: 13 residues - nb: 2  from  315 to 338 - Psim:0.7307692307692307 region Length:24 
+SLP-ST-TLLSFP
+SLPLSRLTSLDLS
+**********************
+
+>uniprot|A0A1Y2B1U6|A0A1Y2B1U6_9TREE Ran GTPase activator [Naematelia encephala]
+Length: 1 residues - nb: 11  from  358 to 368 - Psim:1.0 region Length:11 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+>uniprot|A0A1Y2AGN0|A0A1Y2AGN0_9TREE Uncharacterized protein [Naematelia encephala]
+Length: 4 residues - nb: 4  from  158 to 173 - Psim:0.8 region Length:16 
+A-SPT
+A-SPV
+A-SPF
+APSP-
+**********************
+
+Length: 5 residues - nb: 4  from  159 to 176 - Psim:0.7916666666666666 region Length:18 
+SP-TA-
+SP-VA-
+SP-FAP
+SPGTG-
+**********************
+
+>uniprot|F8NZV1|F8NZV1_SERL9 Uncharacterized protein [Serpula lacrymans var. lacrymans S7.9]
+Length: 4 residues - nb: 4  from  349 to 364 - Psim:0.7 region Length:16 
+EED--
+EEAAK
+EEE-E
+EEK-E
+**********************
+
+>uniprot|A0A1E3K4G8|A0A1E3K4G8_9TREE Uncharacterized protein [Cryptococcus amylolentus CBS 6273]
+Length: 3 residues - nb: 5  from  49 to 63 - Psim:0.65 region Length:15 
+R-P-
+R-PQ
+RDPL
+P-PA
+P-PI
+**********************
+
+>uniprot|A0A1Y2AP25|A0A1Y2AP25_9TREE Uncharacterized protein [Naematelia encephala]
+Length: 4 residues - nb: 3  from  468 to 481 - Psim:0.6666666666666666 region Length:14 
+STTIP
+STLLS
+STSL-
+**********************
+
+Length: 5 residues - nb: 3  from  468 to 482 - Psim:0.6666666666666666 region Length:15 
+STTIP
+STLLS
+STSLI
+**********************
+
+>uniprot|A0A1Y2B7K1|A0A1Y2B7K1_9TREE Uncharacterized protein [Naematelia encephala]
+Length: 5 residues - nb: 3  from  244 to 259 - Psim:0.6666666666666666 region Length:16 
+SVGGCM
+SVGD-E
+SVLK-I
+**********************
+
+>uniprot|A0A061H6N5|A0A061H6N5_9BASI Uncharacterized protein [Anthracocystis flocculosa PF-1]
+Length: 5 residues - nb: 3  from  393 to 408 - Psim:0.6666666666666666 region Length:16 
+ASEDSP
+ASTGH-
+ASDQS-
+**********************
+
+>uniprot|A0A061HAL6|A0A061HAL6_9BASI Uncharacterized protein [Anthracocystis flocculosa PF-1]
+Length: 3 residues - nb: 6  from  338 to 355 - Psim:0.6666666666666666 region Length:18 
+D-EL
+D-EM
+DPEG
+E-ED
+E-E-
+E-ED
+**********************
+
+Length: 5 residues - nb: 3  from  353 to 367 - Psim:0.6666666666666666 region Length:15 
+EEDES
+EEEKV
+EESEE
+**********************
+
+Length: 5 residues - nb: 6  from  465 to 497 - Psim:0.75 region Length:33 
+PSSDAA
+PSSDAA
+PSSDPA
+PSSDA-
+PSS-SS
+-SSSSF
+**********************
+
+Length: 5 residues - nb: 4  from  476 to 496 - Psim:0.7916666666666666 region Length:21 
+APSSDP
+APSSD-
+APSSS-
+SSSSS-
+**********************
+
+Length: 6 residues - nb: 5  from  464 to 492 - Psim:0.8666666666666667 region Length:29 
+APSSDA
+APSSDA
+APSSDP
+APSSD-
+APSSSS
+**********************
+
+Length: 6 residues - nb: 4  from  473 to 496 - Psim:0.75 region Length:24 
+SDAAPS-
+SDPAPS-
+SD-APSS
+SSSSSS-
+**********************
+
+Length: 7 residues - nb: 4  from  464 to 488 - Psim:0.9285714285714286 region Length:25 
+APSSDA-
+APSSDA-
+APSSDP-
+APSSDAP
+**********************
+
+Length: 7 residues - nb: 3  from  473 to 491 - Psim:0.8095238095238095 region Length:19 
+SDA-APS
+SDP-APS
+SDAPSSS
+**********************
+
+Length: 8 residues - nb: 4  from  464 to 489 - Psim:0.90625 region Length:26 
+APSSDA--
+APSSDA--
+APSSDP--
+APSSDAPS
+**********************
+
+Length: 8 residues - nb: 3  from  473 to 492 - Psim:0.7916666666666666 region Length:20 
+SDA-APS-
+SDP-APS-
+SDAPSSSS
+**********************
+
+>uniprot|A0A0C3LJN5|A0A0C3LJN5_9HOMO Uncharacterized protein [Tulasnella calospora MUT 4182]
+Length: 5 residues - nb: 3  from  78 to 91 - Psim:0.7333333333333333 region Length:14 
+SGYQD
+SGRG-
+SGYGF
+**********************
+
+Length: 5 residues - nb: 4  from  846 to 866 - Psim:0.65625 region Length:21 
+PS-AS-PM
+PS-P--M-
+PS-PG-P-
+NRMPLG--
+**********************
+
+>uniprot|A0A0C3LFN0|A0A0C3LFN0_9HOMO Uncharacterized protein (Fragment) [Tulasnella calospora MUT 4182]
+Length: 1 residues - nb: 9  from  524 to 532 - Psim:1.0 region Length:9 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+**********************
+
+>uniprot|A0A0C3LUB8|A0A0C3LUB8_9HOMO Uncharacterized protein [Tulasnella calospora MUT 4182]
+Length: 5 residues - nb: 3  from  613 to 629 - Psim:0.7619047619047619 region Length:17 
+YPPPPA-
+YPPPSG-
+YP--SGL
+**********************
+
+>uniprot|A0A061H887|A0A061H887_9BASI Uncharacterized protein [Anthracocystis flocculosa PF-1]
+Length: 5 residues - nb: 3  from  811 to 827 - Psim:0.7222222222222222 region Length:17 
+QHQLQT
+QHQTQD
+QHR-QQ
+**********************
+
+Length: 5 residues - nb: 3  from  927 to 941 - Psim:0.75 region Length:15 
+AEAQA--V
+AE-QP---
+AE--PVF-
+**********************
+
+Length: 6 residues - nb: 3  from  811 to 828 - Psim:0.7222222222222222 region Length:18 
+QHQLQT
+QHQTQD
+QHRQQI
+**********************
+
+>uniprot|A0A0C3LKF0|A0A0C3LKF0_9HOMO Uncharacterized protein [Tulasnella calospora MUT 4182]
+Length: 3 residues - nb: 5  from  269 to 282 - Psim:0.7 region Length:14 
+-LEG
+-LED
+-LT-
+ELE-
+ELY-
+**********************
+
+>uniprot|A0A0C3QQB9|A0A0C3QQB9_9HOMO Uncharacterized protein [Tulasnella calospora MUT 4182]
+Length: 3 residues - nb: 5  from  541 to 556 - Psim:0.8 region Length:16 
+NGRA
+NG-T
+NG-T
+NG-V
+NG-N
+**********************
+
+Length: 4 residues - nb: 5  from  541 to 557 - Psim:0.8 region Length:17 
+NGRA-
+NG-T-
+NG-T-
+NG-V-
+NG-NH
+**********************
+
+Length: 5 residues - nb: 3  from  43 to 58 - Psim:0.6666666666666666 region Length:16 
+PSY-HS
+PSS-HS
+QQPPHR
+**********************
+
+>uniprot|K1VJK9|K1VJK9_TRIAC Uncharacterized protein [Trichosporon asahii var. asahii CBS 8904]
+Length: 4 residues - nb: 4  from  726 to 741 - Psim:0.65 region Length:16 
+GS--S
+GSGGN
+GSG-R
+G-GGD
+**********************
+
+Length: 6 residues - nb: 3  from  725 to 743 - Psim:0.7142857142857143 region Length:19 
+GGS-SGS
+GGNGSGR
+GGG-DES
+**********************
+
+>uniprot|A0A165DK71|A0A165DK71_9BASI Uncharacterized protein [Calocera cornea HHB12733]
+Length: 7 residues - nb: 2  from  305 to 318 - Psim:0.8571428571428571 region Length:14 
+PIQDIAL
+PIQDLAP
+**********************
+
+>uniprot|K1VIZ5|K1VIZ5_TRIAC Component of the CCR4-NOT transcriptional complex, Ccr4p [Trichosporon asahii var. asahii CBS 8904]
+Length: 3 residues - nb: 5  from  76 to 89 - Psim:0.65 region Length:14 
+GGPP
+G-GG
+H--H
+G-P-
+G-PH
+**********************
+
+Length: 3 residues - nb: 6  from  264 to 281 - Psim:0.6666666666666666 region Length:18 
+-PAQP
+-PA--
+-PA-S
+-KQ-E
+EPY--
+EPW--
+**********************
+
+Length: 4 residues - nb: 4  from  36 to 51 - Psim:0.8 region Length:16 
+GG--N
+GGGSN
+GGG-N
+GGW-G
+**********************
+
+Length: 4 residues - nb: 3  from  93 to 106 - Psim:0.6666666666666666 region Length:14 
+HHGGL
+HHGP-
+QHTPF
+**********************
+
+Length: 5 residues - nb: 3  from  29 to 44 - Psim:0.8095238095238095 region Length:16 
+LGG-RGP
+LGG-NG-
+-GGSNG-
+**********************
+
+Length: 5 residues - nb: 7  from  83 to 115 - Psim:0.6607142857142857 region Length:33 
+-HH-GPG-
+PHVH-P--
+-HH-G-GL
+-HH-GPQ-
+-HT--PF-
+-GS-S-G-
+-GS-GLH-
+**********************
+
+Length: 6 residues - nb: 3  from  61 to 78 - Psim:0.7083333333333334 region Length:18 
+SSGAFGG-
+SSGA-NG-
+---IFGGP
+**********************
+
+>uniprot|W4K5N6|W4K5N6_9HOMO Putative adenylyl cyclase [Heterobasidion irregulare TC 32-1]
+Length: 3 residues - nb: 6  from  756 to 771 - Psim:0.7083333333333334 region Length:16 
+-LAD
+-LA-
+-LAS
+-LS-
+SLE-
+SLI-
+**********************
+
+Length: 4 residues - nb: 4  from  1611 to 1624 - Psim:0.65 region Length:14 
+DA-I-
+DA-IR
+RL-D-
+PVLI-
+**********************
+
+>uniprot|A0A165CUB1|A0A165CUB1_EXIGL L domain-like protein [Exidia glandulosa HHB12029]
+Length: 3 residues - nb: 7  from  32 to 53 - Psim:0.6571428571428571 region Length:22 
+G-GE-
+G-REL
+G-G--
+G-GQ-
+G-DE-
+AQAG-
+AQG--
+**********************
+
+Length: 9 residues - nb: 2  from  42 to 61 - Psim:0.7272727272727273 region Length:20 
+GQGDEAQAGAQ
+GQQGEAPS-A-
+**********************
+
+>uniprot|A0A0F7SHQ3|A0A0F7SHQ3_PHARH Protein phosphatase 1, regulatory subunit, and related proteins [Xanthophyllomyces dendrorhous]
+Length: 7 residues - nb: 2  from  722 to 735 - Psim:0.7857142857142857 region Length:14 
+EKDLIKG
+EKDLGSV
+**********************
+
+Length: 10 residues - nb: 2  from  957 to 975 - Psim:0.75 region Length:19 
+PLLH-HAATAPV
+PLLSIHA-T---
+**********************
+
+>uniprot|A0A0F7SGQ3|A0A0F7SGQ3_PHARH Leucine-rich repeat, typical subtype [Xanthophyllomyces dendrorhous]
+Length: 5 residues - nb: 4  from  275 to 294 - Psim:0.6666666666666666 region Length:20 
+IV-LVL
+IV-IAF
+IVGLA-
+LL-LYF
+**********************
+
+Length: 5 residues - nb: 4  from  360 to 380 - Psim:0.7083333333333334 region Length:21 
+STSSSS
+STSTS-
+S-SSS-
+APSASA
+**********************
+
+Length: 6 residues - nb: 3  from  360 to 377 - Psim:0.7777777777777778 region Length:18 
+STSSSS
+STSTSS
+SSSAPS
+**********************
+
+Length: 6 residues - nb: 3  from  614 to 631 - Psim:0.6666666666666666 region Length:18 
+LS--F-NS
+LS-VLPSS
+LSTILP--
+**********************
+
+Length: 7 residues - nb: 2  from  440 to 454 - Psim:0.8125 region Length:15 
+ATTRDSTG
+ATT-DVVG
+**********************
+
+Length: 7 residues - nb: 2  from  618 to 631 - Psim:0.8125 region Length:14 
+SLS-VLPS
+SLSTILP-
+**********************
+
+Length: 8 residues - nb: 4  from  351 to 382 - Psim:0.75 region Length:32 
+T-S-SGSVKPSS-
+T-S-S-SS---S-
+T-STS-SS---SS
+APS-A-SA---AP
+**********************
+
+Length: 8 residues - nb: 2  from  618 to 632 - Psim:0.875 region Length:15 
+SLS-VLPS
+SLSTILPS
+**********************
+
+>uniprot|A0A165ZXF8|A0A165ZXF8_EXIGL Uncharacterized protein [Exidia glandulosa HHB12029]
+Length: 5 residues - nb: 3  from  603 to 616 - Psim:0.8333333333333334 region Length:14 
+AA-RS-
+AA-KSH
+AASRS-
+**********************
+
+Length: 7 residues - nb: 2  from  685 to 699 - Psim:0.8125 region Length:15 
+NGASTPSL
+NGFATPS-
+**********************
+
+>uniprot|A0A0F7SGT1|A0A0F7SGT1_PHARH Glucose-repressible alcohol dehydrogenase transcriptional effector [Xanthophyllomyces dendrorhous]
+Length: 3 residues - nb: 5  from  158 to 172 - Psim:0.7 region Length:15 
+SSFP
+SSL-
+PSP-
+SS--
+SSS-
+**********************
+
+Length: 5 residues - nb: 3  from  158 to 172 - Psim:0.6666666666666666 region Length:15 
+SSFP--
+SSLPSP
+SS-SSS
+**********************
+
+>uniprot|W4KM26|W4KM26_9HOMO Uncharacterized protein (Fragment) [Heterobasidion irregulare TC 32-1]
+Length: 10 residues - nb: 2  from  134 to 154 - Psim:0.6538461538461539 region Length:21 
+PT-LPP-LSFS--
+PTEFYYDDSF-SS
+**********************
+
+>uniprot|A0A165HHQ8|A0A165HHQ8_EXIGL Uncharacterized protein (Fragment) [Exidia glandulosa HHB12029]
+Length: 4 residues - nb: 4  from  3 to 18 - Psim:0.6875 region Length:16 
+PSSP
+PSSP
+PSLA
+SSLS
+**********************
+
+>uniprot|A0A0F7SKB3|A0A0F7SKB3_PHARH Ran GTPase-activating protein [Xanthophyllomyces dendrorhous]
+Length: 3 residues - nb: 7  from  338 to 360 - Psim:0.7428571428571429 region Length:23 
+LD-E-
+LD-D-
+ME-E-
+DEGE-
+DE-EE
+DE-E-
+EE-E-
+**********************
+
+Length: 3 residues - nb: 6  from  350 to 368 - Psim:0.8666666666666667 region Length:19 
+EDEE-
+E-DE-
+E-EE-
+E-EED
+E-E--
+E-EE-
+**********************
+
+Length: 4 residues - nb: 4  from  346 to 361 - Psim:0.875 region Length:16 
+EDEG
+EDEE
+EDEE
+EEEE
+**********************
+
+Length: 5 residues - nb: 4  from  346 to 363 - Psim:0.8 region Length:18 
+EDEG-
+EDEE-
+EDEEE
+EEEED
+**********************
+
+Length: 7 residues - nb: 3  from  354 to 376 - Psim:0.7916666666666666 region Length:23 
+EDEEEEEE
+EDEEEEEK
+EDEEKDA-
+**********************
+
+>uniprot|A0A0F7STC3|A0A0F7STC3_PHARH Ribonuclease inhibitor type leucine-rich repeat proteins [Xanthophyllomyces dendrorhous]
+Length: 3 residues - nb: 5  from  85 to 99 - Psim:0.65 region Length:15 
+PPVL
+PPP-
+HRR-
+PP--
+PPM-
+**********************
+
+Length: 3 residues - nb: 5  from  610 to 624 - Psim:0.7 region Length:15 
+NPS-
+-YVN
+-PSS
+-PSS
+-SSS
+**********************
+
+Length: 4 residues - nb: 4  from  607 to 622 - Psim:0.7 region Length:16 
+NPF--
+NPSYV
+NPSS-
+-PSSS
+**********************
+
+Length: 5 residues - nb: 6  from  85 to 114 - Psim:0.6666666666666666 region Length:30 
+PP-V-L---
+PP-PHR--R
+PP-PPM---
+RG-I-LKP-
+PK-Q-A---
+PKGV-F---
+**********************
+
+Length: 9 residues - nb: 2  from  237 to 255 - Psim:0.75 region Length:19 
+DSSTLPARSS
+DSIQ-PERSV
+**********************
+
+>uniprot|A0A165ECD5|A0A165ECD5_EXIGL Uncharacterized protein [Exidia glandulosa HHB12029]
+Length: 7 residues - nb: 2  from  492 to 505 - Psim:0.8125 region Length:14 
+VA-VSPPV
+VAPTSPP-
+**********************
+
+>uniprot|A0A0F7SJL6|A0A0F7SJL6_PHARH Rossmann-like alpha/beta/alpha sandwich fold [Xanthophyllomyces dendrorhous]
+Length: 4 residues - nb: 5  from  398 to 417 - Psim:0.72 region Length:20 
+SSPSF
+SS-G-
+SS-ST
+SS-SS
+LS-SA
+**********************
+
+>uniprot|A0A0F7SIL1|A0A0F7SIL1_PHARH Invasion-inducing protein TIAM1/CDC24 and related RhoGEF GTPases [Xanthophyllomyces dendrorhous]
+Length: 4 residues - nb: 4  from  542 to 557 - Psim:0.65 region Length:16 
+SSFHN
+SSAA-
+SSP--
+SSSI-
+**********************
+
+Length: 4 residues - nb: 3  from  861 to 874 - Psim:0.7222222222222222 region Length:14 
+DLRHS-
+DL-HPL
+DLS-S-
+**********************
+
+Length: 5 residues - nb: 3  from  135 to 151 - Psim:0.7777777777777778 region Length:17 
+PHFQSH
+PHPQPQ
+PHFQP-
+**********************
+
+Length: 5 residues - nb: 3  from  380 to 394 - Psim:0.6666666666666666 region Length:15 
+SLPP--
+SLSELR
+SLRVL-
+**********************
+
+Length: 5 residues - nb: 3  from  861 to 875 - Psim:0.6666666666666666 region Length:15 
+DLRHS-
+DL-HPL
+DLSSA-
+**********************
+
+>uniprot|A0A060SS44|A0A060SS44_PYCCI Uncharacterized protein [Trametes cinnabarina]
+Length: 5 residues - nb: 4  from  122 to 142 - Psim:0.6666666666666666 region Length:21 
+SADS-S
+SASTRS
+SAYT-G
+SAKS-G
+**********************
+
+Length: 5 residues - nb: 3  from  972 to 986 - Psim:0.7222222222222222 region Length:15 
+SSVASI
+SS-AG-
+SSVMR-
+**********************
+
+Length: 6 residues - nb: 4  from  122 to 143 - Psim:0.6785714285714286 region Length:22 
+SADS-S-
+SASTRS-
+SAYT-G-
+SAKS-GD
+**********************
+
+Length: 6 residues - nb: 3  from  340 to 357 - Psim:0.7083333333333334 region Length:18 
+SA---NFL
+SALPPS-L
+SACA-N-L
+**********************
+
+>uniprot|A0A0F7SDS0|A0A0F7SDS0_9BASI Uncharacterized protein [Sporisorium scitamineum]
+Length: 7 residues - nb: 2  from  246 to 259 - Psim:0.8571428571428571 region Length:14 
+SIASSSV
+SIASTSQ
+**********************
+
+>uniprot|A0A060S7A2|A0A060S7A2_PYCCI Uncharacterized protein [Trametes cinnabarina]
+Length: 4 residues - nb: 4  from  10 to 25 - Psim:0.65 region Length:16 
+S-PSS
+S-PSL
+A-PID
+SSPP-
+**********************
+
+Length: 4 residues - nb: 4  from  636 to 650 - Psim:0.7 region Length:15 
+-GVG-
+-GVGV
+-PVRW
+RGCG-
+**********************
+
+>uniprot|A0A060SJN3|A0A060SJN3_PYCCI Uncharacterized protein [Trametes cinnabarina]
+Length: 4 residues - nb: 4  from  143 to 158 - Psim:0.65 region Length:16 
+LL-LI
+LLIVF
+LL--Y
+LL-GN
+**********************
+
+Length: 4 residues - nb: 4  from  147 to 161 - Psim:0.65 region Length:15 
+LLIVF
+LL--Y
+LL-GN
+T--VF
+**********************
+
+>uniprot|E3JPZ3|E3JPZ3_PUCGT Uncharacterized protein [Puccinia graminis f. sp. tritici CRL 75-36-700-3]
+Length: 5 residues - nb: 3  from  572 to 585 - Psim:0.8666666666666667 region Length:14 
+TPSKP
+TPST-
+TPSKP
+**********************
+
+Length: 6 residues - nb: 3  from  454 to 473 - Psim:0.7083333333333334 region Length:20 
+SNIPLP-R
+SN-PLSIR
+SNLP-Q-A
+**********************
+
+Length: 7 residues - nb: 5  from  439 to 474 - Psim:0.66 region Length:36 
+--SN-GQPSK
+ARSS-TLS-S
+--SNIPLP-R
+--SN-PLSIR
+--SNLPQA-N
+**********************
+
+Length: 7 residues - nb: 2  from  883 to 896 - Psim:0.8571428571428571 region Length:14 
+SFNSTDK
+SFNSVDQ
+**********************
+
+Length: 9 residues - nb: 6  from  100 to 153 - Psim:0.8518518518518519 region Length:54 
+EPSMEDELE
+EPSIEDEPE
+EPSMEDELE
+EPSMEDELE
+EPSMQNELD
+EHSMEDALD
+**********************
+
+Length: 9 residues - nb: 4  from  114 to 149 - Psim:0.8611111111111112 region Length:36 
+DEPEEPSME
+DELEEPSME
+DELEEPSMQ
+NELDEHSME
+**********************
+
+Length: 9 residues - nb: 2  from  126 to 143 - Psim:0.8888888888888888 region Length:18 
+EEPSMEDEL
+EEPSMQNEL
+**********************
+
+>uniprot|A0A165Q777|A0A165Q777_9APHY RNI-like protein [Daedalea quercina L-15889]
+Length: 5 residues - nb: 5  from  380 to 403 - Psim:0.6857142857142857 region Length:24 
+LP-PL--
+LP-PLA-
+SG-GN--
+LPDPA-T
+LPFGG--
+**********************
+
+>uniprot|E3L099|E3L099_PUCGT Uncharacterized protein [Puccinia graminis f. sp. tritici CRL 75-36-700-3]
+Length: 1 residues - nb: 10  from  44 to 53 - Psim:1.0 region Length:10 
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+**********************
+
+Length: 1 residues - nb: 13  from  54 to 66 - Psim:1.0 region Length:13 
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+**********************
+
+Length: 1 residues - nb: 21  from  95 to 115 - Psim:1.0 region Length:21 
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+**********************
+
+>uniprot|A0A165TC86|A0A165TC86_9APHY RNI-like protein [Daedalea quercina L-15889]
+Length: 4 residues - nb: 4  from  132 to 148 - Psim:0.65 region Length:17 
+AS-TS
+ASPAT
+AS-SS
+SP-RS
+**********************
+
+Length: 4 residues - nb: 4  from  253 to 268 - Psim:0.65 region Length:16 
+SLS--
+SLSA-
+HSKR-
+SISAL
+**********************
+
+Length: 5 residues - nb: 3  from  132 to 145 - Psim:0.6666666666666666 region Length:14 
+ASTS-
+ASPAT
+ASSSS
+**********************
+
+>uniprot|E3K820|E3K820_PUCGT Uncharacterized protein [Puccinia graminis f. sp. tritici CRL 75-36-700-3]
+Length: 5 residues - nb: 3  from  255 to 270 - Psim:0.7777777777777778 region Length:16 
+NLSLNS
+NLS-PF
+NLS-SS
+**********************
+
+>uniprot|A0A165QLS5|A0A165QLS5_9APHY L domain-like protein [Daedalea quercina L-15889]
+Length: 4 residues - nb: 4  from  61 to 76 - Psim:0.75 region Length:16 
+LLLI
+LLII
+LLLY
+LLGN
+**********************
+
+>uniprot|A0A081CB65|A0A081CB65_PSEA2 Adenylate cyclase [Moesziomyces antarcticus]
+Length: 1 residues - nb: 9  from  214 to 222 - Psim:1.0 region Length:9 
+T
+T
+T
+T
+T
+T
+T
+T
+T
+**********************
+
+Length: 4 residues - nb: 4  from  325 to 339 - Psim:0.8125 region Length:15 
+ASA-
+ASTS
+ASAS
+ASSS
+**********************
+
+Length: 4 residues - nb: 4  from  951 to 966 - Psim:0.75 region Length:16 
+ASML
+ASAG
+ASAA
+AAAA
+**********************
+
+>uniprot|E3KCI0|E3KCI0_PUCGT Uncharacterized protein [Puccinia graminis f. sp. tritici CRL 75-36-700-3]
+Length: 1 residues - nb: 10  from  1177 to 1186 - Psim:1.0 region Length:10 
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+**********************
+
+Length: 1 residues - nb: 11  from  1235 to 1245 - Psim:1.0 region Length:11 
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+**********************
+
+>uniprot|E3JW10|E3JW10_PUCGT Uncharacterized protein [Puccinia graminis f. sp. tritici CRL 75-36-700-3]
+Length: 1 residues - nb: 9  from  470 to 478 - Psim:1.0 region Length:9 
+D
+D
+D
+D
+D
+D
+D
+D
+D
+**********************
+
+>uniprot|F8PKC8|F8PKC8_SERL3 Uncharacterized protein [Serpula lacrymans var. lacrymans S7.3]
+Length: 5 residues - nb: 3  from  392 to 405 - Psim:0.6666666666666666 region Length:14 
+TPQ-P
+TPRGP
+TPVSF
+**********************
+
+>uniprot|A0A1M8ABI1|A0A1M8ABI1_MALS4 Similar to S.cerevisiae protein CCR4 (Component of the CCR4-NOT transcriptional complex) [Malassezia sympodialis ATCC 42132]
+Length: 4 residues - nb: 3  from  24 to 37 - Psim:0.6666666666666666 region Length:14 
+S-SSPP
+S-S-PT
+PYQ-RT
+**********************
+
+Length: 4 residues - nb: 4  from  387 to 402 - Psim:0.6666666666666666 region Length:16 
+AP-A--
+AP-SGR
+APLV--
+AR-T-L
+**********************
+
+>uniprot|A0A146HV22|A0A146HV22_9AGAR Adenylate cyclase [Mycena chlorophos]
+Length: 27 residues - nb: 3  from  590 to 663 - Psim:0.6896551724137931 region Length:74 
+SL-FIGPAE-EELKFDNFEYIDLS-GR--
+SLRTI-PE-E-ELKFDNFEYIDLSG-R--
+SLRTI-PV-VLHQHADSIVSLRLSRNPMI
+**********************
+
+Length: 114 residues - nb: 2  from  301 to 529 - Psim:0.8974358974358975 region Length:229 
+EKGKRRQASRHVNGVPR-MSLIP-PNAIIEHPEDGATALGVPIPPPKPLQQNPRPNHSNHTQPSSKRTSHSHTHTHSPKMRIRIYKADNTYHVVSVGSNVTVGQLTPKLDLKLPAGE
+EKEMHQLCLRE-RGRERILGATEKPGEI--HPEDGATALGVPVPPPKPLQQNPRPNHSNHTQPSSKRTSHSHTHTHSPKMRIRIYKADNTYHVVSVGSNVTVGQLTPKLDLKLPAGE
+**********************
+
+>uniprot|A0A146IMM4|A0A146IMM4_9AGAR Uncharacterized protein [Mycena chlorophos]
+Length: 61 residues - nb: 3  from  1374 to 1512 - Psim:0.6830601092896175 region Length:139 
+VIPFIT-VLG-WIIGK---PLTLLFDPFESIALFLAVLTVNYAVADGKSNWLEGMILMALY
+VILATTFLLGIHAFGXXXXPLTLLFDPFESIALFLAVLTVNYAVADGKSNWLEGMILMALY
+VILATTFW-----F----------Y-P--G---Y----T-S-S---GLPN-C------T--
+**********************
+
+Length: 109 residues - nb: 2  from  1124 to 1349 - Psim:0.8931623931623932 region Length:226 
+VIKXXXXYAEVCATMMLSXXXXNEEPSPLSPAPTATVNDVEAGPEAPEEEEAETPQLSLPVTIGLLAIVAVLVAITAEWLVDSINGLVASGAINKEFVGIILLPIVGNAAEHQIALF
+VIP----FITVLG-W-IXXXXGGE-PSPLSPAPT-TVNDVEAGPEAQEEEEAETPQLSLPVTIGLLVIVAVLVAITAEWLVDSINGLVASGAINKEFVGIILLPIVGNAAEHVTAVS
+**********************
+
+>uniprot|A0A146HA85|A0A146HA85_9AGAR Uncharacterized protein [Mycena chlorophos]
+>uniprot|A0A146IML7|A0A146IML7_9AGAR Uncharacterized protein [Mycena chlorophos]
+Length: 8 residues - nb: 2  from  24 to 38 - Psim:0.7777777777777778 region Length:15 
+EEP-ES--D
+EEPQEAFID
+**********************
+
+>uniprot|A0A1B9H1W4|A0A1B9H1W4_9TREE Uncharacterized protein [Kwoniella heveanensis BCC8398]
+Length: 4 residues - nb: 5  from  383 to 402 - Psim:0.6857142857142857 region Length:20 
+-LA-S--
+-LAPS--
+-LV-VL-
+DLS-N-N
+DLS-F--
+**********************
+
+Length: 4 residues - nb: 4  from  537 to 553 - Psim:0.6666666666666666 region Length:17 
+-LTS-S
+-LTA-S
+SLRE-A
+--TSPT
+**********************
+
+Length: 5 residues - nb: 4  from  75 to 95 - Psim:0.65625 region Length:21 
+TRRAQP--
+TRR--P-L
+SAY--PDE
+PYH--P--
+**********************
+
+Length: 5 residues - nb: 4  from  536 to 554 - Psim:0.7083333333333334 region Length:19 
+-SLT-S
+-SLTAS
+-SLREA
+TSPT-T
+**********************
+
+>uniprot|A0A1B9GSU6|A0A1B9GSU6_9TREE Uncharacterized protein [Kwoniella heveanensis BCC8398]
+Length: 1 residues - nb: 12  from  542 to 553 - Psim:1.0 region Length:12 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+**********************
+
+>uniprot|A0A1B9GZJ0|A0A1B9GZJ0_9TREE Uncharacterized protein [Kwoniella heveanensis BCC8398]
+Length: 4 residues - nb: 4  from  1522 to 1537 - Psim:0.7 region Length:16 
+GG-T-
+GGSSF
+GGGS-
+GSGL-
+**********************
+
+Length: 5 residues - nb: 3  from  166 to 179 - Psim:0.6666666666666666 region Length:14 
+SGP-S
+SGEAS
+SGGGD
+**********************
+
+Length: 7 residues - nb: 2  from  910 to 924 - Psim:0.8125 region Length:15 
+AKESVAVF
+AKV-VAVL
+**********************
+
+>uniprot|A0A1B9GTG1|A0A1B9GTG1_9TREE Glucose-repressible alcohol dehydrogenase transcriptional effector [Kwoniella heveanensis BCC8398]
+Length: 1 residues - nb: 11  from  27 to 37 - Psim:1.0 region Length:11 
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+**********************
+
+Length: 1 residues - nb: 11  from  69 to 79 - Psim:1.0 region Length:11 
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+**********************
+
+Length: 5 residues - nb: 3  from  50 to 64 - Psim:0.6666666666666666 region Length:15 
+PS---FT
+PSGMPM-
+PS--PGG
+**********************
+
+>uniprot|A0A0K6G893|A0A0K6G893_9HOMO CCR4-NOT transcription complex subunit 6 [Rhizoctonia solani]
+Length: 4 residues - nb: 7  from  67 to 94 - Psim:0.7857142857142857 region Length:28 
+PH-QH-
+PH-QP-
+PH-QH-
+QI-QH-
+-H-QHP
+-H-QHP
+-HAQH-
+**********************
+
+Length: 4 residues - nb: 4  from  78 to 94 - Psim:0.8214285714285714 region Length:17 
+H-QIQH-
+H-Q--HP
+H-Q--HP
+HAQ--H-
+**********************
+
+Length: 5 residues - nb: 6  from  67 to 93 - Psim:0.7380952380952381 region Length:27 
+-PHQH--
+-PHQ--P
+-PHQH-Q
+IQH-H-Q
+--HPH-Q
+--HPHAQ
+**********************
+
+Length: 5 residues - nb: 4  from  78 to 96 - Psim:0.75 region Length:19 
+HQIQH
+HQHP-
+HQHPH
+AQHQH
+**********************
+
+Length: 5 residues - nb: 5  from  86 to 110 - Psim:0.725 region Length:25 
+PH-Q-H--
+PHAQ-H--
+QH-Q-NSL
+PG-Y-H-S
+PG-SVH--
+**********************
+
+>uniprot|A0A0D0DZH0|A0A0D0DZH0_9HOMO Unplaced genomic scaffold scaffold_452, whole genome shotgun sequence [Paxillus rubicundulus Ve08.2h10]
+Length: 1 residues - nb: 11  from  346 to 356 - Psim:1.0 region Length:11 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+>uniprot|A0A165UNK7|A0A165UNK7_9HOMO Uncharacterized protein [Neolentinus lepideus HHB14362 ss-1]
+Length: 9 residues - nb: 2  from  316 to 335 - Psim:0.8636363636363636 region Length:20 
+GTTASHSPPRS
+GTTASPSP--S
+**********************
+
+Length: 11 residues - nb: 3  from  310 to 341 - Psim:0.6666666666666666 region Length:32 
+SPFSI-LGTTASH
+SP-PR-SGTTA--
+SPSPSRSPDRY--
+**********************
+
+>uniprot|A0A0K6FYQ1|A0A0K6FYQ1_9HOMO Monocarboxylate transporter 10 [Rhizoctonia solani]
+Length: 7 residues - nb: 3  from  806 to 827 - Psim:0.8333333333333334 region Length:22 
+SPRLSLVT
+SPRGS-VS
+SPRPS-VS
+**********************
+
+>uniprot|A0A0K6G8V9|A0A0K6G8V9_9HOMO Leucine-rich repeat-containing protein sog2 [Schizosaccharomyces pombe 972h-] [Rhizoctonia solani]
+Length: 5 residues - nb: 3  from  249 to 265 - Psim:0.7777777777777778 region Length:17 
+SEDSVN
+SEYSVT
+SEYSL-
+**********************
+
+Length: 6 residues - nb: 3  from  5 to 23 - Psim:0.6666666666666666 region Length:19 
+GHSLSRP
+GHSRSR-
+SASIPL-
+**********************
+
+Length: 6 residues - nb: 3  from  249 to 266 - Psim:0.7777777777777778 region Length:18 
+SEDSVN
+SEYSVT
+SEYSLV
+**********************
+
+Length: 7 residues - nb: 3  from  249 to 267 - Psim:0.8095238095238095 region Length:19 
+SEDS-VN
+SEYS-VT
+SEYSLVD
+**********************
+
+>uniprot|A0A0D0EAA0|A0A0D0EAA0_9HOMO Unplaced genomic scaffold scaffold_165, whole genome shotgun sequence [Paxillus rubicundulus Ve08.2h10]
+Length: 1 residues - nb: 10  from  509 to 518 - Psim:1.0 region Length:10 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+**********************
+
+Length: 3 residues - nb: 5  from  19 to 33 - Psim:0.75 region Length:15 
+PS--
+PSK-
+PSAA
+PST-
+PLT-
+**********************
+
+>uniprot|A0A177VYC4|A0A177VYC4_9BASI Uncharacterized protein [Tilletia controversa]
+Length: 1 residues - nb: 13  from  342 to 354 - Psim:1.0 region Length:13 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+>uniprot|A0A177V2H9|A0A177V2H9_9BASI Uncharacterized protein [Tilletia controversa]
+Length: 8 residues - nb: 3  from  768 to 789 - Psim:0.6666666666666666 region Length:22 
+HHHPHGHR
+HHHNHG--
+HHGGHRNL
+**********************
+
+Length: 8 residues - nb: 2  from  821 to 837 - Psim:0.7222222222222222 region Length:17 
+HGGGAASSG
+HGG-PDSNN
+**********************
+
+Length: 8 residues - nb: 3  from  1744 to 1768 - Psim:0.6666666666666666 region Length:25 
+AAARRTSGSR
+AASGRT-G--
+AAGAASS-S-
+**********************
+
+>uniprot|A0A177VIU7|A0A177VIU7_9BASI Uncharacterized protein [Tilletia controversa]
+Length: 4 residues - nb: 5  from  274 to 294 - Psim:0.7 region Length:21 
+-ATA--
+-ATAT-
+TATA-G
+EAEG-Q
+EATN--
+**********************
+
+Length: 5 residues - nb: 3  from  297 to 312 - Psim:0.6666666666666666 region Length:16 
+ADVSTE
+ADVST-
+-EAGAE
+**********************
+
+Length: 6 residues - nb: 3  from  300 to 317 - Psim:0.7222222222222222 region Length:18 
+STEADV
+STEAGA
+EDEAEA
+**********************
+
+Length: 8 residues - nb: 2  from  297 to 310 - Psim:0.875 region Length:14 
+ADVSTE--
+ADVSTEAG
+**********************
+
+>uniprot|A0A0H2S4N8|A0A0H2S4N8_9HOMO RNI-like protein [Schizopora paradoxa]
+Length: 9 residues - nb: 3  from  13 to 41 - Psim:0.717948717948718 region Length:29 
+GT-R-FALHGYT-
+GTIR-FA--GQVQ
+GT-QGIWL-G-V-
+**********************
+
+>uniprot|A0A0H2RHD6|A0A0H2RHD6_9HOMO RNI-like protein [Schizopora paradoxa]
+Length: 12 residues - nb: 2  from  150 to 177 - Psim:0.7666666666666667 region Length:28 
+TPQSIASFSFSPGA-
+TPGSIAS-SFVTNVT
+**********************
+
+Length: 14 residues - nb: 2  from  153 to 180 - Psim:0.8 region Length:28 
+SIASFSFSPGAT-PG
+SIAS-SFVTNVTTPG
+**********************
+
+Length: 15 residues - nb: 2  from  153 to 181 - Psim:0.78125 region Length:29 
+SIASFSFSPGAT-PG-
+SIAS-SFVTNVTTPGS
+**********************
+
+>uniprot|A0A0H2RNR0|A0A0H2RNR0_9HOMO Uncharacterized protein [Schizopora paradoxa]
+Length: 5 residues - nb: 3  from  248 to 262 - Psim:0.7222222222222222 region Length:15 
+TMSR--
+TMSR-S
+TTSSVF
+**********************
+
+>uniprot|A0A0H2SCA4|A0A0H2SCA4_9HOMO RNI-like protein [Schizopora paradoxa]
+Length: 5 residues - nb: 3  from  637 to 653 - Psim:0.7619047619047619 region Length:17 
+TAPAR-Q
+TA-LEAP
+TA-AR-P
+**********************
+
+>uniprot|A0A0H2S8X4|A0A0H2S8X4_9HOMO Ran GTPase activator [Schizopora paradoxa]
+Length: 3 residues - nb: 6  from  347 to 365 - Psim:0.7333333333333333 region Length:19 
+EEFD-
+EE-E-
+DD-D-
+ED-EG
+ED---
+ED-E-
+**********************
+
+Length: 4 residues - nb: 4  from  353 to 368 - Psim:0.75 region Length:16 
+EDDD
+EDEG
+EDED
+EAEL
+**********************
+
+Length: 5 residues - nb: 3  from  350 to 365 - Psim:0.7619047619047619 region Length:16 
+-DEEEDD
+-DEDEG-
+EDEDE--
+**********************
+
+>uniprot|B8PNT3|B8PNT3_POSPM Predicted protein [Postia placenta Mad-698-R]
+Length: 5 residues - nb: 4  from  9 to 29 - Psim:0.6666666666666666 region Length:21 
+LATAA-
+LARKEP
+LALKE-
+LRLCG-
+**********************
+
+Length: 7 residues - nb: 2  from  13 to 27 - Psim:0.7777777777777778 region Length:15 
+ALARKE-PL
+AL--KELRL
+**********************
+
+>uniprot|R7S065|R7S065_PUNST L domain-like protein [Punctularia strigosozonata HHB-11173 SS5]
+Length: 19 residues - nb: 2  from  161 to 202 - Psim:0.8043478260869565 region Length:42 
+NRITKIEGLEALGANLRSLELGG
+NRIRKIEGLDAL-SNLE--ELW-
+**********************
+
+Length: 22 residues - nb: 2  from  161 to 205 - Psim:0.8260869565217391 region Length:45 
+NRITKIEGLEALGANLRSLELGG
+NRIRKIEGLDAL-SNLEELWLGK
+**********************
+
+>uniprot|R7SB90|R7SB90_TREMS Uncharacterized protein [Tremella mesenterica DSM 1558]
+Length: 3 residues - nb: 6  from  1203 to 1221 - Psim:0.6666666666666666 region Length:19 
+-VSS
+TSGT
+-NGL
+-NGY
+-NGY
+-GGY
+**********************
+
+Length: 4 residues - nb: 4  from  1210 to 1223 - Psim:0.75 region Length:14 
+NGL--
+NGY--
+NGY-G
+-GYNG
+**********************
+
+Length: 5 residues - nb: 3  from  118 to 133 - Psim:0.7222222222222222 region Length:16 
+DVSRC-
+DVDRVD
+DVD-VE
+**********************
+
+Length: 5 residues - nb: 3  from  1209 to 1225 - Psim:0.7222222222222222 region Length:17 
+TNGLNG
+YNGYGG
+YNGIN-
+**********************
+
+>uniprot|A0A077R6A7|A0A077R6A7_9BASI Adenylate cyclase [Melanopsichium pennsylvanicum 4]
+Length: 7 residues - nb: 3  from  278 to 300 - Psim:0.6666666666666666 region Length:23 
+SLPASFPA
+SLPALKKL
+SL-GHNKL
+**********************
+
+>uniprot|R7SCM5|R7SCM5_TREMS Uncharacterized protein [Tremella mesenterica DSM 1558]
+Length: 3 residues - nb: 6  from  412 to 430 - Psim:0.7 region Length:19 
+EG---
+EG-K-
+DD-QS
+DG-D-
+DGSD-
+DG-E-
+**********************
+
+Length: 4 residues - nb: 4  from  421 to 435 - Psim:0.6875 region Length:15 
+DG-D
+DGSD
+DGEE
+DVEG
+**********************
+
+Length: 5 residues - nb: 3  from  417 to 431 - Psim:0.7222222222222222 region Length:15 
+DDQSDG
+DDGS--
+DDGE-E
+**********************
+
+Length: 5 residues - nb: 3  from  436 to 450 - Psim:0.7142857142857143 region Length:15 
+DD-EEDG
+DD-Q--G
+DDGD--E
+**********************
+
+Length: 5 residues - nb: 3  from  680 to 695 - Psim:0.6666666666666666 region Length:16 
+LS--SNS
+LS-FSN-
+SNKFDH-
+**********************
+
+Length: 6 residues - nb: 3  from  677 to 695 - Psim:0.6666666666666666 region Length:19 
+SLDLSSN
+SLSFS-N
+SNKFD-H
+**********************
+
+Length: 7 residues - nb: 2  from  430 to 444 - Psim:0.8333333333333334 region Length:15 
+EEDVEGDD-
+EED--GDDQ
+**********************
+
+Length: 7 residues - nb: 2  from  677 to 690 - Psim:0.7142857142857143 region Length:14 
+SLDLSSN
+SLSFSNS
+**********************
+
+>uniprot|A0A077R1X7|A0A077R1X7_9BASI Hypothetical leucine-rich protein [Melanopsichium pennsylvanicum 4]
+Length: 5 residues - nb: 3  from  608 to 622 - Psim:0.6666666666666666 region Length:15 
+SR--ST
+SRNCDS
+SR-LQS
+**********************
+
+>uniprot|A0A067QJ43|A0A067QJ43_9HOMO Uncharacterized protein [Jaapia argillacea MUCL 33604]
+Length: 2 residues - nb: 12  from  343 to 365 - Psim:0.6666666666666666 region Length:23 
+EE
+K-
+EE
+EE
+EV
+EE
+EE
+EE
+AK
+EA
+EA
+EA
+**********************
+
+>uniprot|A0A067QKM8|A0A067QKM8_9HOMO Uncharacterized protein [Jaapia argillacea MUCL 33604]
+Length: 5 residues - nb: 3  from  533 to 548 - Psim:0.6666666666666666 region Length:16 
+DLEVL-
+DLSYSP
+DLHNS-
+**********************
+
+>uniprot|A0A067Q3L8|A0A067Q3L8_9HOMO Uncharacterized protein [Jaapia argillacea MUCL 33604]
+Length: 8 residues - nb: 3  from  247 to 270 - Psim:0.7 region Length:24 
+E-NL-EEL--
+E-NL-EELYL
+SHNGVERLEG
+**********************
+
+>uniprot|A0A067Q9T7|A0A067Q9T7_9HOMO Uncharacterized protein [Jaapia argillacea MUCL 33604]
+Length: 5 residues - nb: 3  from  29 to 44 - Psim:0.6666666666666666 region Length:16 
+PSDADL
+PS-ARA
+PS-TSS
+**********************
+
+>uniprot|A0A067P788|A0A067P788_9HOMO Uncharacterized protein [Jaapia argillacea MUCL 33604]
+Length: 4 residues - nb: 5  from  12 to 31 - Psim:0.7 region Length:20 
+SSPP
+SSPF
+FGGD
+SSPP
+SSPI
+**********************
+
+>uniprot|A0A2H3IWF5|A0A2H3IWF5_WOLCO RNI-like protein [Wolfiporia cocos MD-104 SS10]
+Length: 3 residues - nb: 5  from  272 to 288 - Psim:0.7333333333333333 region Length:17 
+-GSTP-
+-GS-P-
+-SI-PE
+DGS---
+-DG-P-
+**********************
+
+Length: 5 residues - nb: 3  from  575 to 590 - Psim:0.6666666666666666 region Length:16 
+NLVS-L
+NLSRCS
+NLSG-E
+**********************
+
+>uniprot|A0A0W0EZH8|A0A0W0EZH8_9AGAR Uncharacterized protein [Moniliophthora roreri]
+Length: 9 residues - nb: 3  from  832 to 857 - Psim:0.6666666666666666 region Length:26 
+SS-ST-FG-RN
+SSFSA-LS-RN
+SS-SSQMTG-S
+**********************
+
+>uniprot|A0A0C2XPQ2|A0A0C2XPQ2_AMAMU Uncharacterized protein [Amanita muscaria Koide BX008]
+Length: 7 residues - nb: 2  from  275 to 289 - Psim:0.75 region Length:15 
+LSESALLH
+LSESGC-S
+**********************
+
+>uniprot|E2LI05|E2LI05_MONPE Uncharacterized protein [Moniliophthora perniciosa FA553]
+Length: 5 residues - nb: 3  from  208 to 221 - Psim:0.6666666666666666 region Length:14 
+-LAKG-
+-LAKNA
+DLQYI-
+**********************
+
+>uniprot|E2LKX6|E2LKX6_MONPE Uncharacterized protein [Moniliophthora perniciosa FA553]
+Length: 9 residues - nb: 2  from  199 to 217 - Psim:0.75 region Length:19 
+LSSLDISHAR
+LSSLD-DKIL
+**********************
+
+>uniprot|A0A0C2X5P6|A0A0C2X5P6_AMAMU Uncharacterized protein [Amanita muscaria Koide BX008]
+Length: 7 residues - nb: 2  from  373 to 387 - Psim:0.6875 region Length:15 
+TSLSDDAL
+TS-DDRKQ
+**********************
+
+>uniprot|A0A0C2WIE9|A0A0C2WIE9_AMAMU Uncharacterized protein [Amanita muscaria Koide BX008]
+Length: 3 residues - nb: 4  from  128 to 141 - Psim:0.75 region Length:14 
+SG-SS
+SGLN-
+SG-N-
+GG-R-
+**********************
+
+Length: 3 residues - nb: 5  from  367 to 380 - Psim:0.65 region Length:14 
+YP-S
+-ST-
+-PTS
+-PTG
+-PNF
+**********************
+
+Length: 3 residues - nb: 6  from  403 to 420 - Psim:0.6666666666666666 region Length:18 
+SSF
+SSF
+SSF
+LSI
+STS
+STP
+**********************
+
+Length: 3 residues - nb: 5  from  433 to 447 - Psim:0.6666666666666666 region Length:15 
+PSV
+PST
+PTT
+PTN
+PTH
+**********************
+
+Length: 4 residues - nb: 4  from  126 to 141 - Psim:0.65 region Length:16 
+SSSG-
+SSSG-
+LNSGN
+GGR--
+**********************
+
+Length: 4 residues - nb: 6  from  405 to 425 - Psim:0.6666666666666666 region Length:21 
+FS-S-
+FS-SF
+LS-I-
+ST-S-
+STPS-
+ASPS-
+**********************
+
+Length: 4 residues - nb: 4  from  438 to 454 - Psim:0.7083333333333334 region Length:17 
+-T-PT-
+-T-PTN
+PTHPL-
+NT-PNH
+**********************
+
+Length: 4 residues - nb: 3  from  867 to 880 - Psim:0.7333333333333333 region Length:14 
+SSLSA
+SSPSP
+SSV-A
+**********************
+
+Length: 5 residues - nb: 3  from  867 to 881 - Psim:0.6666666666666666 region Length:15 
+SSLSA
+SSPSP
+SSVAT
+**********************
+
+Length: 5 residues - nb: 3  from  1166 to 1179 - Psim:0.7333333333333333 region Length:14 
+SPL-Q
+SPVTQ
+SPSTP
+**********************
+
+>uniprot|A0A0C2X556|A0A0C2X556_AMAMU Uncharacterized protein [Amanita muscaria Koide BX008]
+Length: 4 residues - nb: 6  from  9 to 32 - Psim:0.75 region Length:24 
+SPLS
+SPPS
+SPPS
+CIDS
+SPPQ
+SPPL
+**********************
+
+Length: 5 residues - nb: 3  from  12 to 25 - Psim:0.6666666666666666 region Length:14 
+SSPP-
+SSPPS
+CIDSS
+**********************
+
+Length: 7 residues - nb: 2  from  16 to 30 - Psim:0.75 region Length:15 
+SSPPSCID
+SSPPQS-P
+**********************
+
+>uniprot|W3VMV6|W3VMV6_PSEA5 Uncharacterized protein [Moesziomyces aphidis DSM 70725]
+Length: 34 residues - nb: 2  from  465 to 530 - Psim:0.8714285714285714 region Length:66 
+SD-D-DDDEAAQMAAEMRALRRGKP-SEPRKEPSE
+SDGESDDDEAAQMAAEMRALRRGKAASEPAKA-SK
+**********************
+
+>uniprot|A0A0D0V8Z5|A0A0D0V8Z5_9TREE Unplaced genomic scaffold supercont1.5, whole genome shotgun sequence [Cryptococcus gattii VGII Ram5]
+Length: 5 residues - nb: 3  from  342 to 355 - Psim:0.6666666666666666 region Length:14 
+NLKSL
+NL-SH
+NLITS
+**********************
+
+>uniprot|A0A0D0V8J5|A0A0D0V8J5_9TREE Unplaced genomic scaffold supercont1.2, whole genome shotgun sequence [Cryptococcus gattii VGII Ram5]
+Length: 3 residues - nb: 7  from  349 to 367 - Psim:0.75 region Length:19 
+EE--
+EES-
+EE--
+EEE-
+QK--
+EEEQ
+EEE-
+**********************
+
+Length: 5 residues - nb: 3  from  356 to 369 - Psim:0.8 region Length:14 
+EEEQK
+EEEQ-
+EEEKE
+**********************
+
+>uniprot|A0A177TWH4|A0A177TWH4_9BASI Uncharacterized protein [Tilletia indica]
+Length: 1 residues - nb: 9  from  1493 to 1501 - Psim:1.0 region Length:9 
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+**********************
+
+Length: 9 residues - nb: 2  from  608 to 624 - Psim:0.8 region Length:17 
+NADGSGALAS
+NA-GS-TLA-
+**********************
+
+>uniprot|A0A167QU78|A0A167QU78_9BASI RNI-like protein [Calocera viscosa TUFC12733]
+Length: 9 residues - nb: 3  from  640 to 666 - Psim:0.6666666666666666 region Length:27 
+ED-ADADLDGD-G
+ED-GDAD--A---
+EDEGTTP--LY--
+**********************
+
+Length: 9 residues - nb: 2  from  800 to 819 - Psim:0.8636363636363636 region Length:20 
+GSSSAQHVASS
+GS--AQHVASR
+**********************
+
+>uniprot|D8Q0J9|D8Q0J9_SCHCM Uncharacterized protein (Fragment) [Schizophyllum commune H4-8]
+Length: 4 residues - nb: 5  from  49 to 68 - Psim:0.76 region Length:20 
+SSP-I
+SSP-G
+G-PVD
+SSP-P
+SSP-G
+**********************
+
+>uniprot|A0A177TMC6|A0A177TMC6_9BASI Uncharacterized protein [Tilletia indica]
+Length: 3 residues - nb: 5  from  677 to 692 - Psim:0.65 region Length:16 
+-VPV
+-VPV
+-IPS
+RQPV
+-RQK
+**********************
+
+Length: 4 residues - nb: 3  from  166 to 179 - Psim:0.6666666666666666 region Length:14 
+Y-PHSK
+Y-PHP-
+ESPNR-
+**********************
+
+Length: 9 residues - nb: 2  from  134 to 149 - Psim:0.7222222222222222 region Length:16 
+STQLK--SA
+STLTHPLSA
+**********************
+
+>uniprot|A0A177TAH8|A0A177TAH8_9BASI Uncharacterized protein [Tilletia indica]
+Length: 1 residues - nb: 12  from  816 to 827 - Psim:1.0 region Length:12 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+Length: 1 residues - nb: 10  from  1334 to 1343 - Psim:1.0 region Length:10 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+Length: 1 residues - nb: 12  from  1883 to 1894 - Psim:1.0 region Length:12 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+Length: 11 residues - nb: 2  from  400 to 422 - Psim:0.7692307692307693 region Length:23 
+ESPSSAP-EVDAD
+ES-SPVPAEADA-
+**********************
+
+>uniprot|A0A167LFN7|A0A167LFN7_9BASI Uncharacterized protein [Calocera viscosa TUFC12733]
+Length: 10 residues - nb: 2  from  1232 to 1253 - Psim:0.75 region Length:22 
+EAL-ALVCTRL-
+EALDAGFIFRLE
+**********************
+
+>uniprot|D8PPE1|D8PPE1_SCHCM Uncharacterized protein [Schizophyllum commune H4-8]
+Length: 3 residues - nb: 5  from  137 to 151 - Psim:0.68 region Length:15 
+--EL-
+--ELC
+DLPL-
+-LSA-
+-LSL-
+**********************
+
+>uniprot|A0A177T970|A0A177T970_9BASI Uncharacterized protein [Tilletia indica]
+Length: 4 residues - nb: 4  from  58 to 73 - Psim:0.8125 region Length:16 
+EDKE
+EDEE
+EDEE
+EEKE
+**********************
+
+Length: 5 residues - nb: 5  from  51 to 77 - Psim:0.7333333333333333 region Length:27 
+DEDGEE
+DEDKEE
+DE--EE
+DEE-EE
+KEDNFS
+**********************
+
+Length: 5 residues - nb: 3  from  63 to 77 - Psim:0.6666666666666666 region Length:15 
+DEEE--
+DEEE-E
+KEDNFS
+**********************
+
+Length: 6 residues - nb: 4  from  51 to 74 - Psim:0.7083333333333334 region Length:24 
+DEDGEE
+DEDKEE
+DEEEDE
+EEEKED
+**********************
+
+Length: 7 residues - nb: 4  from  51 to 77 - Psim:0.7222222222222222 region Length:27 
+DE--DG-EE
+DE--DK-EE
+DE--EEDEE
+EEKEDN-FS
+**********************
+
+Length: 7 residues - nb: 2  from  464 to 477 - Psim:0.7857142857142857 region Length:14 
+ATKKRSD
+ATKKEEK
+**********************
+
+Length: 8 residues - nb: 2  from  460 to 476 - Psim:0.8 region Length:17 
+SDPAATKKR-
+SD-A-TKKEE
+**********************
+
+>uniprot|D8Q356|D8Q356_SCHCM Uncharacterized protein (Fragment) [Schizophyllum commune H4-8]
+Length: 3 residues - nb: 6  from  38 to 55 - Psim:0.7777777777777778 region Length:18 
+TPR
+TPR
+SPA
+TPR
+TPA
+TPG
+**********************
+
+Length: 4 residues - nb: 4  from  47 to 60 - Psim:0.75 region Length:14 
+T-P-R
+T-P-A
+T-PGA
+TGK-P
+**********************
+
+Length: 5 residues - nb: 4  from  41 to 61 - Psim:0.6785714285714286 region Length:21 
+-TPRSPA
+-TPRTP-
+ATP-G-A
+-TGK-PA
+**********************
+
+>uniprot|A0A177TX86|A0A177TX86_9BASI Uncharacterized protein [Tilletia indica]
+Length: 4 residues - nb: 3  from  565 to 578 - Psim:0.7333333333333333 region Length:14 
+RPSIE
+RPSFD
+RPSL-
+**********************
+
+Length: 11 residues - nb: 3  from  552 to 584 - Psim:0.6944444444444444 region Length:33 
+DRPSISDLSQTL
+DRPSIERPSF--
+DRPSLSEASMA-
+**********************
+
+>uniprot|A0A167MQR6|A0A167MQR6_9BASI Uncharacterized protein [Calocera viscosa TUFC12733]
+Length: 4 residues - nb: 4  from  712 to 726 - Psim:0.6875 region Length:15 
+PAAS
+PA-T
+PAIS
+RANS
+**********************
+
+>uniprot|A0A177TRM3|A0A177TRM3_9BASI Uncharacterized protein [Tilletia indica]
+Length: 1 residues - nb: 10  from  389 to 398 - Psim:1.0 region Length:10 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+**********************
+
+Length: 2 residues - nb: 7  from  224 to 237 - Psim:0.7619047619047619 region Length:14 
+-HP
+-HP
+GH-
+GH-
+GH-
+GH-
+GS-
+**********************
+
+Length: 2 residues - nb: 9  from  1077 to 1094 - Psim:0.7777777777777778 region Length:18 
+GS
+GS
+GS
+GS
+GS
+GG
+GG
+GG
+GD
+**********************
+
+Length: 4 residues - nb: 3  from  251 to 264 - Psim:0.8 region Length:14 
+GGAGS
+GGNGP
+GGAG-
+**********************
+
+Length: 5 residues - nb: 4  from  251 to 271 - Psim:0.8333333333333334 region Length:21 
+GGAGS-
+GGNGP-
+GGAGNQ
+GGAGN-
+**********************
+
+Length: 5 residues - nb: 6  from  275 to 302 - Psim:0.7083333333333334 region Length:28 
+GG-GPS-L
+GG-G-S--
+GG-G-GG-
+GGLG----
+SA-A-S--
+SAFN-P--
+**********************
+
+Length: 7 residues - nb: 3  from  257 to 276 - Psim:0.7916666666666666 region Length:20 
+GN-GPGGA
+GN--QGGA
+GNNSQGG-
+**********************
+
+Length: 8 residues - nb: 12  from  252 to 350 - Psim:0.6510416666666666 region Length:99 
+G-AG-SGGNGPG----
+G-AG-N----QG----
+G-AG-N--NSQG----
+G--G-P--SLGG----
+G-SG-G--GGGGGL--
+G-SA-A--SSAF----
+NPSG-S--SANL--L-
+G--GLN--GPPP-G-M
+G-GP-S--SGPT----
+S-SS-S--NNNM----
+--S--H--LQVS----
+S-HW-Q---SQL-L--
+**********************
+
+>uniprot|A0A167FPA9|A0A167FPA9_9BASI RNI-like protein [Calocera viscosa TUFC12733]
+Length: 5 residues - nb: 3  from  403 to 417 - Psim:0.7222222222222222 region Length:15 
+NLSSN-
+NLSSL-
+P-SMLP
+**********************
+
+>uniprot|A0A167I928|A0A167I928_9BASI RNI-like protein [Calocera viscosa TUFC12733]
+Length: 4 residues - nb: 4  from  41 to 54 - Psim:0.6875 region Length:14 
+EE-G
+EEN-
+EEQA
+EGQA
+**********************
+
+>uniprot|A0A167GPW9|A0A167GPW9_9BASI Uncharacterized protein [Calocera viscosa TUFC12733]
+Length: 2 residues - nb: 7  from  600 to 613 - Psim:0.7142857142857143 region Length:14 
+AG
+AG
+AG
+GA
+GG
+GG
+GG
+**********************
+
+Length: 4 residues - nb: 4  from  45 to 61 - Psim:0.6666666666666666 region Length:17 
+S-S-AP
+STP--L
+S-PIYR
+S-P-HR
+**********************
+
+Length: 4 residues - nb: 5  from  442 to 462 - Psim:0.6666666666666666 region Length:21 
+S-LV--
+S-LSN-
+S-LSQ-
+S-PAPP
+PRLLP-
+**********************
+
+Length: 4 residues - nb: 3  from  870 to 883 - Psim:0.6666666666666666 region Length:14 
+GEICR
+GERDV
+GE-DA
+**********************
+
+Length: 5 residues - nb: 3  from  870 to 884 - Psim:0.7222222222222222 region Length:15 
+GE-ICR
+GERDV-
+GE-DAR
+**********************
+
+>uniprot|A0A177TH48|A0A177TH48_9BASI Uncharacterized protein [Tilletia indica]
+Length: 3 residues - nb: 8  from  143 to 167 - Psim:0.71875 region Length:25 
+E-AE
+E-AA
+E-EE
+EGEE
+E-GG
+V-EE
+E-ED
+E-EP
+**********************
+
+Length: 3 residues - nb: 5  from  152 to 167 - Psim:0.65 region Length:16 
+EGEE
+EGG-
+V-EE
+E-ED
+E-EP
+**********************
+
+Length: 3 residues - nb: 4  from  787 to 800 - Psim:0.65 region Length:14 
+SGLG-
+SG-TT
+SG-S-
+AS-V-
+**********************
+
+Length: 3 residues - nb: 4  from  1901 to 1915 - Psim:0.6666666666666666 region Length:15 
+-LPSQ-
+-L-PN-
+-L-RHL
+NL-DH-
+**********************
+
+Length: 4 residues - nb: 4  from  140 to 156 - Psim:0.75 region Length:17 
+EEVEA
+EE-AA
+EE-EE
+GE-EE
+**********************
+
+Length: 4 residues - nb: 6  from  785 to 809 - Psim:0.6666666666666666 region Length:25 
+LG-SG-
+LG-SG-
+-TTSGS
+-A-SVP
+-A-SVA
+-A-SGS
+**********************
+
+Length: 5 residues - nb: 5  from  134 to 158 - Psim:0.7 region Length:25 
+EEQDGM
+EEVEA-
+EEA-A-
+EEEEG-
+EEEGG-
+**********************
+
+Length: 5 residues - nb: 4  from  785 to 802 - Psim:0.6666666666666666 region Length:18 
+L-GSG-
+L-GSGT
+TSGSA-
+S-VPA-
+**********************
+
+Length: 5 residues - nb: 3  from  1907 to 1920 - Psim:0.6666666666666666 region Length:14 
+NLRHL
+NLDH-
+NLFTT
+**********************
+
+Length: 9 residues - nb: 2  from  347 to 364 - Psim:0.8333333333333334 region Length:18 
+PQSIVSTTQ
+PQPIVSTPE
+**********************
+
+>uniprot|A0A167PM81|A0A167PM81_9BASI Uncharacterized protein [Calocera viscosa TUFC12733]
+Length: 3 residues - nb: 4  from  134 to 147 - Psim:0.7 region Length:14 
+-SLGP
+-SLG-
+WLLG-
+-PPA-
+**********************
+
+Length: 4 residues - nb: 4  from  134 to 147 - Psim:0.65 region Length:14 
+SLGP-
+SLGW-
+LLG--
+P--PA
+**********************
+
+>uniprot|A0A177T631|A0A177T631_9BASI Uncharacterized protein [Tilletia indica]
+Length: 1 residues - nb: 11  from  208 to 218 - Psim:1.0 region Length:11 
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+**********************
+
+Length: 8 residues - nb: 3  from  48 to 68 - Psim:0.8333333333333334 region Length:21 
+EQQQ-KQE
+EQQQ-DQ-
+EQQQDKEE
+**********************
+
+Length: 8 residues - nb: 3  from  706 to 729 - Psim:0.7407407407407407 region Length:24 
+SG-SLG-DG
+SGVGLGVEG
+SGAGSG-SG
+**********************
+
+>uniprot|A0A0C3S497|A0A0C3S497_PHLGI Uncharacterized protein [Phlebiopsis gigantea 11061_1 CR5-6]
+Length: 3 residues - nb: 5  from  27 to 42 - Psim:0.76 region Length:16 
+S-SAP
+S-S-P
+SHE-P
+L-S--
+L-S-P
+**********************
+
+>uniprot|A0A0C3S0F6|A0A0C3S0F6_PHLGI Uncharacterized protein [Phlebiopsis gigantea 11061_1 CR5-6]
+Length: 7 residues - nb: 2  from  78 to 92 - Psim:0.8125 region Length:15 
+RALGPAGV
+RALA-AGA
+**********************
+
+Length: 7 residues - nb: 2  from  307 to 322 - Psim:0.75 region Length:16 
+GLRRLHMN
+GLRRATDI
+**********************
+
+Length: 8 residues - nb: 2  from  75 to 92 - Psim:0.75 region Length:18 
+VRCRALGPAG
+VRALAAG-A-
+**********************
+
+Length: 8 residues - nb: 2  from  307 to 322 - Psim:0.75 region Length:16 
+GLRRLHMN
+GLRRATDI
+**********************
+
+>uniprot|A0A166BX26|A0A166BX26_9HOMO RNI-like protein [Peniophora sp. CONT]
+Length: 5 residues - nb: 3  from  122 to 138 - Psim:0.7619047619047619 region Length:17 
+AGVRTL-
+AG-DALR
+AG-RVL-
+**********************
+
+Length: 6 residues - nb: 3  from  280 to 298 - Psim:0.6666666666666666 region Length:19 
+LDLEDA-
+LDITDAV
+LD-TLIP
+**********************
+
+Length: 7 residues - nb: 3  from  280 to 299 - Psim:0.7083333333333334 region Length:20 
+LD-LEDA-
+LD-ITDAV
+LDTLIPQ-
+**********************
+
+>uniprot|A0A166EP39|A0A166EP39_9HOMO Uncharacterized protein [Peniophora sp. CONT]
+Length: 7 residues - nb: 2  from  430 to 443 - Psim:0.8571428571428571 region Length:14 
+SANSVLA
+SANSPTA
+**********************
+
+Length: 8 residues - nb: 2  from  427 to 443 - Psim:0.75 region Length:17 
+ASTSANS-VL
+AS--ANSPTA
+**********************
+
+>uniprot|A0A166HLY1|A0A166HLY1_9HOMO Uncharacterized protein [Peniophora sp. CONT]
+Length: 5 residues - nb: 3  from  16 to 29 - Psim:0.6666666666666666 region Length:14 
+SSSPA-
+SSAD--
+SS-PSL
+**********************
+
+>uniprot|A0A166KYE3|A0A166KYE3_9HOMO L domain-like protein [Peniophora sp. CONT]
+Length: 3 residues - nb: 5  from  862 to 875 - Psim:0.68 region Length:14 
+-SA--
+-SAV-
+-PF--
+ASL-R
+ASS--
+**********************
+
+Length: 5 residues - nb: 3  from  18 to 32 - Psim:0.7333333333333333 region Length:15 
+DEEWP
+DEEDE
+EEEDA
+**********************
+
+Length: 5 residues - nb: 3  from  853 to 867 - Psim:0.6666666666666666 region Length:15 
+KNSSV-
+KNTSS-
+A-SAVP
+**********************
+
+Length: 5 residues - nb: 3  from  913 to 927 - Psim:0.7777777777777778 region Length:15 
+AETSTS
+AE--TG
+AEM-TG
+**********************
+
+>uniprot|A0A166AFR5|A0A166AFR5_9HOMO Uncharacterized protein [Peniophora sp. CONT]
+Length: 7 residues - nb: 2  from  517 to 530 - Psim:0.75 region Length:14 
+SPPVVAVG
+SPPPVR--
+**********************
+
+Length: 8 residues - nb: 2  from  119 to 133 - Psim:0.7222222222222222 region Length:15 
+LSLTSIRTS
+LSAVS-R--
+**********************
+
+Length: 8 residues - nb: 2  from  517 to 530 - Psim:0.75 region Length:14 
+SPPVVAVG
+SPPPVR--
+**********************
+
+>uniprot|A0A067SC74|A0A067SC74_GALM3 Uncharacterized protein [Galerina marginata CBS 339.88]
+Length: 4 residues - nb: 8  from  573 to 601 - Psim:0.703125 region Length:29 
+--P-S-T-
+--P-SAD-
+-TPTS--S
+-GV-N---
+GVE-E---
+-SS-E---
+-TP-S---
+-TP-N-L-
+**********************
+
+Length: 5 residues - nb: 3  from  58 to 71 - Psim:0.7333333333333333 region Length:14 
+HHP-G
+HHPLQ
+HPPLH
+**********************
+
+>uniprot|A0A067TBF9|A0A067TBF9_GALM3 Uncharacterized protein [Galerina marginata CBS 339.88]
+Length: 4 residues - nb: 5  from  13 to 34 - Psim:0.7428571428571429 region Length:22 
+PSS-P--
+-PS-PC-
+-ST-WVN
+-SSSPP-
+-SS-PV-
+**********************
+
+>uniprot|A0A067TGZ8|A0A067TGZ8_GALM3 Uncharacterized protein [Galerina marginata CBS 339.88]
+Length: 4 residues - nb: 8  from  349 to 382 - Psim:0.65 region Length:34 
+EEDD-
+EEKEK
+EEQEA
+EEEE-
+EEAK-
+EAEE-
+EAEK-
+AAEV-
+**********************
+
+Length: 5 residues - nb: 3  from  348 to 361 - Psim:0.7333333333333333 region Length:14 
+DEE-D
+DEEKE
+KEEQE
+**********************
+
+Length: 7 residues - nb: 2  from  296 to 310 - Psim:0.7777777777777778 region Length:15 
+NA-SFGVLA
+NAISQG-L-
+**********************
+
+>uniprot|A0A067TAH1|A0A067TAH1_GALM3 Uncharacterized protein [Galerina marginata CBS 339.88]
+Length: 5 residues - nb: 4  from  42 to 61 - Psim:0.75 region Length:20 
+SPSS-F
+SPLSWF
+SPS--L
+SPPS-C
+**********************
+
+Length: 5 residues - nb: 3  from  377 to 393 - Psim:0.7222222222222222 region Length:17 
+LESLCG
+LERLLA
+LERL-D
+**********************
+
+Length: 6 residues - nb: 3  from  42 to 58 - Psim:0.8095238095238095 region Length:17 
+SPS-S-F
+SPL-SWF
+SPSLS-P
+**********************
+
+>uniprot|A0A2H3CNL5|A0A2H3CNL5_9AGAR RNI-like protein [Armillaria solidipes]
+Length: 4 residues - nb: 4  from  119 to 134 - Psim:0.65 region Length:16 
+SPRFD
+SPN--
+SPS-P
+SLS-F
+**********************
+
+Length: 5 residues - nb: 3  from  82 to 95 - Psim:0.6666666666666666 region Length:14 
+LP-P-C
+LP-PLA
+FSRP-E
+**********************
+
+>uniprot|A0A2H3BUI2|A0A2H3BUI2_9AGAR Uncharacterized protein [Armillaria solidipes]
+Length: 5 residues - nb: 3  from  241 to 254 - Psim:0.6666666666666666 region Length:14 
+--PSSIS
+NL-I-I-
+NLPS-F-
+**********************
+
+>uniprot|A0A2H3BVZ3|A0A2H3BVZ3_9AGAR RNI-like protein [Armillaria solidipes]
+Length: 1 residues - nb: 9  from  344 to 352 - Psim:1.0 region Length:9 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+>uniprot|A0A2H3B4R1|A0A2H3B4R1_9AGAR Uncharacterized protein [Armillaria solidipes]
+Length: 4 residues - nb: 6  from  10 to 34 - Psim:0.7777777777777778 region Length:25 
+SP-PSS
+SP-PS-
+SPGP--
+CI-DS-
+SP-PS-
+SP-SI-
+**********************
+
+Length: 5 residues - nb: 3  from  10 to 23 - Psim:0.8333333333333334 region Length:14 
+SP-PSS
+SP-PS-
+SPGPC-
+**********************
+
+>uniprot|A0A0D1ED76|A0A0D1ED76_USTMA Chromosome 1, whole genome shotgun sequence [Ustilago maydis 521]
+Length: 6 residues - nb: 3  from  1025 to 1042 - Psim:0.6666666666666666 region Length:18 
+LSSANR
+LSAEAL
+LSMINR
+**********************
+
+>uniprot|G4T8J0|G4T8J0_SERID Probable ran GTPase activating protein 1 [Serendipita indica DSM 11827]
+Length: 4 residues - nb: 4  from  370 to 383 - Psim:0.75 region Length:14 
+EEM-
+EEP-
+EEEE
+EEEE
+**********************
+
+Length: 5 residues - nb: 3  from  154 to 169 - Psim:0.7222222222222222 region Length:16 
+ARRA-A
+ARTAMG
+ARM-MG
+**********************
+
+>uniprot|A0A067MFF1|A0A067MFF1_9HOMO Uncharacterized protein [Botryobasidium botryosum FD-172 SS1]
+Length: 3 residues - nb: 6  from  68 to 87 - Psim:0.6666666666666666 region Length:20 
+A-R-V
+VLH-K
+E-E-P
+E-ESD
+E-E-D
+D-E-D
+**********************
+
+Length: 5 residues - nb: 3  from  12 to 28 - Psim:0.6666666666666666 region Length:17 
+PV-AEGS
+AVPN-GD
+AV-G-GK
+**********************
+
+Length: 5 residues - nb: 3  from  81 to 94 - Psim:0.6666666666666666 region Length:14 
+DEED-
+DEDRK
+DEESG
+**********************
+
+>uniprot|A0A1Y2EWR4|A0A1Y2EWR4_9BASI Uncharacterized protein [Leucosporidium creatinivorum]
+Length: 5 residues - nb: 3  from  386 to 400 - Psim:0.7142857142857143 region Length:15 
+LP-SF--
+LP-DTLR
+LPFQT--
+**********************
+
+>uniprot|A0A1Y2G020|A0A1Y2G020_9BASI Uncharacterized protein [Leucosporidium creatinivorum]
+Length: 1 residues - nb: 10  from  88 to 97 - Psim:1.0 region Length:10 
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+**********************
+
+>uniprot|A0A194S9V4|A0A194S9V4_RHOGW Uncharacterized protein [Rhodotorula graminis WP1]
+Length: 3 residues - nb: 5  from  420 to 433 - Psim:0.7 region Length:14 
+RA--
+RA-H
+PR--
+RAGT
+RA-D
+**********************
+
+Length: 3 residues - nb: 6  from  586 to 605 - Psim:0.6944444444444444 region Length:20 
+L-LLA-
+L-L-A-
+RLD-A-
+P-P---
+P-P-PR
+P-P-A-
+**********************
+
+Length: 4 residues - nb: 3  from  47 to 60 - Psim:0.8666666666666667 region Length:14 
+SSDDD
+SSSDD
+SSSD-
+**********************
+
+Length: 4 residues - nb: 4  from  274 to 290 - Psim:0.65 region Length:17 
+LTPSL
+LT-SL
+-EAFL
+L-PSS
+**********************
+
+Length: 4 residues - nb: 4  from  422 to 438 - Psim:0.65 region Length:17 
+RAHPR
+RAGT-
+RADV-
+R-DVL
+**********************
+
+Length: 5 residues - nb: 6  from  33 to 61 - Psim:0.6666666666666666 region Length:29 
+SS-FLS
+TT-T--
+SSLSEP
+SS-DDD
+SS-SDD
+SS-SDD
+**********************
+
+Length: 5 residues - nb: 3  from  422 to 435 - Psim:0.6666666666666666 region Length:14 
+RAHPR
+RAGT-
+RADVR
+**********************
+
+Length: 6 residues - nb: 3  from  47 to 62 - Psim:0.8888888888888888 region Length:16 
+SS-DDD
+SSSDD-
+SSSDDD
+**********************
+
+Length: 6 residues - nb: 3  from  149 to 166 - Psim:0.7142857142857143 region Length:18 
+SS-LKSL
+SSALPS-
+LSALSR-
+**********************
+
+Length: 8 residues - nb: 2  from  154 to 168 - Psim:0.6875 region Length:15 
+LSS-ALPS
+LSALSRPP
+**********************
+
+>uniprot|A8N961|A8N961_COPC7 Uncharacterized protein [Coprinopsis cinerea okayama7#130]
+Length: 4 residues - nb: 5  from  9 to 28 - Psim:0.68 region Length:20 
+S-PLS
+S-PAS
+S-PAT
+L-PVD
+SSPC-
+**********************
+
+Length: 5 residues - nb: 5  from  12 to 34 - Psim:0.6857142857142857 region Length:23 
+SSPA---
+SSPA-T-
+L-PVDS-
+S-PC-S-
+S-PG-LE
+**********************
+
+Length: 5 residues - nb: 3  from  165 to 178 - Psim:0.6666666666666666 region Length:14 
+RTFS-
+RTESI
+RTIVP
+**********************
+
+>uniprot|A0A1Y2FN74|A0A1Y2FN74_9BASI Uncharacterized protein [Leucosporidium creatinivorum]
+Length: 5 residues - nb: 3  from  72 to 88 - Psim:0.6666666666666666 region Length:17 
+SSPAEA
+SSSGSP
+SS-APA
+**********************
+
+Length: 5 residues - nb: 3  from  561 to 575 - Psim:0.7222222222222222 region Length:15 
+RER-R-
+RERLRV
+RE-LEK
+**********************
+
+Length: 7 residues - nb: 2  from  670 to 683 - Psim:0.8125 region Length:14 
+PASPTTE-
+PA-PTPEP
+**********************
+
+Length: 9 residues - nb: 2  from  3 to 22 - Psim:0.8181818181818182 region Length:20 
+PPSTPTRSRLL
+PPSTPSRSS--
+**********************
+
+>uniprot|A0A1Y2F430|A0A1Y2F430_9BASI Uncharacterized protein [Leucosporidium creatinivorum]
+Length: 1 residues - nb: 15  from  359 to 373 - Psim:1.0 region Length:15 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+>uniprot|A0A067MSG9|A0A067MSG9_9HOMO Uncharacterized protein [Botryobasidium botryosum FD-172 SS1]
+Length: 3 residues - nb: 7  from  598 to 618 - Psim:0.6857142857142857 region Length:21 
+-S-RE
+-G-G-
+-S-R-
+-S-RW
+LS-PF
+-SSRR
+-S-SG
+**********************
+
+>uniprot|A0A1Y2G1Q7|A0A1Y2G1Q7_9BASI Uncharacterized protein [Leucosporidium creatinivorum]
+Length: 3 residues - nb: 6  from  491 to 507 - Psim:0.6666666666666666 region Length:17 
+-F-A-
+FA-A-
+-L-SC
+PLGA-
+PL---
+PL-P-
+**********************
+
+>uniprot|A0A194S8N9|A0A194S8N9_RHOGW Uncharacterized protein [Rhodotorula graminis WP1]
+Length: 3 residues - nb: 5  from  142 to 155 - Psim:0.65 region Length:14 
+SG--
+SGS-
+S-T-
+SATA
+SAS-
+**********************
+
+Length: 5 residues - nb: 3  from  200 to 215 - Psim:0.6666666666666666 region Length:16 
+FPRRPR-
+FPRR-F-
+-SRS-LT
+**********************
+
+Length: 5 residues - nb: 3  from  263 to 277 - Psim:0.7777777777777778 region Length:15 
+PPTLES
+PPT--S
+PPS-AS
+**********************
+
+Length: 5 residues - nb: 3  from  843 to 857 - Psim:0.6666666666666666 region Length:15 
+AAPRAL
+AA-QV-
+AA-LAR
+**********************
+
+Length: 7 residues - nb: 3  from  171 to 192 - Psim:0.6666666666666666 region Length:22 
+RLS-SFAH
+RLS-SHSR
+DTSPSSSS
+**********************
+
+Length: 7 residues - nb: 3  from  842 to 861 - Psim:0.7037037037037037 region Length:20 
+LA--AP-RA
+LA--AQVAA
+LARLGD-R-
+**********************
+
+>uniprot|A0A067M1J6|A0A067M1J6_9HOMO Uncharacterized protein [Botryobasidium botryosum FD-172 SS1]
+Length: 3 residues - nb: 5  from  346 to 359 - Psim:0.75 region Length:14 
+EEGD
+EE--
+EE--
+EE-E
+GE-G
+**********************
+
+>uniprot|A0A067NDP7|A0A067NDP7_9HOMO Uncharacterized protein [Botryobasidium botryosum FD-172 SS1]
+Length: 5 residues - nb: 3  from  193 to 207 - Psim:0.7222222222222222 region Length:15 
+PVAIPP
+PVSV--
+PVSTP-
+**********************
+
+Length: 6 residues - nb: 3  from  171 to 188 - Psim:0.6666666666666666 region Length:18 
+TDDSSS
+TDDDSS
+ATSHPS
+**********************
+
+Length: 8 residues - nb: 3  from  171 to 192 - Psim:0.6666666666666666 region Length:22 
+TDD-SSS---
+TDDDSSA--T
+SHP-SATVA-
+**********************
+
+>uniprot|A0A1Y2EQP7|A0A1Y2EQP7_9BASI Uncharacterized protein [Leucosporidium creatinivorum]
+Length: 3 residues - nb: 6  from  1116 to 1133 - Psim:0.6666666666666666 region Length:18 
+-V-A-
+-SPSS
+-SPA-
+RLVS-
+-LP--
+-LPA-
+**********************
+
+Length: 4 residues - nb: 3  from  1260 to 1273 - Psim:0.7333333333333333 region Length:14 
+GEGLM
+GEGFG
+GEP-G
+**********************
+
+>uniprot|A8NTU5|A8NTU5_COPC7 Protein phosphatase regulatory subunit [Coprinopsis cinerea okayama7#130]
+Length: 6 residues - nb: 3  from  122 to 139 - Psim:0.7083333333333334 region Length:18 
+LRR-FANH
+LRR-LC--
+LRQNLV--
+**********************
+
+>uniprot|A0A194S163|A0A194S163_RHOGW Uncharacterized protein [Rhodotorula graminis WP1]
+Length: 5 residues - nb: 3  from  535 to 549 - Psim:0.7222222222222222 region Length:15 
+APASTS
+APVP--
+APAP-A
+**********************
+
+Length: 7 residues - nb: 2  from  626 to 640 - Psim:0.75 region Length:15 
+AAHLAGLG
+AAAGSGL-
+**********************
+
+Length: 8 residues - nb: 2  from  626 to 641 - Psim:0.75 region Length:16 
+AAHLAGLG
+AAAGSGLF
+**********************
+
+>uniprot|A0A194SAS6|A0A194SAS6_RHOGW Uncharacterized protein [Rhodotorula graminis WP1]
+Length: 7 residues - nb: 3  from  382 to 402 - Psim:0.7407407407407407 region Length:21 
+LTFVP-SLP
+LTFLP-T--
+LTSLDLS--
+**********************
+
+Length: 7 residues - nb: 2  from  775 to 788 - Psim:0.7857142857142857 region Length:14 
+EALRRRI
+EALRDEV
+**********************
+
+Length: 9 residues - nb: 2  from  377 to 396 - Psim:0.75 region Length:20 
+LPDNSLTFVPS-
+LP---LTFLPTL
+**********************
+
+>uniprot|A0A1Y2FTV9|A0A1Y2FTV9_9BASI Uncharacterized protein [Leucosporidium creatinivorum]
+Length: 2 residues - nb: 7  from  908 to 921 - Psim:0.7142857142857143 region Length:14 
+PS
+PS
+LA
+QS
+QS
+QS
+QS
+**********************
+
+Length: 4 residues - nb: 5  from  1317 to 1336 - Psim:0.6571428571428571 region Length:20 
+APK-S--
+APN-G--
+SA--S--
+-PSLQ-I
+-PS-SP-
+**********************
+
+Length: 4 residues - nb: 10  from  1335 to 1373 - Psim:0.65 region Length:39 
+-SPIPA
+-SPAD-
+-SPS--
+-SPGF-
+-TIAD-
+-SDDD-
+-SDSD-
+-N-SR-
+--PSS-
+PSPTS-
+**********************
+
+Length: 4 residues - nb: 4  from  1366 to 1381 - Psim:0.65 region Length:16 
+PS-S-
+PSPTS
+PS-AD
+PK-AP
+**********************
+
+Length: 5 residues - nb: 3  from  1328 to 1342 - Psim:0.7333333333333333 region Length:15 
+PSLQI
+PSSPI
+PASPA
+**********************
+
+Length: 5 residues - nb: 3  from  1354 to 1368 - Psim:0.7222222222222222 region Length:15 
+DS-D-D
+DS-DSD
+NSRPSS
+**********************
+
+>uniprot|A0A1Y2G2Z2|A0A1Y2G2Z2_9BASI Uncharacterized protein [Leucosporidium creatinivorum]
+Length: 4 residues - nb: 5  from  260 to 277 - Psim:0.7 region Length:18 
+T-S-L-
+T-S-LE
+S-L-L-
+LPS-S-
+L-PRL-
+**********************
+
+Length: 5 residues - nb: 3  from  267 to 282 - Psim:0.7142857142857143 region Length:16 
+SLLLPS-
+SL--PRL
+SL--ANL
+**********************
+
+Length: 11 residues - nb: 2  from  57 to 78 - Psim:0.7272727272727273 region Length:22 
+SSSEEDEDEDD
+SSEFDEEDTDS
+**********************
+
+>uniprot|A0A0N8Q023|A0A0N8Q023_RHOGW Uncharacterized protein [Rhodotorula graminis WP1]
+Length: 4 residues - nb: 4  from  702 to 717 - Psim:0.65 region Length:16 
+SPPPY
+SPR--
+SPAT-
+AVAT-
+**********************
+
+Length: 4 residues - nb: 4  from  887 to 900 - Psim:0.75 region Length:14 
+LA-A-
+LA-A-
+LAPS-
+LS-TL
+**********************
+
+Length: 5 residues - nb: 3  from  402 to 415 - Psim:0.7777777777777778 region Length:14 
+DL-SAN
+DL-S-D
+DLFSA-
+**********************
+
+Length: 7 residues - nb: 2  from  852 to 865 - Psim:0.7222222222222222 region Length:14 
+SS--N-FLP
+SSVASPF-P
+**********************
+
+>uniprot|A0A067MY96|A0A067MY96_9HOMO Uncharacterized protein [Botryobasidium botryosum FD-172 SS1]
+Length: 3 residues - nb: 6  from  449 to 467 - Psim:0.6666666666666666 region Length:19 
+S-IN-
+S-IA-
+S-A--
+S-SNN
+SSLL-
+S-SK-
+**********************
+
+Length: 3 residues - nb: 5  from  570 to 585 - Psim:0.7 region Length:16 
+SSN-
+SSN-
+THS-
+GSNF
+GSN-
+**********************
+
+Length: 4 residues - nb: 4  from  325 to 338 - Psim:0.65 region Length:14 
+-PL-S
+-PLLE
+SPA-S
+-GQ-T
+**********************
+
+Length: 5 residues - nb: 3  from  323 to 336 - Psim:0.6666666666666666 region Length:14 
+SPPL-
+SPLLE
+SPASG
+**********************
+
+Length: 5 residues - nb: 3  from  515 to 530 - Psim:0.6666666666666666 region Length:16 
+SSGRNV
+SSDQ-V
+SGG-NG
+**********************
+
+Length: 5 residues - nb: 3  from  574 to 588 - Psim:0.7222222222222222 region Length:15 
+SNTHSG
+SNFG--
+SNFNS-
+**********************
+
+>uniprot|A0A0C9VE27|A0A0C9VE27_9HOMO Unplaced genomic scaffold SPHSTscaffold_38, whole genome shotgun sequence [Sphaerobolus stellatus SS14]
+Length: 4 residues - nb: 4  from  180 to 196 - Psim:0.65 region Length:17 
+ASPSE
+AS-HD
+AS-RP
+AR-PP
+**********************
+
+Length: 4 residues - nb: 3  from  464 to 477 - Psim:0.6666666666666666 region Length:14 
+PSS-PT
+PSRIP-
+PSA--L
+**********************
+
+Length: 5 residues - nb: 3  from  180 to 193 - Psim:0.6666666666666666 region Length:14 
+AS-PSE
+AS--HD
+ASRPA-
+**********************
+
+Length: 5 residues - nb: 3  from  464 to 478 - Psim:0.6666666666666666 region Length:15 
+PSS-PT
+PSRIP-
+PSA-LL
+**********************
+
+Length: 8 residues - nb: 2  from  214 to 230 - Psim:0.6666666666666666 region Length:17 
+SSKSLASIK
+SSLTPSKI-
+**********************
+
+>uniprot|A0A0C9VH63|A0A0C9VH63_9HOMO Unplaced genomic scaffold SPHSTscaffold_100, whole genome shotgun sequence [Sphaerobolus stellatus SS14]
+Length: 7 residues - nb: 2  from  330 to 343 - Psim:0.9285714285714286 region Length:14 
+TLPSVGL
+TLPSVGP
+**********************
+
+Length: 8 residues - nb: 2  from  330 to 344 - Psim:0.875 region Length:15 
+TLPSVG-L
+TLPSVGPS
+**********************
+
+Length: 9 residues - nb: 2  from  330 to 345 - Psim:0.8333333333333334 region Length:16 
+TLPSVG--L
+TLPSVGPSF
+**********************
+
+>uniprot|A0A0C9VLS4|A0A0C9VLS4_9HOMO Unplaced genomic scaffold SPHSTscaffold_82, whole genome shotgun sequence (Fragment) [Sphaerobolus stellatus SS14]
+Length: 40 residues - nb: 13  from  433 to 940 - Psim:0.8330605564648118 region Length:508 
+DAQSAFEEALELHEQAQDILGQADDLQSLGNLYLHRNQLEEAEKSFL
+DA-------LELHKQAQDILGQADDLRHLGDLYLRRKQLEEAEKSFL
+NA-------LELHKQIQDILEQANDLRHLGDLYLHRNQLEDAEKSFL
+DA-------LKHHKQAQYILGQANDLCRLGDLYLRRNQLEKAEKSLW
+DA-------LELHKQAQDILGQANDLCCLGVLYLCRNQLDKAEKSFL
+DA-------LELHKQAQYILGQANDLHHLGDLYLRRNQLEEAEKSFL
+DA-------LELHKQTQDILEQANDLQSLGDLYLHRKQLEEAEKSFL
+DA-------LELHKQAQYILGQANNLHHLGDLYLRRNQLEKAEKSFL
+DA-------LRLHKQAQYILGQANDLCCLGVLYLHRNQLEKAEKSFL
+DA-------LELHKQVQSILGQAKDLQSIGYLYVCKDQLEEAEKSFL
+DA-------LKIHKQAQSISGQAKDLQSLGYLYVCKDQLEEAEKSFL
+DA-------LELHKQAQDILGQANDLHHLGDLYLHRDQLEEAEKNFL
+DA-------LELHKQPQDILRQA--I--I---F-K------A-----
+**********************
+
+Length: 40 residues - nb: 6  from  484 to 723 - Psim:0.8791666666666667 region Length:240 
+LHKQAQDILGQADDLRHLGDLYLRRKQLEEAEKSFLNALE
+LHKQIQDILEQANDLRHLGDLYLHRNQLEDAEKSFLDALK
+HHKQAQYILGQANDLCRLGDLYLRRNQLEKAEKSLWDALE
+LHKQAQDILGQANDLCCLGVLYLCRNQLDKAEKSFLDALE
+LHKQAQYILGQANDLHHLGDLYLRRNQLEEAEKSFLDALE
+LHKQTQDILEQANDLQSLGDLYLHRKQLEEAEKSFLDALE
+**********************
+
+Length: 40 residues - nb: 11  from  531 to 940 - Psim:0.7840909090909091 region Length:410 
+ILEQANDLRHLGDLYLHRNQLEDAEKSFLDALKHHKQAQY
+ILGQANDLCRLGDLYLRRNQLEKAEKSLWDALELHKQAQD
+ILGQANDLCCLGVLYLCRNQLDKAEKSFLDALELHKQAQY
+ILGQANDLHHLGDLYLRRNQLEEAEKSFLDALELHKQTQD
+ILEQANDLQSLGDLYLHRKQLEEAEKSFLDALELHKQAQY
+ILGQANNLHHLGDLYLRRNQLEKAEKSFLDALRLHKQAQY
+ILGQANDLCCLGVLYLHRNQLEKAEKSFLDALELHKQVQS
+ILGQAKDLQSIGYLYVCKDQLEEAEKSFLDALKIHKQAQS
+ISGQAKDLQSLGYLYVCKDQLEEAEKSFLDALELHKQAQD
+ILGQANDLHHLGDLYLHRDQLEEAEKNFLDALELHKQPQD
+ILRQA--I--I---F----------K----A---------
+**********************
+
+Length: 40 residues - nb: 7  from  575 to 854 - Psim:0.8571428571428571 region Length:280 
+ANDLCRLGDLYLRRNQLEKAEKSLWDALELHKQAQDILGQ
+ANDLCCLGVLYLCRNQLDKAEKSFLDALELHKQAQYILGQ
+ANDLHHLGDLYLRRNQLEEAEKSFLDALELHKQTQDILEQ
+ANDLQSLGDLYLHRKQLEEAEKSFLDALELHKQAQYILGQ
+ANNLHHLGDLYLRRNQLEKAEKSFLDALRLHKQAQYILGQ
+ANDLCCLGVLYLHRNQLEKAEKSFLDALELHKQVQSILGQ
+AKDLQSIGYLYVCKDQLEEAEKSFLDALKIHKQAQSISGQ
+**********************
+
+Length: 40 residues - nb: 8  from  624 to 940 - Psim:0.828125 region Length:317 
+LYLCRNQLDKAEKSFLDALELHKQAQYILGQANDLHHLGD
+LYLRRNQLEEAEKSFLDALELHKQTQDILEQANDLQSLGD
+LYLHRKQLEEAEKSFLDALELHKQAQYILGQANNLHHLGD
+LYLRRNQLEKAEKSFLDALRLHKQAQYILGQANDLCCLGV
+LYLHRNQLEKAEKSFLDALELHKQVQSILGQAKDLQSIGY
+LYVCKDQLEEAEKSFLDALKIHKQAQSISGQAKDLQSLGY
+LYVCKDQLEEAEKSFLDALELHKQAQDILGQANDLHHLGD
+LYLHRDQLEEAEKNFLDALELHKQPQDILRQAI-IFK-A-
+**********************
+
+Length: 40 residues - nb: 3  from  672 to 791 - Psim:0.8916666666666667 region Length:120 
+EEAEKSFLDALELHKQTQDILEQANDLQSLGDLYLHRKQL
+EEAEKSFLDALELHKQAQYILGQANNLHHLGDLYLRRNQL
+EKAEKSFLDALRLHKQAQYILGQANDLCCLGVLYLHRNQL
+**********************
+
+Length: 40 residues - nb: 5  from  716 to 915 - Psim:0.84 region Length:200 
+KSFLDALELHKQAQYILGQANNLHHLGDLYLRRNQLEKAE
+KSFLDALRLHKQAQYILGQANDLCCLGVLYLHRNQLEKAE
+KSFLDALELHKQVQSILGQAKDLQSIGYLYVCKDQLEEAE
+KSFLDALKIHKQAQSISGQAKDLQSLGYLYVCKDQLEEAE
+KSFLDALELHKQAQDILGQANDLHHLGDLYLHRDQLEEAE
+**********************
+
+Length: 40 residues - nb: 4  from  784 to 940 - Psim:0.8125 region Length:157 
+LYLHRNQLEKAEKSFLDALELHKQVQSILGQAKDLQSIGY
+LYVCKDQLEEAEKSFLDALKIHKQAQSISGQAKDLQSLGY
+LYVCKDQLEEAEKSFLDALELHKQAQDILGQANDLHHLGD
+LYLHRDQLEEAEKNFLDALELHKQPQDILRQAI-IFK-A-
+**********************
+
+Length: 40 residues - nb: 3  from  827 to 940 - Psim:0.7916666666666666 region Length:114 
+CKDQLEEAEKSFLDALKIHKQAQSISGQAKDLQSLGYLYV
+CKDQLEEAEKSFLDALELHKQAQDILGQANDLHHLGDLYL
+HRDQLEEAEKNFLDALELHKQPQDILRQA--I--I--FKA
+**********************
+
+>uniprot|A0A0C9VP38|A0A0C9VP38_9HOMO Unplaced genomic scaffold SPHSTscaffold_73, whole genome shotgun sequence [Sphaerobolus stellatus SS14]
+Length: 5 residues - nb: 3  from  370 to 385 - Psim:0.6666666666666666 region Length:16 
+LVEKQ-
+LVEFN-
+QVPLQR
+**********************
+
+Length: 6 residues - nb: 3  from  369 to 385 - Psim:0.6666666666666666 region Length:17 
+QL-VE-K
+QL-VEFN
+QVPLQ-R
+**********************
+
+>uniprot|A0A0C9VBJ4|A0A0C9VBJ4_9HOMO Unplaced genomic scaffold SPHSTscaffold_122, whole genome shotgun sequence [Sphaerobolus stellatus SS14]
+Length: 5 residues - nb: 3  from  253 to 269 - Psim:0.7222222222222222 region Length:17 
+ISVESD
+ISNYSL
+ISQES-
+**********************
+
+>uniprot|A0A0D0W1G8|A0A0D0W1G8_9TREE Unplaced genomic scaffold supercont1.225, whole genome shotgun sequence [Cryptococcus gattii EJB2]
+Length: 4 residues - nb: 4  from  758 to 772 - Psim:0.7916666666666666 region Length:15 
+GGSAV-
+GG--V-
+GG--L-
+GG--KE
+**********************
+
+Length: 5 residues - nb: 6  from  46 to 74 - Psim:0.7037037037037037 region Length:29 
+EP-QT----
+EP-QQ-A--
+-QLEQ-Q--
+-P-QSGS-L
+-P-QS-Q--
+-P-QE-EP-
+**********************
+
+Length: 5 residues - nb: 3  from  935 to 950 - Psim:0.6666666666666666 region Length:16 
+SLKYNT
+SLS-TL
+SLS-DN
+**********************
+
+Length: 5 residues - nb: 3  from  1196 to 1211 - Psim:0.6666666666666666 region Length:16 
+STSSPT
+STKSG-
+STST-A
+**********************
+
+Length: 6 residues - nb: 3  from  1196 to 1212 - Psim:0.6666666666666666 region Length:17 
+STSSPT
+STKSG-
+STSTAP
+**********************
+
+Length: 7 residues - nb: 2  from  70 to 83 - Psim:0.7857142857142857 region Length:14 
+PQEEPKA
+PQEPPRP
+**********************
+
+Length: 7 residues - nb: 2  from  869 to 882 - Psim:0.7857142857142857 region Length:14 
+RALERSV
+RALENVQ
+**********************
+
+>uniprot|A0A0C3AX43|A0A0C3AX43_9HOMO Uncharacterized protein [Scleroderma citrinum Foug A]
+Length: 3 residues - nb: 5  from  66 to 81 - Psim:0.65 region Length:16 
+PHAL
+PHA-
+PIT-
+HHQ-
+HHN-
+**********************
+
+>uniprot|A0A0D0WCP5|A0A0D0WCP5_9TREE Unplaced genomic scaffold supercont1.73, whole genome shotgun sequence [Cryptococcus gattii EJB2]
+Length: 5 residues - nb: 3  from  196 to 209 - Psim:0.6666666666666666 region Length:14 
+KKAAA
+KKAV-
+KKQDR
+**********************
+
+>uniprot|A0A0C9WFR1|A0A0C9WFR1_9HOMO Unplaced genomic scaffold scaffold_12, whole genome shotgun sequence [Hydnomerulius pinastri MD-312]
+Length: 1 residues - nb: 12  from  346 to 357 - Psim:1.0 region Length:12 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+>uniprot|A0A0C3EKD2|A0A0C3EKD2_9HOMO Uncharacterized protein [Scleroderma citrinum Foug A]
+Length: 3 residues - nb: 6  from  54 to 72 - Psim:0.6666666666666666 region Length:19 
+GD-TE
+GD---
+GD--E
+DD--E
+-DFLK
+-D-FP
+**********************
+
+>uniprot|A0A109FN21|A0A109FN21_9BASI Uncharacterized protein [Rhodotorula sp. JG-1b]
+Length: 7 residues - nb: 2  from  659 to 673 - Psim:0.75 region Length:15 
+LARQEQGS
+LAPPDQG-
+**********************
+
+>uniprot|A0A109FIB5|A0A109FIB5_9BASI Putative Ran GTPase activator [Rhodotorula sp. JG-1b]
+Length: 1 residues - nb: 11  from  355 to 365 - Psim:1.0 region Length:11 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+Length: 7 residues - nb: 2  from  291 to 305 - Psim:0.8125 region Length:15 
+ELDARAVT
+EL-ARAIA
+**********************
+
+>uniprot|A0A125PI39|A0A125PI39_9BASI Uncharacterized protein [Rhodotorula sp. JG-1b]
+Length: 2 residues - nb: 7  from  475 to 488 - Psim:0.7142857142857143 region Length:14 
+DA
+DA
+DA
+DG
+DG
+DG
+DD
+**********************
+
+Length: 4 residues - nb: 4  from  229 to 245 - Psim:0.7 region Length:17 
+TAH-A
+TARIS
+TAS-S
+SAG-S
+**********************
+
+Length: 4 residues - nb: 4  from  465 to 481 - Psim:0.7 region Length:17 
+TDFFS
+TDV-Q
+TDA-D
+ADA-D
+**********************
+
+Length: 5 residues - nb: 3  from  229 to 242 - Psim:0.6666666666666666 region Length:14 
+TAH-A
+TARIS
+TASSS
+**********************
+
+>uniprot|A0A109FGL1|A0A109FGL1_9BASI RNI-like protein [Rhodotorula sp. JG-1b]
+Length: 1 residues - nb: 10  from  550 to 559 - Psim:1.0 region Length:10 
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+**********************
+
+>uniprot|K0IH47|K0IH47_CRYGA Sog2 [Cryptococcus gattii VGIII]
+Length: 4 residues - nb: 4  from  79 to 94 - Psim:0.6875 region Length:16 
+PSFS
+PSRS
+PSNL
+SSNA
+**********************
+
+Length: 14 residues - nb: 2  from  60 to 90 - Psim:0.7941176470588235 region Length:31 
+TLPAFPSPGVDRSRSNS
+TLPSF-SPS--RSPSNL
+**********************
+
+>uniprot|A0A109FJQ2|A0A109FJQ2_9BASI L domain-like protein (Fragment) [Rhodotorula sp. JG-1b]
+Length: 3 residues - nb: 5  from  584 to 599 - Psim:0.7 region Length:16 
+SP-R
+SP-P
+RS-S
+SPVP
+SP-A
+**********************
+
+Length: 3 residues - nb: 5  from  749 to 763 - Psim:0.65 region Length:15 
+-LAA
+-LAS
+-LAP
+SLSE
+-LR-
+**********************
+
+Length: 4 residues - nb: 6  from  749 to 771 - Psim:0.6666666666666666 region Length:23 
+-LA-A-
+-LA-S-
+-LAPS-
+-LS-EL
+RLR-QN
+RLT-D-
+**********************
+
+Length: 5 residues - nb: 4  from  587 to 606 - Psim:0.7222222222222222 region Length:20 
+-SP--PRSS
+-SP-VP---
+-SPAVV---
+LAP-TL---
+**********************
+
+Length: 6 residues - nb: 3  from  172 to 190 - Psim:0.6666666666666666 region Length:19 
+ELEVVG-E
+ELG--GFE
+ELEFL--D
+**********************
+
+>uniprot|A0A109FC89|A0A109FC89_9BASI L domain-like protein (Fragment) [Rhodotorula sp. JG-1b]
+Length: 4 residues - nb: 4  from  336 to 349 - Psim:0.65 region Length:14 
+LS-D-
+LS-P-
+LS-GL
+TRCT-
+**********************
+
+>uniprot|A0A125PI34|A0A125PI34_9BASI Uncharacterized protein [Rhodotorula sp. JG-1b]
+Length: 3 residues - nb: 6  from  641 to 658 - Psim:0.7333333333333333 region Length:18 
+MR-W-
+MR-E-
+NR-E-
+RELE-
+-R-E-
+-R-ER
+**********************
+
+>uniprot|A0A1Y2I8M3|A0A1Y2I8M3_PYCCO RNI-like protein [Trametes coccinea BRFM310]
+Length: 3 residues - nb: 6  from  339 to 356 - Psim:0.7083333333333334 region Length:18 
+-DE-
+-DEE
+-DEE
+-EEA
+AEEE
+-AEA
+**********************
+
+Length: 4 residues - nb: 5  from  367 to 384 - Psim:0.68 region Length:18 
+PAA--
+PAV--
+PAAT-
+DAP--
+KAVTD
+**********************
+
+Length: 6 residues - nb: 3  from  356 to 374 - Psim:0.7619047619047619 region Length:19 
+APSPQ-A
+APSVEPA
+APAV-PA
+**********************
+
+Length: 7 residues - nb: 4  from  356 to 382 - Psim:0.65625 region Length:27 
+APS-P-QA
+APSVE-PA
+APAVP-AA
+TDA-PKAV
+**********************
+
+>uniprot|A0A1Y2J212|A0A1Y2J212_PYCCO Uncharacterized protein [Trametes coccinea BRFM310]
+Length: 2 residues - nb: 8  from  492 to 507 - Psim:0.6875 region Length:16 
+MS
+MS
+SA
+SA
+SA
+SA
+SA
+PA
+**********************
+
+>uniprot|A0A0C3FYW6|A0A0C3FYW6_9HOMO Uncharacterized protein [Piloderma croceum F 1598]
+Length: 5 residues - nb: 3  from  396 to 410 - Psim:0.7222222222222222 region Length:15 
+DEDVFE
+DE-A-A
+DEEV-A
+**********************
+
+>uniprot|A0A0C3BS88|A0A0C3BS88_9HOMO Uncharacterized protein [Piloderma croceum F 1598]
+Length: 5 residues - nb: 3  from  2 to 16 - Psim:0.7222222222222222 region Length:15 
+ATINAE
+ATR-L-
+ATI-LQ
+**********************
+
+>uniprot|A0A165GRZ0|A0A165GRZ0_9APHY Uncharacterized protein [Laetiporus sulphureus 93-53]
+Length: 5 residues - nb: 3  from  384 to 398 - Psim:0.7222222222222222 region Length:15 
+VLGIYT
+VLG--N
+VLYL-N
+**********************
+
+Length: 5 residues - nb: 3  from  527 to 541 - Psim:0.6666666666666666 region Length:15 
+SP-LL-
+SPSSSS
+SPGSH-
+**********************
+
+Length: 6 residues - nb: 3  from  294 to 313 - Psim:0.6666666666666666 region Length:20 
+EERPTVV
+EETPTPV
+EEN-SQS
+**********************
+
+Length: 7 residues - nb: 3  from  289 to 310 - Psim:0.75 region Length:22 
+PTSSSEER
+PTVV-EET
+PTPV-EEN
+**********************
+
+Length: 7 residues - nb: 2  from  504 to 517 - Psim:0.7857142857142857 region Length:14 
+AVSPPVV
+AVSSPSR
+**********************
+
+>uniprot|A0A165DQG2|A0A165DQG2_9APHY L domain-like protein [Laetiporus sulphureus 93-53]
+Length: 4 residues - nb: 3  from  7 to 20 - Psim:0.8 region Length:14 
+SGRTN
+SGRTD
+SG-TS
+**********************
+
+Length: 5 residues - nb: 3  from  7 to 21 - Psim:0.8 region Length:15 
+SGRTN
+SGRTD
+SGTSN
+**********************
+
+Length: 6 residues - nb: 3  from  7 to 22 - Psim:0.7777777777777778 region Length:16 
+SGRTN-
+SGRTD-
+SGTSNF
+**********************
+
+Length: 9 residues - nb: 2  from  55 to 72 - Psim:0.9444444444444444 region Length:18 
+PREPDIEAV
+PREPDIEAP
+**********************
+
+>uniprot|A0A238FAB4|A0A238FAB4_9BASI BQ2448_1511 protein [Microbotryum intermedium]
+Length: 7 residues - nb: 3  from  603 to 624 - Psim:0.7916666666666666 region Length:22 
+GGLRPPTA
+GG-RPATR
+GG-RPGTS
+**********************
+
+>uniprot|A0A238F1U6|A0A238F1U6_9BASI BQ2448_5663 protein [Microbotryum intermedium]
+Length: 1 residues - nb: 9  from  355 to 363 - Psim:1.0 region Length:9 
+E
+E
+E
+E
+E
+E
+E
+E
+E
+**********************
+
+>uniprot|A0A0D0APN3|A0A0D0APN3_9HOMO Unplaced genomic scaffold CY34scaffold_409, whole genome shotgun sequence [Suillus luteus UH-Slu-Lm8-n1]
+Length: 4 residues - nb: 4  from  356 to 372 - Psim:0.7 region Length:17 
+EEEDV
+EE-NV
+EE-SP
+EE-AA
+**********************
+
+Length: 5 residues - nb: 4  from  356 to 373 - Psim:0.7083333333333334 region Length:18 
+EEEDV-
+EE-NV-
+EE-SP-
+EE-AAA
+**********************
+
+>uniprot|A0A238F817|A0A238F817_9BASI BQ2448_5872 protein [Microbotryum intermedium]
+Length: 5 residues - nb: 3  from  524 to 539 - Psim:0.7222222222222222 region Length:16 
+LLNLSI
+LLPPS-
+LLTPQ-
+**********************
+
+>uniprot|A0A238FHK1|A0A238FHK1_9BASI BQ2448_4254 protein [Microbotryum intermedium]
+Length: 7 residues - nb: 2  from  759 to 772 - Psim:0.875 region Length:14 
+HQQQPNP-
+HQQQP-PQ
+**********************
+
+Length: 7 residues - nb: 2  from  873 to 886 - Psim:0.6666666666666666 region Length:14 
+GSY-LH-A-
+GSSNLTR-A
+**********************
+
+Length: 10 residues - nb: 2  from  538 to 559 - Psim:0.75 region Length:22 
+LARSCTRLRYID
+LA-CCTRLTDL-
+**********************
+
+>uniprot|J4IAX0|J4IAX0_9APHY Uncharacterized protein [Fibroporia radiculosa]
+Length: 5 residues - nb: 3  from  147 to 163 - Psim:0.6666666666666666 region Length:17 
+SSCN-EH
+SS-NVDT
+SSST-E-
+**********************
+
+>uniprot|S7RLK7|S7RLK7_GLOTA L domain-like protein [Gloeophyllum trabeum ATCC 11539]
+Length: 3 residues - nb: 4  from  389 to 402 - Psim:0.65 region Length:14 
+-SL-Q
+-SL-V
+VNT-Q
+-PLAD
+**********************
+
+Length: 4 residues - nb: 5  from  462 to 482 - Psim:0.6666666666666666 region Length:21 
+-SLQVL
+-S-LQN
+NS-G-L
+-S-GTL
+-S-GCA
+**********************
+
+Length: 5 residues - nb: 3  from  175 to 189 - Psim:0.7142857142857143 region Length:15 
+SS-GPV-
+SS--PVA
+SATSP--
+**********************
+
+>uniprot|J4G0E7|J4G0E7_9APHY Uncharacterized protein [Fibroporia radiculosa]
+Length: 5 residues - nb: 7  from  9 to 41 - Psim:0.673469387755102 region Length:33 
+SSLP-D-
+SS-P-A-
+SS-P-SP
+YD-P-AD
+SS-P--P
+SS-P-SL
+T--PIRT
+**********************
+
+>uniprot|J4HZX6|J4HZX6_9APHY Uncharacterized protein [Fibroporia radiculosa]
+Length: 9 residues - nb: 2  from  106 to 125 - Psim:0.7272727272727273 region Length:20 
+FLQNNTSLRKL
+FLQNN-AFAG-
+**********************
+
+>uniprot|J4IA57|J4IA57_9APHY Uncharacterized protein [Fibroporia radiculosa]
+Length: 7 residues - nb: 3  from  313 to 333 - Psim:0.6666666666666666 region Length:21 
+TL--LELA
+TLPQLERL
+TLVGLTR-
+**********************
+
+>uniprot|UPI00004B4DFD|UPI00004B4DFD hypothetical protein [Cryptococcus neoformans var. neoformans JEC21]
+Length: 5 residues - nb: 5  from  43 to 66 - Psim:0.6571428571428571 region Length:24 
+-TSSS--
+-TSSSI-
+-LQTP--
+ETPSI-L
+ETLST--
+**********************
+
+>uniprot|UPI00029F5095|UPI00029F5095 hypothetical protein [Agaricus bisporus var. bisporus H97]
+Length: 4 residues - nb: 4  from  218 to 233 - Psim:0.75 region Length:16 
+EREQ
+ERDR
+ERER
+EKEK
+**********************
+
+Length: 4 residues - nb: 5  from  244 to 263 - Psim:0.65 region Length:20 
+DKDR
+DKDG
+EKSR
+EKDK
+EKKS
+**********************
+
+Length: 11 residues - nb: 2  from  823 to 845 - Psim:0.7307692307692307 region Length:23 
+SLQLTTLDVSYA-
+SL--TTLDGAVLR
+**********************
+
+>uniprot|UPI00029F5B5B|UPI00029F5B5B hypothetical protein [Agaricus bisporus var. bisporus H97]
+Length: 3 residues - nb: 4  from  69 to 82 - Psim:0.7 region Length:14 
+ED-TD
+EDDE-
+ED-R-
+EE-Q-
+**********************
+
+Length: 4 residues - nb: 4  from  69 to 84 - Psim:0.6875 region Length:16 
+EDTD
+EDDE
+EDRE
+EQEE
+**********************
+
+>uniprot|UPI00029F6F1E|UPI00029F6F1E hypothetical protein [Agaricus bisporus var. bisporus H97]
+Length: 5 residues - nb: 3  from  308 to 324 - Psim:0.6666666666666666 region Length:17 
+LESICG
+LERLRG
+LEHI-D
+**********************
+
+Length: 6 residues - nb: 3  from  308 to 325 - Psim:0.6666666666666666 region Length:18 
+LESICG
+LERLRG
+LEHIDL
+**********************
+
+Length: 7 residues - nb: 5  from  295 to 326 - Psim:0.6666666666666666 region Length:32 
+-LGQ-VLRL
+NLSS--NR-
+-LES--ICG
+-LER--LRG
+-LEHIDLR-
+**********************
+
+Length: 9 residues - nb: 2  from  433 to 454 - Psim:0.7272727272727273 region Length:22 
+APVSSNVSPHL
+APVSAGVAAGK
+**********************
+
+>uniprot|UPI00029F7EE4|UPI00029F7EE4 hypothetical protein [Agaricus bisporus var. bisporus H97]
+Length: 8 residues - nb: 3  from  64 to 90 - Psim:0.6666666666666666 region Length:27 
+LRCLLDSLLK-
+LRD--SSCLKE
+LR-V-SGLKD-
+**********************
+
+>uniprot|UPI0003F4952E|UPI0003F4952E hypothetical protein [Tremella mesenterica DSM 1558]
+Length: 4 residues - nb: 4  from  368 to 385 - Psim:0.6666666666666666 region Length:18 
+ED-GKD
+ED-D-D
+EEPD-D
+GV-A-P
+**********************
+
+Length: 5 residues - nb: 3  from  367 to 380 - Psim:0.7777777777777778 region Length:14 
+DED-GK
+DED-D-
+DEEPD-
+**********************
+
+>uniprot|UPI0003F4A09C|UPI0003F4A09C hypothetical protein [Tremella mesenterica DSM 1558]
+Length: 3 residues - nb: 5  from  906 to 919 - Psim:0.65 region Length:14 
+-GCL
+RF-L
+EG-E
+EG--
+EG-E
+**********************
+
+Length: 3 residues - nb: 5  from  916 to 930 - Psim:0.7 region Length:15 
+G-E-
+GEE-
+DVDW
+GLE-
+GLE-
+**********************
+
+Length: 4 residues - nb: 5  from  913 to 931 - Psim:0.7 region Length:19 
+-G-E-E
+-G-EGE
+EDVD-W
+-GLE--
+-GLE-E
+**********************
+
+Length: 6 residues - nb: 3  from  686 to 702 - Psim:0.6666666666666666 region Length:17 
+PSPP-L
+PSSPNT
+PSIPSK
+**********************
+
+Length: 9 residues - nb: 2  from  524 to 542 - Psim:0.8 region Length:19 
+PGGNGTSGSG
+PGREGTSGT-
+**********************
+
+Length: 12 residues - nb: 3  from  142 to 177 - Psim:0.7222222222222222 region Length:36 
+SQFENSHEPHTT
+SQIPDSHESRTT
+SQPSNNSQPHTT
+**********************
+
+>uniprot|UPI0004408995|UPI0004408995 hypothetical protein [Fomitiporia mediterranea MF3/22]
+Length: 5 residues - nb: 5  from  26 to 48 - Psim:0.7428571428571429 region Length:23 
+S-SP-P-
+S-SPCS-
+LYAV-D-
+S-SP-P-
+S-SP-AN
+**********************
+
+>uniprot|UPI000440BF53|UPI000440BF53 hypothetical protein [Stereum hirsutum FP-91666 SS1]
+Length: 4 residues - nb: 5  from  8 to 29 - Psim:0.7 region Length:22 
+GSSPA-
+GS-PI-
+-HLPAD
+-SSPL-
+-SSPG-
+**********************
+
+Length: 5 residues - nb: 5  from  7 to 30 - Psim:0.7555555555555555 region Length:24 
+AGS-SP---
+--AGSP-I-
+--H-LP-AD
+--S-SP-L-
+--S-SPGL-
+**********************
+
+Length: 8 residues - nb: 2  from  523 to 538 - Psim:0.7777777777777778 region Length:16 
+GEEEWS-KE
+GEE-WSWVY
+**********************
+
+>uniprot|UPI000440CA89|UPI000440CA89 RNI-like protein [Stereum hirsutum FP-91666 SS1]
+Length: 5 residues - nb: 3  from  573 to 589 - Psim:0.6666666666666666 region Length:17 
+EDINQT
+EDYDGD
+ED-DGY
+**********************
+
+Length: 5 residues - nb: 3  from  860 to 874 - Psim:0.6666666666666666 region Length:15 
+GAG--M
+GASAVD
+GAGG-E
+**********************
+
+>uniprot|UPI000441160A|UPI000441160A RNI-like protein [Auricularia subglabra TFB-10046 SS5]
+Length: 8 residues - nb: 2  from  141 to 157 - Psim:0.7222222222222222 region Length:17 
+PAAPRKRKA
+PAEKRKI-V
+**********************
+
+>uniprot|UPI00044140D7|UPI00044140D7 L domain-like protein [Auricularia subglabra TFB-10046 SS5]
+Length: 6 residues - nb: 3  from  285 to 303 - Psim:0.8095238095238095 region Length:19 
+ASPISR-
+ASPISRA
+ASP-SPS
+**********************
+
+Length: 7 residues - nb: 3  from  285 to 304 - Psim:0.8333333333333334 region Length:20 
+ASPI-SR-
+ASPI-SRA
+ASPSPSS-
+**********************
+
+Length: 7 residues - nb: 2  from  452 to 466 - Psim:0.8125 region Length:15 
+GLELILRR
+GLK-ILRL
+**********************
+
+Length: 8 residues - nb: 3  from  285 to 305 - Psim:0.7916666666666666 region Length:21 
+ASPI-SR-
+ASPI-SRA
+ASPSPSST
+**********************
+
+Length: 8 residues - nb: 2  from  452 to 467 - Psim:0.8333333333333334 region Length:16 
+GLELILR-R
+GLK-ILRLR
+**********************
+
+>uniprot|UPI000441460B|UPI000441460B RNI-like protein [Auricularia subglabra TFB-10046 SS5]
+Length: 4 residues - nb: 6  from  595 to 618 - Psim:0.6666666666666666 region Length:24 
+NGYRR
+NG-T-
+NGHA-
+HPPA-
+HGHA-
+HGHA-
+**********************
+
+Length: 5 residues - nb: 3  from  103 to 117 - Psim:0.7142857142857143 region Length:15 
+LRNERS-
+LR--RM-
+LR--VLV
+**********************
+
+Length: 5 residues - nb: 3  from  611 to 625 - Psim:0.7222222222222222 region Length:15 
+HGHA--
+HGHA-P
+ALHATL
+**********************
+
+>uniprot|UPI0004414C37|UPI0004414C37 RNI-like protein [Auricularia subglabra TFB-10046 SS5]
+Length: 5 residues - nb: 3  from  18 to 32 - Psim:0.6666666666666666 region Length:15 
+DTGVDA
+DT-VI-
+DT-LRQ
+**********************
+
+>uniprot|UPI00044167FA|UPI00044167FA RNI-like protein [Punctularia strigosozonata HHB-11173 SS5]
+Length: 8 residues - nb: 2  from  42 to 57 - Psim:0.8333333333333334 region Length:16 
+SPSSA-SGP
+SPSSVGSG-
+**********************
+
+Length: 8 residues - nb: 2  from  216 to 232 - Psim:0.7222222222222222 region Length:17 
+SPFPLSAAQ
+SPL-LSVPA
+**********************
+
+Length: 9 residues - nb: 2  from  216 to 233 - Psim:0.75 region Length:18 
+SPFPLSA-AQ
+SPL-LSVPAA
+**********************
+
+>uniprot|UPI0004416F7C|UPI0004416F7C hypothetical protein [Punctularia strigosozonata HHB-11173 SS5]
+Length: 4 residues - nb: 5  from  6 to 26 - Psim:0.68 region Length:21 
+SP-PS
+SP-SL
+GPVDS
+SP-PE
+SP-SI
+**********************
+
+>uniprot|UPI0004417925|UPI0004417925 L domain-like protein [Punctularia strigosozonata HHB-11173 SS5]
+Length: 5 residues - nb: 3  from  604 to 619 - Psim:0.6666666666666666 region Length:16 
+SPER-S
+SPTGPS
+SPDT-I
+**********************
+
+Length: 7 residues - nb: 2  from  47 to 60 - Psim:0.7857142857142857 region Length:14 
+PATPKRL
+PATPIKS
+**********************
+
+Length: 7 residues - nb: 3  from  608 to 628 - Psim:0.7037037037037037 region Length:21 
+SSP-T-GP-
+SSPDT-IIA
+SSQ-YYQP-
+**********************
+
+>uniprot|UPI0004449B0D|UPI0004449B0D RNI-like protein [Stereum hirsutum FP-91666 SS1]
+Length: 3 residues - nb: 6  from  354 to 368 - Psim:0.7083333333333334 region Length:15 
+-EA-
+-EAE
+-EAA
+-EP-
+-VE-
+VEG-
+**********************
+
+Length: 5 residues - nb: 3  from  378 to 391 - Psim:0.6666666666666666 region Length:14 
+KEEKA
+KEE-T
+KEKGM
+**********************
+
+>uniprot|UPI000444A586|UPI000444A586 RNI-like protein [Stereum hirsutum FP-91666 SS1]
+Length: 4 residues - nb: 4  from  875 to 891 - Psim:0.75 region Length:17 
+EEDDG
+EEE-R
+EEE-G
+EGE-P
+**********************
+
+Length: 5 residues - nb: 3  from  140 to 153 - Psim:0.7777777777777778 region Length:14 
+LPP-T-
+LPPLT-
+FSP-TE
+**********************
+
+Length: 5 residues - nb: 3  from  291 to 305 - Psim:0.8095238095238095 region Length:15 
+SP--TP-
+SPSATP-
+SP--SPY
+**********************
+
+Length: 5 residues - nb: 3  from  875 to 888 - Psim:0.6666666666666666 region Length:14 
+EEDDG
+EEE-R
+EEEGE
+**********************
+
+>uniprot|UPI000455FEB9|UPI000455FEB9 hypothetical protein [Coniophora puteana RWD-64-598 SS2]
+Length: 1 residues - nb: 9  from  759 to 767 - Psim:1.0 region Length:9 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+**********************
+
+Length: 2 residues - nb: 9  from  331 to 348 - Psim:0.7222222222222222 region Length:18 
+RE
+QE
+RE
+RE
+RE
+RE
+SG
+RD
+RD
+**********************
+
+Length: 4 residues - nb: 4  from  303 to 316 - Psim:0.65 region Length:14 
+-PLP-
+-PLPR
+EDL-Q
+-DLR-
+**********************
+
+Length: 4 residues - nb: 4  from  327 to 342 - Psim:0.875 region Length:16 
+REKE
+REQE
+RERE
+RERE
+**********************
+
+Length: 4 residues - nb: 4  from  845 to 861 - Psim:0.75 region Length:17 
+AGTE-
+AGVG-
+AGGSH
+AGVG-
+**********************
+
+Length: 5 residues - nb: 3  from  319 to 333 - Psim:0.6666666666666666 region Length:15 
+KEKA--
+KELARE
+KERE-Q
+**********************
+
+Length: 5 residues - nb: 4  from  565 to 585 - Psim:0.6666666666666666 region Length:21 
+HSHTHT
+HS-LSQ
+HS-LPL
+PS-PPL
+**********************
+
+Length: 5 residues - nb: 4  from  845 to 862 - Psim:0.7 region Length:18 
+AGTE-
+AGVG-
+AGGSH
+AGVGG
+**********************
+
+Length: 5 residues - nb: 3  from  1439 to 1452 - Psim:0.7777777777777778 region Length:14 
+TPSAS-
+TP-AT-
+TP-GTG
+**********************
+
+Length: 7 residues - nb: 2  from  1794 to 1808 - Psim:0.75 region Length:15 
+GASAGGQP
+GAG-GGSL
+**********************
+
+>uniprot|UPI00045606A7|UPI00045606A7 hypothetical protein [Anthracocystis flocculosa PF-1]
+Length: 7 residues - nb: 3  from  35 to 55 - Psim:0.6666666666666666 region Length:21 
+QAEQQQ--
+QAEAAQ-G
+QQDAQPVQ
+**********************
+
+>uniprot|UPI00045606E1|UPI00045606E1 hypothetical protein [Anthracocystis flocculosa PF-1]
+Length: 2 residues - nb: 7  from  57 to 70 - Psim:0.8571428571428571 region Length:14 
+DD
+DD
+DD
+DS
+DD
+DD
+DT
+**********************
+
+Length: 7 residues - nb: 2  from  76 to 89 - Psim:0.7142857142857143 region Length:14 
+EEEDPQT
+EEDEPPQ
+**********************
+
+Length: 8 residues - nb: 2  from  75 to 92 - Psim:0.7 region Length:18 
+DEEEDPQTEE
+DEP--PQQQP
+**********************
+
+>uniprot|UPI00045616D5|UPI00045616D5 hypothetical protein [Anthracocystis flocculosa PF-1]
+Length: 3 residues - nb: 6  from  480 to 493 - Psim:0.7083333333333334 region Length:14 
+-SS-
+-SS-
+-SSF
+ITS-
+-GG-
+-GG-
+**********************
+
+>uniprot|UPI0004621D39|UPI0004621D39 hypothetical protein [Trametes versicolor FP-101664 SS1]
+Length: 6 residues - nb: 3  from  1466 to 1483 - Psim:0.7222222222222222 region Length:18 
+PSSGSG
+PSSQSH
+PSSTAR
+**********************
+
+Length: 10 residues - nb: 2  from  424 to 442 - Psim:0.7727272727272727 region Length:19 
+GD-T-EASHLR
+GDDTTEASAI-
+**********************
+
+>uniprot|UPI000462219B|UPI000462219B RNI-like protein [Trametes versicolor FP-101664 SS1]
+Length: 4 residues - nb: 3  from  424 to 437 - Psim:0.6666666666666666 region Length:14 
+LRGET
+LRLKV
+LRLS-
+**********************
+
+Length: 5 residues - nb: 3  from  422 to 437 - Psim:0.7222222222222222 region Length:16 
+TLLRGE
+TL-RLK
+VL-RLS
+**********************
+
+>uniprot|UPI0004623651|UPI0004623651 RNI-like protein [Trametes versicolor FP-101664 SS1]
+Length: 5 residues - nb: 3  from  534 to 548 - Psim:0.7222222222222222 region Length:15 
+PRRHPT
+PRAH--
+PRAQ-V
+**********************
+
+>uniprot|UPI0004A54696|UPI0004A54696 hypothetical protein [Mixia osmundae IAM 14324]
+Length: 7 residues - nb: 2  from  400 to 413 - Psim:0.7142857142857143 region Length:14 
+TLRRKWL
+TLRKARY
+**********************
+
+>uniprot|UPI0004A547A3|UPI0004A547A3 hypothetical protein [Mixia osmundae IAM 14324]
+Length: 8 residues - nb: 3  from  379 to 404 - Psim:0.6666666666666666 region Length:26 
+D-SLP-LAAE
+D-SLP-LAAE
+EVAAKPSLRF
+**********************
+
+Length: 8 residues - nb: 2  from  755 to 770 - Psim:0.75 region Length:16 
+ASSQRHVS
+ASSYSQLS
+**********************
+
+Length: 9 residues - nb: 3  from  379 to 404 - Psim:0.7 region Length:26 
+DSL-PLAAE-
+DSL-PLAAEE
+VAAKPSLRF-
+**********************
+
+Length: 9 residues - nb: 2  from  755 to 771 - Psim:0.7222222222222222 region Length:17 
+ASSQRHVS-
+ASSYSQLSA
+**********************
+
+>uniprot|UPI0004A54D05|UPI0004A54D05 hypothetical protein [Mixia osmundae IAM 14324]
+Length: 5 residues - nb: 4  from  756 to 775 - Psim:0.65 region Length:20 
+SLAHL
+ILAVP
+ELQIL
+ELAGL
+**********************
+
+>uniprot|UPI0007197BCF|UPI0007197BCF RNI-like protein [Moesziomyces antarcticus]
+Length: 7 residues - nb: 2  from  218 to 232 - Psim:0.75 region Length:15 
+PAQRSALQ
+PASADAL-
+**********************
+PHYLUM:BASIDIOMYCETES
+
+
+Length: 7 residues - nb: 2  from  891 to 904 - Psim:0.7857142857142857 region Length:14 
+LVSSEGD
+LVSEKGN
+**********************
+
+>uniprot|UPI0007197EC0|UPI0007197EC0 L domain-like protein [Moesziomyces antarcticus]
+Length: 4 residues - nb: 3  from  1089 to 1102 - Psim:0.7333333333333333 region Length:14 
+LRCYD
+LRAGE
+LRA-D
+**********************
+
+Length: 5 residues - nb: 3  from  1089 to 1103 - Psim:0.7222222222222222 region Length:15 
+LRCYD-
+LRA-GE
+LRA-DT
+**********************
+
+>uniprot|UPI00080CEFBF|UPI00080CEFBF hypothetical protein [Kwoniella mangroviensis CBS 8507]
+Length: 3 residues - nb: 5  from  232 to 245 - Psim:0.65 region Length:14 
+EG-D
+EG-D
+YG-S
+-G-R
+-GRK
+**********************
+
+Length: 4 residues - nb: 4  from  523 to 538 - Psim:0.75 region Length:16 
+SSIP
+SSIP
+SSIS
+TSAS
+**********************
+
+Length: 9 residues - nb: 3  from  374 to 400 - Psim:0.6666666666666666 region Length:27 
+SDWNHHPSS
+SDWNDHPWH
+SPSNPKAES
+**********************
+
+>uniprot|UPI00080D7AA1|UPI00080D7AA1 DNA repair protein RAD7 [Kwoniella mangroviensis CBS 8507]
+Length: 5 residues - nb: 3  from  208 to 223 - Psim:0.6666666666666666 region Length:16 
+KK-APQ
+KKKVPG
+KK-EDR
+**********************
+

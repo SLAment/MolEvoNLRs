@@ -1,0 +1,23 @@
+### REPEATexplorer: Exploring the diversity of HIC repeats in the Podospora anserina species complex
+# ===========================================================================
+# Sandra Lorena Ament Velasquez
+# 2025-03-27
+# ++++++++++++++++++++++++++++++++++++++++++++++
+
+# Input files
+basealignment: "data/TPRs_full_CDS_nom_noemptycols.fa"
+
+# Scripts
+descriptor: "scripts/REPEATdescriptor.py"
+REPEAT_LOGO: "scripts/REPEAT_LOGO.R"
+REPEATS_PCA: "scripts/TPRs_PCA.R"
+TPRs_LOGOS: "scripts/TPRs_LOGOS.R"
+
+# Definition of the repeats
+REGEX: '([\w])([HYD])([PT])([\w]{36})([LS])([GTSR])([KAQDE])'
+REPLEN: 42
+REPMINLEN: 42
+REPMAXLEN: 42
+
+# The amino acid positions used to classify the repeats (influenced by the REGEX definition of the repeat). 
+AMINOS: ['1-4-5-6-7-9-10-11-14-15-16-17-18-19-21-22-23-26-27-28-29-30-31-32-33-34-35-36-37-38-39-40-41-42'] # This is not really important, ignore!

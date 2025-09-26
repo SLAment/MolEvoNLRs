@@ -1,0 +1,31 @@
+### GenomeIdentity: A pipeline to compare identity along the genome against a reference
+# ===========================================================================
+# Sandra Lorena Ament Velasquez
+# 2024/04/03
+# ++++++++++++++++++++++++++++++++++++++++++++++
+
+# File with a list of samples to analyze
+SampleIDs_file: "data/IndividualsIDsSpp.txt"
+
+# Path to Illumina samples from Ament-Velásquez et al. (2022) NEE
+IlluminaPath: "/proj/sllstore2017101/b2015200/SnakePipelines/0_CleanIllumina/postQC-data"
+
+# The reference genome
+refgenome: "path/to/Podan2_AssemblyScaffoldsmt.fa"
+refname: "Podan2"
+
+# Name of the mitochondrial scaffold to exclude it from the final vcf file
+mitoctg: "PaMt_NC_001329.3"
+
+# TE library
+TElib: "path/to/PodoTE-1.00.lib"
+
+# Variables
+WINSIZE: 2000 # Size of non-overlapping windows to calculate dxy
+
+# Scripts
+vcfR_plotter: "scripts/PerSample_vcfR_plotter.R"
+PopGenome_WinMissingness: "scripts/PopGenome_WinMissingness.R"
+PopGenome_PairwiseDivergence: "scripts/PopGenome_PairwiseDivergence.R"
+PaIntrogressionTracks: "scripts/PaIntrogressionTracks2024.R"
+PaIntrogressionProportions: "scripts/PaIntrogressionProportionsFigS5.R"

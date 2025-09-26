@@ -1,0 +1,769 @@
+>uniprot|A0A1T1D3S8|A0A1T1D3S8_9SYNE Uncharacterized protein (Fragment) [Candidatus Synechococcus spongiarum LMB bulk15N]
+Length: 34 residues - nb: 5  from  65 to 203 - Psim:0.7352941176470589 region Length:139 
+NAQNTFGAIPLHWAAWKSETPEVVKVLLDAGADL
+NARDVDGQTPLHYAAWKSETPEVVKVLLDAGADL
+NARDVDGQTPLHYAAWKSETPEVVKVLLDAGADL
+NARDKDGWIPLHLAAEYSKTPEVVKVLLDAGADL
+NAR-------------------------------
+**********************
+
+Length: 34 residues - nb: 3  from  102 to 203 - Psim:0.9313725490196079 region Length:102 
+DVDGQTPLHYAAWKSETPEVVKVLLDAGADLNAR
+DVDGQTPLHYAAWKSETPEVVKVLLDAGADLNAR
+DKDGWIPLHLAAEYSKTPEVVKVLLDAGADLNAR
+**********************
+
+Length: 34 residues - nb: 2  from  143 to 203 - Psim:0.8382352941176471 region Length:61 
+LHYAAWKSETPEVVKVLLDAGADLNARDKDGWIP
+LHLAAEYSKTPEVVKVLLDAGADLNAR-------
+**********************
+
+>uniprot|A0A2E0AGK8|A0A2E0AGK8_9CYAN Uncharacterized protein (Fragment) [Cyanobium sp. NAT70]
+Length: 34 residues - nb: 3  from  20 to 121 - Psim:0.8725490196078431 region Length:102 
+PNKARTDDGATPCWIAAWNGHAGMVEQLLARGAD
+PNKARTDTGTTPLYVAAQQGHARVVELLLARGAD
+PNKARTDRGTTPLYIATQQGHAGVVELLLANGAD
+**********************
+
+Length: 34 residues - nb: 2  from  58 to 125 - Psim:0.9117647058823529 region Length:68 
+RTDTGTTPLYVAAQQGHARVVELLLARGADPNKA
+RTDRGTTPLYIATQQGHAGVVELLLANGADANKA
+**********************
+
+>uniprot|A0A1T1D1M9|A0A1T1D1M9_9SYNE Ankryin (Fragment) [Candidatus Synechococcus spongiarum LMB bulk15M]
+Length: 34 residues - nb: 2  from  3 to 70 - Psim:0.8970588235294118 region Length:68 
+PLHVAAWFSKTPEVVKALLGAGADLNARDKYGST
+PLHFTARDSETPEVVKVLLDAGADLNARDKYGST
+**********************
+
+>uniprot|G5J1P8|G5J1P8_CROWT Protein kinase [Crocosphaera watsonii WH 0003]
+Length: 33 residues - nb: 4  from  353 to 488 - Psim:0.7972972972972973 region Length:136 
+IAVLAENKEMLELLINHGADVNAKDKSGITPLHHGVS
+IA----NKEIVQLLINHGADVNAKDDYVRTPLNFGVS
+IA----NKEIVQLLINHGADVNAKDKSGITPLHDAVF
+AE----NKEIVELLINHGARINVKNEFGNTPLSIAVK
+**********************
+
+Length: 33 residues - nb: 3  from  393 to 491 - Psim:0.7676767676767676 region Length:99 
+KEIVQLLINHGADVNAKDDYVRTPLNFGVSIAN
+KEIVQLLINHGADVNAKDKSGITPLHDAVFAEN
+KEIVELLINHGARINVKNEFGNTPLSIAVKKGN
+**********************
+
+>uniprot|U5DLK8|U5DLK8_9CHRO Ankyrin repeat-containing protein [Rubidibacter lacunae KORDI 51-2]
+Length: 7 residues - nb: 2  from  43 to 57 - Psim:0.6875 region Length:15 
+FDQAVEEQ
+FDESGVE-
+**********************
+
+Length: 8 residues - nb: 2  from  43 to 58 - Psim:0.75 region Length:16 
+FDQAVEEQ
+FDESGVEQ
+**********************
+
+>uniprot|K9U7K5|K9U7K5_9CYAN Ankyrin [Chroococcidiopsis thermalis PCC 7203]
+Length: 9 residues - nb: 2  from  275 to 292 - Psim:0.7222222222222222 region Length:18 
+AIAAASGQG
+AIASALLLY
+**********************
+
+>uniprot|A0A1Z4NKR1|A0A1Z4NKR1_9CYAN Uncharacterized protein [Calothrix sp. NIES-3974]
+Length: 5 residues - nb: 5  from  170 to 195 - Psim:0.6666666666666666 region Length:26 
+--ID-K-G-
+--IDVN-A-
+--ID-KTG-
+QTIL-HK--
+--AAIR-GN
+**********************
+
+>uniprot|A8ZPC2|A8ZPC2_ACAM1 Uncharacterized protein [Acaryochloris marina MBIC11017]
+Length: 5 residues - nb: 3  from  193 to 208 - Psim:0.7222222222222222 region Length:16 
+DDNNE-
+DDLDEG
+DDDNV-
+**********************
+
+>uniprot|K9UVC0|K9UVC0_9CYAN Ankyrin [Calothrix sp. PCC 6303]
+Length: 7 residues - nb: 2  from  114 to 127 - Psim:0.75 region Length:14 
+ISRCENL-
+IS-IVNLL
+**********************
+
+>uniprot|A0A1Z9KY68|A0A1Z9KY68_9SYNE Uncharacterized protein [Synechococcus sp. TMED187]
+Length: 7 residues - nb: 2  from  49 to 62 - Psim:0.7857142857142857 region Length:14 
+HAACSNG
+HAACARV
+**********************
+
+>uniprot|A0A1Z9KZ20|A0A1Z9KZ20_9SYNE Uncharacterized protein [Synechococcus sp. TMED187]
+Length: 7 residues - nb: 7  from  83 to 133 - Psim:0.7012987012987013 region Length:51 
+PGRT-R-T-PR
+PG-T-R-T-PR
+PG-A-G-R-RR
+PG-A-G-R-GV
+RV-T-R-T-PT
+-G-TGR-LVPI
+-G-T-RDA-AS
+**********************
+
+Length: 7 residues - nb: 2  from  99 to 112 - Psim:0.7857142857142857 region Length:14 
+GAGRRRP
+GAGRGVR
+**********************
+
+Length: 8 residues - nb: 7  from  83 to 134 - Psim:0.7261904761904762 region Length:52 
+PGRT-R-T-PR-
+PG-T-R-T-PR-
+PG-A-G-R-RR-
+PG-AGR-G-VR-
+V--T-R-T-PT-
+-G-TGR-LVPI-
+-G-T-RDA-ASG
+**********************
+
+Length: 9 residues - nb: 4  from  83 to 113 - Psim:0.75 region Length:31 
+PGRTRTPR-
+PG-TRTPR-
+PGAGRR-R-
+PGAGRGVRV
+**********************
+
+>uniprot|K9TBT6|K9TBT6_9CYAN Ankyrin repeat-containing protein [Oscillatoria acuminata PCC 6304]
+Length: 7 residues - nb: 2  from  145 to 158 - Psim:0.7857142857142857 region Length:14 
+AIVQGHI
+AIVQSLL
+**********************
+
+>uniprot|A0A261KRX2|A0A261KRX2_9CYAN Uncharacterized protein [Hydrocoleum sp. CS-953]
+Length: 5 residues - nb: 3  from  3 to 19 - Psim:0.6666666666666666 region Length:17 
+KKSIQV
+KKSIYD
+KKN-KL
+**********************
+
+Length: 6 residues - nb: 3  from  3 to 20 - Psim:0.6666666666666666 region Length:18 
+KKSIQV
+KKSIYD
+KKNKLM
+**********************
+
+Length: 30 residues - nb: 4  from  363 to 477 - Psim:0.6854838709677419 region Length:115 
+TPLHYAKLTK-LIVILIEDGADVNARDNYGE
+TPLHYARDNQDVAAILIANGADVNAKNNYGE
+TPLHKV-DNQKVAALLISHGADVNAKNNYGE
+TPLN-SIDNQAVVEFIKSKMGD---KSN---
+**********************
+
+Length: 30 residues - nb: 3  from  400 to 477 - Psim:0.6666666666666666 region Length:78 
+DNQDVAAILIANGADVNAKNNYGETPLHKV
+DNQKVAALLISHGADVNAKNNYGETPLNSI
+DNQ--A-V-VEF---IKSK--MGDKS-N--
+**********************
+
+>uniprot|A0A0P8DLG5|A0A0P8DLG5_9CYAN Ankyrin repeat [Phormidesmis priestleyi Ana]
+Length: 3 residues - nb: 8  from  83 to 106 - Psim:0.6666666666666666 region Length:24 
+APT
+FSN
+QTE
+QTE
+QTE
+QSE
+QTK
+QTE
+**********************
+
+Length: 3 residues - nb: 5  from  91 to 105 - Psim:0.8666666666666667 region Length:15 
+EQT
+EQT
+EQS
+EQT
+KQT
+**********************
+
+Length: 4 residues - nb: 3  from  40 to 53 - Psim:0.9333333333333333 region Length:14 
+NSHLT
+NSHLT
+NSHL-
+**********************
+
+Length: 5 residues - nb: 3  from  40 to 54 - Psim:0.9333333333333333 region Length:15 
+NSHLT
+NSHLT
+NSHLN
+**********************
+
+Length: 6 residues - nb: 3  from  40 to 55 - Psim:0.8888888888888888 region Length:16 
+NSHLT-
+NSHLT-
+NSHLNQ
+**********************
+
+>uniprot|A0A1U7IH90|A0A1U7IH90_9CYAN Uncharacterized protein [Phormidium ambiguum IAM M-71]
+Length: 7 residues - nb: 2  from  245 to 258 - Psim:0.7857142857142857 region Length:14 
+AVVEGNT
+AVVELLL
+**********************
+
+>uniprot|A0A1U7IM14|A0A1U7IM14_9CYAN Uncharacterized protein [Phormidium ambiguum IAM M-71]
+Length: 33 residues - nb: 4  from  109 to 240 - Psim:0.7352941176470589 region Length:132 
+NAKN-IHGHTPLHQAVENNSKDVAELLIAKGADI
+NAKNNID-FTPLHYASQKDRKNLAELLIAKGADI
+NAKD-KNGSTPLHDAARHNSKEVAELLIAKGVDV
+NIQD-DDGGTPLHWVTFNQTKDVAELLIAKGANV
+**********************
+
+Length: 33 residues - nb: 5  from  218 to 381 - Psim:0.7076923076923077 region Length:164 
+LHWVTFNQTKDVAELLIAKGANVNARKKY--GDT-P----
+LYWTVFNNNKEMAEWLIAKGADVN--S----A--------
+LHIAAYNNDKEMVELLIAKGANVNAKGASVIALD-KSSTP
+LHDAAFNNSKEVAELLIAKGANVNDKNNN--GDT-P----
+LLLAA-SDKKTVVELLIFKGADVNAKNNK--GDT-PL---
+**********************
+
+Length: 33 residues - nb: 3  from  333 to 436 - Psim:0.6916666666666667 region Length:104 
+AKGANVNDKNNNGDTPLLLAASDK-KTVVELLIFKGADVN
+AK--NNK-GD-TP---LHQAAIHNWKYVVKLLISKGADVN
+AK--NKK-GE-TA---LLLAVKRNNKDVVELLKNHGGK-K
+**********************
+
+>uniprot|A0A068MZ51|A0A068MZ51_SYNY4 Ankyrin [Synechocystis sp. PCC 6714]
+Length: 7 residues - nb: 2  from  287 to 300 - Psim:0.8125 region Length:14 
+LAIAQGQ-
+LAIV-GQL
+**********************
+
+>uniprot|A0A0G2HMV9|A0A0G2HMV9_9SYNE Uncharacterized protein [Candidatus Synechococcus spongiarum SP3]
+Length: 28 residues - nb: 3  from  65 to 147 - Psim:0.6868686868686869 region Length:83 
+ASEGDSV-TAQYLINAGANLHATDKNDMTPLYI
+ASFWNNAEVAQVLINAGANLHATDEDGKTPLDT
+ASLRDNAEVAQVLINAGA---------------
+**********************
+
+Length: 29 residues - nb: 3  from  65 to 147 - Psim:0.6868686868686869 region Length:83 
+ASEGDSV-TAQYLINAGANLHATDKNDMTPLYI
+ASFWNNAEVAQVLINAGANLHATDEDGKTPLDT
+ASLRDNAEVAQVLINAGA---------------
+**********************
+
+Length: 32 residues - nb: 3  from  73 to 147 - Psim:0.6565656565656566 region Length:75 
+AQYLINAGANLHATDKNDMTPLYIASFWNNAEV
+AQVLINAGANLHATDEDGKTPLDTASLRDNAEV
+AQVLINAGA------------------------
+**********************
+
+Length: 33 residues - nb: 3  from  73 to 147 - Psim:0.6565656565656566 region Length:75 
+AQYLINAGANLHATDKNDMTPLYIASFWNNAEV
+AQVLINAGANLHATDEDGKTPLDTASLRDNAEV
+AQVLINAGA------------------------
+**********************
+
+Length: 35 residues - nb: 2  from  105 to 147 - Psim:0.6515151515151515 region Length:43 
+VAQVLINAGANLHATDEDGKTPLDTASLRDNAE
+VAQVLINAGA-----------------------
+**********************
+
+>uniprot|A0A164ZRF8|A0A164ZRF8_9SYNE Uncharacterized protein (Fragment) [Candidatus Synechococcus spongiarum]
+Length: 28 residues - nb: 5  from  63 to 189 - Psim:0.655 region Length:127 
+A-D-------IEARDELGWTPLHWAAHSSDSPAVVKALLD
+A-DA-----NLEAKDELGWTPMNRAALFSDSPAV------
+V-KA-----LLDAGATICDTPLHRAAAFSESPGA------
+VKDLLNDGANLEARDELGATPLHWAARFSESPA------V
+----------V--K----------A-L------L------
+**********************
+
+Length: 29 residues - nb: 2  from  63 to 123 - Psim:0.7941176470588235 region Length:61 
+AD--IEARDELGWTPLHWAAHSSDSPAVVKALLD
+ADANLEAKDELGWTPMNRAALFSDSPAVV-----
+**********************
+
+Length: 32 residues - nb: 2  from  63 to 126 - Psim:0.8382352941176471 region Length:64 
+AD--IEARDELGWTPLHWAAHSSDSPAVVKALLD
+ADANLEAKDELGWTPMNRAALFSDSPAVVKAL--
+**********************
+
+Length: 34 residues - nb: 2  from  63 to 128 - Psim:0.8676470588235294 region Length:66 
+AD--IEARDELGWTPLHWAAHSSDSPAVVKALLD
+ADANLEAKDELGWTPMNRAALFSDSPAVVKALLD
+**********************
+
+>uniprot|A0A164Y776|A0A164Y776_9SYNE Uncharacterized protein [Candidatus Synechococcus spongiarum]
+Length: 33 residues - nb: 5  from  295 to 459 - Psim:0.7696969696969697 region Length:165 
+LHIVAKKGQADVARALIEAGANPNAKDDDRNTP
+LHIAVKKGQIDITRALLKAGANLGAKDDNDDTP
+LHAAAKRGQAEVLKILIEAGANLNAKDDNDNTP
+LHIAIKRDQNDVVKILIEAGANLNAKDDNGNTP
+LHIAIKKGQNDVVKALIEADASIDTTNKNGLTP
+**********************
+
+Length: 33 residues - nb: 5  from  346 to 506 - Psim:0.6555555555555556 region Length:161 
+AGANLGA--KDDNDDTPLHAAAKRGQAEVLKILIE-
+AGANLNA--KDDNDNTPLHIAIKRDQNDVVKILIE-
+AGANLNA--KDDNGNTPLHIAIKKGQNDVVKALIE-
+ADASIDT--TNKNGLTPLDIA-ETMEN-LNLIQI--
+LGAQLSTEIKYIADSSRTH-S---DSTIIFTALFTA
+**********************
+
+Length: 33 residues - nb: 3  from  382 to 474 - Psim:0.7171717171717171 region Length:93 
+NLNAKDDNDNTPLHIAIKRDQNDVVKILIEAGA
+NLNAKDDNGNTPLHIAIKKGQNDVVKALIEADA
+SIDTTNKNGLTPLDIA-ETMEN-L-N-LIQI--
+**********************
+
+>uniprot|D4TGJ1|D4TGJ1_9CYAN Ankyrin [Cylindrospermopsis raciborskii CS-505]
+Length: 7 residues - nb: 2  from  23 to 37 - Psim:0.75 region Length:15 
+ETVINGLS
+ETVIF-YA
+**********************
+
+>uniprot|A0A0G8AT76|A0A0G8AT76_9SYNE Uncharacterized protein (Fragment) [Candidatus Synechococcus spongiarum 142]
+Length: 33 residues - nb: 2  from  1 to 67 - Psim:0.8676470588235294 region Length:67 
+WAAWHSQTPAVVQALLDAGADPNARSEGGSTPLH
+WAAEHSQTPEVVQALLDAGADPNVRI-GGKTAFD
+**********************
+
+Length: 34 residues - nb: 2  from  1 to 68 - Psim:0.8571428571428571 region Length:68 
+WAAWHSQTPAVVQALLDAGADPNARSEGGSTPLH-
+WAAEHSQTPEVVQALLDAGADPNVRI-GGKTAFDL
+**********************
+
+>uniprot|A0A0G8AY28|A0A0G8AY28_9SYNE Uncharacterized protein [Candidatus Synechococcus spongiarum 142]
+Length: 33 residues - nb: 5  from  2 to 165 - Psim:0.6808510638297872 region Length:164 
+----V-QALLDGGADPNAWTEDGVWTGQTPLDMAA-KYN-KT--PAV
+----V-QALLDGGADPNARNKAG----QTPLHTAAEY-SDT-PA---
+----VVKALLDGGADPNARTEGGL-SLKTPLHMAA-Y-SS-------
+KTPAVVQALLDGGADPNVRTEGGL--L-----------SG-------
+----KTPLHLAAYSEITAVVQALL-DAGVDLNARD-V-FG-------
+**********************
+
+Length: 33 residues - nb: 6  from  44 to 252 - Psim:0.7264957264957265 region Length:209 
+LDGGADPNARNKAG----QTPLHTAAEYSD-TPAVVKAL
+LDGGADPNARTEGGL-SLKTPLHMAA-YSSKTPAVVQAL
+LDGGADPNVRTEGGLLSGKTPLHLAA-YSEIT-AVVQAL
+LDAGVDLNARDVFG--G--TPLHTAA-AFNKTPAVVQAL
+LDAGADLNARNVSG----QTPLHTAV-RSSKTPAVVQAL
+LDAGADPNVRTEDGX-XX-XDL-IPD--DSPLRGT-NVY
+**********************
+
+Length: 33 residues - nb: 5  from  82 to 251 - Psim:0.655 region Length:170 
+A-DPNARTEG-GLSLKTPLHMAAYSSKTPAV-VQALLDGG
+A-DPNVRTEGGLLSGKTPLHLAAYSEIT-AV-VQA----L
+L-DAGVDLNARDVFGGTPLHTAAAFNKTPAV-VQA-----
+LLDAGADLNARNVSGQTPLHTAVRSSKTPAV-VQA-----
+LLDAGADPNVRTEDGXX-XXDLIPDD-SPLRGTNV-----
+**********************
+
+Length: 33 residues - nb: 3  from  135 to 234 - Psim:0.7941176470588235 region Length:100 
+PLHLAA-YSEITAVVQALLDAGVDLNARDVFGGT
+PLHTAAAFNKTPAVVQALLDAGADLNARNVSGQT
+PLHTAVRSSKTPAVVQALLDAGADPNVRTEDG-X
+**********************
+
+Length: 34 residues - nb: 3  from  2 to 107 - Psim:0.7863247863247863 region Length:106 
+VQALLDGGADPNAWTEDGVWTGQTPLDMAAKYN-KTPAV
+VQALLDGGADPNA--RNKA--GQTPLHTAAEYS-DTPAV
+VKALLDGGADPNARTEGGL-SLKTPLHMAA-YSSKT---
+**********************
+
+Length: 34 residues - nb: 6  from  44 to 253 - Psim:0.7307692307692307 region Length:210 
+LDGGADPNARNKAG----QTPLHTAAEYSD-TPAVVKAL
+LDGGADPNARTEGGL-SLKTPLHMAA-YSSKTPAVVQAL
+LDGGADPNVRTEGGLLSGKTPLHLAA-YSEIT-AVVQAL
+LDAGVDLNARDVFG--G--TPLHTAA-AFNKTPAVVQAL
+LDAGADLNARNVSG----QTPLHTAV-RSSKTPAVVQAL
+LDAGADPNVRTEDGX-XX-XDL-IPD-DSPLRGTNVY-W
+**********************
+
+Length: 34 residues - nb: 5  from  82 to 256 - Psim:0.675 region Length:175 
+ADPNARTEG-GLSLKTPLHMAAYSSKTPAV-VQA-LLDGG
+ADPNVRTEGGLLSGKTPLHLAAYSEIT-AV-VQA-LL---
+-DAGVDLNARDVFGGTPLHTAAAFNKTPAV-VQA-LL---
+-DAGADLNARNVSGQTPLHTAVRSSKTPAV-VQA-LL---
+-DAGADPNVRTEDGXXXXDLIPDDSPLRGTNVYWRLN---
+**********************
+
+Length: 34 residues - nb: 3  from  135 to 235 - Psim:0.7941176470588235 region Length:101 
+PLHLAA-YSEITAVVQALLDAGVDLNARDVFGGT
+PLHTAAAFNKTPAVVQALLDAGADLNARNVSGQT
+PLHTAVRSSKTPAVVQALLDAGADPNVRTEDGXX
+**********************
+
+Length: 36 residues - nb: 7  from  8 to 255 - Psim:0.7077922077922078 region Length:248 
+--GGADPNAWTEDGVWT-GQTPLDMAA-KYN-KTPAVVQALL-D
+--GGADPNARNKAG-----QTPLHTAAEY-SD-TPAVVKALLD-
+--GGADPNARTEGGL-S-LKTPLHMAA-Y-SSKTPAVVQALL--
+-DGGADPNVRTEGGL-LSGKTPLHLA-A-YSEIT-AVVQAL---
+LDAGVDLNARDVFG--G---TPLHTAA-A-FNKTPAVVQAL---
+LDAGADLNARNVSG-----QTPLHTAV-R-SSKTPAVVQAL---
+LDAGADPNVRTEDGX-X-X-XDL-IPD-D-SPLRGTNVYWRL--
+**********************
+
+Length: 36 residues - nb: 4  from  49 to 191 - Psim:0.7926829268292683 region Length:143 
+-DPNARNKAG----QTPLHTAAEYSD-TPAVVKALLDGGA-
+-DPNARTEGGL-SLKTPLHMAA-YSSKTPAVVQALLDGGA-
+-DPNVRTEGGLLSGKTPLHLAA-YSEIT-AVVQALLDAG--
+VDLNARDVFG--G--TPLHTAA-AFNKTPAVVQALLDAGAD
+**********************
+
+Length: 36 residues - nb: 3  from  127 to 236 - Psim:0.7674418604651163 region Length:110 
+GGLLSGKTPLHLAA-YSEITAVVQALLDAGVDLNARDVF----
+GG-----TPLHTAAAFNKTPAVVQALLDAGADLNARNVSGQ--
+-------TPLHTAVRSSKTPAVVQALLDAGADPNVRTEDGXXX
+**********************
+
+Length: 37 residues - nb: 7  from  8 to 258 - Psim:0.7380952380952381 region Length:251 
+GGADPNAWTEDGVWTGQTPLDMAA-KYN--KTPAVVQALLD-
+GGADPNARNKAG----QTPLHTAAEY-SD--TPAVVKALLD-
+GGADPNARTEGGL-SLKTPLHMAA-Y-SS-KTPAVVQALLD-
+GGADPNVRTEGGLLSGKTPLHLAA-Y-SE-IT-AVVQALLD-
+AGVDLNARDVFG--G--TPLHTAA-A-FN-KTPAVVQALLD-
+AGADLNARNVSG----QTPLHTAV-R-SS-KTPAVVQALLD-
+AGADPNVRTEDGX-XX-XDL-IPD-D-SPLRGTNVYWRLNDA
+**********************
+
+Length: 37 residues - nb: 4  from  49 to 193 - Psim:0.7916666666666666 region Length:145 
+DPNARNKAG----QTPLHTAAEYSD-TPAVVKALLDGGA---
+DPNARTEGGL-SLKTPLHMAA-YSSKTPAVVQALLDGGA---
+DPNVRTEGGLLSGKTPLHLAA-YSEIT-AVVQALLDAGV---
+DLNARDVFG--G--TPLHTAA-AFNKTPAVVQALLDAGADLN
+**********************
+
+Length: 37 residues - nb: 3  from  127 to 238 - Psim:0.7481481481481481 region Length:112 
+GGLLSGKTPLHLAA-YSEITAVVQALLDAGVDLNARDVF------
+GG-----TPLHTAAAFNKTPAVVQALLDAGADLNARNVSGQT---
+--------PLHTAVRSSKTPAVVQALLDAGADPNVRTEDGXXXXD
+**********************
+
+Length: 38 residues - nb: 6  from  37 to 255 - Psim:0.6972789115646258 region Length:219 
+PAVVQALLDGGADPNARNKAG-------QTP-LH--TAAEYSD-T-----
+PAVVKALLDGGADPNARTEGGL-S---LKTP-LH--MAA-YSSKT-----
+PAVVQALLDGGADPNVRTEGGLLS---GKTP-LH--LAA-YSEIT-----
+-AVVQALLDAGVDLNARDVFG--G-----TP-LH--TAA-AFNKTPAVVQ
+-A----LLDAGADLNARNVSG-------QTP-LH--TAV-RSSKTPAVVQ
+-A----LLDAGADPNVRTEDGX-XXXDLIPDDSPL-RGTNV----YW-RL
+**********************
+
+Length: 38 residues - nb: 5  from  76 to 255 - Psim:0.7317073170731707 region Length:180 
+ALLDGGADPNARTEGGL-SLKTPLHMAAYSS-KT-PAVVQ-
+ALLDGGADPNVRTEGGLLSGKTPLHLAAYSE-IT--AVVQ-
+ALLDAGVDLNARDVFG--G--TPLHTAAAFN-KT-PAVVQ-
+ALLDAGADLNARNVSG----QTPLHTAVRSS-KT-PAVVQ-
+ALLDAGADPNVRTEDGX-XX-XDL-IPDDSPLRGTNVYWRL
+**********************
+
+Length: 38 residues - nb: 3  from  133 to 248 - Psim:0.6598639455782312 region Length:116 
+KTPLHLAAYSEITAVVQALLDAGVDLNARDVF--GGTP--LHTAA-AFN
+KTP---AVVQ-------ALLDAGADLNARNVSGQT--PLHT--AVRSS-
+KTP---AVVQ-------ALLDAGADPNVRTEDGXXXXDLIPDDSPLRG-
+**********************
+
+>uniprot|Q8DKN1|Q8DKN1_THEEB Tlr0828 protein [Thermosynechococcus elongatus BP-1]
+Length: 4 residues - nb: 5  from  6 to 26 - Psim:0.6666666666666666 region Length:21 
+TA-I-E
+TA-I-E
+QGDL-A
+-A-IQE
+-A-IAN
+**********************
+
+>uniprot|K9X7A0|K9X7A0_9NOST Ankyrin repeat-containing protein [Cylindrospermum stagnale PCC 7417]
+Length: 9 residues - nb: 2  from  189 to 208 - Psim:0.8181818181818182 region Length:20 
+ALLAAGANVGT
+ALLAAAA-AG-
+**********************
+
+>uniprot|A0A0G8AYL6|A0A0G8AYL6_9SYNE Uncharacterized protein [Candidatus Synechococcus spongiarum 15L]
+Length: 30 residues - nb: 4  from  71 to 202 - Psim:0.7905405405405406 region Length:132 
+GADPKARN-ED--GFTPLH-TAGNSNTPEVVKVLLDA
+GADLNARGGRL--VLTPLHLAAAYSKTPEVVKALLDA
+GADLNARA-KD--GETPLHFAAGGSESPEVVKALLDA
+GADPNART-KDKDGLTPLHLAAGNSKTPEVV------
+**********************
+
+Length: 30 residues - nb: 5  from  107 to 266 - Psim:0.66 region Length:160 
+------L--------NARG-GRLVLTPLHLAAAYSKTPEVVKALLDAGAD
+------L--------NARAKD--GETPLHFAAGGSESPEV----VKALLD
+------AGA----DPNARTKDKDGLTPLHLAAGNSKTPEV----------
+----VKALLNAGTDPNVRG-GLFGRTPLHLAAWYSETP----------EV
+VKVLLDAGA----DPKAR--DERGLTAFDFIEENY--P------------
+**********************
+
+Length: 30 residues - nb: 3  from  147 to 240 - Psim:0.7317073170731707 region Length:94 
+K-D---GETP---LHFAAGGSESPEVVKALLDAGADPNART
+K-DK-DGLTP---LHLAAGNSKTPEVVKALLNAG------T
+DPNVRGGLFGRTPLHLAAWYSETPEVVK-VL----------
+**********************
+
+Length: 32 residues - nb: 6  from  76 to 277 - Psim:0.6937984496124031 region Length:202 
+A----RN-ED--GFTPLH-TAGNSNTPEVVKVLLDAGAD--LN
+A----RG-GR-LVLTPLHLAAAYSKTPEVVKALLDAGAD--LN
+A----RA--K-DGETPLHFAAGGSESPEVVKALLDAGAD--PN
+A----RTKDK-DGLTPLHLAAGNSKTPEVVKALLNAG------
+TDPNVRG-GL-FGRTPLHLAAWYSETPEVVK-VL-------L-
+D----AG-ADPKARDERGLTA-FDFIEENYP-LRDTDVYWQLN
+**********************
+
+Length: 32 residues - nb: 4  from  122 to 258 - Psim:0.7777777777777778 region Length:137 
+AAAYSKTPEVVKALLDAGADLNARAKD--GETPLHF
+AAGGSESPEVVKALLDAGADPNARTKDKDGLTPLHL
+AAGNSKTPEVVKALLNAGTDPNVRG-GLFGRTPLHL
+AAWYSETPEVVKVLLDAGADPKAR--DERGLTAF--
+**********************
+
+Length: 32 residues - nb: 3  from  165 to 267 - Psim:0.7407407407407407 region Length:103 
+VVKALLDAGADPNARTKDKDGLTPLHLAAGNSKTPE
+VVKALLNAGTDPNVRG-GLFGRTPLHLAAWYSETPE
+VVKVLLDAGADPKAR--DERGLTAFDFIEENY--PL
+**********************
+
+Length: 34 residues - nb: 5  from  76 to 245 - Psim:0.7789473684210526 region Length:170 
+--ARN-ED-GFTPLH-TAGNSNTPEVVKVLLDAGADLN
+--ARG-GRLVLTPLHLAAAYSKTPEVVKALLDAGADLN
+--ARA--KDGETPLHFAAGGSESPEVVKALLDAGADPN
+--ARTKDKDGLTPLHLAAGNSKTPEVVKALLNAGTD--
+PNVRG-GLFGRTPLHLAAWYSETPEVVKVLLDAGA---
+**********************
+
+Length: 34 residues - nb: 4  from  122 to 260 - Psim:0.7777777777777778 region Length:139 
+AAAYSKTPEVVKALLDAGADLNARAKD--GETPLHF
+AAGGSESPEVVKALLDAGADPNARTKDKDGLTPLHL
+AAGNSKTPEVVKALLNAGTDPNVRG-GLFGRTPLHL
+AAWYSETPEVVKVLLDAGADPKAR--DERGLTAFDF
+**********************
+
+Length: 34 residues - nb: 3  from  165 to 269 - Psim:0.7314814814814815 region Length:105 
+VVKALLDAGADPNARTKDKDGLTPLHLAAGNSKTPE
+VVKALLNAGTDPNVRG-GLFGRTPLHLAAWYSETPE
+VVKVLLDAGADPKAR--DERGLTAFDFIEENYPLRD
+**********************
+
+Length: 35 residues - nb: 5  from  76 to 247 - Psim:0.7837837837837838 region Length:172 
+-ARN-ED-GFTPLH-TAGNSNTPEVVKVLLDAGADLN
+-ARG-GRLVLTPLHLAAAYSKTPEVVKALLDAGADLN
+-ARA--KDGETPLHFAAGGSESPEVVKALLDAGADPN
+-ARTKDKDGLTPLHLAAGNSKTPEVVKALLNAGTD-P
+NVRG-GLFGRTPLHLAAWYSETPEVVKVLLDAGAD-P
+**********************
+
+Length: 35 residues - nb: 6  from  54 to 261 - Psim:0.7631578947368421 region Length:208 
+AAWHSKAPAVIKALLDAGADPKARN-E-DGFTPLH-TA
+--GNSNTPEVVKVLLDAGADLNARG-GRLVLTPLH-L-
+AAAYSKTPEVVKALLDAGADLNARAKD--GETPLH-F-
+AAGGSESPEVVKALLDAGADPNARTKDKDGLTPLH-L-
+AAGNSKTPEVVKALLNAGTDPNVRG-GLFGRTPLH-L-
+AAWYSETPEVVKVLLDAGADPKAR--DERGLTAFDFI-
+**********************
+
+Length: 35 residues - nb: 3  from  165 to 270 - Psim:0.7297297297297297 region Length:106 
+VVKALLDAGADPNARTKDKDGLTPLHLAAGNSKTPE-
+VVKALLNAGTDPNVRG-GLFGRTPLHLAAWYSETPE-
+VVKVLLDAGADPKAR--DERGLTAFDFIEENYPLRDT
+**********************
+
+>uniprot|A0A0G8AYI5|A0A0G8AYI5_9SYNE Uncharacterized protein [Candidatus Synechococcus spongiarum 15L]
+Length: 33 residues - nb: 6  from  125 to 322 - Psim:0.6617647058823529 region Length:198 
+PLHSGISKEDLTITMALINMGFDVNVKDK-NGIT
+PLHVAVMKRDIEMTKALISTGADLNCKDK-GGNT
+PLDVAATWGHGDIAKVLINAGAHVNPVDQ-GGKT
+PLHETLYKGYPDIAKALIKAGADLNLADKIGN-T
+PLDLAATKGHGDIAKVLIKAGAYANPVDQEGR-T
+PLHEAACAGDPDVVKALIKAGANLNATEK-GRQT
+**********************
+
+Length: 33 residues - nb: 3  from  495 to 591 - Psim:0.803921568627451 region Length:97 
+LLNAGADINARTEDGWTPLYTAAGFSKTPAVVQA
+LLDAGADINAQDKDGWTPLYTAAALSETPAVVQA
+LLDAGADINAQDKDGWTPL-SM--LQKR-GILK-
+**********************
+
+>uniprot|B7KGA7|B7KGA7_CYAP7 Ankyrin [Cyanothece sp. PCC 7424]
+Length: 7 residues - nb: 2  from  447 to 460 - Psim:0.8571428571428571 region Length:14 
+QVLLNTN
+QVLLNEK
+**********************
+
+>uniprot|A0A0F5YNZ2|A0A0F5YNZ2_9CYAN Ankyrin [Limnoraphis robusta CS-951]
+Length: 9 residues - nb: 2  from  33 to 50 - Psim:0.7222222222222222 region Length:18 
+GTTPLIVAA
+GTGFLEIVA
+**********************
+
+>uniprot|K9QIR0|K9QIR0_9NOSO Ankyrin [Nostoc sp. PCC 7107]
+Length: 7 residues - nb: 2  from  58 to 72 - Psim:0.7222222222222222 region Length:15 
+VSLLVNS-G
+VS--ANSIS
+**********************
+
+>uniprot|A0A1C0VHP1|A0A1C0VHP1_9NOSO Uncharacterized protein [Nostoc sp. MBR 210]
+Length: 4 residues - nb: 4  from  583 to 597 - Psim:0.75 region Length:15 
+DEDD
+DEE-
+DEDD
+NSDD
+**********************
+
+Length: 5 residues - nb: 3  from  583 to 596 - Psim:0.7222222222222222 region Length:14 
+DED-D-
+DEE-DE
+DDNSD-
+**********************
+
+>uniprot|T2IGM1|T2IGM1_CROWT Ankyrin repeat domain protein [Crocosphaera watsonii WH 8502]
+Length: 33 residues - nb: 3  from  14 to 112 - Psim:0.7272727272727273 region Length:99 
+VNIQDAYGSIALHYAAKEGDTKVIELLINHGAD
+VNVQDNDGRTPLHYAAQEENKETIELLINNGAD
+VNVQDNDGNTPLNHAEWRKHREIIVLLKKHGAR
+**********************
+
+Length: 37 residues - nb: 3  from  11 to 112 - Psim:0.6747967479674797 region Length:102 
+NDGVNIQDAYGSIALHYAAKEGDTKVIELLINHGADVNVQD
+NDG---RTPL----HYAAQ-EENKETIELLINNGADVNVQD
+NDG---NTPL----NHAEW-RKHREIIVLLKKHGA----R-
+**********************
+
+>uniprot|A0A1Q8BLW5|A0A1Q8BLW5_9CYAN Uncharacterized protein (Fragment) [Cyanobacteria bacterium 13_1_20CM_4_61_6]
+Length: 6 residues - nb: 2  from  1 to 14 - Psim:0.7142857142857143 region Length:14 
+LAARAGE
+LAAVEAL
+**********************
+
+Length: 7 residues - nb: 2  from  1 to 14 - Psim:0.7142857142857143 region Length:14 
+LAARAGE
+LAAVEAL
+**********************
+
+>uniprot|K7WUU2|K7WUU2_9NOST Serine/threonine protein kinase [Anabaena sp. 90]
+Length: 30 residues - nb: 4  from  323 to 451 - Psim:0.7803030303030303 region Length:129 
+LHIAAKQGNKEIVKQQLEQGADIHSTNNDGNTP
+LHLAAQNDNRDTVELLIAKGADIHSTNNDGNTP
+LHLAAQKDNRDTVELLIAKGADIHSTNNDGNTP
+LHLV---DRLDIVELLVARGADVNAKNHNGNTP
+**********************
+
+Length: 30 residues - nb: 3  from  359 to 451 - Psim:0.8080808080808081 region Length:93 
+AAQNDNRDTVELLIAKGADIHSTNNDGNTPLHL
+AAQKDNRDTVELLIAKGADIHSTNNDGNTP---
+LHLVDRLDIVELLVARGADVNAKNHNGNTP---
+**********************
+
+Length: 33 residues - nb: 4  from  323 to 454 - Psim:0.7777777777777778 region Length:132 
+LHIAAKQGNKEIVKQQLEQGADIHSTNNDGNTP---
+LHLAAQNDNRDTVELLIAKGADIHSTNNDGNTP---
+LHLAAQKDNRDTVELLIAKGADIHSTNNDGNTP---
+LHLV---DRLDIVELLVARGADVNAKNHNGNTPEQE
+**********************
+
+Length: 33 residues - nb: 2  from  359 to 424 - Psim:0.9848484848484849 region Length:66 
+AAQNDNRDTVELLIAKGADIHSTNNDGNTPLHL
+AAQKDNRDTVELLIAKGADIHSTNNDGNTPLHL
+**********************
+
+>uniprot|UPI00034846AE|UPI00034846AE DUF4253 domain-containing protein [Pseudanabaena sp. PCC 6802]
+Length: 6 residues - nb: 3  from  697 to 714 - Psim:0.8333333333333334 region Length:18 
+EDIDDD
+EDIDDD
+EDWGAD
+**********************
+
+Length: 7 residues - nb: 3  from  697 to 715 - Psim:0.8095238095238095 region Length:19 
+EDIDDD-
+EDIDDD-
+EDWGADL
+**********************
+
+Length: 8 residues - nb: 3  from  697 to 716 - Psim:0.7916666666666666 region Length:20 
+EDID-DD-
+EDID-DD-
+EDWGADLP
+**********************
+
+>uniprot|UPI000365F1FA|UPI000365F1FA ankyrin repeat domain-containing protein [Prochlorothrix hollandica]
+Length: 4 residues - nb: 5  from  2 to 21 - Psim:0.7 region Length:20 
+NESP
+NESP
+NETL
+NESV
+NDAV
+**********************
+
+>uniprot|UPI0004773983|UPI0004773983 hypothetical protein [Geitlerinema sp. PCC 7105]
+Length: 7 residues - nb: 3  from  11 to 32 - Psim:0.6666666666666666 region Length:22 
+LEAVKRSD
+LESVK-SL
+LEREA-DP
+**********************
+
+>uniprot|UPI0005141039|UPI0005141039 hypothetical protein [Tolypothrix bouteillei]
+Length: 5 residues - nb: 3  from  222 to 237 - Psim:0.6666666666666666 region Length:16 
+EDDSH-
+EDEQYD
+EDEEF-
+**********************
+
+Length: 6 residues - nb: 3  from  221 to 239 - Psim:0.6666666666666666 region Length:19 
+DEDDSHE
+DEQYD-E
+DEEFE-E
+**********************
+
+>uniprot|T2JG73|T2JG73_CROWT Uncharacterized protein [Crocosphaera watsonii WH 0401]
+Length: 33 residues - nb: 4  from  61 to 179 - Psim:0.7428571428571429 region Length:119 
+NKDALKLLINHGVDVNAKD-DDAGT-PLHNAVWEQ
+NKEIVELLINHGADVNAKSKSEMNPTPLHNAVWEQ
+NKEIVELLINHGADVNAKN-DDAGT-PLHAASMKD
+NKEIVELLINRGADINAK-----------------
+**********************
+
+Length: 33 residues - nb: 3  from  97 to 179 - Psim:0.6857142857142857 region Length:83 
+IVELLINHGADVNAKSKSEMNPTPLHNAVWEQNKE
+IVELLINHGADVNAKN-DDAGT-PLHAASMKDNKE
+IVELLINRGADINAK--------------------
+**********************
+
+Length: 35 residues - nb: 4  from  61 to 179 - Psim:0.7428571428571429 region Length:119 
+NKDALKLLINHGVDVNAKD-DDAGT-PLHNAVWEQ
+NKEIVELLINHGADVNAKSKSEMNPTPLHNAVWEQ
+NKEIVELLINHGADVNAKN-DDAGT-PLHAASMKD
+NKEIVELLINRGADINAK-----------------
+**********************
+
+Length: 35 residues - nb: 3  from  97 to 179 - Psim:0.6857142857142857 region Length:83 
+IVELLINHGADVNAKSKSEMNPTPLHNAVWEQNKE
+IVELLINHGADVNAKN-DDAGT-PLHAASMKDNKE
+IVELLINRGADINAK--------------------
+**********************
+
+>uniprot|UPI000907527F|UPI000907527F hypothetical protein [Candidatus Synechococcus spongiarum]
+Length: 33 residues - nb: 4  from  259 to 390 - Psim:0.7727272727272727 region Length:132 
+LHVAAKKGQTDAVKALIEAGANVDTKDAEGDTP
+LHIVAKKGQTDVARALIEAEANPNAKDDDRNTP
+LHVAVKKGQIEIARALIEAGANLGAKDDNDDTP
+LYVAAKRGQVEVLKVLIEAGANLNAKADNGNTP
+**********************
+
+>uniprot|UPI000933DA74|UPI000933DA74 hypothetical protein [Spirulina major]
+Length: 7 residues - nb: 2  from  1230 to 1244 - Psim:0.75 region Length:15 
+GVAPVIVA
+GVTVGIV-
+**********************
+
+>uniprot|UPI0009B84BF6|UPI0009B84BF6 ankyrin repeat domain-containing protein [Candidatus Synechococcus spongiarum]
+Length: 4 residues - nb: 4  from  195 to 209 - Psim:0.65 region Length:15 
+D-RIP
+D-RIP
+D-D-S
+LLR-D
+**********************
+
+>uniprot|UPI0009DAAC3F|UPI0009DAAC3F ankyrin repeat domain-containing protein [Microcoleus sp. PCC 7113]
+Length: 30 residues - nb: 3  from  2 to 91 - Psim:0.8666666666666667 region Length:90 
+HRTNRKEVAELLIARGADVNAQDNEGATPL
+HRRDRREVAELLIANGADVNAQDNEGATPL
+HWTDSREVAELLIANWANVQAKDDRGATPL
+**********************
+
+>uniprot|A0A1Z4Q9T1|A0A1Z4Q9T1_9CYAN Ankyrin [Scytonema sp. NIES-4073]
+Length: 5 residues - nb: 3  from  122 to 137 - Psim:0.6666666666666666 region Length:16 
+LD-LKN
+LDDFQA
+LD-FAS
+**********************

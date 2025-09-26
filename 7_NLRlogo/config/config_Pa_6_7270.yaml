@@ -1,0 +1,24 @@
+### ANKexplorer: Exploring the diversity of ANK repeats in the Podospora anserina species complex
+# ===========================================================================
+# Sandra Lorena Ament Velasquez
+# 2024-08-13
+# ++++++++++++++++++++++++++++++++++++++++++++++
+
+# Input files
+basealignment: "data/Pa_6_7270_haplotypes_al_sanscomata_trim_reAl_noGuides_noemptycols_sansCoEcp.fa"
+
+# Scripts
+descriptor: "scripts/REPEATdescriptor.py"
+REPEAT_LOGO: "scripts/REPEAT_LOGO.R"
+
+## Variables
+GENE: "Pa_6_7270"
+
+# Definition of the repeats
+REGEX: '(E|K|Q)(E|Q|G)([\w]{1})(L)(Q)([\w]{20})(L|A|F)([\w]{1})([\w]{4})(L)(P|S|L)'
+REPLEN: 33
+REPMINLEN: 33
+REPMAXLEN: 33
+
+# The amino acid positions used to classify the repeats (influenced by the REGEX definition of the repeat)
+AMINOS: ['3-15-16-17-20-21-24-25']

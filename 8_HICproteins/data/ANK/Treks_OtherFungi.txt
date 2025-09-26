@@ -1,0 +1,734 @@
+>uniprot|A0A0S6XD10|A0A0S6XD10_9FUNG Uncharacterized protein [fungal sp. No.11243]
+Length: 5 residues - nb: 4  from  529 to 546 - Psim:0.7083333333333334 region Length:18 
+AA-A-V
+AA-A-S
+AANA-N
+VA-GGA
+**********************
+
+>uniprot|A0A0S6XPF0|A0A0S6XPF0_9FUNG Uncharacterized protein [fungal sp. No.11243]
+Length: 3 residues - nb: 4  from  997 to 1010 - Psim:0.65 region Length:14 
+T-I-V
+T-I-V
+F-LPL
+SFI-A
+**********************
+
+Length: 4 residues - nb: 4  from  992 to 1006 - Psim:0.7 region Length:15 
+TIMVF
+TI-V-
+TI-VF
+-L-PL
+**********************
+
+>uniprot|A0A0S6XS59|A0A0S6XS59_9FUNG Uncharacterized protein [fungal sp. No.11243]
+Length: 9 residues - nb: 2  from  808 to 823 - Psim:0.8333333333333334 region Length:16 
+AEE-ARKE-
+AEELARRED
+**********************
+
+Length: 9 residues - nb: 4  from  812 to 844 - Psim:0.7 region Length:33 
+RK-EAEELAR
+R--E-DEAA-
+RKKQEEELAR
+RK-EEADAA-
+**********************
+
+>uniprot|A0A0S6X556|A0A0S6X556_9FUNG Uncharacterized protein [fungal sp. No.11243]
+Length: 4 residues - nb: 3  from  1186 to 1199 - Psim:0.8 region Length:14 
+DSDYD
+DSDIE
+DSD-E
+**********************
+
+Length: 5 residues - nb: 3  from  1186 to 1200 - Psim:0.7333333333333333 region Length:15 
+DSDYD
+DSDIE
+DSDEA
+**********************
+
+>uniprot|A0A0S6X4X0|A0A0S6X4X0_9FUNG Uncharacterized protein [fungal sp. No.11243]
+Length: 5 residues - nb: 3  from  551 to 565 - Psim:0.7333333333333333 region Length:15 
+SSRVF
+SSRSS
+SSGSW
+**********************
+
+>uniprot|A0A0S6XUB6|A0A0S6XUB6_9FUNG Uncharacterized protein [fungal sp. No.11243]
+Length: 5 residues - nb: 3  from  341 to 355 - Psim:0.7142857142857143 region Length:15 
+RSTSR-V
+RS-KR--
+RS-ILF-
+**********************
+
+>uniprot|A0A1V1T464|A0A1V1T464_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 35 residues - nb: 4  from  209 to 349 - Psim:0.722972972972973 region Length:141 
+EIIRLLL-QAGADVNLPLENGG-FGSALAAAACQGQT
+EIVKYLVNEAGADVNLQLGNCD-FGSALAAAAFEGQT
+EIVKLLI-RAGADVNLPL-TGGLYGSALEAAAYQGYV
+EILRFLI-QAGAEVNAQVQAGR-HGCALIGAIAWGKH
+**********************
+
+>uniprot|A0A1V1THK5|A0A1V1THK5_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 7 residues - nb: 2  from  226 to 240 - Psim:0.6875 region Length:15 
+LEN-VKIL
+LENGANKN
+**********************
+
+>uniprot|A0A1V1TRE0|A0A1V1TRE0_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 3 residues - nb: 6  from  71 to 92 - Psim:0.75 region Length:22 
+SQPQ
+SQPS
+SQ-Q
+SFTM
+SQPQ
+SQP-
+**********************
+
+Length: 3 residues - nb: 5  from  636 to 650 - Psim:0.6666666666666666 region Length:15 
+GGE
+GGE
+NGV
+NGV
+NGD
+**********************
+
+Length: 4 residues - nb: 6  from  71 to 94 - Psim:0.7222222222222222 region Length:24 
+SQP-Q-
+SQP-S-
+SQQ-S-
+FTM-S-
+-QPQS-
+-QP-QF
+**********************
+
+Length: 9 residues - nb: 3  from  74 to 97 - Psim:0.7333333333333333 region Length:24 
+QSQPS-SQ--
+QSFTM-SQP-
+QSQPQFSR-H
+**********************
+
+>uniprot|A0A1V1SSB2|A0A1V1SSB2_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 7 residues - nb: 2  from  88 to 101 - Psim:0.7857142857142857 region Length:14 
+DIIHQLL
+DIICDTL
+**********************
+
+>uniprot|A0A1V1ST81|A0A1V1ST81_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 28 residues - nb: 8  from  947 to 1184 - Psim:0.755 region Length:238 
+---GQ----------TPL---LWAVENGHREIVQLLIEKGANIEVKDSA-
+---GQ----------TPL---SCAAVNGHREIVQLLIKKSANIEVKTGAF
+---GQ----------TPL---LYAAVNGHREIVQLLIEKGANIEVKDSA-
+---GQ----------TPL---SCAAVNGHREIVQLLIKKSANIEVKTGAF
+---GQ----------TPL---SCAAVNGHREIVQLLIKKSANIE------
+VKDGA----------FGWTPLLWAAENGHQEIVQLLI------E------
+--KGADVKSIDNWGQTP---LSLAAVNGHREIVQLLI------E------
+----K----------------------G-AD-VKS-IDRTP-F---T-A-
+**********************
+
+Length: 28 residues - nb: 6  from  983 to 1178 - Psim:0.8186274509803921 region Length:196 
+PLSCAAVNGHREIVQLLIKKSANIEVKTGAFGQT
+PLLYAAVNGHREIVQLLIEKGANIEVKDSA-GQT
+PLSCAAVNGHREIVQLLIKKSANIEVKTGAFGQT
+PLSCAAVNGHREIVQLLIKKSANIEVKDGAFGWT
+PLLWAAENGHQEIVQLLIEKGADVK-SIDNWGQT
+PLSLAAVNGHREIVQLLIEKGA--DVKS--I-D-
+**********************
+
+Length: 28 residues - nb: 4  from  1023 to 1145 - Psim:0.75625 region Length:123 
+-VN-----GHREIVQLLIEKGANIEVKDSA-GQTPLSCAA
+-VN-----GHREIVQLLIKKSANIEVKTGAFGQTPLSCAA
+-VN-----GHREIVQLLIKKSANIEVKDGAFGWT------
+PLLWAAENGHQEIVQLLIEKGA--DVKS-------ID---
+**********************
+
+Length: 28 residues - nb: 2  from  1059 to 1120 - Psim:0.8676470588235294 region Length:62 
+HREIVQLLIKKSANIEVKTGAFGQTPLSCAAVNG
+HREIVQLLIKKSANIEVKDGAFGWTPL----L--
+**********************
+
+Length: 28 residues - nb: 3  from  1097 to 1184 - Psim:0.7058823529411765 region Length:88 
+VQLLIKKSANIEVKDGAFGWTPLLWAAENGHQEI
+VQLLIEKGADVKSIDN-WGQTPLSLAAVNGHREI
+VQLLIEKGADVKSID----RTPFT-A--------
+**********************
+
+Length: 34 residues - nb: 6  from  947 to 1148 - Psim:0.8480392156862745 region Length:202 
+GQTPLLWAVENGHREIVQLLIEKGANIEVKDSA-
+GQTPLSCAAVNGHREIVQLLIKKSANIEVKTGAF
+GQTPLLYAAVNGHREIVQLLIEKGANIEVKDSA-
+GQTPLSCAAVNGHREIVQLLIKKSANIEVKTGAF
+GQTPLSCAAVNGHREIVQLLIKKSANIEVKDGAF
+GWTPLLWAAENGHQEIVQLLIEKGADVKSIDNWG
+**********************
+
+Length: 34 residues - nb: 6  from  983 to 1184 - Psim:0.8194444444444444 region Length:202 
+PLSCAAVNGHREIVQLLIKKSANIE-VK-TGAFGQT
+PLLYAAVNGHREIVQLLIEKGANIE-VK-DSA-GQT
+PLSCAAVNGHREIVQLLIKKSANIE-VK-TGAFGQT
+PLSCAAVNGHREIVQLLIKKSANIE-VK-DGAFGWT
+PLLWAAENGHQEIVQLLIEKGADVK--S-IDNWGQT
+PLSLAAVNGHREIVQLLIEKGADVKSIDRT-PF-TA
+**********************
+
+Length: 34 residues - nb: 4  from  1023 to 1157 - Psim:0.8428571428571429 region Length:135 
+VNGHREIVQLLIEKGANIEVKDSA-GQTPLSCAA-
+VNGHREIVQLLIKKSANIEVKTGAFGQTPLSCAA-
+VNGHREIVQLLIKKSANIEVKDGAFGWTPLLWAA-
+ENGHQEIVQLLIEKGADVKSIDNW-GQTPLSLAAV
+**********************
+
+Length: 34 residues - nb: 3  from  1059 to 1160 - Psim:0.819047619047619 region Length:102 
+HREIVQLLIKKSANIEVKTGAFGQTPLSCAAVNG-
+HREIVQLLIKKSANIEVKDGAFGWTPLLWAAENG-
+HQEIVQLLIEKGADVK-SIDNWGQTPLSLAAVNGH
+**********************
+
+Length: 34 residues - nb: 2  from  1103 to 1174 - Psim:0.782051282051282 region Length:72 
+KSANIEVKDGAFGWTPLLWAAENGHQEIVQLLIEKGADV
+KS--IDN---WGQTP-LSLAAVNGHREIVQLLIEKGADV
+**********************
+
+>uniprot|A0A1V1T5T6|A0A1V1T5T6_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 7 residues - nb: 2  from  183 to 196 - Psim:0.7857142857142857 region Length:14 
+GNTPSSV
+GNTPLMY
+**********************
+
+>uniprot|A0A1V1T966|A0A1V1T966_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 5 residues - nb: 3  from  51 to 65 - Psim:0.6666666666666666 region Length:15 
+LPLVDT
+LPTR--
+LPPPD-
+**********************
+
+Length: 5 residues - nb: 3  from  1044 to 1059 - Psim:0.6666666666666666 region Length:16 
+AVAN-G
+AVEDLG
+AVSRL-
+**********************
+
+Length: 6 residues - nb: 3  from  1044 to 1060 - Psim:0.6666666666666666 region Length:17 
+AVAN-G
+AVEDLG
+AVSRLL
+**********************
+
+Length: 33 residues - nb: 2  from  1059 to 1124 - Psim:0.8088235294117647 region Length:66 
+LL-ERGADVNAQGGMYGNALQAACLRRGKRKLIE
+LLLERGADINAQGGFYGSALQAACCWGGGYEKF-
+**********************
+
+Length: 33 residues - nb: 2  from  1216 to 1282 - Psim:0.8088235294117647 region Length:67 
+ALQAAATRIYGVDVLELLLSKGAEVNKQGGRYGT
+ALQAASFE-GNVDAVRLLLDHGAEVNARGGRYGT
+**********************
+
+>uniprot|A0A1V1TR38|A0A1V1TR38_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 5 residues - nb: 5  from  336 to 361 - Psim:0.68 region Length:26 
+LLANGA----
+LL--GA--L-
+P---SR--V-
+E---GRWPL-
+E---GA--AE
+**********************
+
+>uniprot|A0A1V1TU79|A0A1V1TU79_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 7 residues - nb: 2  from  342 to 355 - Psim:0.8571428571428571 region Length:14 
+DKQLKII
+DKQLKDV
+**********************
+
+>uniprot|A0A1V1SWQ5|A0A1V1SWQ5_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 33 residues - nb: 6  from  303 to 497 - Psim:0.6535087719298246 region Length:195 
+DRW--P--IHIAC-YGDSEAVAQYVLENTVGRDTEDCL
+-R---RSVLHYAIRSGHE-NITRLLIQRGAG--VGHP-
+DRSRG-TPLFWAAEYGHT-TIVKLLLENNAD--IDSQ-
+DRY-GKTALYKAAQYGHA-TIVKLLLENNAD--IDSQ-
+DRY-GETALYKAAQHGHT-AVVKLLLENNAH--VNSQ-
+DDN-GETALYKGTEYGHT-AIVKLLLERGAD--PNIR-
+**********************
+
+Length: 33 residues - nb: 4  from  405 to 536 - Psim:0.6597222222222222 region Length:132 
+ALYKAA-QYGHATIVKLLLENNADID-SQD-RYGET
+ALYKAA-QHGHTAVVKLLLENNAHVN-SQD-DNGET
+ALYKGT-EYGHTAIVKLLLERGADPN-IRAWPSG-V
+SSIEVAINKGHEEVAELLRSWGAELTDSS--Q-SET
+**********************
+
+>uniprot|A0A1V1T1H7|A0A1V1T1H7_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 33 residues - nb: 6  from  905 to 1109 - Psim:0.6583333333333333 region Length:205 
+LAVVLVLLQHKASVNVRDGVGCTAMHRSAMYGHEAVTRLL
+LA------SGWSVYVRD-NDGWTAMHWAAMNGHEAVARLL
+LD------YGAGVDTPD-DDGWAAMHWAAANGHKSVVRML
+LE------RKAEIDRRD-YDGWTAIHRASRGGYEAVVGFL
+LE------MGANVNAED-ISGWTALHRASEAGHDGVVRSL
+LE------YKADINARN-CRQETGLHLAAKNGHWAVARLL
+**********************
+
+>uniprot|A0A1V1T396|A0A1V1T396_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 7 residues - nb: 2  from  1004 to 1018 - Psim:0.6875 region Length:15 
+GGADANSQ
+GGATI-MR
+**********************
+
+>uniprot|A0A1V1T8N6|A0A1V1T8N6_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 7 residues - nb: 2  from  744 to 757 - Psim:0.7142857142857143 region Length:14 
+LDEVKDI
+LDELMIL
+**********************
+
+>uniprot|A0A1V1SVT7|A0A1V1SVT7_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 1 residues - nb: 11  from  1808 to 1818 - Psim:1.0 region Length:11 
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+**********************
+
+Length: 1 residues - nb: 16  from  1896 to 1911 - Psim:1.0 region Length:16 
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+**********************
+
+Length: 3 residues - nb: 10  from  821 to 850 - Psim:0.8 region Length:30 
+EDT
+GDE
+EDG
+EDG
+EDG
+EDE
+EDE
+EDE
+EDE
+SDE
+**********************
+
+Length: 3 residues - nb: 6  from  833 to 850 - Psim:0.8888888888888888 region Length:18 
+EDG
+EDE
+EDE
+EDE
+EDE
+SDE
+**********************
+
+Length: 3 residues - nb: 5  from  840 to 853 - Psim:0.8666666666666667 region Length:14 
+DEE
+DEE
+DES
+DE-
+DEE
+**********************
+
+Length: 5 residues - nb: 4  from  816 to 836 - Psim:0.7142857142857143 region Length:21 
+-EDD-DQ
+-EDTGDE
+-ED-GED
+GED-G-E
+**********************
+
+>uniprot|A0A1V1T824|A0A1V1T824_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 33 residues - nb: 5  from  749 to 914 - Psim:0.65 region Length:166 
+LL-QYGARADSTDR-SGRTPLFYAA-IKGHEEIVAI
+LQHEENVRIDSKDEIYGQTPLSWAA-EGGHTA-VVK
+LLISSGANPDASDN-HGRTALSWAA-ERAHVD-VLR
+LLIENGANTNSTDN-HGRTPLSWAA-ECGDER-AGR
+VLIENGAVVESRDV-FGRTPLMYAALNTADRA-AG-
+**********************
+
+>uniprot|A0A1V1SYW8|A0A1V1SYW8_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 33 residues - nb: 5  from  755 to 919 - Psim:0.8647058823529412 region Length:165 
+DKDGRTPLSYAAENGDRVNLDTLLRK-GADADLK
+DKDGRTPLLYAAENGDRANLDTLLRK-GADANLK
+DKDGRTPLSYAAENGDRANLDTLLRK-GADADLK
+DKDGRTPLSYAAENGDRANLDTLLRK-GADANLK
+DKDGRTPLSYAVAHGHKG-IARLLAPAGQVEEIR
+**********************
+
+Length: 33 residues - nb: 4  from  791 to 922 - Psim:0.8235294117647058 region Length:132 
+GRTPLLYAAENGDRANLDTLLRK-GADANLKDKD
+GRTPLSYAAENGDRANLDTLLRK-GADADLKDKD
+GRTPLSYAAENGDRANLDTLLRK-GADANLKDKD
+GRTPLSYAVAHGHKG-IARLLAPAGQVEEIRTSS
+**********************
+
+Length: 33 residues - nb: 3  from  827 to 925 - Psim:0.7450980392156863 region Length:99 
+PLSYAAENGDRANLDTLLRK-GADADLKDKDGRT
+PLSYAAENGDRANLDTLLRK-GADANLKDKDGRT
+PLSYAVAHGHKG-IARLLAPAGQVEEIRTSSEFM
+**********************
+
+>uniprot|A0A1V1TVR5|A0A1V1TVR5_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 5 residues - nb: 3  from  12 to 26 - Psim:0.8 region Length:15 
+RQRVL
+RQWVL
+RQRMT
+**********************
+
+Length: 34 residues - nb: 2  from  56 to 123 - Psim:0.8823529411764706 region Length:68 
+GNTPLPWAARNEHEAVVGLLLNAPEINPNSRNDI
+GNTPLLWAAINGHEAVVGLLLNAPEINPNLMDNR
+**********************
+
+>uniprot|A0A1V1THT0|A0A1V1THT0_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 33 residues - nb: 3  from  732 to 833 - Psim:0.75 region Length:102 
+ILLALLEKGAYIEPRGPYSRTPLFFAAKNGHTATVQ
+ILL---ERGANMRSRDEFDDTPLTLAAQNGHTAIVQ
+ILL---EEGANIESRGFYDKTPLICAAGNGHESLVK
+**********************
+
+>uniprot|A0A1V1T343|A0A1V1T343_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 5 residues - nb: 3  from  794 to 808 - Psim:0.8 region Length:15 
+GNEGG
+GNEGE
+NNRGE
+**********************
+
+Length: 6 residues - nb: 5  from  794 to 822 - Psim:0.675 region Length:29 
+GNEG--G-
+GNEGE-N-
+-NRGE-NN
+-EEGS-NV
+-EEGKAQ-
+**********************
+
+>uniprot|A0A1V1TW96|A0A1V1TW96_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 35 residues - nb: 5  from  29 to 203 - Psim:0.7371428571428571 region Length:175 
+DNGAHIDMPLQTGDYGSALEAAVYGGSLEIVRLLI
+DNGADINMPLRNGDHGSALVAAIYRESLEITRLLI
+DKGADVNILVEPEDHNSPLVAAIYRESAEITRLLI
+DNGANVNTQIQSRGHGSALIAAVYGGSLDIIRLLI
+DNGAEINTPIQTGDFASALVAAIYKANIEIVQLLI
+**********************
+
+Length: 35 residues - nb: 3  from  77 to 181 - Psim:0.780952380952381 region Length:105 
+DHGSALVAAIYRESLEITRLLIDKGADVNILVEPE
+DHNSPLVAAIYRESAEITRLLIDNGANVNTQIQSR
+GHGSALIAAVYGGSLDIIRLLIDNGAEINTPIQTG
+**********************
+
+>uniprot|A0A1V1TK92|A0A1V1TK92_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 4 residues - nb: 3  from  581 to 594 - Psim:0.8 region Length:14 
+ERAEA
+ERKEA
+ER-RA
+**********************
+
+Length: 5 residues - nb: 4  from  575 to 595 - Psim:0.7916666666666666 region Length:21 
+ERREAR
+ERAEA-
+ERKEA-
+ERR-AL
+**********************
+
+>uniprot|A0A1V1SWB7|A0A1V1SWB7_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 33 residues - nb: 6  from  849 to 1036 - Psim:0.6666666666666666 region Length:188 
+TPLLQALNHR-SSEIAETLINHGANVSAADKKGI
+TPLHEASVAG-FYKIAEMLISRGANVSAADRKGI
+TPLHGALVAR-SYKIAEMLINRGANVSAADKKGI
+TPLHEASVAG-SYKISEMLINRGADVSATENYGQ
+TPLFMAS-RRGNINVVRLLIKHGANVLTRDIHGR
+TPL---FVAE-AFGHAH--V---AKI-LINQ-GA
+**********************
+
+Length: 33 residues - nb: 3  from  889 to 987 - Psim:0.8484848484848485 region Length:99 
+VAGFYKIAEMLISRGANVSAADRKGITPLHGAL
+VARSYKIAEMLINRGANVSAADKKGITPLHEAS
+VAGSYKISEMLINRGADVSATENYGQTPLFMAS
+**********************
+
+>uniprot|A0A1V1TLZ4|A0A1V1TLZ4_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 5 residues - nb: 3  from  578 to 593 - Psim:0.7222222222222222 region Length:16 
+YASKGY
+YALQ-D
+YAVQ-Y
+**********************
+
+>uniprot|A0A1V1SQ85|A0A1V1SQ85_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 33 residues - nb: 4  from  1246 to 1377 - Psim:0.9318181818181818 region Length:132 
+DINTQAGEYGTALGAAAYSGKVKAVELLLSKGA
+DINIQAGEYGTALGAAVYGGKVEIVELLLSKGA
+DINIQAGEYGTALGAAAYGGKVEIVELLLSKGA
+DVNIQAGKCGTALGAAVYGGKVEIVELLLSKGA
+**********************
+
+Length: 33 residues - nb: 3  from  1282 to 1380 - Psim:0.9595959595959596 region Length:99 
+IQAGEYGTALGAAVYGGKVEIVELLLSKGADIN
+IQAGEYGTALGAAAYGGKVEIVELLLSKGADVN
+IQAGKCGTALGAAVYGGKVEIVELLLSKGADVN
+**********************
+
+Length: 33 residues - nb: 3  from  1321 to 1419 - Psim:0.7523809523809524 region Length:99 
+GTALGAA--AYGGKVEIVELLLSKGADVNIQAGKC
+GTALGAA--VYGGKVEIVELLLSKGADVNAKGGRY
+GTPLGAALNTYWPNGDVIKLLLSKGADTEL-LNE-
+**********************
+
+>uniprot|A0A1V1T9D4|A0A1V1T9D4_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 7 residues - nb: 2  from  55 to 68 - Psim:0.75 region Length:14 
+EAALRE-W
+EA-LRTTM
+**********************
+
+>uniprot|A0A1V1TEH0|A0A1V1TEH0_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 5 residues - nb: 3  from  189 to 202 - Psim:0.7333333333333333 region Length:14 
+SESG-
+SESSK
+SRSHK
+**********************
+
+Length: 8 residues - nb: 3  from  1051 to 1075 - Psim:0.7037037037037037 region Length:25 
+QEEEAKRKD
+QEAERKRL-
+EAEERSHL-
+**********************
+
+Length: 8 residues - nb: 7  from  1101 to 1154 - Psim:0.7321428571428571 region Length:54 
+EERKR-Q-
+EEQERKQR
+EEQERKQR
+EEHERQQR
+EEKERRQR
+EEEERRRK
+EEEERVRR
+**********************
+
+Length: 8 residues - nb: 6  from  1110 to 1157 - Psim:0.7708333333333334 region Length:48 
+ERKQREEQ
+ERKQREEH
+ERQQREEK
+ERRQREEE
+ERRRKEEE
+ERVRREKE
+**********************
+
+Length: 8 residues - nb: 4  from  1123 to 1154 - Psim:0.78125 region Length:32 
+EEHERQQR
+EEKERRQR
+EEEERRRK
+EEEERVRR
+**********************
+
+Length: 8 residues - nb: 5  from  1141 to 1178 - Psim:0.675 region Length:38 
+EE--RRRK
+EEEERVRR
+EKEAEAAA
+EEEARRRR
+EEEERQER
+**********************
+
+>uniprot|A0A1V1TCK8|A0A1V1TCK8_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 4 residues - nb: 4  from  146 to 163 - Psim:0.6666666666666666 region Length:18 
+E-DTDS
+E-DINP
+E-DIN-
+YVD-T-
+**********************
+
+Length: 5 residues - nb: 3  from  146 to 160 - Psim:0.7333333333333333 region Length:15 
+EDTDS
+EDINP
+EDINY
+**********************
+
+>uniprot|A0A1V1T6M2|A0A1V1T6M2_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 5 residues - nb: 3  from  106 to 121 - Psim:0.7222222222222222 region Length:16 
+ASV-LR
+ASYPFR
+AST-LE
+**********************
+
+Length: 33 residues - nb: 5  from  865 to 1030 - Psim:0.84 region Length:166 
+GADLMIADSDGYTPLHKACLKYGS-VDVVKLLLDK
+GADPNIVANEGSTPLHWAS-EHGS-VDVVKLLLDK
+GADPTAVANEGSTPLHWAS-EHGS-VDVVKLLLDK
+GADPNIVTNKGSTPLLLGS-E-GNHVDVVKLLLEK
+DADPTAVANEGSTPLHWAS-KHGS-VHVVKLLLDK
+**********************
+
+Length: 33 residues - nb: 3  from  905 to 1003 - Psim:0.8823529411764706 region Length:99 
+VANEGSTPLHWASEHGS-VDVVKLLLDKGADPTA
+VANEGSTPLHWASEHGS-VDVVKLLLDKGADPNI
+VTNKGSTPLLLGSE-GNHVDVVKLLLEKDADPTA
+**********************
+
+>uniprot|A0A1V1TTX7|A0A1V1TTX7_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 1 residues - nb: 10  from  1262 to 1271 - Psim:1.0 region Length:10 
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+**********************
+
+>uniprot|A0A1V1T980|A0A1V1T980_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 33 residues - nb: 4  from  877 to 1009 - Psim:0.7857142857142857 region Length:133 
+-LLLEQGPDLESKDNAYGQTPLSLAAENGHEAIVR
+-LLVEKGADLEPKDGL-GRTPLTRAAENGREAIVR
+-LLVEKGADLESKDGVYGRTPLLWAAENGHETII-
+RLLLDRGADLESEDD-RGQTPLLLAANNGYEAIA-
+**********************
+
+Length: 33 residues - nb: 10  from  914 to 1246 - Psim:0.7446808510638298 region Length:333 
+-EKGADLEPKDGL-GRTPLTRAAENGREAIVR-LL-----V------
+-EKGADLESKDGVYGRTPLLWAAENGHETIIR-LL------------
+LDRGADLESEDD-RGQTPLLLAANNGYEAIAM-LL------------
+LEKAAHVKSNVNKYGQTPLSWAAANGHEAIVR-LL------VEKGAD
+------LESKDR-YGRTPLTRAAENGHEIIVR-LLVEKGAD------
+------LESKDNNYGRTPLLWAAKEGHEAVVEILL------D-RGAD
+------LESKDNQYGQTPLLWAAEKGHEVVVK-LLLDRGAE------
+------LESKD-IRTRTPLSWAARNGYELVVG-LL------------
+LERGANLESKDN-NGRTPISWAAEEGREAIVR-LL------------
+LERGANAESKDN-NGQTPLSWAAKRGHAAIVR-LL------------
+**********************
+
+Length: 33 residues - nb: 9  from  952 to 1246 - Psim:0.7367149758454107 region Length:295 
+-LE------SK---DGVYGR-TP-LLWAAENGHETIIRLLLDRGA-
+DLE------SE---DDR-GQ-TP-LLLAANNGYEAIA-MLL-----
+-LE-----KAAHVKSNVNKYGQTPLSWAAANGHEAIVRLLVEKGAD
+-LE------SK---DR-YGR-TP-LTRAAENGHEIIVRLLVEKGAD
+-LE------SK---DNNYGR-TP-LLWAAKEGHEAVVEILLDRGAD
+-LE------SK---DNQYGQ-TP-LLWAAEKGHEVVVKLLLDRGAE
+-LE------SK---DIRT-R-TP-LSWAARNGYELVVG-LL-----
+-LERGANLESK---DNN-GR-TP-ISWAAEEGREAIVR-LL-----
+-LERGANAESK---DNN-GQ-TP-LSWAAKRGHAAIVR-LL-----
+**********************
+
+Length: 33 residues - nb: 6  from  1056 to 1255 - Psim:0.7571428571428571 region Length:200 
+KDR-YGRTPLTRAAENGHEIIVRLL-VEKGADLES
+KDNNYGRTPLLWAAKEGHEAVVEIL-LDRGADLES
+KDNQYGQTPLLWAAEKGHEVVVKLL-LDRGAELES
+KDIRT-RTPLSWAARNGYELVVGLL-LERGANLES
+KDNN-GRTPISWAAEEGREAIVRLL-LERGANAES
+KDNN-GQTPLSWAAKRGHAAIVRLLKLHHG-NRAP
+**********************
+
+Length: 33 residues - nb: 5  from  1096 to 1256 - Psim:0.7428571428571429 region Length:161 
+TPLLWAAKEGHEAVVEIL-LDRGADLESKDNQYGQ
+TPLLWAAEKGHEVVVKLL-LDRGAELESKDIR-TR
+TPLSWAARNGYELVVGLL-LERGANLESKDNN-GR
+TPISWAAEEGREAIVRLL-LERGANAESKDNN-GQ
+TPLSWAAKRGHAAIVRLLKLHHG-N-RAPF-----
+**********************
+
+Length: 33 residues - nb: 2  from  1162 to 1227 - Psim:0.8787878787878788 region Length:66 
+RTPLSWAARNGYELVVGLLLERGANLESKDNNG
+RTPISWAAEEGREAIVRLLLERGANAESKDNNG
+**********************
+
+>uniprot|A0A1V1SUP6|A0A1V1SUP6_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 4 residues - nb: 5  from  625 to 647 - Psim:0.6857142857142857 region Length:23 
+D-SR-GD
+D-SD-G-
+D-GELV-
+DDSS-S-
+D--D-GV
+**********************
+
+>uniprot|A0A1V1TMW6|A0A1V1TMW6_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 4 residues - nb: 4  from  1085 to 1100 - Psim:0.7 region Length:16 
+SRSVD
+SRP--
+SRA-S
+SLS-S
+**********************
+
+Length: 6 residues - nb: 3  from  1211 to 1228 - Psim:0.8333333333333334 region Length:18 
+QMPNIP
+QMPNLP
+PMPVLP
+**********************
+
+>uniprot|A0A1V1T076|A0A1V1T076_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 6 residues - nb: 3  from  1 to 18 - Psim:0.8333333333333334 region Length:18 
+MDQTTN
+MDQTMN
+TDQTMD
+**********************
+
+Length: 6 residues - nb: 5  from  10 to 39 - Psim:0.8 region Length:30 
+TMNTDQ
+TMDMDQ
+TMDIDQ
+TMNIDQ
+TANMDQ
+**********************
+
+Length: 6 residues - nb: 3  from  22 to 39 - Psim:0.8333333333333334 region Length:18 
+TMDIDQ
+TMNIDQ
+TANMDQ
+**********************
+
+Length: 7 residues - nb: 7  from  1 to 45 - Psim:0.6984126984126984 region Length:45 
+--MDQTT-N
+MDQTMNT--
+-DQTMDM-D
+--QTMDI-D
+--QTMNI-D
+--QTANM-D
+--QTANTAN
+**********************
+
+Length: 7 residues - nb: 5  from  10 to 41 - Psim:0.75 region Length:32 
+TMNTDQ--
+TMDMDQ--
+TMDIDQ--
+TMNIDQT-
+A-NMDQTA
+**********************
+
+Length: 7 residues - nb: 3  from  22 to 41 - Psim:0.75 region Length:20 
+TMDIDQ--
+TMNIDQT-
+A-NMDQTA
+**********************
+
+>uniprot|A0A1V1TUB7|A0A1V1TUB7_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 4 residues - nb: 4  from  179 to 195 - Psim:0.7 region Length:17 
+SS-SK
+GS-VK
+GSPAP
+GS-SH
+**********************
+
+Length: 5 residues - nb: 4  from  178 to 196 - Psim:0.65 region Length:19 
+GSSSK
+GSV-K
+GSPAP
+GSSHR
+**********************
+
+>uniprot|A0A1V1TUP5|A0A1V1TUP5_9FUNG Uncharacterized protein [fungal sp. No.14919]
+Length: 9 residues - nb: 2  from  63 to 79 - Psim:0.7222222222222222 region Length:17 
+ALNHEKPTP
+ALNDNHQT-
+**********************
+

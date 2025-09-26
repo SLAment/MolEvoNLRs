@@ -1,0 +1,31 @@
+### GenomeIdentity: A pipeline to compare identity along the genome against a reference
+# ===========================================================================
+# Sandra Lorena Ament Velasquez
+# 2024/04/03
+# ++++++++++++++++++++++++++++++++++++++++++++++
+
+# Input files
+INTROBED_both: "data/Dxy_10kb_introgression-all.bed"
+INTROBED_pau: "data/Dxy_pauciseta_10kb_introgression.bed"
+INTROBED_com: "data/Dxy_comata_10kb_introgression.bed"
+INTROBED_miss: "data/Dxy_10kb_missingness-all.bed"
+INTROBED_miss_pau: "data/Dxy_pauciseta_10kb_missingness.bed" # Missing data when calling variants in P. anserina and P. pauciseta
+INTROBED_miss_com: "data/Dxy_comata_10kb_missingness.bed" # Missing data when calling variants in P. anserina and P. comata
+INTROBED_taj: "data/High_Tajima_Wa.bed" # From the NEE paper, 10 kb windows with 1 kb steps (from which at least 5kb have data) and Tajima's D >= 2
+
+FULLTajima: "data/WageningenTajimaMin5Kb.bed"
+
+ANNOTATION: "/shared/projects/podosporagenomics/data/Nice3.00/Annotations/Podan2.nice-3.02.gff3"
+REFGENOME: "/shared/projects/podosporagenomics/data/Nice3.00/Assemblies/Podan2_AssemblyScaffoldsmt.fa"
+
+# ANNOTATION: "data/Podan2.nice-3.02.gff3"
+# REFGENOME: "/Users/lorena/Library/CloudStorage/Dropbox/PhD_UU/Analyses/Assemblies/BestAssemblies/FinalGenomes/Podan2.nice.fa"
+
+PFAMref: "../03_HICproteins/data/PFAM_reference.txt"
+
+GenesNLRsCoords: "data/GenesNLRsCoords.txt"
+
+# Scripts
+EnrichOddRatios: "scripts/EnrichOddRatios_alla.R"
+EnrichOddRatiosPval: "scripts/EnrichOddRatiosPval.R"
+NLRchrDist: "scripts/NLRchrDist.R"

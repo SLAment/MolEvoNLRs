@@ -1,0 +1,22 @@
+### Configuration file of smartHIC: Quantifying HIC repeats across the Tree of Life
+# ===========================================================================
+# Sandra Lorena Ament Velasquez
+# 2025-08-27
+# ++++++++++++++++++++++++++++++++++++++++++++++
+
+# Parameters
+
+TAXA: ["Actinobacteria", "Archaea", "Ascomycetes", "Bacteroidota", "Basidiomycetes", "Chloroflexi", "Cyanobacteria", "Metazoa", "OtherEukaryotes", "OtherFungi", "Planctomycetes", "Proteobacteria", "Verrucomicrobia", "Viridiplantae"]
+path2files: "data/"
+
+# Reference file of Pfams
+PFAMref: "data/PFAM_reference.txt"
+
+repeat_types: ["WD40", "ANK", "TPR", "LRR"]
+
+PSIMmin: 0.70
+
+# Scripts
+HICinSMART: "scripts/HICinSMART.R"
+
+
