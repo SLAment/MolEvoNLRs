@@ -5,13 +5,12 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++
 
 # File with a list of samples to analyze
-SampleIDs_file: "../2_GenomeIdentity2024/data/IndividualsIDsSpp_dummy.txt"
-# SampleIDs_file: "../2_GenomeIdentity2024/data/IndividualsIDsSpp.txt"
+SampleIDs_file: "../2_GenomeIdentity2024/data/IndividualsIDsSpp.txt"
 
-# VCF file before filtering for missing data
-VCFfile: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/vcfs/PodoPop-vs-Podan2-snps-NoTEs-gatkPASS.vcf.gz"
-PathToCovBED: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/genomecov"
-TEsites: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/data/cov/TEsites.bed"
+# VCF file before filtering for missing data (produced by the GenomeIdentity2024.smk pipeline)
+VCFfile: "../2_GenomeIdentity2024/vcfs/PodoPop-vs-Podan2-snps-NoTEs-gatkPASS.vcf.gz" 
+PathToCovBED: "../2_GenomeIdentity2024/genomecov"
+TEsites: "../2_GenomeIdentity2024/data/cov/TEsites.bed"
 
 # Output name
 OUTPUTbasename: "PodoPop-vs-Podan2-snps-NoTEs-gatkPASS"

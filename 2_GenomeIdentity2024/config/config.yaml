@@ -8,7 +8,7 @@
 SampleIDs_file: "data/IndividualsIDsSpp.txt"
 
 # Path to Illumina samples from Ament-Velásquez et al. (2022) NEE
-IlluminaPath: "/proj/sllstore2017101/b2015200/SnakePipelines/0_CleanIllumina/postQC-data"
+IlluminaPath: "path/to/fastqfiles"
 
 # The reference genome
 refgenome: "path/to/Podan2_AssemblyScaffoldsmt.fa"

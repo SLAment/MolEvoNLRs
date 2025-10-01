@@ -15,11 +15,8 @@ INTROBED_taj: "data/High_Tajima_Wa.bed" # From the NEE paper, 10 kb windows with
 
 FULLTajima: "data/WageningenTajimaMin5Kb.bed"
 
-ANNOTATION: "/shared/projects/podosporagenomics/data/Nice3.00/Annotations/Podan2.nice-3.02.gff3"
-REFGENOME: "/shared/projects/podosporagenomics/data/Nice3.00/Assemblies/Podan2_AssemblyScaffoldsmt.fa"
-
-# ANNOTATION: "data/Podan2.nice-3.02.gff3"
-# REFGENOME: "/Users/lorena/Library/CloudStorage/Dropbox/PhD_UU/Analyses/Assemblies/BestAssemblies/FinalGenomes/Podan2.nice.fa"
+ANNOTATION: "data/Podan2.nice-3.02.gff3"
+REFGENOME: "path/to/Podan2_AssemblyScaffoldsmt.fa"
 
 PFAMref: "../03_HICproteins/data/PFAM_reference.txt"
 

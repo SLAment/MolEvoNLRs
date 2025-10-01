@@ -5,22 +5,21 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++
 
 # File with a list of samples to analyze
-SampleIDs_file: "../2_GenomeIdentity2024/data/IndividualsIDsSpp_dummy.txt"
-# SampleIDs_file: "../2_GenomeIdentity2024/data/IndividualsIDsSpp.txt"
+SampleIDs_file: "../2_GenomeIdentity2024/data/IndividualsIDsSpp.txt"
 
 ## Species being compared to P. anserina
 comparedspecies: ["pauciseta", "comata"]
 
-# VCF file before filtering for missing data
-VCFfile: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/vcfs/PodoPop-vs-Podan2-snps-NoTEs-gatkPASS.vcf.gz"
-PathToCovBED: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/genomecov"
-TEsites: "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/06_GenomeIdentity2024/data/cov/TEsites.bed"
+# VCF file before filtering for missing data (produced by the GenomeIdentity2024.smk pipeline)
+VCFfile: "../2_GenomeIdentity2024/vcfs/PodoPop-vs-Podan2-snps-NoTEs-gatkPASS.vcf.gz" 
+PathToCovBED: "../2_GenomeIdentity2024/genomecov"
+TEsites: "../2_GenomeIdentity2024/data/cov/TEsites.bed"
 
 # Name of the output vcf files after filtering
 OUTPUTbasename: "PodoPop-vs-Podan2-snps-NoTEs-gatkPASS"
 
 # Path to the diversity statistics calculated in Ament-Velásquez et al. (2022) NEE, available at https://github.com/johannessonlab/HetVPaper/tree/master/DiversityStats/results/stats
-path2divstats: "/Users/lorena/Dropbox/PhD_UU/ProjectsCode/HetVPaper/DiversityStats/results/stats"
+path2divstats: "path/to/stats"
 
 # Coordinates of NLRgenes
 NLRmetadata: "data/NLRs_metadata.txt"
