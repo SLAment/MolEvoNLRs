@@ -6,13 +6,11 @@ This is a [Snakemake](https://snakemake.readthedocs.io/en/stable/) pipeline.
 
 # Environment
 
-I ran this pipeline in a SLURM cluster. I created most of the environment with the [Mamba](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html) implementation of [conda](https://docs.conda.io/en/latest/).
-
-To create the environment I mostly use Conda, although the installation of InterProScan is independent of that environment.
+I ran this pipeline in a SLURM cluster. I created most of the environment with the [Mamba](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html) implementation of [conda](https://docs.conda.io/en/latest/), although the installation of InterProScan is independent of that environment because installation is not as trivial.
 
 	% mamba create -n annotation -c bioconda snakemake-minimal=8.30.0 snakemake-executor-plugin-cluster-generic=1.0.9 biopython=1.85 gffutils=0.13 scipy=1.14.0 pandas=2.2.2 statsmodels=0.14.2 bedtools=2.31.1
 
-And I used the InterProScan already installed in the cluster:
+For the InterProScan already installed in the cluster:
 
 	$ module load interproscan/5.75-106.0
 
