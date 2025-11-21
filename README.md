@@ -33,3 +33,6 @@ The directories in the repository are ordered to reflect the order of analyses i
 * Fig S13 - smartHIC.smk
 * Fig S14 - smartHIC.smk
 
+----
+
+Disclaimer: These scripts and files are provided "as is" and without any express or implied warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose.
