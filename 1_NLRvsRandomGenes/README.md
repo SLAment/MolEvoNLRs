@@ -4,7 +4,7 @@ I manually produced alignments of a set of NLRs in *P. anserina* and related spe
 
 The pipeline is not computationally demanding, so I ran it locally on a MacOS.
 
-# Input files
+## Input files
 
 All the input files should be specified in a configuration file in yaml format, called `config/config.yaml`. The involved files are as follows:
 
@@ -37,7 +37,7 @@ Each gene has a full alignment including introns, and another with only the codi
 
 The pipeline will automatically download my script `fasta2axt.py` to format the alignments into the input format (axn) for kakscalculator.
 
-# Environment
+## Environment
 
 At the time of working some conda packages (egglib, really) were not available on the channels for M1 architectures (the Macbook chip) so I had to use `CONDA_SUBDIR=osx-64` before calling mamba. But this won't be necessary for you if you are working on Linux!
 
@@ -56,7 +56,7 @@ The R scripts used within the pipeline have their own mini environment. However,
 	% conda config --set channel_priority strict
 
 
-# Running the pipeline locally
+## Running the pipeline locally
 
 Go to working directory and activate the environment.
 
