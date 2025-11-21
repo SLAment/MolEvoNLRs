@@ -20,7 +20,7 @@ I loaded the available InterProScan module as:
 
 For this pipeline I use a [profile](https://snakemake.readthedocs.io/en/stable/executing/cli.html#profiles), which has the information necessary to run the pipeline in a SLURM server. It depends on a file called `config.v8+.yaml` in the `profile` folder.
 
-The config.yaml file contains:
+The `config.v8+.yaml` file contains:
 
 ```yaml
 cluster-generic-submit-cmd:
