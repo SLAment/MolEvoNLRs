@@ -1,4 +1,3 @@
-snakefile: IntroRegions.smk
 executor: cluster-generic
 
 cluster-generic-submit-cmd:
