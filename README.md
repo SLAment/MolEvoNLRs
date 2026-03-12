@@ -1,5 +1,8 @@
 # Molecular evolution of NLRs in the *Podospora anserina* species complex
 
+[![Snakemake](https://img.shields.io/badge/snakemake-≥8.0.0-brightgreen.svg)](https://snakemake.github.io)
+[![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?labelColor=000000&logo=anaconda)](https://docs.conda.io/en/latest/)
+
 Here you'll find the code associated with the manuscript:
 
 Ament-Velásquez & Saupe (2025) "NOD-like receptor genes evolve under diversity-enhancing mechanisms in a fungal species complex", biorxiv, [https://doi.org/10.1101/2025.09.29.679196](https://doi.org/10.1101/2025.09.29.679196).
