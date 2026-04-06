@@ -15,7 +15,7 @@ The standard with snakemake is that the pipeline is a file called `Snakefile`. H
 
 ## Data availability
 
-- For historical reasons I used the previous genome assembly of the strain S+, aka. Podan2, as reference genome. The original file is available in the legacy files of [JGI MycoCosm](https://mycocosm.jgi.doe.gov/Podan2/Podan2.home.html), and also [here](https://github.com/johannessonlab/SpokBlockPaper/blob/master/GettingTElibrary/data/genomes/Podan2.fa).
+- For historical reasons I used the previous genome assembly of the strain S+, aka. Podan2, as reference genome. The original file is available in the legacy files of [JGI MycoCosm](https://mycocosm.jgi.doe.gov/Podan2/Podan2.home.html), and also [here](https://github.com/johannessonlab/SpokBlockPaper/blob/master/GettingTElibrary/data/genomes/Podan2.fa). See the `1_NLRvsRandomGenes` pipeline for more details.
 
 - The genome assemblies of all strains, along with raw annotations, were obtained from this [Dryad repository](https://datadryad.org/dataset/doi:10.5061/dryad.1vhhmgr0j), while short-read data used for population genomic analyses is available at the National Center for Biotechnology Information (NCBI) under accession number [PRJNA743020](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA743020).
 
