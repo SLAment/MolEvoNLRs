@@ -34,8 +34,8 @@ The directories in the repository are ordered to reflect the order of analyses i
 * Fig 5 - NLRvsRandomGenes.smk
 * Fig 6 - 2SppIntrogression.smk
 * Fig 7 - IntroRegions.smk
-* Fig 8 - REPEATexplorerTPR.smk
-* Fig 9 - smartHIC.smk
+* Fig 8 - REPEATexplorerTPR.smk (in `6_TPRpca`)
+* Fig 9 - smartHIC.smk (in `8_HICproteins`)
 * Fig S1 - NLRvsRandomGenes.smk
 * Fig S2 - NLRvsRandomGenes.smk
 * Fig S3 - NLRvsRandomGenes.smk
@@ -45,10 +45,10 @@ The directories in the repository are ordered to reflect the order of analyses i
 * Fig S8 - 2SppIntrogression.smk
 * Fig S9 - 2SppIntrogression.smk (partially, the other part was with IQ-TREE outside a pipeline) 
 * Fig S10 - IntroRegions.smk
-* Fig S11 - REPEATexplorerTPR.smk
-* Fig S12 - REPEATexplorer.smk
-* Fig S13 - smartHIC.smk
-* Fig S14 - smartHIC.smk
+* Fig S11 - REPEATexplorerTPR.smk (in `6_TPRpca`)
+* Fig S12 - REPEATexplorer.smk (in `7_NLRlogo`)
+* Fig S13 - smartHIC.smk (in `8_HICproteins`)
+* Fig S14 - smartHIC.smk (in `8_HICproteins`)
 
 ----
 
