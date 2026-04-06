@@ -67,8 +67,7 @@ rule all:
 
 
 rule descriptor:
-	""" Characterize the WD40 repeats """
-	# The alignment is special: only the WD40 repeats, no more, no less, and aligned, but without totally empty columns
+	""" Characterize the NLR repeats """
 	input:
 		al = basealignment,
 		descriptor = descriptor
@@ -83,7 +82,10 @@ rule descriptor:
 
 		python {input.descriptor} {input.al} -o 'alignments/REPEATrepeats_{wildcards.aminoacids}' -a $aminos --regex '{REGEX}' --replen {REPLEN} --repminlen {REPMINLEN} --repmaxlen {REPMAXLEN}  > {output.report}
 		"""
-	
+	# The alignment here is special: 1) each NLR is aligned just with their
+	# orthologs, but not with the other genes within the file; and 2) there
+	# are empty columns there to preserve the coding frame despite the
+	# introns, and to delineate the repeats visually.
 
 # Function to translate nucleotide sequence considering gaps and frameshifts
 # Thanks ChatGPT
