@@ -23,7 +23,7 @@ The standard with snakemake is that the pipeline is a file called `Snakefile`. H
 
 - Gene alignments in multifasta format from the NLR and random genes are available within `1_NLRvsRandomGenes/data`, [here](https://github.com/SLAment/MolEvoNLRs/tree/main/1_NLRvsRandomGenes/data).
 
-- Looking for the sequences of the TPR NLRs? They are found [here](https://github.com/SLAment/MolEvoNLRs/tree/main/6_TPRpca/data). Note this is just a multifasta file, not an alignment.
+- Looking for the sequences of the TPR NLRs? They are found [here](https://github.com/SLAment/MolEvoNLRs/tree/main/6_TPRpca/data). Note this multifasta file is peculiar in two ways: 1) each NLR is aligned just with their orthologs, but not with the other genes within the file; and 2) there are empty columns there to preserve the coding frame despite the introns, and to delineate the repeats visually.
 
 Looking for something else? Individual pipeline folders often contain a `data` folder of their own.
 
