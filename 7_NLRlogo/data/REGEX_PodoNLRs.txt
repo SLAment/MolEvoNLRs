@@ -1,0 +1,7 @@
+Repeat	Gene	REGEX (python)
+WD40	All	([\w]{5})(L|F|I)(E|K|A|Q)(G|S)(H|Y)([\w]{31})(S|T)(G)
+TPR	All	([\w])([HYD])([PT])([\w]{36})([LS])([GTSR])([KAQDE])
+ANK	Pa_2_8180	[NGRWDSYLQFI]{2,5})(T|M)(AL)(Q|E|H)([ATVG]{3})([\w]{2})(G|S)(H|Y)(L)(E|K|R|Q)([VI]{2})([EKRN]{2})([L]{2})([VATG]{2})([GATDVNI]{4})([\w]{3,6})
+ANK	Pa_3_8560	[\w]{1})(G|R|K|E)([\w]{2})(P|I|A)(L|S)([\w]{2})(A|R)([\w]{5})(E|L|K|W)([\w]{3})(R|K|Q)([LFIT]{3})([\w]{3})(A|V|T)(D|N)(I|P|R)([\w]{3})(D|N|S|T)([\w]{1})
+ANK	Pa_7_10370	([\w]{1})(G)(R|T|G|Q)(S|T)([LPAFSVY]{2})([\w]{11,13})([AVKLQRKX]{2})([\w]{1})([L]{2})([\w]{2})(G|E)([\w]{6})(R|K)(D|E|N)([\w]{1})
+HEAT	Pa_6_7270	(E|K|Q)(E|Q|G)([\w]{1})(L)(Q)([\w]{20})(L|A|F)([\w]{1})([\w]{4})(L)(P|S|L)
