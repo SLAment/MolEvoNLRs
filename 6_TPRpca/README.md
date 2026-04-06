@@ -26,7 +26,9 @@ A similar attempt was done on the ANK repeats, using these papers as reference:
 - Mosavi et al. (2009) The ankyrin repeat as molecular architecture for protein recognition https://doi.org/10.1016/j.gene.2024.148759
 - Gupta & Chahota (2024) Unique ankyrin repeat proteins in the genome of poxviruses-Boon or Wane, a critical review https://linkinghub.elsevier.com/retrieve/pii/S0378111924006401
 
-"The ankyrin repeat is a 33-amino acid motif (...) The recurring segment, known as the amino acid TPLH motif occurring from the 4th to 7th amino acids, is a widely present REPEAT rep sequence and constitutes the initial α helix"
+From the last paper: 
+
+"The ankyrin repeat is a 33-amino acid motif (...) The recurring segment, known as the amino acid TPLH motif occurring from the 4th to 7th amino acids, is a widely present ANK rep sequence and constitutes the initial α helix"
 
 But the ones I found can be longer than 33, up to 35 aa.
 
