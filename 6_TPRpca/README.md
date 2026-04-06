@@ -1,4 +1,4 @@
-# Exploring the diversity of TPR repeats in the Podospora anserina species complex
+# Exploring the diversity of TPR repeats in the *Podospora anserina* species complex
 
 Similar to the work in `wd40explorer.smk` from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442) available [here](https://github.com/SLAment/FixingHetDE/tree/main/NWDgenes), in this pipeline I explore the TPR repeats of NLR genes with high internal repeat conservation. 
 

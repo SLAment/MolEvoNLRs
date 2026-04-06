@@ -1,4 +1,4 @@
-# Exploring the diversity of domain repeats in the Podospora anserina species complex
+# Exploring the diversity of domain repeats in the *Podospora anserina* species complex
 
 Similar to the work in `wd40explorer.smk` from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442), here I make a LOGO of the repeat domain of NLR genes with high internal repeat conservation, using their nucleotide alignment and a regular expression (REGEX) to find the individual repeat units.
 
