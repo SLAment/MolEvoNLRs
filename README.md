@@ -7,11 +7,25 @@ Here you'll find the code associated with the manuscript:
 
 > Ament-Velásquez & Saupe (2025) "NOD-like receptor genes evolve under diversity-enhancing mechanisms in a fungal species complex", biorxiv, [https://doi.org/10.1101/2025.09.29.679196](https://doi.org/10.1101/2025.09.29.679196).
 
------------
+## Usage
 
 Here you'll find all the code necessary to replicate the figures in the paper (except for the phylogenies and a few I put together in Inkscape). They are all [Snakemake](https://snakemake.readthedocs.io/en/stable/) pipelines that depend on [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) environments.
 
-The standard with snakemake is that the pipeline is a file called `Snakefile`. However, I actually name them something else, like `mypipeline.smk` simply because it helps me to keep track of what pipeline is doing what other than based on it's path. Feel free to rename the files when you are working.
+The standard with snakemake is that the pipeline is a file called `Snakefile`. However, I named this file something else, like `mypipeline.smk` simply because it helps me to keep track of what pipeline is doing what other than based on it's path. Feel free to rename the files when you are working. Further instructions are giving within each pipeline folder.
+
+## Data availability
+
+- All genomic data used was previously published. The genome assemblies with raw annotations were obtained from [this Dryad repository](https://datadryad.org/dataset/doi:10.5061/dryad.1vhhmgr0j), while short-read data used for population genomic analyses is available at the National Center for Biotechnology Information (NCBI) under accession number [PRJNA743020](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA743020).
+
+- The manually curated annotation of the S+ reference genome (Podan2), with updated NLR models, is available within `5_IntroRegions/data`, [here](https://github.com/SLAment/MolEvoNLRs/blob/main/5_IntroRegions/data/Podan2.nice-3.02.gff3).
+
+- Gene alignments in multifasta format from the NLR and randome genes are available within `1_NLRvsRandomGenes/data`, [here](https://github.com/SLAment/MolEvoNLRs/tree/main/1_NLRvsRandomGenes/data).
+
+- Looking for the alignments of the TPR NLRs? They are found [here](https://github.com/SLAment/MolEvoNLRs/tree/main/6_TPRpca/data).
+
+Looking for something else? Individual pipeline folders often contain a `data` folder of their own.
+
+## Ok, but how did you make the paper's figures?
 
 The directories in the repository are ordered to reflect the order of analyses in the paper. But more specifically, the figures were made in the following pipelines:
 
