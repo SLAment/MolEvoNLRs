@@ -13,7 +13,9 @@ To find the individual TPR repeats of all the P. anserina NLRs, I used this gene
 
 	([\w])([HYD])([PT])([\w]{36})([LS])([GTSR])([KAQDE])
 
-But the regex itself can be adjusted in the configuration file below.
+But the regex itself can be adjusted in the configuration file below. For example, the regex used to find WD repeats in [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442) was:
+
+	([\w]{5})(L|F|I)(E|K|A|Q)(G|S)(H|Y)([\w]{31})(S|T)(G)
 
 This pipeline is very small so it can be ran locally (only tested in MacOS).
 
