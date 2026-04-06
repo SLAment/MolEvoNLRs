@@ -1,8 +1,6 @@
 # Exploring the diversity of TPR repeats in the Podospora anserina species complex: REPEATexplorerTPRTPR.smk
 
-Similar to the work in `wd40explorer.smk` from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442), here I explore the TPR repeats of NLR genes with high internal repeat conservation, using a regex to find them.
-
-This is meant to be a small pipeline so I'm doing it just locally on my MacOs.
+Similar to the work in `wd40explorer.smk` from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442) available [here](https://github.com/SLAment/FixingHetDE/tree/main/NWDgenes), in this pipeline I explore the TPR repeats of NLR genes with high internal repeat conservation.
 
 I used these paper as a reference for the alignment: 
 
@@ -10,6 +8,14 @@ I used these paper as a reference for the alignment:
 - Marold et al. (2015) A Naturally Occurring Repeat Protein with High Internal Sequence Identity Defines a New Class of TPR-like Proteins https://doi.org/10.1016/j.str.2015.07.022
 
 "We identified a unique P. anserina (Pa) sequence with tetratricopeptide repeat (TPR) homology, which contains longer (42 residue) repeats (42PRs) with an average PSI >91%. (...) Compared with 34-residue TPRs (34PRs), Pa 42PRs have a one-turn extension of each helix, and bury more surface area."
+
+To find the individual TPR repeats of all the P. anserina NLRs, I used this general regular expression (REGEX) in python:
+
+	([\w])([HYD])([PT])([\w]{36})([LS])([GTSR])([KAQDE])
+
+But the regex itself can be adjusted in the configuration file below.
+
+This pipeline is very small so it can be ran locally (only tested in MacOS).
 
 ## Building the environment
 
