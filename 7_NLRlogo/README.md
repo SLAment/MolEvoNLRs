@@ -1,4 +1,4 @@
-# Exploring the diversity of domain repeats in the Podospora anserina species complex: REPEATexplorer.smk
+# Exploring the diversity of domain repeats in the Podospora anserina species complex
 
 Similar to the work in `wd40explorer.smk` from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442), here I make a LOGO of the repeat domain of NLR genes with high internal repeat conservation, using their nucleotide alignment and a regular expression (REGEX) to find the individual repeat units.
 
@@ -36,9 +36,9 @@ The pipeline depends on a [conda/mamba](https://mamba.readthedocs.io/en/latest/u
 
 ## Configuration file and input files
 
-I harcoded the name of the expected config file to be in the working directory and named `config/config.yaml`. Here is when you decide what alignment you want to run. In the `data` folder I put the alignments of all the genes used for Figure S12. Depending on the gene, you also have to change the REGEX used. Hence, in the `config` folder, I left the four configuration files used for each gene. To use them you must either change the name to `config/config.yaml` or run the pipeline with the `--configfile` argument.
+I hard-coded the name of the expected config file to be in the working directory and named `config/config.yaml`. Here is when you decide what alignment you want to run. In the `data` folder I put the alignments of all the genes used for Figure S12. Depending on the gene, you also have to change the REGEX used. Hence, in the `config` folder, I left the four configuration files used for each gene. To use them you must either change the name to `config/config.yaml` or run the pipeline with the `--configfile` argument.
 
-The alignments are done in a certain way. The name is not important, is just for me to remember how I made it. Basically each alignment contains all the sequences of the 13 *P. anserina* strains and the other *Podospora* strains. The contain introns, but there are a few empty columns (despite the name) that I introduced such that the repeat domain is in frame. The alignments also contain the sequences of het-d/e backcrosses from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442), but those are ignored by the pipeline. 
+The alignments are done in a certain way. The name is not important, is just for me to remember how I made it. Basically each alignment contains all the sequences of the 13 *P. anserina* strains and the other *Podospora* strains. They contain introns, but there are a few empty columns (despite the name) that I introduced such that the repeat domain is in frame. The alignments also contain the sequences of *het-d/e* backcrosses from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442), but those are ignored by the pipeline. 
 
 Example used for Pa_6_7270:
 
@@ -63,12 +63,12 @@ REPMAXLEN: 33
 AMINOS: ['3-15-16-17-20-21-24-25']
 ```
 
-The AMINOS variable is not super useful here. In the [original version of the pipeline](https://github.com/SLAment/FixingHetDE/tree/main/NWDgenes) the goal is to classify the repeats using the hypervariable amino acid positions, but in this case I had no a priori knowledge of what those were so I just used whatever. It's not important to make the logos.
+The AMINOS variable is not super useful here. In the [original version of the pipeline](https://github.com/SLAment/FixingHetDE/tree/main/NWDgenes) the goal is to classify the repeats using the hypervariable amino acid positions, but in this case I had no a priori knowledge of what those were so I just used whatever. It's not important in order to make the logos.
 
 
 ## Run pipeline locally
 
-Wo to the working directory containing the pipeline. Then activate the environment.
+Go to the working directory containing the pipeline. Then activate the environment.
 
 	% mamba activate nlrs2
 
