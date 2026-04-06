@@ -8,7 +8,7 @@ This pipeline is very small so it can be ran locally (only tested in MacOS).
 
 I used this paper as a reference for the TPR alignment: 
 
-> Marold et al. (2015) A Naturally Occurring Repeat Protein with High Internal Sequence Identity Defines a New Class of TPR-like Proteins https://doi.org/10.1016/j.str.2015.07.022
+- Marold et al. (2015) A Naturally Occurring Repeat Protein with High Internal Sequence Identity Defines a New Class of TPR-like Proteins https://doi.org/10.1016/j.str.2015.07.022
 
 "We identified a unique P. anserina (Pa) sequence with tetratricopeptide repeat (TPR) homology, which contains longer (42 residue) repeats (42PRs) with an average PSI >91%. (...) Compared with 34-residue TPRs (34PRs), Pa 42PRs have a one-turn extension of each helix, and bury more surface area."
 
@@ -22,9 +22,9 @@ But the regex itself can be adjusted in the configuration file below. For exampl
 
 A similar attempt was done on the ANK repeats, using these papers as reference:
 
-> Al-Khodor et al. (2009) Functional diversity of ankyrin repeats in microbial proteins https://doi.org/10.1016/j.tim.2009.11.004
-> Mosavi et al. (2009) The ankyrin repeat as molecular architecture for protein recognition https://doi.org/10.1016/j.gene.2024.148759
-> Gupta & Chahota (2024) Unique ankyrin repeat proteins in the genome of poxviruses-Boon or Wane, a critical review https://linkinghub.elsevier.com/retrieve/pii/S0378111924006401
+- Al-Khodor et al. (2009) Functional diversity of ankyrin repeats in microbial proteins https://doi.org/10.1016/j.tim.2009.11.004
+- Mosavi et al. (2009) The ankyrin repeat as molecular architecture for protein recognition https://doi.org/10.1016/j.gene.2024.148759
+- Gupta & Chahota (2024) Unique ankyrin repeat proteins in the genome of poxviruses-Boon or Wane, a critical review https://linkinghub.elsevier.com/retrieve/pii/S0378111924006401
 
 "The ankyrin repeat is a 33-amino acid motif (...) The recurring segment, known as the amino acid TPLH motif occurring from the 4th to 7th amino acids, is a widely present REPEAT rep sequence and constitutes the initial α helix"
 
