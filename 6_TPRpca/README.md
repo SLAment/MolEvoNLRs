@@ -32,7 +32,7 @@ From the last paper:
 
 But the ones I found can be longer than 33, up to 35 aa.
 
-Having said that, after several trials, I concluded that the repeats are too divergent between ANK NLRs, and hence much harder to detect just using a simple REGEX. That implies that there is much less (potential) exchange between these genes, as compared to the WD40 or TPR genes.
+However, after several trials, I concluded that the repeats are too divergent between ANK NLRs, and hence much harder to detect just using a simple REGEX. That implies that there is much less (potential) exchange between these genes, as compared to the WD40 or TPR genes.
 
 Both the TPR and ANK NLR nucleotide sequences are provided in the `data` folder. See Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442) for the WD40 genes. Note that all sequences are also available, albeit in different organization, in the `1_NLRvsRandomGenes` pipeline.
 
