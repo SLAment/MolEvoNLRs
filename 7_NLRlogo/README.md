@@ -1,25 +1,27 @@
 # Exploring the diversity of domain repeats in the Podospora anserina species complex: REPEATexplorer.smk
 
-Similar to the work in `wd40explorer.smk` from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442), here I make a LOGO of the repeat domain of NLR genes with high internal repeat conservation, using their nucleotide alignment and a regex to find the individual repeat units.
+Similar to the work in `wd40explorer.smk` from [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442), here I make a LOGO of the repeat domain of NLR genes with high internal repeat conservation, using their nucleotide alignment and a regular expression (REGEX) to find the individual repeat units.
 
-This is meant to be a small pipeline so I'm doing it just locally on my MacOs. The pipeline should be independently run for each gene. So if you want to make LOGOs of all of them you must copy the content of the repo 4 times in different folders. In principle, the pipeline should work for any alignment of an HIC NLR, as long as the nucleotide alignment has the **repeat domain in frame** and you have a [REGEX](https://regex101.com/) to find the repeat unit.
+This is meant to be a small pipeline so I'm doing it just locally on my MacOs. The pipeline should be independently run for each gene. So if you want to make LOGOs of all of them you must copy the content of the repository 4 times in different folders. In principle, the pipeline should work for any alignment of an HIC NLR, as long as the nucleotide alignment has the **repeat domain in frame** and you have a [REGEX](https://regex101.com/) to find the repeat unit.
 
 I used these papers as a reference to find the repeat units: 
 
 **HEAT repeats**
-- Andrade et al. 2001 https://www.sciencedirect.com/science/article/pii/S0022283601946248
-- Yoshimura & Hirano 2016 https://journals.biologists.com/jcs/article/129/21/3963/55918/HEAT-repeats-versatile-arrays-of-amphiphilic
+- Andrade et al. (2001) Comparison of ARM and HEAT protein repeats https://www.sciencedirect.com/science/article/pii/S0022283601946248
+- Yoshimura & Hirano (2016) HEAT repeats – versatile arrays of amphiphilic helices working in crowded environments? https://journals.biologists.com/jcs/article/129/21/3963/55918/HEAT-repeats-versatile-arrays-of-amphiphilic
 
 "A single HEAT motif (∼30–40 amino acids long) is composed of a pair of α-helices (referred to as A- and B-helices) connected by a short linker. The motif is highly degenerate at the primary structure level and can only be recognized by a very loose consensus sequence (Fig. 1A) (Neuwald and Hirano, 2000)."
 
 **ANK repeats**
 - Al-Khodor et al. (2009) Functional diversity of ankyrin repeats in microbial proteins https://doi.org/10.1016/j.tim.2009.11.004
 - Mosavi et al. (2009) The ankyrin repeat as molecular architecture for protein recognition https://doi.org/10.1016/j.gene.2024.148759
-- Gupta & Chahota (2024) https://linkinghub.elsevier.com/retrieve/pii/S0378111924006401
+- Gupta & Chahota (2024) Unique ankyrin repeat proteins in the genome of poxviruses-Boon or Wane, a critical review https://linkinghub.elsevier.com/retrieve/pii/S0378111924006401
 
-"The ankyrin repeat is a 33-amino acid motif (...) The recurring segment, known as the amino acid TPLH motif occurring from the 4th to 7th amino acids, is a widely present REPEAT rep sequence and constitutes the initial α helix"
+From the last paper: 
 
-But the ones I'm finding can be longer than 33, up to 35aa.
+"The ankyrin repeat is a 33-amino acid motif (...) The recurring segment, known as the amino acid TPLH motif occurring from the 4th to 7th amino acids, is a widely present ANK rep sequence and constitutes the initial α helix"
+
+But the ones I found can be longer than 33, up to 35 aa.
 
 **TPR repeats**
 - Marold et al. (2015) A Naturally Occurring Repeat Protein with High Internal Sequence Identity Defines a New Class of TPR-like Proteins https://doi.org/10.1016/j.str.2015.07.022
