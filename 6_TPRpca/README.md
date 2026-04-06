@@ -20,19 +20,7 @@ But the regex itself can be adjusted in the configuration file below. For exampl
 
 	([\w]{5})(L|F|I)(E|K|A|Q)(G|S)(H|Y)([\w]{31})(S|T)(G)
 
-A similar attempt was done on the ANK repeats, using these papers as reference:
-
-- Al-Khodor et al. (2009) Functional diversity of ankyrin repeats in microbial proteins https://doi.org/10.1016/j.tim.2009.11.004
-- Mosavi et al. (2009) The ankyrin repeat as molecular architecture for protein recognition https://doi.org/10.1016/j.gene.2024.148759
-- Gupta & Chahota (2024) Unique ankyrin repeat proteins in the genome of poxviruses-Boon or Wane, a critical review https://linkinghub.elsevier.com/retrieve/pii/S0378111924006401
-
-From the last paper: 
-
-"The ankyrin repeat is a 33-amino acid motif (...) The recurring segment, known as the amino acid TPLH motif occurring from the 4th to 7th amino acids, is a widely present ANK rep sequence and constitutes the initial α helix"
-
-But the ones I found can be longer than 33, up to 35 aa.
-
-However, after several trials, I concluded that the repeats are too divergent between ANK NLRs, and hence much harder to detect just using a simple REGEX. That implies that there is much less (potential) exchange between these genes, as compared to the WD40 or TPR genes.
+A similar attempt was done on the ANK repeats. However, after several trials, I concluded that the repeats are too divergent between ANK NLRs, and hence much harder to detect just using a simple REGEX for all of them. That implies that there is much less (potential) exchange between these genes, as compared to the WD40 or TPR genes. See the `7_NLRlogo` pipeline.
 
 Both the TPR and ANK NLR nucleotide sequences are provided in the `data` folder. See [Ament-Velásquez et al. (2025) Microbial Genomics](https://doi.org/10.1099/mgen.0.001442) for the WD40 genes. Note that all sequences are also available, albeit in different organization, in the `1_NLRvsRandomGenes` pipeline.
 
