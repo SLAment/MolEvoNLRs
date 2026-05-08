@@ -49,6 +49,8 @@ Make the environment:
 
 	% CONDA_SUBDIR=osx-64 mamba create -n nlrstats -c bioconda snakemake-minimal=7.32.4 biopython=1.85 bedtools=2.31.1 pandas=2.3.2 iqtree=3.0.1 conda-forge::ete3=3.1.3 gffutils=0.13 wget=1.21.4 egglib=3.1.0 kakscalculator2=2.0.1
 
+It will take a good while to resolve the environment. Be patient.
+
 The R scripts used within the pipeline have their own mini environment. However, when running conda, it will try to use normal mamba, without `CONDA_SUBDIR=osx-64`. So it will throw an error about the environment folder already existing. This is a [bug](https://github.com/mamba-org/mamba/issues/2736) associated to the old snakemake version. Using newer Snakemake versions at the time of writing was not an option because of conflicts with the other packages. But there is a workaround below.
 
 (After you're done running the pipeline, put the channel priority back as strict.)
