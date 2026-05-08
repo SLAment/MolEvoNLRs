@@ -4,10 +4,12 @@
 # 2025/09/23
 # ++++++++++++++++++++++++++++++++++++++++++++++
 
+# Input metadata
 randomfile: "data/RandomGenesList.txt"
 HICfile: "data/HICGenesList.txt"
 NLRfile: "data/LICGenesList.txt"
 geneevo: "data/EvolutionAllGenes.csv"
+expansions: "data/GeneFamilyExpansions.csv" # PFAM counts of the all Podospora species
 
 path2alignments: "data"
 
