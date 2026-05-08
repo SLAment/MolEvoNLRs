@@ -34,6 +34,7 @@ randomfile = config["randomfile"]
 HICfile = config["HICfile"]
 NLRfile = config["NLRfile"]
 geneevo = config["geneevo"]
+expansions = config["expansions"]
 
 path2alignments = config["path2alignments"]
 
@@ -307,9 +308,10 @@ rule Plot_NLRdynamics:
 	input:
 		dists = "reports/Orthologs_stats_anserina.txt", # Population genetics statistics
 		geneevo = geneevo, # proportion covered by transposons in 2kb flanks
+		exp = expansions # PFAM counts of all Podospora species
 	output:
 		dynamics = "results/Fig3_NLRvsRandomDynamics_raw.pdf",
-		curation = "figures/Curation_proportions.pdf"
+		curation = "figures/Curation_proportions.pdf",
 	conda: 
 		"envs/plot.yaml"
 	script:
