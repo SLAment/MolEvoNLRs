@@ -73,7 +73,7 @@ The environment should be active!
 
 Go to working directory and activate the environment.
 
-    % mamba activate nlrstats
+	$ mamba activate nlrstats
 
 First, to get an idea of how the pipeline looks like we can make a rulegraph:
 
