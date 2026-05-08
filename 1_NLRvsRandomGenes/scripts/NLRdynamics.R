@@ -11,9 +11,9 @@
 library(ggplot2)
 library(tidyverse)
 library(plyr)
-library(cowplot)
+# library(cowplot)
 library(scales) # for percent_format()
-# library(patchwork)
+library(patchwork)
 # ============================
 
 # ============================
@@ -23,16 +23,19 @@ library(scales) # for percent_format()
 # Read data
 geneevo_wd <- read.csv(snakemake@input$geneevo, sep = ";") # The manually curated table of gene statuses
 dists <- read.table(snakemake@input$dists, header = TRUE) # Population genetics statistics
+expansions <- read.csv(snakemake@input$exp, header = TRUE) # PFAM counts of all Podospora species
 
 ## Output
 # Main figures
 Dynamics_plots <- snakemake@output$dynamics
 curation_plot <- snakemake@output$curation
+expansions_plot <- snakemake@output$exp
 
 # ### Local
-# geneevo_wd <- read.csv("/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/3_NLRdescription/data/EvolutionAllGenes.csv", sep = ";")
-# dists <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Orthologs_stats_anserina.txt", header = TRUE)
-# 
+# geneevo_wd <- read.csv("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/data/EvolutionAllGenes.csv", sep = ";")
+# dists <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_stats_anserina.txt", header = TRUE)
+# expansions <- read.csv("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/data/GeneFamilyExpansions.csv", header = TRUE)
+
 # # Output
 # Dynamics_plot <- "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/3_NLRdescription/05_NLRdynamics/results/NLRvsRandomDynamics.pdf"
 
@@ -95,29 +98,31 @@ dynamics_counts <- geneevo_lg %>% select(!c(Final_model, Gene_ID, Chromosome)) %
 dynamics_counts_rel <- plyr::ddply(dynamics_counts, .(Type, Species), transform,
                                    percentf = freq / sum(freq) * 100)
 
-# Reorder factor levels for plotting
-dynamics_counts_rel$Status <- factor(dynamics_counts_rel$Status, levels = c("Conserved", "Poly", "Pseudo", "Moved", "Absent"))
-
 # Change the names just for pretty plotting
 dynamics_counts_rel <- dynamics_counts_rel %>% mutate(Gene_type2 = recode(Type, "LIC NLR" = "LIC NLR (n = 32)", "Random" = "Random (n = 100)", "HIC NLR" = "HIC NLR (n = 22)"))
 dynamics_counts_rel <- dynamics_counts_rel %>% mutate(Species2 = recode(Species, "anserina" = "P. anserina", "pauciseta" = "P. pauciseta", "comata" = "P. comata", "bellae.mahoneyii" = "P. bellae-mahoneyi", "pseudoanserina" = "P. pseudoanserina", "pseudopauciseta" = "P. pseudopauciseta", "pseudocomata" = "P. pseudocomata"))
 
+# Reorder factor levels for plotting
+dynamics_counts_rel$Status <- factor(dynamics_counts_rel$Status, levels = c("Conserved", "Poly", "Pseudo", "Moved", "Absent"))
+dynamics_counts_rel$Gene_type2 <- factor(dynamics_counts_rel$Gene_type2, levels = c("LIC NLR (n = 32)", "HIC NLR (n = 22)", "Random (n = 100)"))
+
 dynaplot <- ggplot(dynamics_counts_rel, aes(x=Species2, y=percentf, fill=Status)) +
-    geom_bar(stat="identity") + 
-    theme_bw() + ylab("Proportion of genes") +
-    theme(axis.text.x = element_text(angle = 15, vjust = 1, hjust=1, face = "italic"),
-          panel.grid.major = element_blank(),
-          panel.grid.minor = element_blank(),
-          strip.background =element_rect(fill="white"), 
-          strip.text = element_text(face = "bold")) +
-    scale_fill_manual(values = c("Conserved" = "#44AA99", 
-                                 "Poly" = "#DDCC77", 
-                                 "Pseudo" = "#CC6677",
-                                 "Moved" = "#AA4499",
-                                 "Absent" = "#332288")) +
-    scale_y_continuous(labels = scales::percent_format(scale = 1)) +
-    facet_grid(Gene_type2 ~ .) +
-    xlab("Species")
+  geom_bar(stat="identity") + 
+  theme_bw() + 
+  ylab(expression(paste("Proportion of ", italic("P. anserina"), " orthologs"))) +
+  theme(axis.text.x = element_text(angle = 15, vjust = 1, hjust=1, face = "italic"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        strip.background =element_rect(fill="white"), 
+        strip.text = element_text(face = "bold")) +
+  scale_fill_manual(values = c("Conserved" = "#44AA99", 
+                               "Poly" = "#DDCC77", 
+                               "Pseudo" = "#CC6677",
+                               "Moved" = "#AA4499",
+                               "Absent" = "#332288")) +
+  scale_y_continuous(labels = scales::percent_format(scale = 1)) +
+  facet_grid(Gene_type2 ~ .) +
+  xlab("Species")
 
 # Turn the counts into a contigency table (but just NLRs vs Random)
 ## anserina
@@ -154,18 +159,72 @@ Conserved_hist <- ggplot(geneevo_wd_count, aes(x = Conserved_count, fill = Type)
     theme_classic() +
     theme(panel.grid.major = element_blank(),
           panel.grid.minor = element_blank(),
-          # legend.position="none",
+          legend.position = c(0.25, 0.7),
+          legend.title=element_blank(),
           strip.background =element_rect(fill="white"), 
           strip.text = element_text(face = "bold")) +
-    xlab("Number of species with functional (Conserved+Poly) orthologs") + #  
+    xlab("Number of species with\nfunctional (Conserved+Poly) orthologs") + #  
     ylab("Proportion of genes") +
     scale_fill_manual("Type", values = nlrpalette) +
     # scale_fill_brewer('Gene type', palette = "Paired", direction = -1) +
     scale_y_continuous(labels = scales::percent_format()) +
     scale_x_continuous(breaks = seq(min(geneevo_wd_count$Conserved_count), max(geneevo_wd_count$Conserved_count), by = 1)) # To have all values of the x axis shown
 
-## Put them together
-dynaConservedplot <- plot_grid(dynaplot, Conserved_hist, nrow=2, rel_heights = c(1.5, 0.5)) # , labels=c('a', 'b')
-ggsave(file = Dynamics_plots, plot = dynaConservedplot, width = 5, height = 7)
+# ============================
+# NLR expansions in the Podospora anserina species complex
+# ============================
 
+# Define custom color mapping
+podocolors <- c(
+  "P. pauciseta"   = "#009e73ff",
+  "P. anserina"   = "#0072b2ff",
+  "P. comata"  = "#d55e00ff",
+  "P. bellae-mahoneyi"  = "#f0e442ff",
+  "P. pseudoanserina" = "#cc79a7ff",
+  "P. pseudopauciseta" = "#56b4e9ff",
+  "P. pseudocomata" = "#e69f00ff"
+)
+
+# Make a long-format dataframe
+expansions_long <- expansions %>%
+  tidyr::pivot_longer(
+    cols = c(NACHT, `NB.ARC`),
+    names_to = "Domain",
+    values_to = "Count") %>%
+  dplyr::mutate(Domain = dplyr::recode(Domain, `NB.ARC` = "NB-ARC"))
+
+# Reorder factor levels for plotting
+expansions_long$Species <- factor(expansions_long$Species, levels = c("P. anserina", "P. pauciseta", "P. comata", "P. bellae-mahoneyi", "P. pseudoanserina", "P. pseudopauciseta", "P. pseudocomata"))
+
+set.seed(6) # Set a seed to make it reproducible
+expansplot <- ggplot(expansions_long, 
+       aes(x = Species, y = Count, colour = Species)) + 
+  facet_grid(Domain ~ ., scales = "free") +
+  geom_jitter(size = 2.5, width = 0.2, alpha = 0.8) +
+  scale_colour_manual(values = podocolors) +
+  theme_bw() +
+  ggrepel::geom_text_repel(
+    data = subset(expansions_long, Species %in% c("P. anserina", "P. comata", "P. pseudocomata")),
+    mapping = aes(label= Strain), size = 3) +
+  theme(legend.position = "none", 
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        # strip.background = element_rect(linewidth = rel(2)), # make the border of the strip thicker
+        axis.line = element_line(lineend = "square"), # make the border of the boxes thicker
+        strip.background.y = element_rect(fill = "white"),
+        axis.text.x = element_text(angle = 15, vjust = 1, hjust=1, face = 'italic')) +
+  # ylim(0,80) +
+  labs(y = "Number of annotated genes")
+
+# ============================
+## Put them together
+# ============================
+# Leave a space for the phylogeny I'll add in Inkscape
+dynaConservedplot <- ( plot_spacer() / dynaplot + plot_layout(heights = c(0.2, 2)) ) | ( Conserved_hist / expansplot + plot_layout(heights = c(0.8, 2)) )
+
+ggsave(plot = dynaConservedplot, file = Dynamics_plots,  width = 9, height = 8)
+
+# # Original in biorxiv
+# dynaConservedplot <- plot_grid(dynaplot, Conserved_hist, nrow=2, rel_heights = c(1.5, 0.5)) # , labels=c('a', 'b')
+# ggsave(plot = dynaConservedplot, file = Dynamics_plots,  width = 5, height = 7)
 
