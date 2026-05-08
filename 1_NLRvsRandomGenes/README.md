@@ -45,11 +45,11 @@ At the time of working some conda packages (egglib, really) were not available o
 
 Because I'm a rebel, I had to remove the strict channel priority for this to work.
 
-	% conda config --set channel_priority true
+	$ conda config --set channel_priority true
 
 Make the environment:
 
-	% CONDA_SUBDIR=osx-64 mamba create -n nlrstats -c bioconda snakemake-minimal=7.32.4 biopython=1.85 bedtools=2.31.1 pandas=2.3.2 iqtree=3.0.1 conda-forge::ete3=3.1.3 gffutils=0.13 wget=1.21.4 egglib=3.1.0 kakscalculator2=2.0.1
+	$ CONDA_SUBDIR=osx-64 mamba create -n nlrstats -c bioconda snakemake-minimal=7.32.4 biopython=1.85 bedtools=2.31.1 pandas=2.3.2 iqtree=3.0.1 conda-forge::ete3=3.1.3 gffutils=0.13 wget=1.21.4 egglib=3.1.0 kakscalculator2=2.0.1
 
 It will take a good while to resolve the environment. Be patient.
 
@@ -57,7 +57,7 @@ The R scripts used within the pipeline have their own mini environment. However,
 
 (After you're done running the pipeline, put the channel priority back as strict.)
 
-	% conda config --set channel_priority strict
+	$ conda config --set channel_priority strict
 
 ### With pixi
 
@@ -77,17 +77,17 @@ Go to working directory and activate the environment.
 
 First, to get an idea of how the pipeline looks like we can make a rulegraph:
 
-	% snakemake --snakefile NLRvsRandomGenes.smk --rulegraph | dot -Tpng > rulegraph.png
+	$ snakemake --snakefile NLRvsRandomGenes.smk --rulegraph | dot -Tpng > rulegraph.png
 
 ![rulegraph](rulegraph.png "rulegraph")
 
 To check that the files for the pipeline are in order:
 
-	% snakemake --snakefile NLRvsRandomGenes.smk -pn
+	$ snakemake --snakefile NLRvsRandomGenes.smk -pn
 
 Let's run it for real:
 
-	% snakemake --snakefile NLRvsRandomGenes.smk --use-conda -pj8
+	$ snakemake --snakefile NLRvsRandomGenes.smk --use-conda -pj8
 
 This is when the error happens. It will look like this:
 
@@ -105,12 +105,12 @@ This is when the error happens. It will look like this:
 
 Simply re-run the command yourself with the ID given by Snakemake in the error and `CONDA_SUBDIR=osx-64` before it:
 
-	% CONDA_SUBDIR=osx-64 mamba env create --quiet --file "yourpath/GitHub/NLRvsRandomGenes/.snakemake/conda/1e2bf99ec593c0b1bf8fe0b9f3de0692_.yaml" --prefix "yourpath/GitHub/NLRvsRandomGenes/.snakemake/conda/1e2bf99ec593c0b1bf8fe0b9f3de0692_"
+	$ CONDA_SUBDIR=osx-64 mamba env create --quiet --file "yourpath/GitHub/NLRvsRandomGenes/.snakemake/conda/1e2bf99ec593c0b1bf8fe0b9f3de0692_.yaml" --prefix "yourpath/GitHub/NLRvsRandomGenes/.snakemake/conda/1e2bf99ec593c0b1bf8fe0b9f3de0692_"
 	Confirm changes: [Y/n] y
 
 That will take some time... but now you should be able to run it for real:
 
-	% snakemake --snakefile NLRvsRandomGenes.smk --keep-going --use-conda -pj8
+	$ snakemake --snakefile NLRvsRandomGenes.smk --keep-going --use-conda -pj8
 
 
 ## Results
