@@ -39,6 +39,8 @@ The pipeline will automatically download my script `fasta2axt.py` to format the 
 
 ## Environment
 
+### With just conda
+
 At the time of working some conda packages (egglib, really) were not available on the channels for M1 architectures (the Macbook chip) so I had to use `CONDA_SUBDIR=osx-64` before calling mamba. But this won't be necessary for you if you are working on Linux!
 
 Because I'm a rebel, I had to remove the strict channel priority for this to work.
@@ -57,6 +59,15 @@ The R scripts used within the pipeline have their own mini environment. However,
 
 	% conda config --set channel_priority strict
 
+### With just pixi
+
+An easier alternative is to use [pixi](https://pixi.prefix.dev/latest/workspace/environment/), which is like an upgraded conda. Once you have pixi installed in your environment you can go to the `envs` folder where you will find the `pixi.lock` and `pixi.toml` files, which you need to reproduce the environment. Just do:
+
+	$ cd envs
+	$ pixi install
+	$ cd ..
+
+The environment should be active!
 
 ## Running the pipeline locally
 
