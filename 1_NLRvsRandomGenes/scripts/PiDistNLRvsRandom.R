@@ -51,14 +51,14 @@ figS_dndS <- snakemake@output$dNdS
 # figS_piNpiS <- snakemake@output$piSpiN
 
 # ## Local
-# dists <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Orthologs_stats_anserina.txt", header = TRUE)
-# phylodists <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Orthologs_Distances.txt", header = TRUE)
-# dNdSdists_raw <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Orthologs_stats_spp.txt", header = TRUE)
-# TEcov <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/FlanksTEcontent.tab", header = TRUE)
-# geneevo_wd <- read.csv("/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/3_NLRdescription/data/EvolutionAllGenes.csv", sep = ";")
-# kaksdists <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Orthologs_kakscalculator.txt", header = TRUE)
-# muts <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Orthologs_mutationprofile.txt", header = TRUE)
-# 
+# dists <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_stats_anserina.txt", header = TRUE)
+# phylodists <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_Distances.txt", header = TRUE)
+# dNdSdists_raw <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_stats_spp.txt", header = TRUE)
+# TEcov <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/FlanksTEcontent.tab", header = TRUE)
+# geneevo_wd <- read.csv("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/data/EvolutionAllGenes.csv", sep = ";")
+# kaksdists <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_kakscalculator.txt", header = TRUE)
+# muts <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_mutationprofile.txt", header = TRUE)
+
 # ## Output
 # # Main figures
 # figM_dist <- "/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/results/Fig4_PopPhyloStats"
@@ -236,7 +236,7 @@ mutation_labels[c("G>A", "C>T")] <- c(
 
 # Prepare summarized data
 sum_muts <- muts %>%
-  count(Mutation, Type, Status, name = "Count") %>%
+  dplyr::count(Mutation, Type, Status, name = "Count") %>%
   group_by(Status, Type) %>%
   mutate(Proportion = Count / sum(Count)) %>%
   ungroup() %>%
@@ -259,7 +259,7 @@ RIPmuts <- ggplot(sum_muts, aes(x = Mutation, y = Count, fill = Type)) +
   ) +
   labs(x = "Mutation Type", y = "Mutations", fill = "Gene Type") +
   # Add Status as internal text inside each panel:
-  geom_text(data = sum_muts %>% group_by(Status) %>% summarise(),
+  geom_text(data = sum_muts %>% group_by(Status) %>% dplyr::summarise(),
             # aes(x = 10, y = 0.25, label = Status),
             aes(x = 10, y = 350, label = Status),
             inherit.aes = FALSE, fontface = "bold")
@@ -278,7 +278,7 @@ RIPmutsProps <- ggplot(sum_muts, aes(x = Mutation, y = Proportion, fill = Type))
   ) +
   labs(x = "Mutation Type", y = "Proportion of\nmutations", fill = "Gene Type") +
   # Add Status as internal text inside each panel:
-  geom_text(data = sum_muts %>% group_by(Status) %>% summarise(),
+  geom_text(data = sum_muts %>% group_by(Status) %>% dplyr::summarise(),
             aes(x = 10, y = 0.25, label = Status),
             inherit.aes = FALSE, fontface = "bold")
 
@@ -296,7 +296,7 @@ muts <- muts %>%
 muts$Status <- factor(muts$Status, levels = c("Polymorphic", "Fixed"))
 
 reallyRIP <- muts %>%
-  count(RIP, Type, Status, name = "Count") %>%
+  dplyr::count(RIP, Type, Status, name = "Count") %>%
   mutate(RIP = factor(RIP, levels = c(FALSE, TRUE), labels = c("Not RIP", "RIP"))) %>%
   ggplot(aes(x = RIP, y = Count, fill = Type)) +
   geom_bar(stat = "identity", position = "dodge") +
@@ -311,8 +311,7 @@ RIPsup <- plot_grid(GCviolins_HIC, RIPmutsProps, reallyRIP,  labels = c('a', 'b'
 
 # --- Are they statistically different? ---
 # Totals
-muts %>%
-  count(Type, Status, name = "Count")
+muts %>% dplyr::count(Type, Status, name = "Count")
 
 sum_muts %>%
   filter(Mutation %in% c("G>A", "C>T"), Status == "Polymorphic\nsites") 
