@@ -141,6 +141,10 @@ fisher.test(xtabs(freq ~ Gene_type + Status, data = dynamics_counts_rel %>% dply
 0.05/7 # 0.007142857
 # So thy are all significant!
 
+# Numbers reported in the paper
+dynamics_counts_rel %>% filter(Status == "Conserved", Type == "Random") %>% dplyr::summarise(freqavg = mean(percentf))
+dynamics_counts_rel %>% filter(Status != "Conserved", Type != "Random") %>% dplyr::summarise(freqavg = mean(percentf))
+
 # ============================
 # How often a gene is actually fine in all species?
 # ============================
