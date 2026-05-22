@@ -313,8 +313,7 @@ RIPsup <- plot_grid(GCviolins_HIC, RIPmutsProps, reallyRIP,  labels = c('a', 'b'
 # Totals
 muts %>% dplyr::count(Type, Status, name = "Count")
 
-sum_muts %>%
-  filter(Mutation %in% c("G>A", "C>T"), Status == "Polymorphic\nsites") 
+sum_muts %>% filter(Mutation %in% c("G>A", "C>T"), Status == "Polymorphic\nsites") 
 
 ## Logistic regression: make a binary variable of RIP vs not RIP
 # Define the reference factors for the model 
@@ -328,10 +327,10 @@ glm_model <- glm(RIP ~ Type * Status, data = muts, family = "binomial") %>% summ
 
 exp(coef(glm_model))  # odds ratios
 muts %>% filter(RIP == TRUE) %>% 
-  count(Mutation, Type, Status, name = "Count")
+  dplyr::count(Mutation, Type, Status, name = "Count")
 
 muts %>% filter(RIP == FALSE) %>% 
-  count(Type, Status, name = "Count")
+  dplyr::count(Type, Status, name = "Count")
 
 # ==============================
 # About diversity within P. anserina
@@ -494,6 +493,9 @@ shapiro.test(dists$piNpiS)  # The data is not normally distributed
 # If Kruskal-Wallis is significant, perform Dunn's test for pairwise comparisons
 dists_clean <- dists %>% dplyr::select(c(piNpiS, Type)) %>% na.omit()
 dunn.test(list(dists_clean$piNpiS[dists_clean$Type == "Random"], dists_clean$piNpiS[dists_clean$Type == "LIC NLR"], dists_clean$piNpiS[dists_clean$Type == "HIC NLR"]), method = "bonferroni")
+
+# Numbers reported in the paper
+dists_clean %>% dplyr::group_by(Type) %>% dplyr::summarise(meanpnps = mean(piNpiS))
 
 # ============================
 # dN/dS 
