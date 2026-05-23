@@ -39,6 +39,7 @@ The directories in the repository are ordered to reflect the order of analyses i
 * Fig S1 - NLRvsRandomGenes.smk
 * Fig S2 - NLRvsRandomGenes.smk
 * Fig S3 - NLRvsRandomGenes.smk
+* Fig S4 - The alignments and trees produced with IQ-Tree are available in `Phylogenies`
 * Fig S5 - GenomeIdentity2024.smk
 * Fig S6 - 3SppIntrogression.smk
 * Fig S7 - 2SppIntrogression.smk
