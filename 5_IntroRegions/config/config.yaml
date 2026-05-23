@@ -18,7 +18,7 @@ FULLTajima: "data/WageningenTajimaMin5Kb.bed"
 ANNOTATION: "data/Podan2.nice-3.02.gff3"
 REFGENOME: "path/to/Podan2_AssemblyScaffoldsmt.fa"
 
-PFAMref: "../03_HICproteins/data/PFAM_reference.txt"
+PFAMref: "../8_HICproteins/data/PFAM_reference.txt"
 
 GenesNLRsCoords: "data/GenesNLRsCoords.txt"
 
