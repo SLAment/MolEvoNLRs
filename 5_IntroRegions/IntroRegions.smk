@@ -261,7 +261,7 @@ rule InterProScan: # Modify for the IFB Core Cluster (Montpellier)
 	threads: 4
 	resources:
 		threads = lambda wildcards, threads: threads,
-		mem_mb = "16GB",
+		mem_mb = 16000, # "16GB" in the older Snakemake versions,
 		time = "08:00:00",
 	log: "InterProScan/Full_proteome_IPS.log"
 	shell:
