@@ -155,3 +155,28 @@ The pipeline will produce some tables and figures.
 
 I put together the final Figure 7 in Inkscape.
 
+### Explanation of the enrichment tables
+
+| Column | Description |
+|--------|-------------|
+| **PFAM** | The PFAM domain accession code (e.g., `PF00001`) |
+| **Description** | Human-readable name/description of the PFAM domain|
+| **Type** | Classification of the PFAM as NLR-associated or `"Other"` |
+| **Subset_Count** | Number of **genes** in the introgressed region carrying this PFAM |
+| **total_PFAMs_subset** | Total number of PFAM annotations summed across all genes in the subset (a gene with 3 different PFAMs contributes 3) |
+| **total_genes_subset** | Total number of genes in the introgressed subset |
+| **Rest_Count** | Number of **genes** in the rest of the genome carrying this PFAM |
+| **total_PFAMs_rest** | Total number of PFAM annotations summed across all genes in the rest of the genome |
+| **total_genes_rest** | Total number of genes in the rest of the genome |
+| **Odds_ratio** | Odds ratio from Fisher's exact test (formatted to 4 decimal places) |
+| **P_Value** | Raw one-sided p-value from Fisher's exact test (`alternative='greater'`) |
+| **P_Value_Adj** | Benjamini-Hochberg FDR-corrected p-value |
+
+The Fisher's test uses a **gene-based** contingency table:
+
+|                       | Has PFAM      | Lacks PFAM                              |
+|-----------------------|---------------|-----------------------------------------|
+| Subset (introgressed) | subset_count  | total_genes_subset - subset_count       |
+| Rest (genome)         | rest_count    | total_genes_rest - rest_count           |
+
+This means each gene is counted **once per PFAM**, regardless of how many times that domain appears in the gene.
