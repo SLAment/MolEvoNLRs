@@ -10,6 +10,8 @@ I ran this pipeline in a SLURM cluster. I created most of the environment with t
 
 	% mamba create -n annotation -c bioconda snakemake-minimal=8.30.0 snakemake-executor-plugin-cluster-generic=1.0.9 biopython=1.85 gffutils=0.13 scipy=1.14.0 pandas=2.2.2 statsmodels=0.14.2 bedtools=2.31.1
 
+Note: Remove `snakemake-executor-plugin-cluster-generic=1.0.9` if you are running the pipeline in a MacOS. Otherwise it might give a cryptic error.
+
 For the InterProScan already installed in the cluster:
 
 	$ module load interproscan/5.75-106.0
@@ -86,7 +88,7 @@ FULLTajima: "data/WageningenTajimaMin5Kb.bed"
 ANNOTATION: "path/to/Podan2.nice-3.02.gff3"
 REFGENOME: "path/to/Podan2_AssemblyScaffoldsmt.fa"
 
-PFAMref: "../HICproteins/data/PFAM_reference.txt"
+PFAMref: "../8_HICproteins/data/PFAM_reference.txt"
 
 GenesNLRsCoords: "data/GenesNLRsCoords.txt"
 
