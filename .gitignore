@@ -5,6 +5,9 @@
 # Snakemake
 **/.snakemake/
 
+# Specific results from the pipeline
+5_IntroRegions/baseline
+
 # pixi environments
 .pixi/*
 !.pixi/config.toml
