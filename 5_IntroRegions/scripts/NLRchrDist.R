@@ -104,7 +104,7 @@ rect_width <- 0.3
     size = 2, alpha = 1) +
    
     ## Set the colors (the breaks are necessary to force the order!)
-    scale_shape_manual("Features", breaks = domain_order, values = c("Centromere" = 19, "ANK" = 17, "HET" = 8, "NACHT" = 15, "NB-ARC" = 24, "TPR" = 1, "WD40" = 23 )) +
+    scale_shape_manual("Features", breaks = domain_order, values = c("Centromere" = 19, "ANK" = 17, "HET" = 8, "NACHT" = 24, "NB-ARC" = 15, "TPR" = 1, "WD40" = 23 )) +
     scale_color_manual("Features", breaks = domain_order, values = c("Centromere" = "black", "ANK" = "#E6AB02", "HET" = "#D95F02", "NACHT" = "#E7298A", "NB-ARC" = "#66A61E", "TPR" = "#7570B3", "WD40" = "#1B9E77" )) +
     # Position the legend inside the plot
     labs(x = NULL, y = "Position (bp)") +
