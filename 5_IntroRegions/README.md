@@ -10,7 +10,9 @@ I ran this pipeline in a SLURM cluster. I created most of the environment with t
 
 	% mamba create -n annotation -c bioconda snakemake-minimal=8.30.0 snakemake-executor-plugin-cluster-generic=1.0.9 biopython=1.85 gffutils=0.13 scipy=1.14.0 pandas=2.2.2 statsmodels=0.14.2 bedtools=2.31.1
 
-Note: Remove `snakemake-executor-plugin-cluster-generic=1.0.9` if you are running the pipeline in a MacOS. Otherwise it might give a cryptic error.
+Note 1: Remove `snakemake-executor-plugin-cluster-generic=1.0.9` if you are running the pipeline in a MacOS. 
+
+Note 2: I sometimes encountered a cryptic error related to `json.decoder.JSONDecodeError`. In those cases, using higher versions of snakemake fixed it (e.g., `snakemake-minimal=9.21.0`).
 
 For the InterProScan already installed in the cluster:
 
