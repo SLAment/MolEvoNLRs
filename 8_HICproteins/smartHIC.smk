@@ -219,7 +219,7 @@ rule InterProScan:
 	threads: 4
 	resources:
 		threads = lambda wildcards, threads: threads,
-		mem_mb = "16GB",
+		mem_mb = 16000, # "16GB" in the older Snakemake versions
 		time = "08:00:00",
 	log: "InterProScan/{repeat}/diamond_deepclust_{taxon}_IPS.log"
 	shell:
