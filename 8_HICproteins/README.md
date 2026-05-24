@@ -12,6 +12,8 @@ Or if you are in a MacOS:
 
 	$ mamba create -n hicenv -c conda-forge -c bioconda snakemake-minimal=8.30.0 biopython=1.85
 
+If you encounter a cryptic error like `json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)` use a higher version of Snakemake, such as `snakemake-minimal=9.21.0`.
+
 To activate the environment: 
 
 	$ mamba activate hicenv
