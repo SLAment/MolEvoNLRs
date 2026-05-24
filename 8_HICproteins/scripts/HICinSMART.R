@@ -138,6 +138,8 @@ label_data <- group_summary_long %>%
     ) +
     theme_classic() +
     theme(
+      legend.position = "bottom",
+      legend.title = element_blank(),
       axis.text.x = element_markdown(angle = 45, hjust = 1),
       axis.title.x = element_blank(),
       plot.margin = margin(5, 30, 5, 5) # give extra space if labels overflow
@@ -149,7 +151,7 @@ hicprop <- hicprop + coord_cartesian(clip = "off")
 
 ggsave(plot = hicprop, 
        filename = snakemake@output$hicprop,
-       width = 9.5, height = 7)
+       width = 9.5, height = 8)
 
 # ============================
 ### Perspective: How frequent are HIC repeats among WD, ANK and TPR repeats, where do they occur?
