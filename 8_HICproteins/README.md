@@ -6,7 +6,11 @@ Proteins with WD40, ANK, TPR, and LRR repeatd were extracted from the SMART data
 
 I ran this pipeline in a SLURM cluster. To create the environment I mostly use Conda, although the installation of InterProScan is independent of that environment.
 
-	$ mamba create -n hicenv -c conda-forge -c bioconda snakemake-minimal=8.30.0 snakemake-executor-plugin-cluster-generic=1.0.9 biopython=1.85 mummer=3.23
+	$ mamba create -n hicenv -c conda-forge -c bioconda snakemake-minimal=8.30.0 snakemake-executor-plugin-cluster-generic=1.0.9 biopython=1.85
+
+Or if you are in a MacOS:
+
+	$ mamba create -n hicenv -c conda-forge -c bioconda snakemake-minimal=8.30.0 biopython=1.85
 
 To activate the environment: 
 
