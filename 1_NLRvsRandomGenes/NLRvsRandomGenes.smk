@@ -135,7 +135,7 @@ def get_input_fasta_cds(wildcards):
 		return f"{path2alignments}/nlrsHIC/{wildcards.gene}_noHICrepts_CDS.fa"
 		# return f"{path2alignments}/nlrsHIC/{wildcards.gene}_noHICrepts_CDS_noReptDomain.fa"
 	elif wildcards.gene in NLR_selection:
-		return f"{path2alignments}/nlrs/{wildcards.gene}_CDS.fa"
+		return f"{path2alignments}/nlrsLIC/{wildcards.gene}_CDS.fa"
 
 
 def calc_stats(alignment, propmissing = 0, skipstop = False):
@@ -1150,7 +1150,7 @@ rule PlotBalancingSelection:
 # 	elif wildcards.gene in HIC_selection:
 # 		return f"data/nlrsHIC/{wildcards.gene}_noHICrepts.fa"
 # 	elif wildcards.gene in NLR_selection:
-# 		return f"data/nlrs/{wildcards.gene}.fa"
+# 		return f"data/nlrsLIC/{wildcards.gene}.fa"
 
 
 # rule anserina_pi:
