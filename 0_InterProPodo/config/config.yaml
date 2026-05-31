@@ -1,0 +1,17 @@
+# InterProPodo - Running InterProScan on Podospora proteins
+# ===========================================================================
+# Sandra Lorena Ament Velasquez
+# 2026/05/31
+# ++++++++++++++++++++++++++++++++++++++++++++++
+
+# Path to protein-coding genes in GFF3 format
+path2annotations: "data/annotations"
+
+# Path to genome assemblies that matches annotation in fasta format
+path2genomes: "data/assemblies"
+
+# Sample IDs
+SAMPLES: ["PaWa21m", "PaWa28m", "PaWa46p", "PaWa53m", "PaWa58m", "PaWa63p", "PaWa87p", "PaWa100p", "PaWa137m", "PaYp", "PaTgp", "PaZp", "PcWa139m", "CBS237.71m", "CBS124.78p", "CBS411.78m", "CBS415.72m", "CBS112042p", "IMI230595m"]
+
+# Full path to interproscan.sh
+interproscan: "/home/lore/private/interproscan/interproscan-5.75-106.0/interproscan.sh"
