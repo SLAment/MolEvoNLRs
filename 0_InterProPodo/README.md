@@ -143,3 +143,13 @@ To run the whole pipeline with a screen:
 
 	$ snakemake --snakefile InterProPodo.smk --profile config/profile.yaml &> snakemake.log &
 	[1] 19439
+
+## Results
+
+The pipeline is designed to get a main report, in `reports/GenePFAMCounts.txt` with the counts of genes in general, those annotated with HET, NACHT, and NB-ARC domains, as well as some rough estimates of "easy to identify" orthologs. 
+
+These "easy" orthologs are counted based on the names of the genes in each strain annotation. If they follow the *P. anserina* convention "Pa_X_YYYY", where X is the chromosome, and YYYY is the gene ID, then it means they were identified as orthologs during my annotation pipeline ([Ament-Velásquez et al. 2024](https://doi.org/10.1093/gbe/evae034)). The way that works is that if a given gene had a very good BLAST hit to an *P. anserina* gene, and *the genes flanking* the focal gene had also hits to the flanks of the *P. anserina* gene, then they were considered truly orthologous and named as such in the final gff3 file.
+
+In the end the "easy" orthologs and HET counts were ignored for the paper and only the NACHT and NB-ARC counts matter.
+
+In addition, the pipeline will produced modified InterProScan tables with annotations (`results/{sample}_pretty.tsv`), as well as modified gff3 files that give specific colors to genes that look like obvious transposable elements TEs, possible TEs ("suspish"), and NLRgenes to be visualized in IGV. As these files are very heavy, they were not shared in this repository.
