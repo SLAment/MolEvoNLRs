@@ -34,7 +34,7 @@ expansions_plot <- snakemake@output$exp
 # ### Local
 # geneevo_wd <- read.csv("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/data/EvolutionAllGenes.csv", sep = ";")
 # dists <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_stats_anserina.txt", header = TRUE)
-# expansions <- read.csv("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/data/GeneFamilyExpansions.csv", header = TRUE)
+# expansions <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/data/GeneFamilyExpansions.txt", header = TRUE, sep = "\t")
 
 # # Output
 # Dynamics_plot <- "/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/3_NLRdescription/05_NLRdynamics/results/NLRvsRandomDynamics.pdf"

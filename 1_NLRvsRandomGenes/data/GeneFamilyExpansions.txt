@@ -1,0 +1,22 @@
+﻿Strain	Assembly	Species	No_genes	NACHT	NB-ARC
+S+	Podan2	P. anserina	11655	65	9
+Wa21-	PaWa21m	P. anserina	11693	67	9
+Wa28-	PaWa28m	P. anserina	11727	67	9
+Wa46+	PaWa46p	P. anserina	11654	66	8
+Wa53-	PaWa53m	P. anserina	11701	67	9
+Wa58-	PaWa58m	P. anserina	11703	65	9
+Wa63+	PaWa63p	P. anserina	11680	66	9
+Wa87+	PaWa87p	P. anserina	11708	66	9
+Wa100+	PaWa100p	P. anserina	11699	66	9
+Wa137-	PaWa137m	P. anserina	11688	66	9
+Y+	PaYp	P. anserina	11690	64	9
+TG+	PaTgp	P. anserina	11711	67	9
+Z+	PaZp	P. anserina	11017	67	8
+Wa139-	PcWa139m	P. comata	11379	58	11
+TD+	PODCO	P. comata	11404	61	11
+CBS237.71-	CBS237.71m	P. pauciseta	11305	62	9
+CBS124.78+	CBS124.78p	P. pseudoanserina	11131	52	10
+CBS411.78-	CBS411.78m	P. pseudopauciseta	11155	49	10
+CBS415.72-	CBS415.72m	P. pseudocomata	11322	77	24
+IMI230595-	IMI230595m	P. pseudocomata	11291	76	33
+CBS112042+	CBS112042p	P. bellae-mahoneyi	11033	53	6
