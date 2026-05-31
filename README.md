@@ -29,7 +29,7 @@ Looking for something else? Individual pipeline folders often contain a `data` f
 
 The directories in the repository are ordered to reflect the order of analyses in the paper. But more specifically, the figures were made in the following pipelines:
 
-* Fig 3 - NLRvsRandomGenes.smk
+* Fig 3 - NLRvsRandomGenes.smk, which uses the modified output of InterProPodo.smk
 * Fig 4 - NLRvsRandomGenes.smk
 * Fig 5 - NLRvsRandomGenes.smk
 * Fig 6 - 2SppIntrogression.smk
