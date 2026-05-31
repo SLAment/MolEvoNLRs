@@ -12,6 +12,8 @@ All the input files should be specified in a configuration file in yaml format, 
 
 - A csv file with the different classifications of conservation state per gene and per species, called `EvolutionAllGenes.csv` also in `data`.
 
+- A txt file derived from `../0_InterProPodo/reports/GenePFAMCounts.txt` but with the species names added. It contains the PFAM counts of NACHT and NB-ARC genes for the strains with chromosome-level assemblies.
+
 - The path of a folder contaning three other folders, each with the alignments in fasta format of each NLR and random gene: 
 	- Folder `nlrs` contains the LIC NLRs.
 	- Folder `nlrsHIC` contains the HIC NLRs.
@@ -23,7 +25,7 @@ Each gene has a full alignment including introns, and another with only the codi
 
 - The manually curated annotation file `data/Podan2.nice-3.02.gff3`. The gene IDs in the list of genes correspond to this file.
 
-- The assembly Podan2, corresponding to the second iteration of the reference genome of the strain S+ ([Espagne et al. 2008](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-5-r77)), produced by JGI's Mycocosm. The sequence seems to be identical to the latest version Podan3, but the newest annotation in JGI discarded the original gene codes (e.g., Pa_Z_XXXX, where Z is the chromosome and XXXX is the gene number) that the community has been using since 2008. It's available [here](https://github.com/johannessonlab/HetVPaper/blob/master/SNPpop/data/Podan2/Podan2_AssemblyScaffoldsmt.fa) and in the legacy websites of JGI. There is a [newer version of the S+ reference genome](https://doi.org/10.1186/s12864-022-09085-4), but using this version allows full compatibility with out previous work.
+- The assembly Podan2, corresponding to the second iteration of the reference genome of the strain S+ ([Espagne et al. 2008](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-5-r77)), produced by JGI's Mycocosm. The sequence seems to be identical to the latest version Podan3, but the newest annotation in JGI discarded the original gene codes (e.g., Pa_Z_XXXX, where Z is the chromosome and XXXX is the gene number) that the community has been using since 2008. It's available [here](https://github.com/johannessonlab/HetVPaper/blob/master/SNPpop/data/Podan2/Podan2_AssemblyScaffoldsmt.fa) and in the legacy websites of JGI. There is a [newer version of the S+ reference genome](https://doi.org/10.1186/s12864-022-09085-4), but using this version allows full compatibility with our previous work.
 
 - The annotation (in gff3 format) of the transposable elements (from [Ament-Velásquez et al. 2024](https://doi.org/10.1093/gbe/evae034)), produced with RepeatMasker using the library PodoTE-1.00 ([Vogan et al. 2021](https://genome.cshlp.org/content/31/5/789)), available [here](https://datadryad.org/dataset/doi:10.5061/dryad.1vhhmgr0j). The file is called `Podan2.repeatmasker.gff3`.
 
@@ -36,6 +38,32 @@ Each gene has a full alignment including introns, and another with only the codi
 
 
 The pipeline will automatically download my script `fasta2axt.py` to format the alignments into the input format (axn) for kakscalculator.
+
+This is how the `config.yaml` file should look like:
+
+```yaml
+# Input metadata
+randomfile: "data/RandomGenesList.txt"
+HICfile: "data/HICGenesList.txt"
+NLRfile: "data/LICGenesList.txt"
+geneevo: "data/EvolutionAllGenes.csv"
+expansions: "data/GeneFamilyExpansions.txt" # PFAM counts of the all Podospora species
+
+path2alignments: "data"
+
+# Tajima calculated in 10Kb windows with less than 50% missing data
+FULLTajima: "../IntroRegions/data/WageningenTajimaMin5Kb.bed"
+
+ANNOTATION: "../IntroRegions/data/Podan2.nice-3.02.gff3"
+refgenome: "path/to/Podan2_AssemblyScaffoldsmt.fa"
+TEs: "path/to/Podan2.repeatmasker.gff3"
+
+winsize: 2000
+
+PlotBalancingSelection: "scripts/PlotBalancingSelection.R"
+PiDistNLRvsRandom: "scripts/PiDistNLRvsRandom.R"
+NLRdynamics: "scripts/NLRdynamics.R"
+```
 
 ## Environment
 

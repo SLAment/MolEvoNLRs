@@ -1,7 +1,7 @@
 ### NLRvsRandomGenes: A pipeline to compare NLRs from randomly selected genes in the Podospora anserina species complex
 # ===========================================================================
 # Sandra Lorena Ament Velasquez
-# 2025/09/23
+# 2026/05/31
 # ++++++++++++++++++++++++++++++++++++++++++++++
 
 # Input metadata
@@ -9,7 +9,7 @@ randomfile: "data/RandomGenesList.txt"
 HICfile: "data/HICGenesList.txt"
 NLRfile: "data/LICGenesList.txt"
 geneevo: "data/EvolutionAllGenes.csv"
-expansions: "data/GeneFamilyExpansions.csv" # PFAM counts of the all Podospora species
+expansions: "data/GeneFamilyExpansions.txt" # PFAM counts of the all Podospora species
 
 path2alignments: "data"
 
