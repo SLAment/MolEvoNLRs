@@ -33,6 +33,8 @@ That should give a python higher than 3.8:
 
 ### Installation
 
+Following the instructions in the [InterProScan webiste](https://interproscan-docs.readthedocs.io/en/v5/HowToDownload.html):
+
 	$ wget https://ftp.ebi.ac.uk/pub/software/unix/iprscan/5/5.75-106.0/interproscan-5.75-106.0-64-bit.tar.gz
 
 	$ wget https://ftp.ebi.ac.uk/pub/software/unix/iprscan/5/5.75-106.0/interproscan-5.75-106.0-64-bit.tar.gz.md5
@@ -49,19 +51,12 @@ The final size:
 
 ### Steps to activate it
 
-Go to the folder with the pixi environment and activate it to get the python
+Go to the folder with the pixi environment and activate it:
 
 	$ cd /home/lore/private/interproscan
 	$ pixi shell
 
-Next we need to set the java variables in the `interproscan.sh` file.
-
-	$ cd /home/lore/private/interproscan/interproscan-5.75-106.0/
-
-	$ JAVA_HOME=/usr/bin/java
-	$ export PATH=$PATH:/usr/bin/java
-
-For this to work, I set the variables within the Snakemake rule, so if the pipeline fails to find java, you have to modify those exact lines in the `InterProPodo.smk` file. The path to the executable of InterProScan (`interproscan.sh`) is set in the `config.yaml` file below.
+This should set up the the necessary java variables on its own. The path to the executable of InterProScan (`interproscan.sh`) is set in the `config.yaml` file below.
 
 ## Input files
 
