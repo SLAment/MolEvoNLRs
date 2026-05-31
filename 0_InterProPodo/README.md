@@ -1,4 +1,4 @@
-# README InterProPodo - Running InterProScan on a given proteome
+# Running InterProScan on a given *Podospora* proteome
 
 Produce domain annotations of an input proteome using InterProScan. In this case, the focus is *Podospora* strains.
 
