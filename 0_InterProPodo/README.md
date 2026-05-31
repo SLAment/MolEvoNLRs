@@ -143,11 +143,3 @@ To run the whole pipeline with a screen:
 
 	$ snakemake --snakefile InterProPodo.smk --profile config/profile.yaml &> snakemake.log &
 	[1] 19439
-
-## Working locally post InterProScan
-
-	% mamba create -n annotagoby -c bioconda -c conda-forge snakemake-minimal=8.30.0 biopython=1.85 gffutils=0.13 bedtools=2.31.1 intervaltree=3.1.0
-
-	$ mamba activate annotagoby
-
-	$ snakemake --snakefile InterProPodo.smk -pn
