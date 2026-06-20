@@ -23,7 +23,7 @@ library(patchwork)
 # Read data
 geneevo_wd <- read.csv(snakemake@input$geneevo, sep = ";") # The manually curated table of gene statuses
 dists <- read.table(snakemake@input$dists, header = TRUE) # Population genetics statistics
-expansions <- read.csv(snakemake@input$exp, header = TRUE) # PFAM counts of all Podospora species
+expansions <- read.csv(snakemake@input$exp, header = TRUE, sep = "\t") # PFAM counts of all Podospora species
 
 ## Output
 # Main figures
@@ -207,9 +207,9 @@ expansplot <- ggplot(expansions_long,
   geom_jitter(size = 2.5, width = 0.2, alpha = 0.8) +
   scale_colour_manual(values = podocolors) +
   theme_bw() +
-  ggrepel::geom_text_repel(
-    data = subset(expansions_long, Species %in% c("P. anserina", "P. comata", "P. pseudocomata")),
-    mapping = aes(label= Strain), size = 3) +
+  # ggrepel::geom_text_repel(
+  #   data = subset(expansions_long, Species %in% c("P. anserina", "P. comata", "P. pseudocomata")),
+  #   mapping = aes(label= Strain), size = 3) + ## Map some interesting names, but it's too much for the paper
   theme(legend.position = "none", 
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),

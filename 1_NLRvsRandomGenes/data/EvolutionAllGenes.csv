@@ -36,7 +36,7 @@ Pa_3_11150;3;Present;Present;Present;Present;Present;Present;Present;nice-3.00;R
 Pa_3_11440;3;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
 Pa_3_11500;3;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
 Pa_3_1600;3;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
-Pa_3_2640;3;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;Absent;Podan2;Random;Other
+Pa_3_2640;3;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;Podan2;Random;Other
 Pa_3_4200;3;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
 Pa_3_4260;3;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
 Pa_3_5080;3;Present;Present;Present;Present;Present;Present;Present;Manual;Random;Other
@@ -75,7 +75,7 @@ Pa_5_7040;5;Present;Present;Present;Present;Present;Present;Present;Manual;Rando
 Pa_5_8380;5;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
 Pa_6_10690;6;Present;Present;Present;Pseudo;Present;Present;Pseudo;nice-3.00;Random;Other
 Pa_6_10850;6;Present;Pseudo;Present;Pseudo;Present;Present;Present;nice-3.00;Random;Other
-Pa_6_1210;6;Present;Present;Pseudo;Present;Present;Present;Pseudo;nice-3.00;Random;Other
+Pa_6_1210;6;Present;Present;Present;Present;Present;Present;Present;nice-3.00;Random;Other
 Pa_6_2760;6;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
 Pa_6_3070;6;Present;Present;Present;Present;Present;Present;Present;Manual;Random;Other
 Pa_6_3220;6;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
@@ -100,10 +100,10 @@ Pa_7_7260;7;Present;Present;Present;Present;Present;Present;Present;nice-3.00;Ra
 Pa_7_9193;7;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
 Pa_7_9920;7;Present;Present;Present;Present;Present;Present;Present;Podan2;Random;Other
 nwd5;5;Present;Present;Poly;Present;Present;Present;Pseudo;Podan2;NLR;NACHT
-nwd2;3;Poly;Pseudo;Poly;Pseudo;Present;Absent;Present;Manual;NLR;NACHT
+nwd2;3;Poly;Pseudo;Poly;Pseudo;Present;Absent;Poly;Manual;NLR;NACHT
 nwd3;5;Poly;Present;Moved;Moved;Moved;Moved;Absent;nice-3.00;NLR;NACHT
 nwd1;3;Present;Present;Absent;Absent;Poly;Present;Present;nice-3.00;NLR;NACHT
-het-e;4;Present;Poly;Present;Absent;Present;Present;Absent;Podan2;NLR;NACHT
+het-e;4;Present;Poly;Present;Absent;Present;Present;Pseudo;Podan2;NLR;NACHT
 hnwd3;7;Present;Present;Absent;Absent;Absent;Absent;Absent;nice-3.00;NLR;NACHT
 nwd6;5;Poly;Poly;Present;Absent;Moved;Moved;Moved;Manual;NLR;NACHT
 nwdp-2;3;Pseudo;Absent;Absent;Absent;Absent;Absent;Absent;Manual;NLR;NACHT
@@ -118,7 +118,7 @@ Pa_7_10370;7;Pseudo;Present;Present;Pseudo;Present;Pseudo;Pseudo;nice-3.00;NLR;N
 Pa_5_12630;5;Present;Poly;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;nice-3.00;NLR;NACHT
 Pa_6_1090;6;Present;Present;Present;Present;Present;Present;Present;nice-3.00;NLR;NACHT
 Pa_5_10920;5;Present;Present;Present;Absent;Pseudo;Pseudo;Pseudo;Podan2;NLR;NACHT
-nwd4;5;Poly;Present;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;nice-3.00;NLR;NACHT
+nwd4;5;Poly;Present;Pseudo;Pseudo;Pseudo;Pseudo;Poly;nice-3.00;NLR;NACHT
 Pa_5_7640;5;Poly;Present;Absent;Present;Absent;Absent;Present;nice-3.00;NLR;NACHT
 Pa_1_400;1;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;Pseudo;Manual;NLR;NACHT
 Pa_3_9600;3;Present;Present;Pseudo;Present;Present;Present;Present;Podan2;NLR;NACHT
@@ -149,7 +149,7 @@ Pa_7_3550;7;Present;Present;Present;Present;Poly;Present;Pseudo;nice-3.00;NLR;NB
 Pa_6_8850+Pa_6_8860;6;Present;Absent;Poly;Present;Absent;Absent;Absent;nice-3.00;NLR;NB-ARC
 Pa_1_11370;1;Pseudo;Present;Present;Pseudo;Pseudo;Pseudo;Pseudo;Manual;NLR;NB-ARC
 PaFnt1;3;Present;Poly;Present;Present;Pseudo;Present;Present;Podan2;NLR;NB-ARC
-Pa_3_8170;3;Present;Present;Present;Present;Present;Present;Present;Manual;NLR;NB-ARC
+Pa_3_8170;3;Present;Present;Present;Present;Present;Present;Poly;Manual;NLR;NB-ARC
 Pa_2_4490+Pa_2_4500;2;Present;Present;Pseudo;Pseudo;Present;Present;Present;nice-3.00;NLR;NB-ARC
 Pa_5_8190+Pa_5_8200;5;Present;Present;Present;Present;Present;Present;Present;Manual;NLR;NB-ARC
 PaPlp1;1;Present;Present;Present;Present;Present;Present;Present;Podan2;NLR;NB-ARC
