@@ -112,12 +112,12 @@ dunn.test(list( na.omit(dists$TajimasD[dists$Type == "Random"]), na.omit(dists$T
     # facet_grid(. ~ Conservation) +
     theme_classic() + 
     geom_violin(aes(colour = Type)) + 
-    geom_jitter(aes(colour = Type), width = 0.1, alpha = 0.6, size = 2) + 
+    geom_jitter(aes(colour = Type), position = position_jitter(width = 0.1, seed = 123), alpha = 0.6, size = 2) + # add seed to jitter
     # guides(shape = guide_legend(title = NULL)) +  # Removes the Type legend (since fill represents Type)
     ggpubr::stat_compare_means(comparisons = my_comparisons, 
-                       label.y = c(3, 3.5, 4.2),
-                       label = "p.signif",
-                       symnum.args = symnum.args) + # Add significance levels # I can't tell if it's doing the same tests, but the plotting is consistent
+                               label.y = c(3, 3.5, 4.2),
+                               label = "p.signif",
+                               symnum.args = symnum.args) + # Add significance levels # I can't tell if it's doing the same tests, but the plotting is consistent
     ggrepel::geom_text_repel(data = highlighted_genes,
                              aes(label = label_expr),
                              parse = TRUE,
@@ -128,7 +128,9 @@ dunn.test(list( na.omit(dists$TajimasD[dists$Type == "Random"]), na.omit(dists$T
     theme(axis.title.x = element_blank()) +
     ylab(expression(paste("Tajima's ", italic("D")))) + 
     coord_cartesian(ylim = c(-2.5, 4.7)) +
-    scale_colour_manual(values = nlrpalette) )
+    scale_colour_manual(values = nlrpalette) +
+    guides(colour = "none")  # Remove Type legend, keep ATPase (shape) legend
+)
 
 ## Save an alternative version separating them by conservation 
 
