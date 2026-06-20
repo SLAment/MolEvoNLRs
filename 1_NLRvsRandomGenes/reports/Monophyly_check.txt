@@ -284,11 +284,11 @@ Pa_5_10740	pauciseta	Monophyletic
 Pa_5_10740	comata	Monophyletic
 Pa_5_10740	pseudoanserina	Monophyletic
 Pa_5_10740	All	Monophyletic
-Pa_5_11550	anserina	Monophyletic
+Pa_5_11550	anserina	Not_monophyletic
 Pa_5_11550	pauciseta	Monophyletic
 Pa_5_11550	comata	Monophyletic
 Pa_5_11550	pseudoanserina	Monophyletic
-Pa_5_11550	All	Monophyletic
+Pa_5_11550	All	Not_monophyletic
 Pa_5_11813	anserina	Monophyletic
 Pa_5_11813	pauciseta	Monophyletic
 Pa_5_11813	comata	Monophyletic
@@ -490,7 +490,7 @@ Pa_7_7260	comata	Monophyletic
 Pa_7_7260	pseudoanserina	Monophyletic
 Pa_7_7260	All	Monophyletic
 Pa_7_9193	anserina	Not_monophyletic
-Pa_7_9193	pauciseta	Monophyletic
+Pa_7_9193	pauciseta	Not_monophyletic
 Pa_7_9193	comata	Monophyletic
 Pa_7_9193	pseudoanserina	Monophyletic
 Pa_7_9193	All	Not_monophyletic
