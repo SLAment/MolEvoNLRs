@@ -80,7 +80,7 @@ focalgenes = random_selection + HIC_selection + NLR_selection
 # ----------
 rule all:
 	input:
-		"results/Fig3_NLRvsRandomDynamics_raw.pdf",
+		"results/Fig3_NLRvsRandomDynamics_raw.png",
 		"results/Fig4_PopPhyloStats.png", # This one requires a change in the R code to plot pdf with cairo device
 		"results/FigS1_RIPmuts.png",
 		"results/FigS2_SupDivStats.png",
@@ -310,8 +310,8 @@ rule Plot_NLRdynamics:
 		geneevo = geneevo, # proportion covered by transposons in 2kb flanks
 		exp = expansions # PFAM counts of all Podospora species
 	output:
-		dynamics = "results/Fig3_NLRvsRandomDynamics_raw.pdf",
-		curation = "figures/Curation_proportions.pdf",
+		dynamics = "results/Fig3_NLRvsRandomDynamics_raw.png",
+		curation = "figures/Curation_proportions.png",
 	conda: 
 		"envs/plot.yaml"
 	script:
