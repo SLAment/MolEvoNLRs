@@ -1,6 +1,7 @@
 # OS generated files #
 ######################
 .DS_Store
+**/wget-log
 
 # Snakemake
 **/.snakemake/
@@ -9,6 +10,13 @@
 5_IntroRegions/baseline
 5_IntroRegions/regions/
 **/Rplots.pdf
+1_NLRvsRandomGenes/iqtree*
+1_NLRvsRandomGenes/logs
+1_NLRvsRandomGenes/temp
+1_NLRvsRandomGenes/alignments/all
+1_NLRvsRandomGenes/kakscalculator
+1_NLRvsRandomGenes/scripts/fasta2axt.py
+**/snakemake.log
 
 # pixi environments
 .pixi/*
