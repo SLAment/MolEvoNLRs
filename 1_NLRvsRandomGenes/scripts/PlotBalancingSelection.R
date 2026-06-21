@@ -164,7 +164,7 @@ ggsave(file = aligtajimafile, plot = tajimaplotconserv, width = 7.5, height = 3)
 # Tajima's D windows version (supplementary figure but didn't make it to the paper)
 # ============================
 dists %>% dplyr::summarize(kruskal_p = kruskal.test(TajimaWin ~ Type)$p.value)
-kruskal.test(TajimaWin ~ Type, data = dists) # this did make it to the paper
+kruskal.test(TajimaWin ~ Type, data = dists)
 
 # If Kruskal-Wallis is significant, perform Dunn's test for pairwise comparisons
 dunn.test(list( na.omit(dists$TajimaWin[dists$Type == "Random"]), na.omit(dists$TajimaWin[dists$Type == "LIC NLR"]), na.omit(dists$TajimaWin[dists$Type == "HIC NLR"]) ), method = "bonferroni")
