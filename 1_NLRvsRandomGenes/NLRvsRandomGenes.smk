@@ -59,7 +59,7 @@ straindic = {"anserina": ["PaSp", "Podan2", "PaWa21m", "PaWa28m", "PaWa46p", "Pa
 			 "bellae-mahoneyi": ["CBS112042p"], 
 			 "pseudoanserina": ["CBS124.78p", "CBS253.71p"],
 			 "pseudopauciseta": ["CBS411.78m"], 
-			 "pseudocomata": ["CBS415.72m"]}
+			 "pseudocomata": ["CBS415.72m", "IMI230595m"]}
 
 anserina_strains = straindic["anserina"]
 sppstrains = list(straindic.keys())
@@ -413,18 +413,17 @@ rule subset_aln_spp:
 
 		# print(nomsdic)
 
-		anserina = ""
-		comata = ""
-		pauciseta = ""
-		pseudoanserina = ""
+		# anserina = ""
+		# comata = ""
+		# pauciseta = ""
+		# pseudoanserina = ""
 
 		finalrepresentatives = {}
 		for species in straindic.keys():
 			for strain in straindic[species]:
 				if strain in nomsdic.keys():
 					finalrepresentatives[strain] = species
-					# finalrepresentatives[species] = strain
-					break
+					break # ignore other strains from that species
 
 		# Keep track of who was chosen somewhere
 		sr = str(finalrepresentatives)
