@@ -9,7 +9,7 @@ Make an environment with the chosen IQ-TREE version, in this case 2.3.6 (but the
 
 Run IQ-TREE to get 100 standard bootstraps with automatic selection of evolutionary model:
 
-	$ iqtree -s het-s.fa -m MFP -seed 1234 -b 100 -nt 4 -pre IQTREE/het-s_GBE/het-s
+	$ iqtree -s het-s.fa -m MFP -seed 1234 -b 100 -nt 4 -pre het-s
 
 The alignments in nexus format and their phylogenies in newick format used for Figures 1 and 2 are also included here.
 
