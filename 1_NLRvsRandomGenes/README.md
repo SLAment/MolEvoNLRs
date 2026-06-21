@@ -66,7 +66,7 @@ NLRdynamics: "scripts/NLRdynamics.R"
 ```
 **IMPORTANT**
 
-If you want to add a new strain or species, then the actual code in the snakefile `NLRvsRandomGenes.smk` has to be modified to handle the taxonomy and names correctly. That is define at the top of the snakefile and it looks like so:
+If you want to add a new strain or species, then the actual code in the snakefile `NLRvsRandomGenes.smk` has to be modified to handle the taxonomy and names correctly. That is defined at the top of the snakefile as a python dictionary that looks like so:
 
 ```python
 straindic = {"anserina": ["PaSp", "Podan2", "PaWa21m", "PaWa28m", "PaWa46p", "PaWa53m", "PaWa58m", "PaWa63p", "PaWa87p", "PaWa100p", "PaWa137m", "PaZp", "PaTgp", "PaYp"], 
