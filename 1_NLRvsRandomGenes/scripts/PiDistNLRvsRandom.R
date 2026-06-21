@@ -163,7 +163,7 @@ TEviolins_ecd_HIC <- TE_pecdf_HIC + inset_element(TEviolins_HIC, left = 0.35, bo
 ## A Kruskal-Wallis test plus Dunn's test for pairwise comparisons
 
 # Since Kruskal-Wallis test is significant, do a Dunn's test for pairwise comparisons
-dists %>% dplyr::summarize(kruskal_p = kruskal.test(TEcov ~ Type)$p.value) # 1.503755e-08 it used to be 1.237971e-08
+dists %>% dplyr::summarize(kruskal_p = kruskal.test(TEcov ~ Type)$p.value) # 1.503755e-08
 dunn.test(list(dists$TEcov[dists$Type == "LIC NLR"], dists$TEcov[dists$Type == "HIC NLR"], dists$TEcov[dists$Type == "Random"]), method = "bonferroni")
 
 # Only conserved genes
@@ -171,7 +171,7 @@ dists_conserved %>% dplyr::summarize(kruskal_p = kruskal.test(TEcov ~ Type)$p.va
 dunn.test(list(dists_conserved$TEcov[dists_conserved$Type == "LIC NLR"], dists_conserved$TEcov[dists_conserved$Type == "HIC NLR"], dists_conserved$TEcov[dists_conserved$Type == "Random"]), method = "bonferroni")
 
 # Scheirer-Ray-Hare test, a non-parameter alternative to multi-factorial ANOVA analyses
-# rcompanion::scheirerRayHare(TEcov ~ Type + Conservation, data = dists) # Only Type has an effect
+# rcompanion::scheirerRayHare(TEcov ~ Type + Conservation, data = dists) # Only Type has an effect (reported in the paper!)
 # rcompanion::scheirerRayHare(TEcov ~ Type + Conservation, data = dists)$p.value
 
 # Some reporting numbers for the paper
@@ -324,7 +324,7 @@ muts <- muts %>%
 
 # Model
 glm_model <- glm(RIP ~ Type * Status, data = muts, family = "binomial") %>% summary()
-
+print(glm_model)
 exp(coef(glm_model))  # odds ratios
 muts %>% filter(RIP == TRUE) %>% 
   dplyr::count(Mutation, Type, Status, name = "Count")
@@ -418,7 +418,7 @@ piSviolinsDegrade <- ggplot(dists, aes(x = Conservation, y = log(piS), colour = 
                      symnum.args = symnum.args) # Add significance levels 
 
 # Scheirer-Ray-Hare test, a non-parameter alternative to multi-factorial ANOVA analyses
-# rcompanion::scheirerRayHare(piS ~ Type + Conservation, data = dists)
+# rcompanion::scheirerRayHare(piS ~ Type + Conservation, data = dists) # Reported in the paper!
 # rcompanion::scheirerRayHare(piS ~ Type + Conservation, data = dists)$p.value
 
 wilcox.test(piS ~ Conservation, data = dists, subset = (Type == "HIC NLR")) # p-value = 0.1624
@@ -491,9 +491,9 @@ dists %>% dplyr::summarize(kruskal_p = kruskal.test(piNpiS ~ Conservation)$p.val
 
 kruskal.test(piNpiS ~ Type, data = dists)
 
-# Scheirer-Ray-Hare test, a non-parameter alternative to multi-factorial ANOVA analyses 
+# Scheirer-Ray-Hare test, a non-parameter alternative to multi-factorial ANOVA analyses (reported in the paper)
 # rcompanion::scheirerRayHare(piNpiS ~ Type + Conservation, data = dists)
-# rcompanion::scheirerRayHare(piNpiS ~ Type + Conservation, data = dists)$p.value # reported in the paper
+# rcompanion::scheirerRayHare(piNpiS ~ Type + Conservation, data = dists)$p.value
 
 shapiro.test(dists$piNpiS)  # The data is not normally distributed 
 
