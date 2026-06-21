@@ -78,8 +78,9 @@ straindic = {"anserina": ["PaSp", "Podan2", "PaWa21m", "PaWa28m", "PaWa46p", "Pa
 			 "pseudocomata": ["CBS415.72m", "IMI230595m"]}
 ```
 
-The order of the strain matters: the first strain will be given priority to use it as a reference to make trees and calculate dN/dS. For example, whenever "PaSp" (i.e., the strain S+) is present in an alignment, that one will be used as a *P. anserina* strain, otherwise "PaWa21m" will be used (Podan2 is the same strain as PaSp but it comes from the first one comes from JGI and the second from a SPAdes assembly of S+ illumina data).
+The order of the strain matters: the first strain will be given priority to use it as a reference to make trees and calculate dN/dS. For example, whenever "PaSp" (i.e., the strain S+) is present in an alignment, that one will be used as a *P. anserina* reference, otherwise "PaWa21m" will be used (Podan2 is the same strain as PaSp but it comes from the first one comes from JGI and the second from a SPAdes assembly of S+ illumina data).
 
+Say that tomorrow a new strain of *P. pseudopauciseta* is found and sequenced. Then we would add it as `"pseudopauciseta": ["CBS411.78m", "new_strain_ID"]` in the dictionary above (and all the input alignments in `data`, of course).
 
 ## Environment
 
