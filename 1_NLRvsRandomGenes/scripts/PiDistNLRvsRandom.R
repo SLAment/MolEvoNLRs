@@ -175,7 +175,7 @@ dunn.test(list(dists_conserved$TEcov[dists_conserved$Type == "LIC NLR"], dists_c
 # rcompanion::scheirerRayHare(TEcov ~ Type + Conservation, data = dists)$p.value
 
 # Some reporting numbers for the paper
-dists %>% group_by(Type) %>% summarize(median = median(TEcov), mean = mean(TEcov)*100)
+dists %>% group_by(Type) %>% dplyr::summarize(median = median(TEcov), mean = mean(TEcov)*100)
 
 # ==============================
 # Average GC content
