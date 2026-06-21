@@ -161,7 +161,7 @@ dunn.test(list( na.omit(dists$TajimasD[dists$Type == "Random"]), na.omit(dists$T
 ggsave(file = aligtajimafile, plot = tajimaplotconserv, width = 7.5, height = 3)
 
 # ============================
-# Tajima's D windows version (supplementary figure)
+# Tajima's D windows version (supplementary figure but didn't make it to the paper)
 # ============================
 dists %>% dplyr::summarize(kruskal_p = kruskal.test(TajimaWin ~ Type)$p.value)
 kruskal.test(TajimaWin ~ Type, data = dists)
