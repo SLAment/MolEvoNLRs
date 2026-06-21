@@ -39,11 +39,11 @@ aligtajimafile <- snakemake@output$altajima
 wintajimafile <- snakemake@output$wintajima
 # 
 # ## Local
-# checksraw <- read.table("/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Monophyly_check.txt", header = TRUE)
-# dists <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Orthologs_stats_anserina.txt", header = TRUE)
-# dNdSdists <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/Orthologs_stats_spp.txt", header = TRUE)
-# tajima_window <- read.table("/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/reports/FocalGenes_WageningenTajimaMin5Kb.txt") # Produced by NLRvsRandomGenes.smk
-# geneevo_wd <- read.csv("/Users/lorena/Library/CloudStorage/Dropbox/VRwork/Analyses/3_NLRdescription/data/EvolutionAllGenes.csv", sep = ";")
+# checksraw <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Monophyly_check.txt", header = TRUE)
+# dists <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_stats_anserina.txt", header = TRUE)
+# dNdSdists <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/Orthologs_stats_spp.txt", header = TRUE)
+# tajima_window <- read.table("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/reports/FocalGenes_WageningenTajimaMin5Kb.txt") # Produced by NLRvsRandomGenes.smk
+# geneevo_wd <- read.csv("/Users/loram564/Dropbox/VRwork/Manuscripts/11_MolEvoINWDs/GitHub/MolEvoNLRs/1_NLRvsRandomGenes/data/EvolutionAllGenes.csv", sep = ";")
 
 # ## Output
 # balselfile <- "/Users/lorena/Dropbox/VRwork/Analyses/VRpipelines/13_NLRvsRandomGenes/results/Fig5_BalSelection.png"
