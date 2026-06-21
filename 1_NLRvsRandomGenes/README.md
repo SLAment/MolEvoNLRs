@@ -64,6 +64,22 @@ PlotBalancingSelection: "scripts/PlotBalancingSelection.R"
 PiDistNLRvsRandom: "scripts/PiDistNLRvsRandom.R"
 NLRdynamics: "scripts/NLRdynamics.R"
 ```
+**IMPORTANT**
+
+If you want to add a new strain or species, then the actual code in the snakefile `NLRvsRandomGenes.smk` has to be modified to handle the taxonomy and names correctly. That is define at the top of the snakefile and it looks like so:
+
+```python
+straindic = {"anserina": ["PaSp", "Podan2", "PaWa21m", "PaWa28m", "PaWa46p", "PaWa53m", "PaWa58m", "PaWa63p", "PaWa87p", "PaWa100p", "PaWa137m", "PaZp", "PaTgp", "PaYp"], 
+			 "pauciseta": ["CBS237.71m", "CBS333.63p", "CBS451.62p"], 
+			 "comata": ["PcTdp", "PODCO", "PcWa131m", "PcWa132p", "PcWa133m", "PcWa139m"], 
+			 "bellae-mahoneyi": ["CBS112042p"], 
+			 "pseudoanserina": ["CBS124.78p", "CBS253.71p"],
+			 "pseudopauciseta": ["CBS411.78m"], 
+			 "pseudocomata": ["CBS415.72m", "IMI230595m"]}
+```
+
+The order of the strain matters: the first strain will be given priority to use it as a reference to make trees and calculate dN/dS. For example, whenever "PaSp" (i.e., the strain S+) is present in an alignment, that one will be used as a *P. anserina* strain, otherwise "PaWa21m" will be used (Podan2 is the same strain as PaSp but it comes from the first one comes from JGI and the second from a SPAdes assembly of S+ illumina data).
+
 
 ## Environment
 
