@@ -411,13 +411,6 @@ rule subset_aln_spp:
 				Strain = record.split('_')[0]
 				nomsdic[Strain] = record
 
-		# print(nomsdic)
-
-		# anserina = ""
-		# comata = ""
-		# pauciseta = ""
-		# pseudoanserina = ""
-
 		finalrepresentatives = {}
 		for species in straindic.keys():
 			for strain in straindic[species]:
