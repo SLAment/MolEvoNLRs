@@ -163,11 +163,11 @@ TEviolins_ecd_HIC <- TE_pecdf_HIC + inset_element(TEviolins_HIC, left = 0.35, bo
 ## A Kruskal-Wallis test plus Dunn's test for pairwise comparisons
 
 # Since Kruskal-Wallis test is significant, do a Dunn's test for pairwise comparisons
-dists %>% dplyr::summarize(kruskal_p = kruskal.test(TEcov ~ Type)$p.value) # 1.237971e-08
+dists %>% dplyr::summarize(kruskal_p = kruskal.test(TEcov ~ Type)$p.value) # 1.503755e-08 it used to be 1.237971e-08
 dunn.test(list(dists$TEcov[dists$Type == "LIC NLR"], dists$TEcov[dists$Type == "HIC NLR"], dists$TEcov[dists$Type == "Random"]), method = "bonferroni")
 
 # Only conserved genes
-dists_conserved %>% dplyr::summarize(kruskal_p = kruskal.test(TEcov ~ Type)$p.value) # 2.791133e-07
+dists_conserved %>% dplyr::summarize(kruskal_p = kruskal.test(TEcov ~ Type)$p.value) # 3.845666e-07
 dunn.test(list(dists_conserved$TEcov[dists_conserved$Type == "LIC NLR"], dists_conserved$TEcov[dists_conserved$Type == "HIC NLR"], dists_conserved$TEcov[dists_conserved$Type == "Random"]), method = "bonferroni")
 
 # Scheirer-Ray-Hare test, a non-parameter alternative to multi-factorial ANOVA analyses
@@ -181,7 +181,7 @@ dists %>% group_by(Type) %>% dplyr::summarize(median = median(TEcov), mean = mea
 # Average GC content
 # ==============================
 # Kruskal-Wallis test p value
-dists %>% dplyr::summarize(kruskal_p = kruskal.test(avgGC ~ Type)$p.value) # 7.052045e-15
+dists %>% dplyr::summarize(kruskal_p = kruskal.test(avgGC ~ Type)$p.value) # 7.269233e-15
 
 # If Kruskal-Wallis is significant, perform Dunn's test for pairwise comparisons
 dunn.test(list(dists$avgGC[dists$Type == "LIC NLR"], dists$avgGC[dists$Type == "HIC NLR"], dists$avgGC[dists$Type == "Random"]), method = "bonferroni")
@@ -310,7 +310,7 @@ reallyRIP <- muts %>%
 RIPsup <- plot_grid(GCviolins_HIC, RIPmutsProps, reallyRIP,  labels = c('a', 'b', "c"), ncol = 1, align = c("h"), axis = "tblr", rel_widths = c(1, 0.5))
 
 # --- Are they statistically different? ---
-# Totals
+# Totals reported in the paper
 muts %>% dplyr::count(Type, Status, name = "Count")
 
 sum_muts %>% filter(Mutation %in% c("G>A", "C>T"), Status == "Polymorphic\nsites") 
@@ -376,9 +376,16 @@ dists %>% dplyr::summarize(kruskal_p = kruskal.test(piS ~ Type)$p.value) # 2.189
 # If Kruskal-Wallis is significant, perform Dunn's test for pairwise comparisons
 (dt <- dunn.test(list(dists$piS[dists$Type == "LIC NLR"], dists$piS[dists$Type == "HIC NLR"], dists$piS[dists$Type == "Random"]), method = "bonferroni"))
 
+# Exact p-values of the Kruskal-Wallis test
+data.frame(
+  comparison = dt$comparisons,
+  Z = dt$Z,
+  p.adj = dt$P.adjusted) # LIC NLRs vs Random are not significant because it's a one-tailed test (alpha = 0.025)
+
 # Kruskal-Wallis test but on conserved genes
 dists_conserved %>% dplyr::summarize(kruskal_p = kruskal.test(piS ~ Type)$p.value) # 3.37117e-07
 dunn.test(list(dists_conserved$piS[dists_conserved$Type == "LIC NLR"], dists_conserved$piS[dists_conserved$Type == "HIC NLR"], dists_conserved$piS[dists_conserved$Type == "Random"]), method = "bonferroni")
+
 
 # ==============================
 # Comparing ratios of synonymous diversity vs non-synonymous
@@ -484,9 +491,9 @@ dists %>% dplyr::summarize(kruskal_p = kruskal.test(piNpiS ~ Conservation)$p.val
 
 kruskal.test(piNpiS ~ Type, data = dists)
 
-# Scheirer-Ray-Hare test, a non-parameter alternative to multi-factorial ANOVA analyses
+# Scheirer-Ray-Hare test, a non-parameter alternative to multi-factorial ANOVA analyses 
 # rcompanion::scheirerRayHare(piNpiS ~ Type + Conservation, data = dists)
-# rcompanion::scheirerRayHare(piNpiS ~ Type + Conservation, data = dists)$p.value
+# rcompanion::scheirerRayHare(piNpiS ~ Type + Conservation, data = dists)$p.value # reported in the paper
 
 shapiro.test(dists$piNpiS)  # The data is not normally distributed 
 
@@ -495,7 +502,7 @@ dists_clean <- dists %>% dplyr::select(c(piNpiS, Type)) %>% na.omit()
 dunn.test(list(dists_clean$piNpiS[dists_clean$Type == "Random"], dists_clean$piNpiS[dists_clean$Type == "LIC NLR"], dists_clean$piNpiS[dists_clean$Type == "HIC NLR"]), method = "bonferroni")
 
 # Numbers reported in the paper
-dists_clean %>% dplyr::group_by(Type) %>% dplyr::summarise(meanpnps = mean(piNpiS))
+dists_clean %>% dplyr::group_by(Type) %>% dplyr::summarise(mean_pnps = mean(piNpiS))
 
 # ============================
 # dN/dS 
