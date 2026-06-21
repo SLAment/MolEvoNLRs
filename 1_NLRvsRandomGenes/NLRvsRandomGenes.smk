@@ -789,7 +789,7 @@ rule count_variable_sites:
 					elif len(unique_bases_anserina) == 1:
 						Status = "Fixed"
 
-					if len(new_mutations) > 0: 
+					if len(new_mutations - {'-'}) == 1: # Take only biallelic sites, but gaps should not be considered a third allele in this context
 						# Extract context from outgroups (ancestral)
 						if i == 0: 
 							context_left = []

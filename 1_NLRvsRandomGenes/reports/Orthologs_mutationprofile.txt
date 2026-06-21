@@ -1282,8 +1282,6 @@ nwd6	NLR_HIC	1168	A	G>A	C	A	C[G>A]A	ApA	GA>AA	Transition	Polymorphic
 nwd6	NLR_HIC	1173	T	C>T	T	T	T[C>T]T	TpT	CT>TT	Transition	Polymorphic
 nwd6	NLR_HIC	1180	T	C>T	A	A	A[C>T]A	TpA	CA>TA	Transition	Polymorphic
 nwd6	NLR_HIC	1183	T	C>T	A	A	A[C>T]A	TpA	CA>TA	Transition	Polymorphic
-nwd6	NLR_HIC	1186	G	T>G	A	T	A[T>G]T	GpT	TT>GT	Transversion	Polymorphic
-nwd6	NLR_HIC	1186	A	T>A	A	T	A[T>A]T	ApT	TT>AT	Transversion	Polymorphic
 nwd6	NLR_HIC	1198	T	C>T	T	A	T[C>T]A	TpA	CA>TA	Transition	Polymorphic
 nwd6	NLR_HIC	1200	A	G>A	A	A	A[G>A]A	ApA	GA>AA	Transition	Polymorphic
 nwd6	NLR_HIC	1206	T	C>T	T	A	T[C>T]A	TpA	CA>TA	Transition	Polymorphic
@@ -1777,8 +1775,6 @@ Pa_3_8560	NLR_HIC	2526	T	C>T	T	A	T[C>T]A	TpA	CA>TA	Transition	Polymorphic
 Pa_3_8560	NLR_HIC	2727	A	G>A	T	G	T[G>A]G	ApG	GG>AG	Transition	Polymorphic
 Pa_3_8560	NLR_HIC	2763	T	C>T	T	A	T[C>T]A	TpA	CA>TA	Transition	Polymorphic
 Pa_3_8560	NLR_HIC	2775	T	A>T	T	A	T[A>T]A	TpA	AA>TA	Transversion	Polymorphic
-Pa_3_8560	NLR_HIC	2903	G	C>G	T	T	T[C>G]T	GpT	CT>GT	Transversion	Polymorphic
-Pa_3_8560	NLR_HIC	2903	A	C>A	T	T	T[C>A]T	ApT	CT>AT	Transversion	Polymorphic
 Pa_6_7270	NLR_HIC	222	T	C>T	C	G	C[C>T]G	TpG	CG>TG	Transition	Polymorphic
 Pa_6_7270	NLR_HIC	483	A	G>A	G	C	G[G>A]C	ApC	GC>AC	Transition	Fixed
 Pa_6_7270	NLR_HIC	861	A	G>A	C	A	C[G>A]A	ApA	GA>AA	Transition	Fixed
@@ -1875,8 +1871,6 @@ Pa_6_8850+Pa_6_8860	NLR_HIC	2427	A	G>A	C	C	C[G>A]C	ApC	GC>AC	Transition	Polymorp
 Pa_6_8850+Pa_6_8860	NLR_HIC	2434	A	G>A	C	A	C[G>A]A	ApA	GA>AA	Transition	Polymorphic
 Pa_6_8850+Pa_6_8860	NLR_HIC	2435	C	A>C	G	A	G[A>C]A	CpA	AA>CA	Transversion	Polymorphic
 Pa_6_8850+Pa_6_8860	NLR_HIC	2439	A	C>A	T	G	T[C>A]G	ApG	CG>AG	Transversion	Polymorphic
-Pa_6_8850+Pa_6_8860	NLR_HIC	2444	T	C>T	A	A	A[C>T]A	TpA	CA>TA	Transition	Polymorphic
-Pa_6_8850+Pa_6_8860	NLR_HIC	2444	G	C>G	A	A	A[C>G]A	GpA	CA>GA	Transversion	Polymorphic
 Pa_6_8850+Pa_6_8860	NLR_HIC	2457	T	C>T	C	A	C[C>T]A	TpA	CA>TA	Transition	Polymorphic
 Pa_6_8850+Pa_6_8860	NLR_HIC	2470	C	A>C	C	A	C[A>C]A	CpA	AA>CA	Transversion	Fixed
 Pa_6_8850+Pa_6_8860	NLR_HIC	2479	A	G>A	C	T	C[G>A]T	ApT	GT>AT	Transition	Polymorphic
@@ -2363,8 +2357,6 @@ Pa_5_340	NLR	691	C	T>C	C	C	C[T>C]C	CpC	TC>CC	Transition	Fixed
 Pa_5_340	NLR	692	T	C>T	T	C	T[C>T]C	TpC	CC>TC	Transition	Fixed
 Pa_5_340	NLR	976	A	C>A	T	A	T[C>A]A	ApA	CA>AA	Transversion	Fixed
 Pa_5_340	NLR	1020	C	A>C	G	A	G[A>C]A	CpA	AA>CA	Transversion	Fixed
-Pa_5_340	NLR	1024	G	T>G	C	C	C[T>G]C	GpC	TC>GC	Transversion	Polymorphic
-Pa_5_340	NLR	1024	A	T>A	C	C	C[T>A]C	ApC	TC>AC	Transversion	Polymorphic
 Pa_5_340	NLR	1150	C	A>C	G	G	G[A>C]G	CpG	AG>CG	Transversion	Polymorphic
 Pa_5_340	NLR	1260	C	A>C	A	A	A[A>C]A	CpA	AA>CA	Transversion	Fixed
 Pa_5_340	NLR	1289	G	A>G	C	T	C[A>G]T	GpT	AT>GT	Transition	Fixed
