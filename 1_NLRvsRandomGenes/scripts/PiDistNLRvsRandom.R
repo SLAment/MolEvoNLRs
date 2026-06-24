@@ -151,7 +151,7 @@ TEviolins_HIC <- ggplot(dists, aes(y = TEcov*100, x = Type)) +
 
 TE_pecdf_HIC <- ggplot(dists, aes(x = TEcov*100, color = Type)) +
   stat_ecdf(geom = "step", linewidth = 1, alpha = 0.8) +
-  labs(x = "TE% in 2 Kbp flanks",
+  labs(x = "TE% in 2 kb flanks",
        y = "Cumulative\nProbability") +
   theme_classic() + 
   theme(legend.position="none") + 
