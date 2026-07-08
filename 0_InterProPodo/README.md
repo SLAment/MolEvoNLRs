@@ -123,7 +123,7 @@ So first, activate the environment:
 
 Now go to working directory if you are not there already:
 
-	$ cd /home/lore/private/Podo/1_InterProPodo
+	$ cd /home/lore/private/Podo/0_InterProPodo
 
 First, to get an idea of how the pipeline looks like we can make a rulegraph:
 
@@ -139,7 +139,7 @@ To run the whole pipeline with a screen:
 
 	$ screen -R interpro
 	$ cd /home/lore/private/interproscan && pixi shell
-	$ cd /home/lore/private/Podo/1_InterProPodo
+	$ cd /home/lore/private/Podo/0_InterProPodo
 
 	$ snakemake --snakefile InterProPodo.smk --profile config/profile.yaml &> snakemake.log &
 	[1] 19439
