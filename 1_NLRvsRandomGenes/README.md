@@ -100,6 +100,12 @@ It will take a good while to resolve the environment. Be patient.
 
 The R scripts used within the pipeline have their own mini environment. However, when running conda, it will try to use normal mamba, without `CONDA_SUBDIR=osx-64`. So it will throw an error about the environment folder already existing. This is a [bug](https://github.com/mamba-org/mamba/issues/2736) associated to the old snakemake version. Using newer Snakemake versions at the time of writing was not an option because of conflicts with the other packages. But there is a workaround below.
 
+**NOTE**: I recommend trying to use more up to date versions of the packages, many of these issues might be resolved by the time you try it and the pipeline is not doing anything super complicated. To find what is available you can do:
+
+	$ conda search -c bioconda <my_package>
+
+Where `<my_package>` can be, for example, `snakemake-minimal`.
+
 (After you're done running the pipeline, put the channel priority back as strict.)
 
 	$ conda config --set channel_priority strict
