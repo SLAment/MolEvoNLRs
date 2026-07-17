@@ -45,9 +45,9 @@ localrules: merge_tables, rename_sequences, looking_for_NLRs, merge_annotations,
 
 rule all:
 	input:
-		"results/FigS13_Barplot_HICproteins_propotions.png",
-		"results/Fig9_AllvsHICproteins_propotions.png",
-		"results/FigS14_AllvsHICproteins_totals.png"
+		"results/FigS14_Barplot_HICproteins_propotions.png",
+		"results/Fig8_AllvsHICproteins_propotions.png",
+		"results/FigS15_AllvsHICproteins_totals.png"
 
 taxodic = {
 	"Actinobacteria": "Bacteria",
@@ -342,9 +342,9 @@ rule plot:
 		annotation  = "reports/SMART_IPSannotation.txt",
 		treks = "reports/HICinSMART.txt",
 	output:
-		hicprop = "results/FigS13_Barplot_HICproteins_propotions.png",
-		allvshic = "results/Fig9_AllvsHICproteins_propotions.png",
-		totals = "results/FigS14_AllvsHICproteins_totals.png"
+		hicprop = "results/FigS14_Barplot_HICproteins_propotions.png",
+		allvshic = "results/Fig8_AllvsHICproteins_propotions.png",
+		totals = "results/FigS15_AllvsHICproteins_totals.png"
 	params:
 		psimmin = PSIMmin
 	conda:
