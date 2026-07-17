@@ -27,15 +27,14 @@ Looking for something else? Individual pipeline folders often contain a `data` f
 
 ## Ok, but how did you make the paper's figures?
 
-The directories in the repository are ordered to reflect the order of analyses in the paper. But more specifically, the figures were made in the following pipelines:
+The directories in the repository are ordered roughly to reflect the order of analyses in the paper. But more specifically, the figures were made in the following pipelines:
 
 * Fig 3 - NLRvsRandomGenes.smk, which uses the modified output of InterProPodo.smk
 * Fig 4 - NLRvsRandomGenes.smk
 * Fig 5 - NLRvsRandomGenes.smk
 * Fig 6 - 2SppIntrogression.smk
 * Fig 7 - IntroRegions.smk
-* Fig 8 - REPEATexplorerTPR.smk (in `6_TPRpca`)
-* Fig 9 - smartHIC.smk (in `8_HICproteins`)
+* Fig 8 - smartHIC.smk (in `8_HICproteins`)
 * Fig S1 - NLRvsRandomGenes.smk
 * Fig S2 - NLRvsRandomGenes.smk
 * Fig S3 - NLRvsRandomGenes.smk
@@ -47,9 +46,10 @@ The directories in the repository are ordered to reflect the order of analyses i
 * Fig S9 - 2SppIntrogression.smk (partially, the other part was with IQ-TREE outside a pipeline) 
 * Fig S10 - IntroRegions.smk
 * Fig S11 - REPEATexplorerTPR.smk (in `6_TPRpca`)
-* Fig S12 - REPEATexplorer.smk (in `7_NLRlogo`)
-* Fig S13 - smartHIC.smk (in `8_HICproteins`)
+* Fig S12 - REPEATexplorerTPR.smk (in `6_TPRpca`)
+* Fig S13 - REPEATexplorer.smk (in `7_NLRlogo`)
 * Fig S14 - smartHIC.smk (in `8_HICproteins`)
+* Fig S15 - smartHIC.smk (in `8_HICproteins`)
 
 ----
 
