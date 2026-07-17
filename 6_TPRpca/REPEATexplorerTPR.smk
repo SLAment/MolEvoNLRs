@@ -35,7 +35,7 @@ warnings.filterwarnings("ignore", category=BiopythonDeprecationWarning)
 
 # -------------------------------------------------
 # DATA from the configuration file
-configfile: "REPEATexplorerTPR_config.yaml"
+configfile: "config.yaml"
 
 # Input files
 basealignment = config["basealignment"]
@@ -60,8 +60,8 @@ AMINOS = config["AMINOS"]
 
 rule all:
 	input:
-		"results/Fig8_PCA_TPRs.png",
-		"results/FigS11_GlobalTPRs_LOGO.png",
+		"results/FigS11_PCA_TPRs.png",
+		"results/FigS12_GlobalTPRs_LOGO.png",
 		"results/GenesTPRs_LOGO.png",
 		expand("reports/Psim_{aminoacids}_anserina.txt", aminoacids = AMINOS)
 
@@ -196,7 +196,7 @@ rule plotPCA:
 		meta = expand("alignments/REPEATrepeats_{aminoacids}_metadata.txt", aminoacids = AMINOS),
 		fasta = expand("alignments/PerSpecies/REPEATrepeats_{aminoacids}_anserina.fa", aminoacids = AMINOS)
 	output:
-		paper = "results/Fig8_PCA_TPRs.png"
+		paper = "results/FigS11_PCA_TPRs.png"
 	script:
 		REPEATS_PCA
 
@@ -245,7 +245,7 @@ rule makeLOGO_global:
 	input:
 		fasta = expand("alignments/PerSpecies/Protein/REPEATrepeats_{aminoacids}_anserina_aa_al.fa", aminoacids = AMINOS),
 	output:
-		logo = "results/FigS11_GlobalTPRs_LOGO.png"
+		logo = "results/FigS12_GlobalTPRs_LOGO.png"
 	params:
 		gene = "HIC TPRs"
 	script:
