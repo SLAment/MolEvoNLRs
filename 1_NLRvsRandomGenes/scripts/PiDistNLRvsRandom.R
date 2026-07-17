@@ -704,7 +704,8 @@ krusPhyloDist <- phylodists_lf %>% dplyr::group_by(Species) %>% dplyr::summarize
 
 # Make df to put a label the horizontal line
 dat_text <- data.frame(
-  label = "P. anserina \u03C0", # pi in unicode
+  label = "italic('P. anserina')~pi",  # plotmath expression string
+  # label = "P. anserina \u03C0", # pi in unicode, sometimes it doesn't work depending on the system
   Type = "",
   Species2   = "P. pseudocomata",
   Distance   = "" )
@@ -734,8 +735,10 @@ dat_text$Species2 <- factor(dat_text$Species2, levels = speciesnames)
                        label = "p.adj",
                        symnum.args = symnum.args) + # Add significance levels
     coord_cartesian(ylim = c(-13, 5)) +
-    geom_text(data = dat_text, mapping = aes(x = 0.25, y = log(0.00005), label = label, parse = T), 
-              fontface = "italic",
+    geom_text(data = dat_text, 
+              mapping = aes(x = 0.25, y = log(0.00005), label = label, parse = T), 
+              parse = TRUE,         # parses the plotmath string
+              # fontface = "italic",
               hjust = -0.1, vjust = -1, size = 3) )
 
 ## *** Figure 4
