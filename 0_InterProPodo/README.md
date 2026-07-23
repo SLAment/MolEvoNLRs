@@ -152,4 +152,4 @@ These "easy" orthologs are counted based on the names of the genes in each strai
 
 In the end the "easy" orthologs and HET counts were ignored for the paper and only the NACHT and NB-ARC counts matter.
 
-In addition, the pipeline will produced modified InterProScan tables with annotations (`results/{sample}_pretty.tsv`), as well as modified gff3 files that give specific colors to genes that look like obvious transposable elements TEs, possible TEs ("suspish"), and NLRgenes to be visualized in [IGV](https://igv.org/), for example. As these files are very heavy, they were not shared in this repository.
+In addition, the pipeline will produced modified InterProScan tables with annotations (`results/{sample}_pretty.tsv`), as well as modified gff3 files that give specific colors to genes that look like obvious transposable elements (TEs), possible TEs ("suspish"), and NLR genes to be visualized in [IGV](https://igv.org/), for example. As these files are very heavy, they were not shared in this repository.
