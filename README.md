@@ -3,9 +3,11 @@
 [![Snakemake](https://img.shields.io/badge/snakemake-≥8.0.0-brightgreen.svg)](https://snakemake.github.io)
 [![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?labelColor=000000&logo=anaconda)](https://docs.conda.io/en/latest/)
 
-Here you'll find the code associated with the manuscript:
+Here you'll find the code associated with the paper:
 
-> Ament-Velásquez & Saupe (2025) "NOD-like receptor genes evolve under diversity-enhancing mechanisms in a fungal species complex", biorxiv, [https://doi.org/10.1101/2025.09.29.679196](https://doi.org/10.1101/2025.09.29.679196).
+> Ament-Velásquez & Saupe (2025) "NOD-like receptor genes undergo diversity-enhancing evolution in a fungal species complex", *Genome Biology and Evolution*, evag185, [ https://doi.org/10.1093/gbe/evag185](https://doi.org/10.1093/gbe/evag185).
+
+A very similar (but not identical) version is available in [bioRxiv](https://doi.org/10.1101/2025.09.29.679196) too.
 
 ## Usage
 
